@@ -1,0 +1,763 @@
+bowler,overs,runs,maidens,wicket,econrate,date,team2,winner,result,venue
+A Martin,3,20,0,1,6.666666666666667,2011-10-11,West Indies,Bangladesh,0,Shere Bangla National Stadium
+A Mohammed,2,10,0,1,5.0,2009-10-28,West Indies,West Indies,0,Boland Bank Park
+A Mohammed,3,26,0,1,8.666666666666666,2010-05-14,New Zealand,New Zealand,0,"Beausejour Stadium, Gros Islet"
+A Mohammed,2,9,0,1,4.5,2012-09-08,West Indies,England,0,Riverside Ground
+A Mohammed,4,19,0,0,4.75,2012-09-10,West Indies,England,0,Old Trafford
+A Mohammed,3,11,0,2,3.6666666666666665,2012-09-13,West Indies,England,0,County Ground
+A Mohammed,4,21,0,0,5.25,2012-09-15,West Indies,England,0,County Ground
+A Mohammed,4,23,0,2,5.75,2012-09-16,West Indies,West Indies,0,Arundel Castle Cricket Club Ground
+A Mohammed,4,17,0,2,4.25,2012-09-26,West Indies,West Indies,0,Galle International Stadium
+A Mohammed,2,13,0,0,6.5,2012-09-28,West Indies,Sri Lanka,0,Galle International Stadium
+A Mohammed,4,19,2,0,4.75,2012-09-30,West Indies,West Indies,0,Galle International Stadium
+A Mohammed,3,20,0,0,6.666666666666667,2012-10-05,West Indies,Australia,0,R Premadasa Stadium
+A Mohammed,4,24,0,0,6.0,2013-01-19,South Africa,West Indies,0,"Beausejour Stadium, Gros Islet"
+A Mohammed,4,13,0,1,3.25,2013-01-20,South Africa,West Indies,0,"Beausejour Stadium, Gros Islet"
+A Mohammed,4,26,0,0,6.5,2014-03-24,West Indies,West Indies,0,Sylhet Stadium
+A Mohammed,4,22,0,3,5.5,2014-03-26,West Indies,West Indies,0,Sylhet Stadium
+A Mohammed,3,12,0,2,4.0,2014-03-28,West Indies,West Indies,0,Sylhet Stadium
+A Mohammed,3,22,0,0,7.333333333333333,2014-04-01,West Indies,India,0,Sylhet Stadium
+A Mohammed,4,24,0,2,6.0,2014-04-03,West Indies,Australia,0,Shere Bangla National Stadium
+A Mohammed,4,25,0,3,6.25,2014-11-02,West Indies,Australia,0,North Sydney Oval
+A Mohammed,4,27,0,2,6.75,2014-11-07,West Indies,Australia,0,Melbourne Cricket Ground
+A Mohammed,3,15,1,2,5.0,2015-05-23,West Indies,Sri Lanka,0,R Premadasa Stadium
+A Mohammed,4,28,0,1,7.0,2015-05-25,West Indies,West Indies,0,R Premadasa Stadium
+A Mohammed,4,7,2,2,1.75,2015-05-26,West Indies,West Indies,0,R Premadasa Stadium
+A Mohammed,4,10,0,0,2.5,2015-10-29,Pakistan,West Indies,0,"National Cricket Stadium, St George's"
+A Mohammed,4,23,0,2,5.75,2016-03-04,West Indies,South Africa,0,Kingsmead
+A Mohammed,4,22,0,1,5.5,2016-03-09,West Indies,South Africa,0,Newlands
+A Mohammed,4,25,1,3,6.25,2016-03-16,West Indies,West Indies,0,"MA Chidambaram Stadium, Chepauk"
+A Mohammed,3,21,0,0,7.0,2016-03-20,West Indies,West Indies,0,"MA Chidambaram Stadium, Chepauk"
+A Mohammed,4,18,0,0,4.5,2016-03-24,West Indies,England,0,Himachal Pradesh Cricket Association Stadium
+A Mohammed,3,23,0,0,7.666666666666667,2016-03-27,West Indies,West Indies,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+A Mohammed,1,10,0,0,10.0,2016-03-31,West Indies,West Indies,0,Wankhede Stadium
+A Mohammed,4,19,0,1,4.75,2016-04-03,West Indies,West Indies,0,Eden Gardens
+AD Russell,4,28,0,1,7.0,2011-04-21,Pakistan,West Indies,0,"Beausejour Stadium, Gros Islet"
+AD Russell,2,26,0,0,13.0,2011-06-04,India,India,0,"Queen's Park Oval, Port of Spain"
+AD Russell,2,21,0,0,10.5,2011-09-23,West Indies,England,0,Kennington Oval
+AD Russell,2,14,0,1,7.0,2011-09-25,West Indies,West Indies,0,Kennington Oval
+AD Russell,2,17,0,0,8.5,2011-10-11,West Indies,Bangladesh,0,Shere Bangla National Stadium
+AD Russell,2,19,0,0,9.5,2012-09-24,West Indies,0,0,R Premadasa Stadium
+AD Russell,1,11,0,0,11.0,2012-09-29,West Indies,Sri Lanka,0,Pallekele International Cricket Stadium
+AD Russell,1,17,0,0,17.0,2012-12-10,West Indies,West Indies,0,Shere Bangla National Stadium
+AD Russell,1,9,0,0,9.0,2013-02-13,West Indies,West Indies,0,"Brisbane Cricket Ground, Woolloongabba"
+AD Russell,1,6,0,0,6.0,2013-03-02,Zimbabwe,West Indies,0,"Sir Vivian Richards Stadium, North Sound"
+AD Russell,2,21,0,0,10.5,2013-03-03,Zimbabwe,West Indies,0,"Sir Vivian Richards Stadium, North Sound"
+AD Russell,1,23,0,0,23.0,2014-01-11,West Indies,New Zealand,0,Eden Park
+AD Russell,3,16,0,2,5.333333333333333,2014-01-15,West Indies,New Zealand,0,Westpac Stadium
+AD Russell,1,7,0,0,7.0,2014-02-19,Ireland,Ireland,0,"Sabina Park, Kingston"
+AD Russell,2,21,0,1,10.5,2014-03-09,England,West Indies,0,"Kensington Oval, Bridgetown"
+AD Russell,2,13,0,0,6.5,2014-03-11,England,West Indies,0,"Kensington Oval, Bridgetown"
+AD Russell,1,11,0,0,11.0,2014-03-13,England,England,0,"Kensington Oval, Bridgetown"
+AD Russell,2,12,0,1,6.0,2014-03-23,West Indies,India,0,Shere Bangla National Stadium
+AD Russell,2,10,1,2,5.0,2014-03-25,West Indies,West Indies,0,Shere Bangla National Stadium
+AD Russell,1,15,0,0,15.0,2014-03-28,West Indies,West Indies,0,Shere Bangla National Stadium
+AD Russell,3,15,0,2,5.0,2014-04-01,West Indies,West Indies,0,Shere Bangla National Stadium
+AD Russell,3,37,0,1,12.333333333333334,2014-04-03,West Indies,Sri Lanka,0,Shere Bangla National Stadium
+AD Russell,2,21,0,0,10.5,2014-07-05,New Zealand,New Zealand,0,"Windsor Park, Roseau"
+AD Russell,2,17,0,1,8.5,2014-07-06,New Zealand,West Indies,0,"Windsor Park, Roseau"
+AD Russell,4,43,0,1,10.75,2015-01-09,West Indies,West Indies,0,Newlands
+AD Russell,4,39,0,1,9.75,2015-01-11,West Indies,West Indies,0,New Wanderers Stadium
+AD Russell,2,24,0,0,12.0,2015-01-14,West Indies,South Africa,0,Kingsmead
+AD Russell,4,36,0,2,9.0,2016-03-16,West Indies,West Indies,0,Wankhede Stadium
+AD Russell,4,34,0,1,8.5,2016-03-20,West Indies,West Indies,0,M Chinnaswamy Stadium
+AD Russell,4,28,0,2,7.0,2016-03-25,West Indies,West Indies,0,"Vidarbha Cricket Association Stadium, Jamtha"
+AD Russell,4,23,0,2,5.75,2016-03-27,West Indies,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+AD Russell,4,47,0,1,11.75,2016-03-31,West Indies,West Indies,0,Wankhede Stadium
+AD Russell,4,21,0,1,5.25,2016-04-03,West Indies,West Indies,0,Eden Gardens
+AD Russell,4,53,0,1,13.25,2016-08-27,West Indies,West Indies,0,Central Broward Regional Park Stadium Turf Ground
+AD Russell,1,7,0,0,7.0,2016-08-28,West Indies,0,0,Central Broward Regional Park Stadium Turf Ground
+AR Nurse,4,33,0,0,8.25,2011-04-21,Pakistan,West Indies,0,"Beausejour Stadium, Gros Islet"
+AR Nurse,4,23,0,0,5.75,2011-06-04,India,India,0,"Queen's Park Oval, Port of Spain"
+AR Nurse,3,24,0,0,8.0,2015-01-09,West Indies,West Indies,0,Newlands
+AR Nurse,2,22,0,0,11.0,2015-01-14,West Indies,South Africa,0,Kingsmead
+ASS Fletcher,2,14,0,1,7.0,2015-05-23,West Indies,Sri Lanka,0,R Premadasa Stadium
+ASS Fletcher,2,14,0,1,7.0,2015-05-25,West Indies,West Indies,0,R Premadasa Stadium
+ASS Fletcher,4,18,0,2,4.5,2015-05-26,West Indies,West Indies,0,R Premadasa Stadium
+ASS Fletcher,3,17,0,0,5.666666666666667,2015-10-29,Pakistan,West Indies,0,"National Cricket Stadium, St George's"
+ASS Fletcher,1,10,0,0,10.0,2016-03-16,West Indies,West Indies,0,"MA Chidambaram Stadium, Chepauk"
+ASS Fletcher,2,14,0,1,7.0,2016-03-20,West Indies,West Indies,0,"MA Chidambaram Stadium, Chepauk"
+ASS Fletcher,4,12,0,3,3.0,2016-03-24,West Indies,England,0,Himachal Pradesh Cricket Association Stadium
+ASS Fletcher,4,15,0,2,3.75,2016-03-27,West Indies,West Indies,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+ASS Fletcher,4,20,0,2,5.0,2016-03-31,West Indies,West Indies,0,Wankhede Stadium
+ASS Fletcher,1,9,0,0,9.0,2016-04-03,West Indies,West Indies,0,Eden Gardens
+CD Barnwell,1,7,0,0,7.0,2011-04-21,Pakistan,West Indies,0,"Beausejour Stadium, Gros Islet"
+CD Barnwell,2,24,0,1,12.0,2011-06-04,India,India,0,"Queen's Park Oval, Port of Spain"
+CD Barnwell,2,12,0,0,6.0,2011-09-23,West Indies,England,0,Kennington Oval
+CD Barnwell,1,8,0,0,8.0,2013-03-03,Zimbabwe,West Indies,0,"Sir Vivian Richards Stadium, North Sound"
+CH Gayle,4,22,0,2,5.5,2006-02-16,West Indies,0,0,Eden Park
+CH Gayle,0,9,0,0,inf,2007-06-29,West Indies,England,0,Kennington Oval
+CH Gayle,4,22,0,0,5.5,2007-09-13,West Indies,Bangladesh,0,New Wanderers Stadium
+CH Gayle,3,16,0,2,5.333333333333333,2008-12-26,West Indies,0,tie,Eden Park
+CH Gayle,4,27,0,2,6.75,2008-12-28,West Indies,New Zealand,0,Seddon Park
+CH Gayle,2,13,0,0,6.5,2009-06-06,West Indies,West Indies,0,Kennington Oval
+CH Gayle,3,13,0,0,4.333333333333333,2009-06-12,West Indies,West Indies,0,Lord's
+CH Gayle,1,7,0,0,7.0,2009-06-13,West Indies,South Africa,0,Kennington Oval
+CH Gayle,4,25,0,1,6.25,2009-06-15,West Indies,West Indies,0,Kennington Oval
+CH Gayle,3,35,0,0,11.666666666666666,2009-06-19,West Indies,Sri Lanka,0,Kennington Oval
+CH Gayle,2,15,0,2,7.5,2010-02-21,West Indies,Australia,0,Bellerive Oval
+CH Gayle,1,11,0,1,11.0,2010-05-03,England,West Indies,0,Providence Stadium
+CH Gayle,2,22,0,1,11.0,2010-05-09,India,West Indies,0,"Kensington Oval, Bridgetown"
+CH Gayle,0,5,0,1,inf,2010-05-11,Australia,Australia,0,"Beausejour Stadium, Gros Islet"
+CH Gayle,1,12,0,0,12.0,2010-05-19,South Africa,South Africa,0,"Sir Vivian Richards Stadium, North Sound"
+CH Gayle,3,21,0,2,7.0,2012-09-24,West Indies,0,0,R Premadasa Stadium
+CH Gayle,4,27,0,1,6.75,2012-09-27,West Indies,West Indies,0,Pallekele International Cricket Stadium
+CH Gayle,0,2,0,0,inf,2012-09-29,West Indies,Sri Lanka,0,Pallekele International Cricket Stadium
+CH Gayle,1,15,0,0,15.0,2012-10-01,West Indies,0,tie,Pallekele International Cricket Stadium
+CH Gayle,2,14,0,0,7.0,2012-10-07,West Indies,West Indies,0,R Premadasa Stadium
+CH Gayle,4,18,0,0,4.5,2012-12-10,West Indies,West Indies,0,Shere Bangla National Stadium
+CH Gayle,1,9,0,0,9.0,2014-04-03,West Indies,Sri Lanka,0,Shere Bangla National Stadium
+CH Gayle,3,17,0,2,5.666666666666667,2016-03-25,West Indies,West Indies,0,"Vidarbha Cricket Association Stadium, Jamtha"
+CN Nation,4,14,0,2,3.5,2009-10-28,West Indies,West Indies,0,Boland Bank Park
+CR Brathwaite,3,25,0,1,8.333333333333334,2011-10-11,West Indies,Bangladesh,0,Shere Bangla National Stadium
+CR Brathwaite,3,42,0,0,14.0,2015-01-14,West Indies,South Africa,0,Kingsmead
+CR Brathwaite,2,16,0,0,8.0,2016-03-16,West Indies,West Indies,0,Wankhede Stadium
+CR Brathwaite,4,36,0,1,9.0,2016-03-20,West Indies,West Indies,0,M Chinnaswamy Stadium
+CR Brathwaite,2,11,0,0,5.5,2016-03-25,West Indies,West Indies,0,"Vidarbha Cricket Association Stadium, Jamtha"
+CR Brathwaite,2,21,0,0,10.5,2016-03-27,West Indies,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+CR Brathwaite,4,38,0,0,9.5,2016-03-31,West Indies,West Indies,0,Wankhede Stadium
+CR Brathwaite,4,23,0,3,5.75,2016-04-03,West Indies,West Indies,0,Eden Gardens
+CR Brathwaite,4,47,0,0,11.75,2016-08-27,West Indies,West Indies,0,Central Broward Regional Park Stadium Turf Ground
+CR Brathwaite,2,29,0,0,14.5,2016-09-23,West Indies,Pakistan,0,Dubai International Cricket Stadium
+CR Brathwaite,4,24,0,1,6.0,2016-09-24,West Indies,Pakistan,0,Dubai International Cricket Stadium
+CR Brathwaite,1,18,0,0,18.0,2016-09-27,West Indies,Pakistan,0,Sheikh Zayed Stadium
+CR Brathwaite,3,18,0,1,6.0,2017-03-26,Pakistan,Pakistan,0,"Kensington Oval, Bridgetown"
+CR Brathwaite,4,37,0,4,9.25,2017-03-30,Pakistan,Pakistan,0,"Queen's Park Oval, Port of Spain"
+CR Brathwaite,3,15,0,1,5.0,2017-04-01,Pakistan,West Indies,0,"Queen's Park Oval, Port of Spain"
+CR Brathwaite,2,13,0,0,6.5,2017-04-02,Pakistan,Pakistan,0,"Queen's Park Oval, Port of Spain"
+CR Brathwaite,4,16,0,2,4.0,2017-06-02,Afghanistan,West Indies,0,"Warner Park, Basseterre"
+CR Brathwaite,3,26,0,3,8.666666666666666,2017-06-03,Afghanistan,West Indies,0,"Warner Park, Basseterre"
+CR Brathwaite,1,3,0,0,3.0,2017-06-05,Afghanistan,West Indies,0,"Warner Park, Basseterre"
+CR Brathwaite,2,26,0,0,13.0,2017-07-09,India,West Indies,0,"Sabina Park, Kingston"
+D Bishoo,4,17,0,4,4.25,2011-04-21,Pakistan,West Indies,0,"Beausejour Stadium, Gros Islet"
+D Bishoo,4,31,0,1,7.75,2011-06-04,India,India,0,"Queen's Park Oval, Port of Spain"
+D Bishoo,4,28,0,0,7.0,2011-09-23,West Indies,England,0,Kennington Oval
+D Bishoo,3,22,0,2,7.333333333333333,2011-09-25,West Indies,West Indies,0,Kennington Oval
+D Bishoo,1,11,0,0,11.0,2015-11-09,West Indies,Sri Lanka,0,Pallekele International Cricket Stadium
+DBL Powell,3,39,0,0,13.0,2007-06-28,West Indies,West Indies,0,Kennington Oval
+DBL Powell,4,24,0,1,6.0,2007-06-29,West Indies,England,0,Kennington Oval
+DBL Powell,4,34,0,0,8.5,2007-09-11,West Indies,South Africa,0,New Wanderers Stadium
+DBL Powell,3,28,0,0,9.333333333333334,2007-09-13,West Indies,Bangladesh,0,New Wanderers Stadium
+DBL Powell,3,6,0,1,2.0,2007-12-16,West Indies,West Indies,0,St George's Park
+DE Bernard,4,17,0,1,4.25,2009-08-02,Bangladesh,West Indies,0,"Warner Park, Basseterre"
+DJ Bravo,3,16,0,2,5.333333333333333,2006-02-16,West Indies,0,0,Eden Park
+DJ Bravo,1,6,0,1,6.0,2007-06-28,West Indies,West Indies,0,Kennington Oval
+DJ Bravo,3,39,0,0,13.0,2007-09-11,West Indies,South Africa,0,New Wanderers Stadium
+DJ Bravo,2,34,0,0,17.0,2007-09-13,West Indies,Bangladesh,0,New Wanderers Stadium
+DJ Bravo,2,16,0,0,8.0,2007-12-16,West Indies,West Indies,0,St George's Park
+DJ Bravo,2,12,0,1,6.0,2008-06-20,Australia,West Indies,0,"Kensington Oval, Bridgetown"
+DJ Bravo,4,34,0,1,8.5,2009-03-15,England,West Indies,0,"Queen's Park Oval, Port of Spain"
+DJ Bravo,4,31,0,2,7.75,2009-06-06,West Indies,West Indies,0,Kennington Oval
+DJ Bravo,4,29,0,0,7.25,2009-06-10,West Indies,Sri Lanka,0,Trent Bridge
+DJ Bravo,4,38,0,4,9.5,2009-06-12,West Indies,West Indies,0,Lord's
+DJ Bravo,2,24,0,0,12.0,2009-06-13,West Indies,South Africa,0,Kennington Oval
+DJ Bravo,4,30,0,2,7.5,2009-06-15,West Indies,West Indies,0,Kennington Oval
+DJ Bravo,3,32,0,2,10.666666666666666,2009-06-19,West Indies,Sri Lanka,0,Kennington Oval
+DJ Bravo,2,5,0,2,2.5,2010-04-30,Ireland,West Indies,0,Providence Stadium
+DJ Bravo,4,36,0,1,9.0,2010-05-03,England,West Indies,0,Providence Stadium
+DJ Bravo,3,36,0,1,12.0,2010-05-07,Sri Lanka,Sri Lanka,0,"Kensington Oval, Bridgetown"
+DJ Bravo,4,28,0,1,7.0,2010-05-09,India,West Indies,0,"Kensington Oval, Bridgetown"
+DJ Bravo,1,11,0,0,11.0,2010-05-11,Australia,Australia,0,"Beausejour Stadium, Gros Islet"
+DJ Bravo,1,14,0,0,14.0,2010-05-19,South Africa,South Africa,0,"Sir Vivian Richards Stadium, North Sound"
+DJ Bravo,4,20,0,0,5.0,2010-05-20,South Africa,South Africa,0,"Sir Vivian Richards Stadium, North Sound"
+DJ Bravo,3,21,0,0,7.0,2012-03-27,Australia,Australia,0,"Beausejour Stadium, Gros Islet"
+DJ Bravo,4,27,0,2,6.75,2012-03-30,Australia,West Indies,0,"Kensington Oval, Bridgetown"
+DJ Bravo,2,21,0,0,10.5,2012-06-24,West Indies,England,0,Trent Bridge
+DJ Bravo,3,26,0,1,8.666666666666666,2012-06-30,West Indies,West Indies,0,Central Broward Regional Park Stadium Turf Ground
+DJ Bravo,2,23,0,2,11.5,2012-07-01,West Indies,West Indies,0,Central Broward Regional Park Stadium Turf Ground
+DJ Bravo,1,8,0,0,8.0,2012-09-22,West Indies,Australia,0,R Premadasa Stadium
+DJ Bravo,2,17,0,1,8.5,2013-02-13,West Indies,West Indies,0,"Brisbane Cricket Ground, Woolloongabba"
+DJ Bravo,2,16,0,2,8.0,2013-03-02,Zimbabwe,West Indies,0,"Sir Vivian Richards Stadium, North Sound"
+DJ Bravo,3,15,0,3,5.0,2013-03-03,Zimbabwe,West Indies,0,"Sir Vivian Richards Stadium, North Sound"
+DJ Bravo,4,35,0,0,8.75,2013-07-28,Pakistan,Pakistan,0,"Arnos Vale Ground, Kingstown"
+DJ Bravo,4,24,0,0,6.0,2014-01-11,West Indies,New Zealand,0,Eden Park
+DJ Bravo,3,31,0,0,10.333333333333334,2014-01-15,West Indies,New Zealand,0,Westpac Stadium
+DJ Bravo,3,21,0,0,7.0,2014-02-19,Ireland,Ireland,0,"Sabina Park, Kingston"
+DJ Bravo,4,24,0,2,6.0,2014-02-21,Ireland,West Indies,0,"Sabina Park, Kingston"
+DJ Bravo,4,30,0,2,7.5,2014-03-09,England,West Indies,0,"Kensington Oval, Bridgetown"
+DJ Bravo,4,34,0,2,8.5,2014-03-11,England,West Indies,0,"Kensington Oval, Bridgetown"
+DJ Bravo,3,35,0,0,11.666666666666666,2014-03-13,England,England,0,"Kensington Oval, Bridgetown"
+DJ Bravo,1,12,0,0,12.0,2014-03-23,West Indies,India,0,Shere Bangla National Stadium
+DJ Bravo,3,23,0,0,7.666666666666667,2014-03-25,West Indies,West Indies,0,Shere Bangla National Stadium
+DJ Bravo,4,39,0,1,9.75,2014-03-28,West Indies,West Indies,0,Shere Bangla National Stadium
+DJ Bravo,0,8,0,0,inf,2014-08-27,Bangladesh,0,0,"Warner Park, Basseterre"
+DJ Bravo,3,26,0,0,8.666666666666666,2015-01-09,West Indies,West Indies,0,Newlands
+DJ Bravo,4,32,0,3,8.0,2015-01-11,West Indies,West Indies,0,New Wanderers Stadium
+DJ Bravo,4,38,0,1,9.5,2015-01-14,West Indies,South Africa,0,Kingsmead
+DJ Bravo,4,53,0,0,13.25,2015-11-09,West Indies,Sri Lanka,0,Pallekele International Cricket Stadium
+DJ Bravo,4,28,0,4,7.0,2015-11-11,West Indies,West Indies,0,R Premadasa Stadium
+DJ Bravo,4,41,0,3,10.25,2016-03-16,West Indies,West Indies,0,Wankhede Stadium
+DJ Bravo,4,20,0,3,5.0,2016-03-20,West Indies,West Indies,0,M Chinnaswamy Stadium
+DJ Bravo,4,20,0,3,5.0,2016-03-25,West Indies,West Indies,0,"Vidarbha Cricket Association Stadium, Jamtha"
+DJ Bravo,4,28,0,0,7.0,2016-03-27,West Indies,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+DJ Bravo,4,44,0,0,11.0,2016-03-31,West Indies,West Indies,0,Wankhede Stadium
+DJ Bravo,4,37,0,3,9.25,2016-04-03,West Indies,West Indies,0,Eden Gardens
+DJ Bravo,4,37,0,2,9.25,2016-08-27,West Indies,West Indies,0,Central Broward Regional Park Stadium Turf Ground
+DJ Bravo,2,16,0,0,8.0,2016-09-23,West Indies,Pakistan,0,Dubai International Cricket Stadium
+DJ Bravo,4,38,0,1,9.5,2016-09-24,West Indies,Pakistan,0,Dubai International Cricket Stadium
+DJ Bravo,4,31,0,0,7.75,2016-09-27,West Indies,Pakistan,0,Sheikh Zayed Stadium
+DJG Sammy,4,37,0,2,9.25,2007-06-28,West Indies,West Indies,0,Kennington Oval
+DJG Sammy,4,27,0,1,6.75,2007-06-29,West Indies,England,0,Kennington Oval
+DJG Sammy,2,9,0,1,4.5,2007-12-16,West Indies,West Indies,0,St George's Park
+DJG Sammy,4,21,0,3,5.25,2008-01-18,West Indies,South Africa,0,New Wanderers Stadium
+DJG Sammy,4,14,0,3,3.5,2009-03-15,England,West Indies,0,"Queen's Park Oval, Port of Spain"
+DJG Sammy,4,24,0,0,6.0,2009-06-15,West Indies,West Indies,0,Kennington Oval
+DJG Sammy,4,19,0,0,4.75,2009-06-19,West Indies,Sri Lanka,0,Kennington Oval
+DJG Sammy,4,33,0,3,8.25,2009-08-02,Bangladesh,West Indies,0,"Warner Park, Basseterre"
+DJG Sammy,3,36,0,1,12.0,2010-02-21,West Indies,Australia,0,Bellerive Oval
+DJG Sammy,1,14,0,0,14.0,2010-02-23,West Indies,Australia,0,Sydney Cricket Ground
+DJG Sammy,4,26,0,5,6.5,2010-02-28,Zimbabwe,Zimbabwe,0,"Queen's Park Oval, Port of Spain"
+DJG Sammy,3,8,0,3,2.6666666666666665,2010-04-30,Ireland,West Indies,0,Providence Stadium
+DJG Sammy,4,22,0,2,5.5,2010-05-03,England,West Indies,0,Providence Stadium
+DJG Sammy,2,23,0,0,11.5,2010-05-07,Sri Lanka,Sri Lanka,0,"Kensington Oval, Bridgetown"
+DJG Sammy,3,16,0,1,5.333333333333333,2010-05-09,India,West Indies,0,"Kensington Oval, Bridgetown"
+DJG Sammy,1,3,0,1,3.0,2010-05-11,Australia,Australia,0,"Beausejour Stadium, Gros Islet"
+DJG Sammy,2,11,0,0,5.5,2010-05-19,South Africa,South Africa,0,"Sir Vivian Richards Stadium, North Sound"
+DJG Sammy,4,16,0,2,4.0,2010-05-20,South Africa,South Africa,0,"Sir Vivian Richards Stadium, North Sound"
+DJG Sammy,3,26,0,1,8.666666666666666,2011-04-21,Pakistan,West Indies,0,"Beausejour Stadium, Gros Islet"
+DJG Sammy,4,16,0,4,4.0,2011-06-04,India,India,0,"Queen's Park Oval, Port of Spain"
+DJG Sammy,3,20,0,0,6.666666666666667,2011-09-23,West Indies,England,0,Kennington Oval
+DJG Sammy,2,9,0,2,4.5,2011-09-25,West Indies,West Indies,0,Kennington Oval
+DJG Sammy,4,30,0,1,7.5,2011-10-11,West Indies,Bangladesh,0,Shere Bangla National Stadium
+DJG Sammy,2,22,0,0,11.0,2012-03-27,Australia,Australia,0,"Beausejour Stadium, Gros Islet"
+DJG Sammy,1,11,0,0,11.0,2012-03-30,Australia,West Indies,0,"Kensington Oval, Bridgetown"
+DJG Sammy,3,22,0,0,7.333333333333333,2012-06-24,West Indies,England,0,Trent Bridge
+DJG Sammy,2,13,0,1,6.5,2012-06-30,West Indies,West Indies,0,Central Broward Regional Park Stadium Turf Ground
+DJG Sammy,2,14,0,0,7.0,2012-07-01,West Indies,West Indies,0,Central Broward Regional Park Stadium Turf Ground
+DJG Sammy,2,15,0,0,7.5,2012-09-22,West Indies,Australia,0,R Premadasa Stadium
+DJG Sammy,3,23,0,1,7.666666666666667,2012-09-24,West Indies,0,0,R Premadasa Stadium
+DJG Sammy,1,13,0,0,13.0,2012-09-27,West Indies,West Indies,0,Pallekele International Cricket Stadium
+DJG Sammy,4,28,0,0,7.0,2012-09-29,West Indies,Sri Lanka,0,Pallekele International Cricket Stadium
+DJG Sammy,4,35,0,1,8.75,2012-10-01,West Indies,0,tie,Pallekele International Cricket Stadium
+DJG Sammy,2,6,0,2,3.0,2012-10-07,West Indies,West Indies,0,R Premadasa Stadium
+DJG Sammy,2,30,0,0,15.0,2012-12-10,West Indies,West Indies,0,Shere Bangla National Stadium
+DJG Sammy,3,30,0,1,10.0,2013-02-13,West Indies,West Indies,0,"Brisbane Cricket Ground, Woolloongabba"
+DJG Sammy,4,34,0,0,8.5,2013-03-02,Zimbabwe,West Indies,0,"Sir Vivian Richards Stadium, North Sound"
+DJG Sammy,2,13,0,0,6.5,2013-03-03,Zimbabwe,West Indies,0,"Sir Vivian Richards Stadium, North Sound"
+DJG Sammy,1,4,0,0,4.0,2013-07-27,Pakistan,Pakistan,0,"Arnos Vale Ground, Kingstown"
+DJG Sammy,4,20,0,1,5.0,2013-07-28,Pakistan,Pakistan,0,"Arnos Vale Ground, Kingstown"
+DJG Sammy,3,16,0,0,5.333333333333333,2014-02-19,Ireland,Ireland,0,"Sabina Park, Kingston"
+DJG Sammy,4,22,0,3,5.5,2014-02-21,Ireland,West Indies,0,"Sabina Park, Kingston"
+DJG Sammy,1,12,0,0,12.0,2014-03-09,England,West Indies,0,"Kensington Oval, Bridgetown"
+DJG Sammy,1,17,0,0,17.0,2014-03-11,England,West Indies,0,"Kensington Oval, Bridgetown"
+DJG Sammy,2,14,0,0,7.0,2014-03-13,England,England,0,"Kensington Oval, Bridgetown"
+DJG Sammy,1,9,0,0,9.0,2014-03-23,West Indies,India,0,Shere Bangla National Stadium
+DJG Sammy,1,6,0,0,6.0,2014-03-25,West Indies,West Indies,0,Shere Bangla National Stadium
+DJG Sammy,1,16,0,0,16.0,2014-03-28,West Indies,West Indies,0,Shere Bangla National Stadium
+DJG Sammy,3,22,0,3,7.333333333333333,2014-07-05,New Zealand,New Zealand,0,"Windsor Park, Roseau"
+DJG Sammy,3,22,0,0,7.333333333333333,2014-07-06,New Zealand,West Indies,0,"Windsor Park, Roseau"
+DJG Sammy,2,17,0,0,8.5,2015-01-09,West Indies,West Indies,0,Newlands
+DJG Sammy,1,17,0,0,17.0,2015-01-11,West Indies,West Indies,0,New Wanderers Stadium
+DJG Sammy,2,26,0,0,13.0,2015-11-09,West Indies,Sri Lanka,0,Pallekele International Cricket Stadium
+DJG Sammy,2,17,0,0,8.5,2015-11-11,West Indies,West Indies,0,R Premadasa Stadium
+DJG Sammy,2,17,0,1,8.5,2016-03-27,West Indies,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+DJG Sammy,1,14,0,0,14.0,2016-04-03,West Indies,West Indies,0,Eden Gardens
+DJS Dottin,1,19,0,0,19.0,2010-05-14,New Zealand,New Zealand,0,"Beausejour Stadium, Gros Islet"
+DJS Dottin,1,14,0,0,14.0,2013-03-05,West Indies,West Indies,0,R Premadasa Stadium
+DJS Dottin,4,12,1,4,3.0,2014-03-24,West Indies,West Indies,0,Sylhet Stadium
+DJS Dottin,1,9,0,0,9.0,2014-03-26,West Indies,West Indies,0,Sylhet Stadium
+DJS Dottin,2,11,0,0,5.5,2014-04-01,West Indies,India,0,Sylhet Stadium
+DJS Dottin,2,16,0,0,8.0,2014-11-02,West Indies,Australia,0,North Sydney Oval
+DJS Dottin,4,34,0,1,8.5,2014-11-07,West Indies,Australia,0,Melbourne Cricket Ground
+DJS Dottin,2,10,0,2,5.0,2015-10-29,Pakistan,West Indies,0,"National Cricket Stadium, St George's"
+DJS Dottin,4,21,0,1,5.25,2016-03-04,West Indies,South Africa,0,Kingsmead
+DJS Dottin,1,7,0,1,7.0,2016-03-16,West Indies,West Indies,0,"MA Chidambaram Stadium, Chepauk"
+DJS Dottin,5,17,0,3,3.4,2016-03-20,West Indies,West Indies,0,"MA Chidambaram Stadium, Chepauk"
+DJS Dottin,2,20,0,1,10.0,2016-03-24,West Indies,England,0,Himachal Pradesh Cricket Association Stadium
+DJS Dottin,4,16,0,4,4.0,2016-03-27,West Indies,West Indies,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+DJS Dottin,4,29,0,1,7.25,2016-03-31,West Indies,West Indies,0,Wankhede Stadium
+DJS Dottin,4,33,0,3,8.25,2016-04-03,West Indies,West Indies,0,Eden Gardens
+DK Butler,3,22,0,0,7.333333333333333,2006-02-16,West Indies,0,0,Eden Park
+DR Smith,3,9,0,2,3.0,2006-02-16,West Indies,0,0,Eden Park
+DR Smith,4,24,0,3,6.0,2007-06-28,West Indies,West Indies,0,Kennington Oval
+DR Smith,4,38,0,0,9.5,2007-06-29,West Indies,England,0,Kennington Oval
+DR Smith,2,37,0,0,18.5,2007-09-11,West Indies,South Africa,0,New Wanderers Stadium
+DR Smith,3,38,0,2,12.666666666666666,2010-02-21,West Indies,Australia,0,Bellerive Oval
+DR Smith,1,9,0,0,9.0,2010-02-23,West Indies,Australia,0,Sydney Cricket Ground
+DR Smith,0,4,0,0,inf,2011-09-23,West Indies,England,0,Kennington Oval
+DR Smith,2,14,0,1,7.0,2011-09-25,West Indies,West Indies,0,Kennington Oval
+DR Smith,1,12,0,0,12.0,2012-03-27,Australia,Australia,0,"Beausejour Stadium, Gros Islet"
+DR Smith,2,16,0,0,8.0,2012-12-10,West Indies,West Indies,0,Shere Bangla National Stadium
+DR Smith,1,11,0,0,11.0,2014-04-01,West Indies,West Indies,0,Shere Bangla National Stadium
+FH Edwards,3,21,0,1,7.0,2007-09-11,West Indies,South Africa,0,New Wanderers Stadium
+FH Edwards,3,33,0,0,11.0,2007-09-13,West Indies,Bangladesh,0,New Wanderers Stadium
+FH Edwards,3,14,0,1,4.666666666666667,2007-12-16,West Indies,West Indies,0,St George's Park
+FH Edwards,3,22,0,0,7.333333333333333,2008-01-18,West Indies,South Africa,0,New Wanderers Stadium
+FH Edwards,2,12,0,0,6.0,2008-06-20,Australia,West Indies,0,"Kensington Oval, Bridgetown"
+FH Edwards,3,28,0,1,9.333333333333334,2008-12-26,West Indies,0,tie,Eden Park
+FH Edwards,2,31,0,0,15.5,2008-12-28,West Indies,New Zealand,0,Seddon Park
+FH Edwards,3,18,1,2,6.0,2009-03-15,England,West Indies,0,"Queen's Park Oval, Port of Spain"
+FH Edwards,4,34,0,2,8.5,2009-06-06,West Indies,West Indies,0,Kennington Oval
+FH Edwards,2,37,0,0,18.5,2009-06-10,West Indies,Sri Lanka,0,Trent Bridge
+FH Edwards,4,24,0,3,6.0,2009-06-12,West Indies,West Indies,0,Lord's
+FH Edwards,4,34,0,1,8.5,2009-06-13,West Indies,South Africa,0,Kennington Oval
+FH Edwards,2,25,0,0,12.5,2011-09-23,West Indies,England,0,Kennington Oval
+FH Edwards,4,23,0,3,5.75,2012-03-30,Australia,West Indies,0,"Kensington Oval, Bridgetown"
+FH Edwards,4,33,0,0,8.25,2012-06-24,West Indies,England,0,Trent Bridge
+FH Edwards,3,25,0,3,8.333333333333334,2012-06-30,West Indies,West Indies,0,Central Broward Regional Park Stadium Turf Ground
+FH Edwards,3,20,0,0,6.666666666666667,2012-07-01,West Indies,West Indies,0,Central Broward Regional Park Stadium Turf Ground
+FH Edwards,2,16,0,1,8.0,2012-09-22,West Indies,Australia,0,R Premadasa Stadium
+FH Edwards,3,23,0,1,7.666666666666667,2012-09-24,West Indies,0,0,R Premadasa Stadium
+FH Edwards,2,24,0,0,12.0,2012-09-29,West Indies,Sri Lanka,0,Pallekele International Cricket Stadium
+GC Tonge,4,25,0,1,6.25,2009-08-02,Bangladesh,West Indies,0,"Warner Park, Basseterre"
+GE Mathurin,4,9,0,3,2.25,2011-09-25,West Indies,West Indies,0,Kennington Oval
+GE Mathurin,4,33,0,1,8.25,2012-03-27,Australia,Australia,0,"Beausejour Stadium, Gros Islet"
+GE Mathurin,2,23,0,1,11.5,2012-03-30,Australia,West Indies,0,"Kensington Oval, Bridgetown"
+HK Matthews,3,26,0,3,8.666666666666666,2014-11-02,West Indies,Australia,0,North Sydney Oval
+HK Matthews,4,20,0,1,5.0,2015-05-25,West Indies,West Indies,0,R Premadasa Stadium
+HK Matthews,4,10,0,4,2.5,2015-05-26,West Indies,West Indies,0,R Premadasa Stadium
+HK Matthews,2,5,0,2,2.5,2015-10-29,Pakistan,West Indies,0,"National Cricket Stadium, St George's"
+HK Matthews,4,24,0,2,6.0,2016-03-04,West Indies,South Africa,0,Kingsmead
+HK Matthews,3,22,0,0,7.333333333333333,2016-03-09,West Indies,South Africa,0,Newlands
+HK Matthews,4,14,0,0,3.5,2016-03-16,West Indies,West Indies,0,"MA Chidambaram Stadium, Chepauk"
+HK Matthews,4,16,0,3,4.0,2016-03-20,West Indies,West Indies,0,"MA Chidambaram Stadium, Chepauk"
+HK Matthews,1,8,0,0,8.0,2016-03-24,West Indies,England,0,Himachal Pradesh Cricket Association Stadium
+HK Matthews,2,18,0,0,9.0,2016-03-31,West Indies,West Indies,0,Wankhede Stadium
+HK Matthews,2,13,0,1,6.5,2016-04-03,West Indies,West Indies,0,Eden Gardens
+IDR Bradshaw,4,22,0,0,5.5,2006-02-16,West Indies,0,0,Eden Park
+JE Taylor,3,30,0,2,10.0,2006-02-16,West Indies,0,0,Eden Park
+JE Taylor,3,6,1,5,2.0,2007-12-16,West Indies,West Indies,0,St George's Park
+JE Taylor,4,29,0,2,7.25,2008-01-18,West Indies,South Africa,0,New Wanderers Stadium
+JE Taylor,2,23,0,0,11.5,2008-06-20,Australia,West Indies,0,"Kensington Oval, Bridgetown"
+JE Taylor,4,33,0,1,8.25,2008-12-26,West Indies,0,tie,Eden Park
+JE Taylor,4,29,0,3,7.25,2008-12-28,West Indies,New Zealand,0,Seddon Park
+JE Taylor,4,33,0,2,8.25,2009-06-06,West Indies,West Indies,0,Kennington Oval
+JE Taylor,4,32,0,1,8.0,2009-06-10,West Indies,Sri Lanka,0,Trent Bridge
+JE Taylor,4,44,0,0,11.0,2009-06-12,West Indies,West Indies,0,Lord's
+JE Taylor,4,30,0,3,7.5,2009-06-13,West Indies,South Africa,0,Kennington Oval
+JE Taylor,2,24,0,0,12.0,2009-06-15,West Indies,West Indies,0,Kennington Oval
+JE Taylor,4,31,0,1,7.75,2009-06-19,West Indies,Sri Lanka,0,Kennington Oval
+JE Taylor,3,28,0,0,9.333333333333334,2010-05-07,Sri Lanka,Sri Lanka,0,"Kensington Oval, Bridgetown"
+JE Taylor,4,24,0,1,6.0,2010-05-09,India,West Indies,0,"Kensington Oval, Bridgetown"
+JE Taylor,4,47,0,1,11.75,2010-05-11,Australia,Australia,0,"Beausejour Stadium, Gros Islet"
+JE Taylor,3,16,0,1,5.333333333333333,2010-05-19,South Africa,South Africa,0,"Sir Vivian Richards Stadium, North Sound"
+JE Taylor,4,14,1,4,3.5,2010-05-20,South Africa,South Africa,0,"Sir Vivian Richards Stadium, North Sound"
+JE Taylor,3,34,0,0,11.333333333333334,2015-11-09,West Indies,Sri Lanka,0,Pallekele International Cricket Stadium
+JE Taylor,2,22,0,1,11.0,2015-11-11,West Indies,West Indies,0,R Premadasa Stadium
+JE Taylor,3,30,0,0,10.0,2016-03-16,West Indies,West Indies,0,Wankhede Stadium
+JE Taylor,1,8,0,0,8.0,2016-09-23,West Indies,Pakistan,0,Dubai International Cricket Stadium
+JE Taylor,4,28,0,0,7.0,2016-09-24,West Indies,Pakistan,0,Dubai International Cricket Stadium
+JE Taylor,2,19,0,0,9.5,2016-09-27,West Indies,Pakistan,0,Sheikh Zayed Stadium
+JE Taylor,4,38,0,1,9.5,2017-06-02,Afghanistan,West Indies,0,"Warner Park, Basseterre"
+JE Taylor,2,13,0,1,6.5,2017-06-03,Afghanistan,West Indies,0,"Warner Park, Basseterre"
+JE Taylor,4,33,0,1,8.25,2017-06-05,Afghanistan,West Indies,0,"Warner Park, Basseterre"
+JE Taylor,4,31,0,2,7.75,2017-07-09,India,West Indies,0,"Sabina Park, Kingston"
+JN Mohammed,1,5,0,0,5.0,2017-04-02,Pakistan,Pakistan,0,"Queen's Park Oval, Port of Spain"
+JO Holder,3,34,0,2,11.333333333333334,2014-01-15,West Indies,New Zealand,0,Westpac Stadium
+JO Holder,4,20,0,1,5.0,2015-01-09,West Indies,West Indies,0,Newlands
+JO Holder,4,40,0,2,10.0,2015-01-11,West Indies,West Indies,0,New Wanderers Stadium
+JO Holder,2,27,0,0,13.5,2015-11-09,West Indies,Sri Lanka,0,Pallekele International Cricket Stadium
+JO Holder,3,27,0,2,9.0,2017-03-26,Pakistan,Pakistan,0,"Kensington Oval, Bridgetown"
+JO Holder,4,32,0,0,8.0,2017-03-30,Pakistan,Pakistan,0,"Queen's Park Oval, Port of Spain"
+JO Holder,4,26,0,2,6.5,2017-04-01,Pakistan,West Indies,0,"Queen's Park Oval, Port of Spain"
+JO Holder,3,24,0,0,8.0,2017-04-02,Pakistan,Pakistan,0,"Queen's Park Oval, Port of Spain"
+K Santokie,3,17,0,1,5.666666666666667,2011-09-25,West Indies,West Indies,0,Kennington Oval
+K Santokie,3,27,0,1,9.0,2012-03-27,Australia,Australia,0,"Beausejour Stadium, Gros Islet"
+K Santokie,4,12,0,1,3.0,2014-02-21,Ireland,West Indies,0,"Sabina Park, Kingston"
+K Santokie,4,21,0,4,5.25,2014-03-11,England,West Indies,0,"Kensington Oval, Bridgetown"
+K Santokie,4,27,0,3,6.75,2014-03-13,England,England,0,"Kensington Oval, Bridgetown"
+K Santokie,4,27,0,0,6.75,2014-03-23,West Indies,India,0,Shere Bangla National Stadium
+K Santokie,4,17,0,3,4.25,2014-03-25,West Indies,West Indies,0,Shere Bangla National Stadium
+K Santokie,4,30,0,1,7.5,2014-03-28,West Indies,West Indies,0,Shere Bangla National Stadium
+K Santokie,3,9,0,2,3.0,2014-04-01,West Indies,West Indies,0,Shere Bangla National Stadium
+K Santokie,4,46,0,2,11.5,2014-04-03,West Indies,Sri Lanka,0,Shere Bangla National Stadium
+K Santokie,2,27,0,1,13.5,2014-07-05,New Zealand,New Zealand,0,"Windsor Park, Roseau"
+K Santokie,2,18,0,0,9.0,2014-08-27,Bangladesh,0,0,"Warner Park, Basseterre"
+KA Pollard,2,25,0,1,12.5,2008-12-26,West Indies,0,tie,Eden Park
+KA Pollard,4,29,0,3,7.25,2008-12-28,West Indies,New Zealand,0,Seddon Park
+KA Pollard,2,12,0,0,6.0,2009-03-15,England,West Indies,0,"Queen's Park Oval, Port of Spain"
+KA Pollard,2,17,0,1,8.5,2009-06-06,West Indies,West Indies,0,Kennington Oval
+KA Pollard,3,45,0,0,15.0,2009-06-10,West Indies,Sri Lanka,0,Trent Bridge
+KA Pollard,2,7,0,0,3.5,2009-06-12,West Indies,West Indies,0,Lord's
+KA Pollard,3,29,0,1,9.666666666666666,2009-06-13,West Indies,South Africa,0,Kennington Oval
+KA Pollard,1,10,0,1,10.0,2009-06-15,West Indies,West Indies,0,Kennington Oval
+KA Pollard,2,14,0,1,7.0,2009-06-19,West Indies,Sri Lanka,0,Kennington Oval
+KA Pollard,4,23,0,1,5.75,2010-02-21,West Indies,Australia,0,Bellerive Oval
+KA Pollard,2,12,0,0,6.0,2010-02-23,West Indies,Australia,0,Sydney Cricket Ground
+KA Pollard,4,24,0,0,6.0,2010-02-28,Zimbabwe,Zimbabwe,0,"Queen's Park Oval, Port of Spain"
+KA Pollard,1,16,0,0,16.0,2010-05-03,England,West Indies,0,Providence Stadium
+KA Pollard,4,38,0,0,9.5,2010-05-07,Sri Lanka,Sri Lanka,0,"Kensington Oval, Bridgetown"
+KA Pollard,2,23,0,1,11.5,2010-05-09,India,West Indies,0,"Kensington Oval, Bridgetown"
+KA Pollard,4,22,0,2,5.5,2010-05-19,South Africa,South Africa,0,"Sir Vivian Richards Stadium, North Sound"
+KA Pollard,1,14,0,0,14.0,2010-05-20,South Africa,South Africa,0,"Sir Vivian Richards Stadium, North Sound"
+KA Pollard,1,16,0,0,16.0,2012-03-27,Australia,Australia,0,"Beausejour Stadium, Gros Islet"
+KA Pollard,1,6,0,0,6.0,2012-03-30,Australia,West Indies,0,"Kensington Oval, Bridgetown"
+KA Pollard,1,15,0,0,15.0,2012-06-24,West Indies,England,0,Trent Bridge
+KA Pollard,2,13,0,0,6.5,2012-10-01,West Indies,0,tie,Pallekele International Cricket Stadium
+KA Pollard,4,30,0,3,7.5,2013-02-13,West Indies,West Indies,0,"Brisbane Cricket Ground, Woolloongabba"
+KA Pollard,1,8,0,0,8.0,2013-03-02,Zimbabwe,West Indies,0,"Sir Vivian Richards Stadium, North Sound"
+KA Pollard,1,5,0,0,5.0,2013-03-03,Zimbabwe,West Indies,0,"Sir Vivian Richards Stadium, North Sound"
+KA Pollard,2,16,0,1,8.0,2013-07-28,Pakistan,Pakistan,0,"Arnos Vale Ground, Kingstown"
+KA Pollard,2,14,0,0,7.0,2014-07-05,New Zealand,New Zealand,0,"Windsor Park, Roseau"
+KA Pollard,3,19,0,1,6.333333333333333,2014-07-06,New Zealand,West Indies,0,"Windsor Park, Roseau"
+KA Pollard,1,12,0,0,12.0,2015-01-11,West Indies,West Indies,0,New Wanderers Stadium
+KA Pollard,2,13,0,1,6.5,2015-01-14,West Indies,South Africa,0,Kingsmead
+KA Pollard,4,42,0,2,10.5,2015-11-09,West Indies,Sri Lanka,0,Pallekele International Cricket Stadium
+KA Pollard,4,23,0,1,5.75,2015-11-11,West Indies,West Indies,0,R Premadasa Stadium
+KA Pollard,3,30,0,1,10.0,2016-08-27,West Indies,West Indies,0,Central Broward Regional Park Stadium Turf Ground
+KA Pollard,2,14,0,0,7.0,2016-09-23,West Indies,Pakistan,0,Dubai International Cricket Stadium
+KA Pollard,1,10,0,0,10.0,2017-03-26,Pakistan,Pakistan,0,"Kensington Oval, Bridgetown"
+KAJ Roach,3,29,0,2,9.666666666666666,2008-06-20,Australia,West Indies,0,"Kensington Oval, Bridgetown"
+KAJ Roach,4,15,0,1,3.75,2009-08-02,Bangladesh,West Indies,0,"Warner Park, Basseterre"
+KAJ Roach,2,30,0,0,15.0,2010-02-21,West Indies,Australia,0,Bellerive Oval
+KAJ Roach,2,33,0,0,16.5,2010-02-23,West Indies,Australia,0,Sydney Cricket Ground
+KAJ Roach,4,15,1,0,3.75,2010-02-28,Zimbabwe,Zimbabwe,0,"Queen's Park Oval, Port of Spain"
+KAJ Roach,4,12,0,1,3.0,2010-04-30,Ireland,West Indies,0,Providence Stadium
+KAJ Roach,4,27,0,2,6.75,2010-05-07,Sri Lanka,Sri Lanka,0,"Kensington Oval, Bridgetown"
+KAJ Roach,5,38,0,3,7.6,2010-05-09,India,West Indies,0,"Kensington Oval, Bridgetown"
+KAJ Roach,4,25,0,3,6.25,2010-05-19,South Africa,South Africa,0,"Sir Vivian Richards Stadium, North Sound"
+KAJ Roach,4,24,0,0,6.0,2010-05-20,South Africa,South Africa,0,"Sir Vivian Richards Stadium, North Sound"
+KAJ Roach,4,36,0,1,9.0,2012-12-10,West Indies,West Indies,0,Shere Bangla National Stadium
+KOK Williams,4,15,0,2,3.75,2016-09-27,West Indies,Pakistan,0,Sheikh Zayed Stadium
+KOK Williams,2,14,0,0,7.0,2017-03-26,Pakistan,Pakistan,0,"Kensington Oval, Bridgetown"
+KOK Williams,4,27,1,1,6.75,2017-03-30,Pakistan,Pakistan,0,"Queen's Park Oval, Port of Spain"
+KOK Williams,4,21,0,1,5.25,2017-04-01,Pakistan,West Indies,0,"Queen's Park Oval, Port of Spain"
+KOK Williams,3,16,0,2,5.333333333333333,2017-04-02,Pakistan,Pakistan,0,"Queen's Park Oval, Port of Spain"
+KOK Williams,4,19,1,3,4.75,2017-06-02,Afghanistan,West Indies,0,"Warner Park, Basseterre"
+KOK Williams,2,11,0,3,5.5,2017-06-03,Afghanistan,West Indies,0,"Warner Park, Basseterre"
+KOK Williams,4,34,0,3,8.5,2017-06-05,Afghanistan,West Indies,0,"Warner Park, Basseterre"
+KOK Williams,4,42,0,3,10.5,2017-07-09,India,West Indies,0,"Sabina Park, Kingston"
+LMP Simmons,3,19,0,4,6.333333333333333,2009-06-10,West Indies,Sri Lanka,0,Trent Bridge
+LMP Simmons,2,22,0,1,11.0,2009-06-13,West Indies,South Africa,0,Kennington Oval
+LMP Simmons,1,14,0,1,14.0,2009-06-15,West Indies,West Indies,0,Kennington Oval
+LS Baker,4,32,0,1,8.0,2008-12-26,West Indies,0,tie,Eden Park
+LS Baker,2,14,0,0,7.0,2008-12-28,West Indies,New Zealand,0,Seddon Park
+LS Baker,2,12,0,1,6.0,2009-03-15,England,West Indies,0,"Queen's Park Oval, Port of Spain"
+MN Samuels,4,52,0,1,13.0,2007-06-28,West Indies,West Indies,0,Kennington Oval
+MN Samuels,3,31,0,1,10.333333333333334,2007-06-29,West Indies,England,0,Kennington Oval
+MN Samuels,2,21,0,0,10.5,2007-09-11,West Indies,South Africa,0,New Wanderers Stadium
+MN Samuels,3,24,0,1,8.0,2008-01-18,West Indies,South Africa,0,New Wanderers Stadium
+MN Samuels,4,14,0,2,3.5,2011-10-11,West Indies,Bangladesh,0,Shere Bangla National Stadium
+MN Samuels,4,23,0,3,5.75,2012-03-30,Australia,West Indies,0,"Kensington Oval, Bridgetown"
+MN Samuels,1,15,0,1,15.0,2012-06-24,West Indies,England,0,Trent Bridge
+MN Samuels,2,14,0,0,7.0,2012-06-30,West Indies,West Indies,0,Central Broward Regional Park Stadium Turf Ground
+MN Samuels,3,25,0,2,8.333333333333334,2012-07-01,West Indies,West Indies,0,Central Broward Regional Park Stadium Turf Ground
+MN Samuels,1,22,0,0,22.0,2012-09-22,West Indies,Australia,0,R Premadasa Stadium
+MN Samuels,3,32,0,1,10.666666666666666,2012-09-27,West Indies,West Indies,0,Pallekele International Cricket Stadium
+MN Samuels,1,13,0,1,13.0,2012-10-01,West Indies,0,tie,Pallekele International Cricket Stadium
+MN Samuels,4,15,0,2,3.75,2012-10-07,West Indies,West Indies,0,R Premadasa Stadium
+MN Samuels,4,32,0,0,8.0,2012-12-10,West Indies,West Indies,0,Shere Bangla National Stadium
+MN Samuels,4,33,0,2,8.25,2013-07-27,Pakistan,Pakistan,0,"Arnos Vale Ground, Kingstown"
+MN Samuels,1,7,0,0,7.0,2014-02-19,Ireland,Ireland,0,"Sabina Park, Kingston"
+MN Samuels,4,21,0,2,5.25,2014-03-09,England,West Indies,0,"Kensington Oval, Bridgetown"
+MN Samuels,2,17,0,0,8.5,2014-03-11,England,West Indies,0,"Kensington Oval, Bridgetown"
+MN Samuels,2,7,0,0,3.5,2014-03-13,England,England,0,"Kensington Oval, Bridgetown"
+MN Samuels,3,22,0,1,7.333333333333333,2014-03-23,West Indies,India,0,Shere Bangla National Stadium
+MN Samuels,1,9,0,0,9.0,2014-03-25,West Indies,West Indies,0,Shere Bangla National Stadium
+MN Samuels,2,20,0,2,10.0,2014-03-28,West Indies,West Indies,0,Shere Bangla National Stadium
+MN Samuels,3,21,0,0,7.0,2014-04-01,West Indies,West Indies,0,Shere Bangla National Stadium
+MN Samuels,4,23,0,1,5.75,2014-04-03,West Indies,Sri Lanka,0,Shere Bangla National Stadium
+MN Samuels,3,22,0,0,7.333333333333333,2015-01-14,West Indies,South Africa,0,Kingsmead
+MN Samuels,2,11,0,1,5.5,2017-04-01,Pakistan,West Indies,0,"Queen's Park Oval, Port of Spain"
+MN Samuels,2,11,0,1,5.5,2017-04-02,Pakistan,Pakistan,0,"Queen's Park Oval, Port of Spain"
+MN Samuels,3,32,0,1,10.666666666666666,2017-07-09,India,West Indies,0,"Sabina Park, Kingston"
+N Deonarine,2,17,0,0,8.5,2010-02-21,West Indies,Australia,0,Bellerive Oval
+N Deonarine,2,18,0,0,9.0,2010-02-23,West Indies,Australia,0,Sydney Cricket Ground
+N Deonarine,2,15,0,0,7.5,2010-05-11,Australia,Australia,0,"Beausejour Stadium, Gros Islet"
+N Deonarine,3,37,0,1,12.333333333333334,2013-02-13,West Indies,West Indies,0,"Brisbane Cricket Ground, Woolloongabba"
+NE Bonner,2,18,0,0,9.0,2011-09-23,West Indies,England,0,Kennington Oval
+NO Miller,4,22,0,3,5.5,2009-08-02,Bangladesh,West Indies,0,"Warner Park, Basseterre"
+NO Miller,4,20,0,2,5.0,2010-02-21,West Indies,Australia,0,Bellerive Oval
+NO Miller,3,56,0,2,18.666666666666668,2010-02-23,West Indies,Australia,0,Sydney Cricket Ground
+NO Miller,4,18,0,1,4.5,2010-04-30,Ireland,West Indies,0,Providence Stadium
+NO Miller,4,29,0,1,7.25,2010-05-03,England,West Indies,0,Providence Stadium
+NO Miller,4,16,0,0,4.0,2010-05-11,Australia,Australia,0,"Beausejour Stadium, Gros Islet"
+NO Miller,2,13,0,1,6.5,2010-05-19,South Africa,South Africa,0,"Sir Vivian Richards Stadium, North Sound"
+NO Miller,3,26,0,2,8.666666666666666,2014-01-11,West Indies,New Zealand,0,Eden Park
+NO Miller,3,24,0,0,8.0,2014-01-15,West Indies,New Zealand,0,Westpac Stadium
+PY Lavine,2,18,0,0,9.0,2010-05-14,New Zealand,New Zealand,0,"Beausejour Stadium, Gros Islet"
+R Powell,3,20,0,1,6.666666666666667,2017-06-05,Afghanistan,West Indies,0,"Warner Park, Basseterre"
+R Rampaul,4,26,0,0,6.5,2007-06-28,West Indies,West Indies,0,Kennington Oval
+R Rampaul,4,39,0,2,9.75,2007-06-29,West Indies,England,0,Kennington Oval
+R Rampaul,4,52,0,1,13.0,2007-09-11,West Indies,South Africa,0,New Wanderers Stadium
+R Rampaul,4,35,0,2,8.75,2007-09-13,West Indies,Bangladesh,0,New Wanderers Stadium
+R Rampaul,4,25,0,0,6.25,2008-01-18,West Indies,South Africa,0,New Wanderers Stadium
+R Rampaul,4,28,0,1,7.0,2010-02-28,Zimbabwe,Zimbabwe,0,"Queen's Park Oval, Port of Spain"
+R Rampaul,3,17,0,3,5.666666666666667,2010-04-30,Ireland,West Indies,0,Providence Stadium
+R Rampaul,3,52,0,0,17.333333333333332,2010-05-03,England,West Indies,0,Providence Stadium
+R Rampaul,4,31,0,3,7.75,2011-04-21,Pakistan,West Indies,0,"Beausejour Stadium, Gros Islet"
+R Rampaul,4,38,0,0,9.5,2011-06-04,India,India,0,"Queen's Park Oval, Port of Spain"
+R Rampaul,4,28,0,2,7.0,2011-10-11,West Indies,Bangladesh,0,Shere Bangla National Stadium
+R Rampaul,4,37,0,2,9.25,2012-06-24,West Indies,England,0,Trent Bridge
+R Rampaul,1,23,0,0,23.0,2012-09-22,West Indies,Australia,0,R Premadasa Stadium
+R Rampaul,4,20,0,1,5.0,2012-09-24,West Indies,0,0,R Premadasa Stadium
+R Rampaul,4,37,1,2,9.25,2012-09-27,West Indies,West Indies,0,Pallekele International Cricket Stadium
+R Rampaul,4,39,0,1,9.75,2012-09-29,West Indies,Sri Lanka,0,Pallekele International Cricket Stadium
+R Rampaul,4,23,0,1,5.75,2012-10-01,West Indies,0,tie,Pallekele International Cricket Stadium
+R Rampaul,3,31,0,1,10.333333333333334,2012-10-07,West Indies,West Indies,0,R Premadasa Stadium
+R Rampaul,3,27,0,1,9.0,2014-02-19,Ireland,Ireland,0,"Sabina Park, Kingston"
+R Rampaul,3,31,0,0,10.333333333333334,2014-03-09,England,West Indies,0,"Kensington Oval, Bridgetown"
+R Rampaul,3,30,0,0,10.0,2014-03-11,England,West Indies,0,"Kensington Oval, Bridgetown"
+R Rampaul,4,20,0,3,5.0,2015-11-11,West Indies,West Indies,0,R Premadasa Stadium
+RN Lewis,1,9,0,0,9.0,2008-01-18,West Indies,South Africa,0,New Wanderers Stadium
+RR Sarwan,2,10,0,2,5.0,2007-09-13,West Indies,Bangladesh,0,New Wanderers Stadium
+S Badree,4,33,0,1,8.25,2012-06-30,West Indies,West Indies,0,Central Broward Regional Park Stadium Turf Ground
+S Badree,4,20,0,2,5.0,2012-07-01,West Indies,West Indies,0,Central Broward Regional Park Stadium Turf Ground
+S Badree,4,20,0,0,5.0,2012-09-27,West Indies,West Indies,0,Pallekele International Cricket Stadium
+S Badree,4,18,0,1,4.5,2012-10-01,West Indies,0,tie,Pallekele International Cricket Stadium
+S Badree,4,24,0,1,6.0,2012-10-07,West Indies,West Indies,0,R Premadasa Stadium
+S Badree,4,27,0,1,6.75,2013-03-02,Zimbabwe,West Indies,0,"Sir Vivian Richards Stadium, North Sound"
+S Badree,4,17,0,3,4.25,2013-03-03,Zimbabwe,West Indies,0,"Sir Vivian Richards Stadium, North Sound"
+S Badree,3,27,0,1,9.0,2013-07-27,Pakistan,Pakistan,0,"Arnos Vale Ground, Kingstown"
+S Badree,4,16,0,2,4.0,2013-07-28,Pakistan,Pakistan,0,"Arnos Vale Ground, Kingstown"
+S Badree,4,25,0,0,6.25,2014-01-11,West Indies,New Zealand,0,Eden Park
+S Badree,4,18,0,2,4.5,2014-02-19,Ireland,Ireland,0,"Sabina Park, Kingston"
+S Badree,4,13,1,1,3.25,2014-02-21,Ireland,West Indies,0,"Sabina Park, Kingston"
+S Badree,4,17,0,3,4.25,2014-03-09,England,West Indies,0,"Kensington Oval, Bridgetown"
+S Badree,4,16,0,1,4.0,2014-03-11,England,West Indies,0,"Kensington Oval, Bridgetown"
+S Badree,4,28,0,1,7.0,2014-03-23,West Indies,India,0,Shere Bangla National Stadium
+S Badree,4,15,0,4,3.75,2014-03-25,West Indies,West Indies,0,Shere Bangla National Stadium
+S Badree,4,37,0,2,9.25,2014-03-28,West Indies,West Indies,0,Shere Bangla National Stadium
+S Badree,4,10,0,3,2.5,2014-04-01,West Indies,West Indies,0,Shere Bangla National Stadium
+S Badree,4,23,0,2,5.75,2014-04-03,West Indies,Sri Lanka,0,Shere Bangla National Stadium
+S Badree,3,13,0,0,4.333333333333333,2014-07-05,New Zealand,New Zealand,0,"Windsor Park, Roseau"
+S Badree,4,20,1,1,5.0,2014-07-06,New Zealand,West Indies,0,"Windsor Park, Roseau"
+S Badree,4,34,0,0,8.5,2016-03-16,West Indies,West Indies,0,Wankhede Stadium
+S Badree,4,12,0,4,3.0,2016-03-20,West Indies,West Indies,0,M Chinnaswamy Stadium
+S Badree,3,22,0,1,7.333333333333333,2016-03-25,West Indies,West Indies,0,"Vidarbha Cricket Association Stadium, Jamtha"
+S Badree,4,14,0,3,3.5,2016-03-27,West Indies,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+S Badree,4,26,0,1,6.5,2016-03-31,West Indies,West Indies,0,Wankhede Stadium
+S Badree,4,16,1,2,4.0,2016-04-03,West Indies,West Indies,0,Eden Gardens
+S Badree,2,25,0,0,12.5,2016-08-27,West Indies,West Indies,0,Central Broward Regional Park Stadium Turf Ground
+S Badree,1,7,0,0,7.0,2016-08-28,West Indies,0,0,Central Broward Regional Park Stadium Turf Ground
+S Badree,4,27,0,1,6.75,2016-09-23,West Indies,Pakistan,0,Dubai International Cricket Stadium
+S Badree,4,24,0,1,6.0,2016-09-24,West Indies,Pakistan,0,Dubai International Cricket Stadium
+S Badree,4,24,0,1,6.0,2017-03-26,Pakistan,Pakistan,0,"Kensington Oval, Bridgetown"
+S Badree,4,14,0,2,3.5,2017-03-30,Pakistan,Pakistan,0,"Queen's Park Oval, Port of Spain"
+S Badree,4,22,0,2,5.5,2017-04-01,Pakistan,West Indies,0,"Queen's Park Oval, Port of Spain"
+S Badree,4,38,0,0,9.5,2017-04-02,Pakistan,Pakistan,0,"Queen's Park Oval, Port of Spain"
+S Badree,4,19,0,1,4.75,2017-06-02,Afghanistan,West Indies,0,"Warner Park, Basseterre"
+S Badree,3,11,0,1,3.6666666666666665,2017-06-03,Afghanistan,West Indies,0,"Warner Park, Basseterre"
+S Badree,4,26,0,1,6.5,2017-06-05,Afghanistan,West Indies,0,"Warner Park, Basseterre"
+S Badree,4,31,0,0,7.75,2017-07-09,India,West Indies,0,"Sabina Park, Kingston"
+SA Campbelle,4,19,0,0,4.75,2009-10-28,West Indies,West Indies,0,Boland Bank Park
+SA Campbelle,2,20,0,0,10.0,2010-05-14,New Zealand,New Zealand,0,"Beausejour Stadium, Gros Islet"
+SA Campbelle,1,9,0,1,9.0,2012-09-08,West Indies,England,0,Riverside Ground
+SA Campbelle,4,31,0,1,7.75,2012-09-10,West Indies,England,0,Old Trafford
+SA Campbelle,4,14,0,2,3.5,2012-09-13,West Indies,England,0,County Ground
+SA Campbelle,3,21,0,1,7.0,2012-09-15,West Indies,England,0,County Ground
+SA Campbelle,4,30,0,2,7.5,2012-09-16,West Indies,West Indies,0,Arundel Castle Cricket Club Ground
+SA Campbelle,4,22,0,3,5.5,2012-09-26,West Indies,West Indies,0,Galle International Stadium
+SA Campbelle,1,8,0,1,8.0,2012-09-28,West Indies,Sri Lanka,0,Galle International Stadium
+SA Campbelle,4,8,0,0,2.0,2012-09-30,West Indies,West Indies,0,Galle International Stadium
+SA Campbelle,3,15,0,0,5.0,2012-10-05,West Indies,Australia,0,R Premadasa Stadium
+SA Campbelle,3,19,0,0,6.333333333333333,2013-01-19,South Africa,West Indies,0,"Beausejour Stadium, Gros Islet"
+SA Campbelle,4,24,0,1,6.0,2013-01-20,South Africa,West Indies,0,"Beausejour Stadium, Gros Islet"
+SA Campbelle,4,20,0,2,5.0,2013-03-03,West Indies,West Indies,0,R Premadasa Stadium
+SA Campbelle,4,26,0,0,6.5,2013-03-08,West Indies,West Indies,0,R Premadasa Stadium
+SA Campbelle,1,8,0,0,8.0,2014-04-01,West Indies,India,0,Sylhet Stadium
+SACA King,4,27,0,2,6.75,2009-10-28,West Indies,West Indies,0,Boland Bank Park
+SACA King,4,28,0,2,7.0,2010-05-14,New Zealand,New Zealand,0,"Beausejour Stadium, Gros Islet"
+SACA King,1,16,0,0,16.0,2012-09-08,West Indies,England,0,Riverside Ground
+SACA King,2,15,0,0,7.5,2012-09-16,West Indies,West Indies,0,Arundel Castle Cricket Club Ground
+SACA King,1,9,0,0,9.0,2014-04-01,West Indies,India,0,Sylhet Stadium
+SACA King,3,16,0,2,5.333333333333333,2015-05-23,West Indies,Sri Lanka,0,R Premadasa Stadium
+SACA King,3,12,0,0,4.0,2015-05-25,West Indies,West Indies,0,R Premadasa Stadium
+SACA King,1,9,0,0,9.0,2015-05-26,West Indies,West Indies,0,R Premadasa Stadium
+SACA King,1,7,0,1,7.0,2015-10-29,Pakistan,West Indies,0,"National Cricket Stadium, St George's"
+SC Selman,2,10,0,1,5.0,2009-10-28,West Indies,West Indies,0,Boland Bank Park
+SC Selman,4,27,0,2,6.75,2010-05-14,New Zealand,New Zealand,0,"Beausejour Stadium, Gros Islet"
+SC Selman,2,18,0,0,9.0,2012-09-08,West Indies,England,0,Riverside Ground
+SC Selman,2,16,0,0,8.0,2012-09-15,West Indies,England,0,County Ground
+SC Selman,2,18,0,0,9.0,2012-09-16,West Indies,West Indies,0,Arundel Castle Cricket Club Ground
+SC Selman,2,18,0,0,9.0,2012-09-26,West Indies,West Indies,0,Galle International Stadium
+SC Selman,1,3,0,0,3.0,2012-09-28,West Indies,Sri Lanka,0,Galle International Stadium
+SC Selman,1,7,0,0,7.0,2012-10-05,West Indies,Australia,0,R Premadasa Stadium
+SC Selman,1,12,0,0,12.0,2013-01-19,South Africa,West Indies,0,"Beausejour Stadium, Gros Islet"
+SC Selman,4,15,1,1,3.75,2013-03-03,West Indies,West Indies,0,R Premadasa Stadium
+SC Selman,4,14,0,2,3.5,2013-03-05,West Indies,West Indies,0,R Premadasa Stadium
+SC Selman,4,22,0,2,5.5,2014-03-24,West Indies,West Indies,0,Sylhet Stadium
+SC Selman,3,13,0,2,4.333333333333333,2014-03-26,West Indies,West Indies,0,Sylhet Stadium
+SC Selman,3,21,0,0,7.0,2014-03-28,West Indies,West Indies,0,Sylhet Stadium
+SC Selman,3,21,0,1,7.0,2014-04-01,West Indies,India,0,Sylhet Stadium
+SC Selman,1,12,0,0,12.0,2014-04-03,West Indies,Australia,0,Shere Bangla National Stadium
+SC Selman,2,11,0,0,5.5,2014-11-02,West Indies,Australia,0,North Sydney Oval
+SC Selman,3,22,0,0,7.333333333333333,2014-11-07,West Indies,Australia,0,Melbourne Cricket Ground
+SC Selman,2,23,0,0,11.5,2016-03-04,West Indies,South Africa,0,Kingsmead
+SF Daley,2,8,0,0,4.0,2009-10-28,West Indies,West Indies,0,Boland Bank Park
+SF Daley,3,27,0,0,9.0,2010-05-14,New Zealand,New Zealand,0,"Beausejour Stadium, Gros Islet"
+SF Daley,2,11,0,0,5.5,2012-09-08,West Indies,England,0,Riverside Ground
+SF Daley,4,21,0,2,5.25,2012-09-10,West Indies,England,0,Old Trafford
+SF Daley,4,18,0,2,4.5,2012-09-13,West Indies,England,0,County Ground
+SF Daley,3,22,0,0,7.333333333333333,2012-09-15,West Indies,England,0,County Ground
+SF Daley,4,17,0,0,4.25,2012-09-26,West Indies,West Indies,0,Galle International Stadium
+SF Daley,2,5,0,1,2.5,2012-09-28,West Indies,Sri Lanka,0,Galle International Stadium
+SF Daley,4,15,0,1,3.75,2012-09-30,West Indies,West Indies,0,Galle International Stadium
+SF Daley,4,23,0,4,5.75,2012-10-05,West Indies,Australia,0,R Premadasa Stadium
+SF Daley,4,14,0,3,3.5,2013-01-19,South Africa,West Indies,0,"Beausejour Stadium, Gros Islet"
+SF Daley,4,22,0,3,5.5,2013-01-20,South Africa,West Indies,0,"Beausejour Stadium, Gros Islet"
+SF Daley,4,13,1,1,3.25,2013-03-03,West Indies,West Indies,0,R Premadasa Stadium
+SF Daley,4,15,0,5,3.75,2013-03-05,West Indies,West Indies,0,R Premadasa Stadium
+SF Daley,4,33,0,4,8.25,2013-03-08,West Indies,West Indies,0,R Premadasa Stadium
+SF Daley,2,28,0,1,14.0,2014-03-24,West Indies,West Indies,0,Sylhet Stadium
+SF Daley,3,20,0,0,6.666666666666667,2014-03-26,West Indies,West Indies,0,Sylhet Stadium
+SF Daley,4,15,0,4,3.75,2014-03-28,West Indies,West Indies,0,Sylhet Stadium
+SF Daley,3,24,0,0,8.0,2014-04-01,West Indies,India,0,Sylhet Stadium
+SF Daley,3,22,0,0,7.333333333333333,2014-04-03,West Indies,Australia,0,Shere Bangla National Stadium
+SF Daley,2,13,0,0,6.5,2014-11-02,West Indies,Australia,0,North Sydney Oval
+SF Daley,4,21,0,1,5.25,2014-11-07,West Indies,Australia,0,Melbourne Cricket Ground
+SJ Benn,2,19,0,0,9.5,2008-06-20,Australia,West Indies,0,"Kensington Oval, Bridgetown"
+SJ Benn,4,20,0,1,5.0,2008-12-26,West Indies,0,tie,Eden Park
+SJ Benn,4,45,0,1,11.25,2008-12-28,West Indies,New Zealand,0,Seddon Park
+SJ Benn,4,24,0,3,6.0,2009-03-15,England,West Indies,0,"Queen's Park Oval, Port of Spain"
+SJ Benn,4,35,0,0,8.75,2009-06-06,West Indies,West Indies,0,Kennington Oval
+SJ Benn,4,25,0,0,6.25,2009-06-10,West Indies,Sri Lanka,0,Trent Bridge
+SJ Benn,3,26,0,0,8.666666666666666,2009-06-12,West Indies,West Indies,0,Lord's
+SJ Benn,4,36,0,1,9.0,2009-06-13,West Indies,South Africa,0,Kennington Oval
+SJ Benn,4,30,0,1,7.5,2009-06-15,West Indies,West Indies,0,Kennington Oval
+SJ Benn,4,24,0,1,6.0,2009-06-19,West Indies,Sri Lanka,0,Kennington Oval
+SJ Benn,4,6,2,4,1.5,2010-02-28,Zimbabwe,Zimbabwe,0,"Queen's Park Oval, Port of Spain"
+SJ Benn,3,23,0,0,7.666666666666667,2010-05-03,England,West Indies,0,Providence Stadium
+SJ Benn,4,41,0,0,10.25,2010-05-07,Sri Lanka,Sri Lanka,0,"Kensington Oval, Bridgetown"
+SJ Benn,1,2,0,1,2.0,2010-05-09,India,West Indies,0,"Kensington Oval, Bridgetown"
+SJ Benn,4,12,1,1,3.0,2010-05-11,Australia,Australia,0,"Beausejour Stadium, Gros Islet"
+SJ Benn,3,20,0,0,6.666666666666667,2010-05-19,South Africa,South Africa,0,"Sir Vivian Richards Stadium, North Sound"
+SJ Benn,3,26,0,1,8.666666666666666,2010-05-20,South Africa,South Africa,0,"Sir Vivian Richards Stadium, North Sound"
+SJ Benn,3,42,0,1,14.0,2015-01-11,West Indies,West Indies,0,New Wanderers Stadium
+SJ Benn,3,23,0,1,7.666666666666667,2016-03-16,West Indies,West Indies,0,Wankhede Stadium
+SJ Benn,4,13,0,0,3.25,2016-03-20,West Indies,West Indies,0,M Chinnaswamy Stadium
+SJ Benn,4,20,0,0,5.0,2016-03-25,West Indies,West Indies,0,"Vidarbha Cricket Association Stadium, Jamtha"
+SJ Benn,4,18,0,1,4.5,2016-03-27,West Indies,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+SJ Benn,4,36,0,0,9.0,2016-03-31,West Indies,West Indies,0,Wankhede Stadium
+SJ Benn,3,40,0,0,13.333333333333334,2016-04-03,West Indies,West Indies,0,Eden Gardens
+SL Munroe,1,12,0,0,12.0,2012-09-10,West Indies,England,0,Old Trafford
+SL Munroe,2,25,0,0,12.5,2012-09-15,West Indies,England,0,County Ground
+SL Munroe,4,17,0,0,4.25,2013-01-20,South Africa,West Indies,0,"Beausejour Stadium, Gros Islet"
+SL Munroe,4,10,0,2,2.5,2013-03-03,West Indies,West Indies,0,R Premadasa Stadium
+SL Munroe,2,14,0,1,7.0,2013-03-05,West Indies,West Indies,0,R Premadasa Stadium
+SL Munroe,4,11,0,2,2.75,2013-03-08,West Indies,West Indies,0,R Premadasa Stadium
+SL Munroe,1,12,0,0,12.0,2015-05-23,West Indies,Sri Lanka,0,R Premadasa Stadium
+SL Munroe,1,10,0,0,10.0,2015-05-25,West Indies,West Indies,0,R Premadasa Stadium
+SL Quintyne,4,27,0,0,6.75,2012-09-10,West Indies,England,0,Old Trafford
+SL Quintyne,4,25,0,1,6.25,2012-09-13,West Indies,England,0,County Ground
+SL Quintyne,2,20,0,0,10.0,2012-09-15,West Indies,England,0,County Ground
+SL Quintyne,4,14,1,2,3.5,2012-09-30,West Indies,West Indies,0,Galle International Stadium
+SL Quintyne,4,23,0,2,5.75,2012-10-05,West Indies,Australia,0,R Premadasa Stadium
+SL Quintyne,4,18,0,2,4.5,2013-01-19,South Africa,West Indies,0,"Beausejour Stadium, Gros Islet"
+SL Quintyne,4,16,0,1,4.0,2013-01-20,South Africa,West Indies,0,"Beausejour Stadium, Gros Islet"
+SL Quintyne,4,22,0,2,5.5,2013-03-08,West Indies,West Indies,0,R Premadasa Stadium
+SL Quintyne,3,7,0,1,2.3333333333333335,2014-03-24,West Indies,West Indies,0,Sylhet Stadium
+SL Quintyne,3,5,1,3,1.6666666666666667,2014-03-26,West Indies,West Indies,0,Sylhet Stadium
+SL Quintyne,3,14,0,1,4.666666666666667,2014-03-28,West Indies,West Indies,0,Sylhet Stadium
+SL Quintyne,4,29,0,1,7.25,2014-04-03,West Indies,Australia,0,Shere Bangla National Stadium
+SL Quintyne,4,17,0,0,4.25,2014-11-02,West Indies,Australia,0,North Sydney Oval
+SL Quintyne,3,31,0,2,10.333333333333334,2014-11-07,West Indies,Australia,0,Melbourne Cricket Ground
+SL Quintyne,3,20,0,0,6.666666666666667,2016-03-04,West Indies,South Africa,0,Kingsmead
+SL Quintyne,2,12,0,0,6.0,2016-03-09,West Indies,South Africa,0,Newlands
+SL Quintyne,3,17,0,1,5.666666666666667,2016-03-16,West Indies,West Indies,0,"MA Chidambaram Stadium, Chepauk"
+SL Quintyne,4,19,1,3,4.75,2016-03-24,West Indies,England,0,Himachal Pradesh Cricket Association Stadium
+SL Quintyne,3,19,0,1,6.333333333333333,2016-03-27,West Indies,West Indies,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+SL Quintyne,2,11,0,1,5.5,2016-03-31,West Indies,West Indies,0,Wankhede Stadium
+SL Quintyne,4,27,0,0,6.75,2016-04-03,West Indies,West Indies,0,Eden Gardens
+SP Narine,4,21,0,0,5.25,2012-03-27,Australia,Australia,0,"Beausejour Stadium, Gros Islet"
+SP Narine,4,33,0,0,8.25,2012-03-30,Australia,West Indies,0,"Kensington Oval, Bridgetown"
+SP Narine,4,28,0,0,7.0,2012-06-24,West Indies,England,0,Trent Bridge
+SP Narine,4,34,0,3,8.5,2012-06-30,West Indies,West Indies,0,Central Broward Regional Park Stadium Turf Ground
+SP Narine,4,12,0,4,3.0,2012-07-01,West Indies,West Indies,0,Central Broward Regional Park Stadium Turf Ground
+SP Narine,2,16,0,0,8.0,2012-09-22,West Indies,Australia,0,R Premadasa Stadium
+SP Narine,4,21,0,1,5.25,2012-09-24,West Indies,0,0,R Premadasa Stadium
+SP Narine,4,33,0,0,8.25,2012-09-27,West Indies,West Indies,0,Pallekele International Cricket Stadium
+SP Narine,4,23,0,0,5.75,2012-09-29,West Indies,Sri Lanka,0,Pallekele International Cricket Stadium
+SP Narine,4,20,0,3,5.0,2012-10-01,West Indies,0,tie,Pallekele International Cricket Stadium
+SP Narine,3,9,1,4,3.0,2012-10-07,West Indies,West Indies,0,R Premadasa Stadium
+SP Narine,3,27,0,0,9.0,2012-12-10,West Indies,West Indies,0,Shere Bangla National Stadium
+SP Narine,4,19,0,2,4.75,2013-02-13,West Indies,West Indies,0,"Brisbane Cricket Ground, Woolloongabba"
+SP Narine,4,17,0,2,4.25,2013-03-02,Zimbabwe,West Indies,0,"Sir Vivian Richards Stadium, North Sound"
+SP Narine,4,22,0,0,5.5,2013-03-03,Zimbabwe,West Indies,0,"Sir Vivian Richards Stadium, North Sound"
+SP Narine,4,24,0,1,6.0,2013-07-27,Pakistan,Pakistan,0,"Arnos Vale Ground, Kingstown"
+SP Narine,4,26,0,3,6.5,2013-07-28,Pakistan,Pakistan,0,"Arnos Vale Ground, Kingstown"
+SP Narine,4,46,0,0,11.5,2014-01-11,West Indies,New Zealand,0,Eden Park
+SP Narine,4,18,0,2,4.5,2014-01-15,West Indies,New Zealand,0,Westpac Stadium
+SP Narine,4,16,0,1,4.0,2014-02-19,Ireland,Ireland,0,"Sabina Park, Kingston"
+SP Narine,4,12,0,1,3.0,2014-02-21,Ireland,West Indies,0,"Sabina Park, Kingston"
+SP Narine,2,8,0,1,4.0,2014-03-09,England,West Indies,0,"Kensington Oval, Bridgetown"
+SP Narine,4,34,0,1,8.5,2014-03-13,England,England,0,"Kensington Oval, Bridgetown"
+SP Narine,4,20,0,0,5.0,2014-03-23,West Indies,India,0,Shere Bangla National Stadium
+SP Narine,4,17,0,1,4.25,2014-03-25,West Indies,West Indies,0,Shere Bangla National Stadium
+SP Narine,4,19,1,2,4.75,2014-03-28,West Indies,West Indies,0,Shere Bangla National Stadium
+SP Narine,4,16,0,3,4.0,2014-04-01,West Indies,West Indies,0,Shere Bangla National Stadium
+SP Narine,4,20,0,0,5.0,2014-04-03,West Indies,Sri Lanka,0,Shere Bangla National Stadium
+SP Narine,3,19,0,0,6.333333333333333,2014-07-05,New Zealand,New Zealand,0,"Windsor Park, Roseau"
+SP Narine,4,19,0,3,4.75,2014-07-06,New Zealand,West Indies,0,"Windsor Park, Roseau"
+SP Narine,4,20,0,1,5.0,2015-11-09,West Indies,Sri Lanka,0,Pallekele International Cricket Stadium
+SP Narine,4,24,0,1,6.0,2015-11-11,West Indies,West Indies,0,R Premadasa Stadium
+SP Narine,3,50,0,0,16.666666666666668,2016-08-27,West Indies,West Indies,0,Central Broward Regional Park Stadium Turf Ground
+SP Narine,3,21,0,0,7.0,2016-09-23,West Indies,Pakistan,0,Dubai International Cricket Stadium
+SP Narine,4,36,0,1,9.0,2016-09-24,West Indies,Pakistan,0,Dubai International Cricket Stadium
+SP Narine,4,21,0,0,5.25,2016-09-27,West Indies,Pakistan,0,Sheikh Zayed Stadium
+SP Narine,4,22,0,0,5.5,2017-03-26,Pakistan,Pakistan,0,"Kensington Oval, Bridgetown"
+SP Narine,4,22,0,3,5.5,2017-03-30,Pakistan,Pakistan,0,"Queen's Park Oval, Port of Spain"
+SP Narine,3,34,0,1,11.333333333333334,2017-04-01,Pakistan,West Indies,0,"Queen's Park Oval, Port of Spain"
+SP Narine,4,19,0,0,4.75,2017-04-02,Pakistan,Pakistan,0,"Queen's Park Oval, Port of Spain"
+SP Narine,4,11,0,3,2.75,2017-06-02,Afghanistan,West Indies,0,"Warner Park, Basseterre"
+SP Narine,3,24,0,2,8.0,2017-06-03,Afghanistan,West Indies,0,"Warner Park, Basseterre"
+SP Narine,4,27,0,0,6.75,2017-06-05,Afghanistan,West Indies,0,"Warner Park, Basseterre"
+SP Narine,3,22,0,0,7.333333333333333,2017-07-09,India,West Indies,0,"Sabina Park, Kingston"
+SR Taylor,2,11,0,0,5.5,2010-05-14,New Zealand,New Zealand,0,"Beausejour Stadium, Gros Islet"
+SR Taylor,4,25,0,0,6.25,2012-09-13,West Indies,England,0,County Ground
+SR Taylor,4,23,0,2,5.75,2012-09-15,West Indies,England,0,County Ground
+SR Taylor,4,25,0,1,6.25,2012-09-16,West Indies,West Indies,0,Arundel Castle Cricket Club Ground
+SR Taylor,4,29,0,2,7.25,2012-09-26,West Indies,West Indies,0,Galle International Stadium
+SR Taylor,2,4,0,1,2.0,2012-09-28,West Indies,Sri Lanka,0,Galle International Stadium
+SR Taylor,4,10,2,5,2.5,2012-09-30,West Indies,West Indies,0,Galle International Stadium
+SR Taylor,3,19,0,0,6.333333333333333,2012-10-05,West Indies,Australia,0,R Premadasa Stadium
+SR Taylor,4,24,0,2,6.0,2013-01-19,South Africa,West Indies,0,"Beausejour Stadium, Gros Islet"
+SR Taylor,4,22,0,1,5.5,2013-03-05,West Indies,West Indies,0,R Premadasa Stadium
+SR Taylor,2,12,0,0,6.0,2014-04-01,West Indies,India,0,Sylhet Stadium
+SR Taylor,4,19,0,1,4.75,2014-04-03,West Indies,Australia,0,Shere Bangla National Stadium
+SR Taylor,3,15,0,1,5.0,2015-05-23,West Indies,Sri Lanka,0,R Premadasa Stadium
+SR Taylor,4,20,0,2,5.0,2015-05-25,West Indies,West Indies,0,R Premadasa Stadium
+SR Taylor,3,14,0,0,4.666666666666667,2015-05-26,West Indies,West Indies,0,R Premadasa Stadium
+SR Taylor,4,23,0,1,5.75,2016-03-09,West Indies,South Africa,0,Newlands
+SR Taylor,4,16,0,0,4.0,2016-03-16,West Indies,West Indies,0,"MA Chidambaram Stadium, Chepauk"
+SR Taylor,3,13,0,3,4.333333333333333,2016-03-20,West Indies,West Indies,0,"MA Chidambaram Stadium, Chepauk"
+SR Taylor,3,18,0,2,6.0,2016-03-24,West Indies,England,0,Himachal Pradesh Cricket Association Stadium
+SR Taylor,2,23,0,1,11.5,2016-03-27,West Indies,West Indies,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+SR Taylor,4,26,0,3,6.5,2016-03-31,West Indies,West Indies,0,Wankhede Stadium
+SR Taylor,3,26,0,0,8.666666666666666,2016-04-03,West Indies,West Indies,0,Eden Gardens
+SS Connell,2,12,0,0,6.0,2014-11-07,West Indies,Australia,0,Melbourne Cricket Ground
+SS Connell,4,10,1,2,2.5,2015-10-29,Pakistan,West Indies,0,"National Cricket Stadium, St George's"
+SS Connell,3,14,0,1,4.666666666666667,2016-03-09,West Indies,South Africa,0,Newlands
+SS Connell,3,10,0,1,3.3333333333333335,2016-03-16,West Indies,West Indies,0,"MA Chidambaram Stadium, Chepauk"
+SS Connell,2,16,0,0,8.0,2016-03-20,West Indies,West Indies,0,"MA Chidambaram Stadium, Chepauk"
+SS Connell,2,11,0,0,5.5,2016-03-24,West Indies,England,0,Himachal Pradesh Cricket Association Stadium
+SS Connell,4,15,1,1,3.75,2016-03-27,West Indies,West Indies,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+SS Connell,3,22,0,1,7.333333333333333,2016-03-31,West Indies,West Indies,0,Wankhede Stadium
+SS Connell,2,15,0,0,7.5,2016-04-03,West Indies,West Indies,0,Eden Gardens
+SS Cottrell,4,37,0,2,9.25,2014-03-13,England,England,0,"Kensington Oval, Bridgetown"
+SS Cottrell,3,28,1,4,9.333333333333334,2014-07-06,New Zealand,West Indies,0,"Windsor Park, Roseau"
+SS Cottrell,2,5,1,0,2.5,2014-08-27,Bangladesh,0,0,"Warner Park, Basseterre"
+SS Cottrell,4,33,0,2,8.25,2015-01-09,West Indies,West Indies,0,Newlands
+SS Cottrell,3,47,0,0,15.666666666666666,2015-01-11,West Indies,West Indies,0,New Wanderers Stadium
+SS Cottrell,4,33,0,1,8.25,2015-01-14,West Indies,South Africa,0,Kingsmead
+ST Gabriel,3,12,0,0,4.0,2013-03-03,Zimbabwe,West Indies,0,"Sir Vivian Richards Stadium, North Sound"
+ST Gabriel,5,44,0,3,8.8,2013-07-27,Pakistan,Pakistan,0,"Arnos Vale Ground, Kingstown"
+TD Smartt,2,7,0,0,3.5,2009-10-28,West Indies,West Indies,0,Boland Bank Park
+TD Smartt,1,9,0,0,9.0,2012-09-08,West Indies,England,0,Riverside Ground
+TD Smartt,3,34,0,0,11.333333333333334,2012-09-10,West Indies,England,0,Old Trafford
+TD Smartt,1,8,0,0,8.0,2012-09-13,West Indies,England,0,County Ground
+TD Smartt,4,27,0,2,6.75,2012-09-16,West Indies,West Indies,0,Arundel Castle Cricket Club Ground
+TD Smartt,2,11,0,2,5.5,2012-09-26,West Indies,West Indies,0,Galle International Stadium
+TD Smartt,2,17,0,0,8.5,2012-09-28,West Indies,Sri Lanka,0,Galle International Stadium
+TD Smartt,2,7,0,1,3.5,2012-10-05,West Indies,Australia,0,R Premadasa Stadium
+TD Smartt,4,13,1,2,3.25,2013-03-03,West Indies,West Indies,0,R Premadasa Stadium
+TD Smartt,4,29,0,1,7.25,2013-03-05,West Indies,West Indies,0,R Premadasa Stadium
+TD Smartt,4,21,0,2,5.25,2013-03-08,West Indies,West Indies,0,R Premadasa Stadium
+TD Smartt,3,25,0,1,8.333333333333334,2014-03-24,West Indies,West Indies,0,Sylhet Stadium
+TD Smartt,3,9,0,2,3.0,2014-03-26,West Indies,West Indies,0,Sylhet Stadium
+TD Smartt,4,15,0,3,3.75,2014-03-28,West Indies,West Indies,0,Sylhet Stadium
+TD Smartt,2,14,0,0,7.0,2014-04-01,West Indies,India,0,Sylhet Stadium
+TD Smartt,4,28,0,1,7.0,2014-04-03,West Indies,Australia,0,Shere Bangla National Stadium
+TD Smartt,1,8,0,0,8.0,2014-11-02,West Indies,Australia,0,North Sydney Oval
+TD Smartt,3,15,0,0,5.0,2015-05-23,West Indies,Sri Lanka,0,R Premadasa Stadium
+TD Smartt,2,18,0,0,9.0,2015-05-25,West Indies,West Indies,0,R Premadasa Stadium
+TD Smartt,4,16,0,1,4.0,2015-05-26,West Indies,West Indies,0,R Premadasa Stadium
+TD Smartt,4,13,0,2,3.25,2015-10-29,Pakistan,West Indies,0,"National Cricket Stadium, St George's"
+TD Smartt,3,14,0,1,4.666666666666667,2016-03-04,West Indies,South Africa,0,Kingsmead
+TD Smartt,4,25,0,0,6.25,2016-03-09,West Indies,South Africa,0,Newlands
+TL Best,3,19,0,0,6.333333333333333,2013-02-13,West Indies,West Indies,0,"Brisbane Cricket Ground, Woolloongabba"
+TL Best,4,18,0,3,4.5,2013-03-02,Zimbabwe,West Indies,0,"Sir Vivian Richards Stadium, North Sound"
+TL Best,4,24,0,1,6.0,2013-07-27,Pakistan,Pakistan,0,"Arnos Vale Ground, Kingstown"
+TL Best,2,16,0,0,8.0,2013-07-28,Pakistan,Pakistan,0,"Arnos Vale Ground, Kingstown"
+TL Best,4,40,0,3,10.0,2014-01-11,West Indies,New Zealand,0,Eden Park
+TL Best,3,37,0,0,12.333333333333334,2014-01-15,West Indies,New Zealand,0,Westpac Stadium

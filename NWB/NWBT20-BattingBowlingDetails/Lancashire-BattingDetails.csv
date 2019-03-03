@@ -1,0 +1,95 @@
+,batsman,runs,balls,4s,6s,SR,bowler,fielders,kind,player_out,date,team2,winner,result,venue
+5,AL Davies,15,9,2,0,166.66666666666669,A Carter,0,bowled,AL Davies,2016-05-21,Derbyshire,Derbyshire,0,Old Trafford
+5,AL Davies,6,14,0,0,42.857142857142854,BJ McCarthy,['MD Stoneman'],caught,AL Davies,2016-05-27,Durham,Durham,0,Old Trafford
+6,AM Lilley,10,5,2,0,200.0,JDS Neesham,['WL Madsen'],run out,AM Lilley,2016-05-21,Derbyshire,Derbyshire,0,Old Trafford
+6,AM Lilley,2,2,0,0,100.0,notOut,notOut,notOut,notOut,2016-05-27,Durham,Durham,0,Old Trafford
+5,AM Lilley,2,4,0,0,50.0,WMH Rhodes,['K Carver'],caught,AM Lilley,2016-07-01,Lancashire,Yorkshire,0,Headingley
+1,AN Petersen,19,18,2,0,105.55555555555556,AL Hughes,0,bowled,AN Petersen,2016-05-21,Derbyshire,Derbyshire,0,Old Trafford
+1,AN Petersen,8,5,1,0,160.0,U Arshad,['P Coughlin'],caught,AN Petersen,2016-05-27,Durham,Durham,0,Old Trafford
+1,AN Petersen,16,12,1,1,133.33333333333331,SA Patterson,['JM Bairstow'],caught,AN Petersen,2016-06-03,Yorkshire,Lancashire,0,Old Trafford
+1,AN Petersen,21,18,1,1,116.66666666666667,SR Patel,0,lbw,AN Petersen,2016-06-04,Lancashire,Nottinghamshire,0,Trent Bridge
+1,AN Petersen,23,18,1,0,127.77777777777777,KJ O'Brien,['TJ Wells'],caught,AN Petersen,2016-06-10,Leicestershire,Lancashire,0,Old Trafford
+1,AN Petersen,68,55,1,2,123.63636363636363,notOut,notOut,notOut,notOut,2016-06-24,Worcestershire,Lancashire,0,Old Trafford
+1,AN Petersen,15,12,0,1,125.0,WMH Rhodes,['JA Leaning'],caught,AN Petersen,2016-07-01,Lancashire,Yorkshire,0,Headingley
+0,AN Petersen,34,22,4,1,154.54545454545453,J Leach,['JD Shantry'],caught,AN Petersen,2016-07-08,Lancashire,Lancashire,0,"County Ground, New Road"
+0,AN Petersen,79,50,5,3,158.0,SJ Thakor,['A Carter'],caught,AN Petersen,2016-07-13,Lancashire,Derbyshire,0,County Ground
+1,AN Petersen,103,55,10,4,187.27272727272728,notOut,notOut,notOut,notOut,2016-07-15,Lancashire,Leicestershire,0,Grace Road
+1,AN Petersen,42,36,4,0,116.66666666666667,U Arshad,['P Mustard'],caught,AN Petersen,2016-07-22,Lancashire,Lancashire,0,Riverside Ground
+1,AN Petersen,27,33,2,0,81.81818181818183,JE Poysden,['IR Bell'],caught,AN Petersen,2016-07-29,Warwickshire,Lancashire,0,Old Trafford
+10,GA Edwards,2,2,0,0,100.0,notOut,notOut,notOut,notOut,2016-07-01,Lancashire,Yorkshire,0,Headingley
+6,J Clark,28,14,2,1,200.0,TT Bresnan,['JM Bairstow'],caught,J Clark,2016-06-03,Yorkshire,Lancashire,0,Old Trafford
+0,J Clark,31,12,1,3,258.33333333333337,notOut,notOut,notOut,notOut,2016-06-10,Leicestershire,Lancashire,0,Old Trafford
+1,J Clark,6,8,1,0,75.0,R Clarke,0,caught and bowled,J Clark,2016-06-19,Lancashire,Warwickshire,0,Edgbaston
+5,J Clark,5,9,0,0,55.55555555555556,J Leach,['AN Kervezee'],caught,J Clark,2016-06-24,Worcestershire,Lancashire,0,Old Trafford
+0,J Clark,9,13,0,0,69.23076923076923,SA Patterson,['A Lyth'],caught,J Clark,2016-07-01,Lancashire,Yorkshire,0,Headingley
+6,J Clark,1,2,0,0,50.0,A Carter,0,bowled,J Clark,2016-07-13,Lancashire,Derbyshire,0,County Ground
+6,J Clark,31,18,2,1,172.22222222222223,notOut,notOut,notOut,notOut,2016-07-29,Warwickshire,Lancashire,0,Old Trafford
+3,JC Buttler,10,8,1,0,125.0,U Arshad,['PD Collingwood'],caught,JC Buttler,2016-05-27,Durham,Durham,0,Old Trafford
+4,JC Buttler,23,12,1,2,191.66666666666669,BO Coad,['TT Bresnan'],caught,JC Buttler,2016-06-03,Yorkshire,Lancashire,0,Old Trafford
+4,JC Buttler,56,29,5,3,193.10344827586206,notOut,notOut,notOut,notOut,2016-06-04,Lancashire,Nottinghamshire,0,Trent Bridge
+2,JC Buttler,20,9,2,1,222.22222222222223,notOut,notOut,notOut,notOut,2016-06-10,Leicestershire,Lancashire,0,Old Trafford
+4,JC Buttler,0,2,0,0,0.0,R Clarke,0,caught and bowled,JC Buttler,2016-06-19,Lancashire,Warwickshire,0,Edgbaston
+1,JC Buttler,57,22,7,4,259.09090909090907,KJ Abbott,0,bowled,JC Buttler,2016-07-08,Lancashire,Lancashire,0,"County Ground, New Road"
+10,KM Jarvis,9,8,1,0,112.5,notOut,notOut,notOut,notOut,2016-05-27,Durham,Durham,0,Old Trafford
+2,KR Brown,12,15,1,0,80.0,SJ Thakor,['WJ Durston'],caught,KR Brown,2016-05-21,Derbyshire,Derbyshire,0,Old Trafford
+2,KR Brown,0,1,0,0,0.0,U Arshad,['P Mustard'],caught,KR Brown,2016-05-27,Durham,Durham,0,Old Trafford
+2,KR Brown,54,38,2,3,142.10526315789474,SA Patterson,['GS Ballance'],caught,KR Brown,2016-06-03,Yorkshire,Lancashire,0,Old Trafford
+2,KR Brown,47,37,6,1,127.02702702702702,HF Gurney,['MH Wessels'],caught,KR Brown,2016-06-04,Lancashire,Nottinghamshire,0,Trent Bridge
+2,KR Brown,10,12,2,0,83.33333333333334,CR Woakes,['JS Patel'],caught,KR Brown,2016-06-19,Lancashire,Warwickshire,0,Edgbaston
+2,KR Brown,17,13,1,1,130.76923076923077,DKH Mitchell,"[""BL D'Oliveira""]",caught,KR Brown,2016-06-24,Worcestershire,Lancashire,0,Old Trafford
+2,KR Brown,19,14,1,1,135.71428571428572,Azeem Rafiq,0,bowled,KR Brown,2016-07-01,Lancashire,Yorkshire,0,Headingley
+2,KR Brown,62,43,6,2,144.1860465116279,notOut,notOut,notOut,notOut,2016-07-08,Lancashire,Lancashire,0,"County Ground, New Road"
+2,KR Brown,4,8,0,0,50.0,MJJ Critchley,0,lbw,KR Brown,2016-07-13,Lancashire,Derbyshire,0,County Ground
+2,KR Brown,18,21,2,0,85.71428571428571,RJ Sayer,['CS Delport'],caught,KR Brown,2016-07-15,Lancashire,Leicestershire,0,Grace Road
+2,KR Brown,41,26,5,0,157.69230769230768,SG Borthwick,0,lbw,KR Brown,2016-07-22,Lancashire,Lancashire,0,Riverside Ground
+2,KR Brown,5,8,1,0,62.5,RO Gordon,['LJ Evans'],caught,KR Brown,2016-07-29,Warwickshire,Lancashire,0,Old Trafford
+6,LA Procter,16,14,2,0,114.28571428571428,TT Bresnan,['K Carver'],caught,LA Procter,2016-07-01,Lancashire,Yorkshire,0,Headingley
+7,LA Procter,1,3,0,0,33.33333333333333,notOut,notOut,notOut,notOut,2016-07-13,Lancashire,Derbyshire,0,County Ground
+1,LM Reece,32,23,4,1,139.1304347826087,MJJ Critchley,0,lbw,LM Reece,2016-07-13,Lancashire,Derbyshire,0,County Ground
+0,LM Reece,2,4,0,0,50.0,RA Jones,0,bowled,LM Reece,2016-07-15,Lancashire,Leicestershire,0,Grace Road
+0,LM Reece,14,17,3,0,82.35294117647058,P Coughlin,['P Mustard'],caught,LM Reece,2016-07-22,Lancashire,Lancashire,0,Riverside Ground
+4,LS Livingstone,25,23,1,0,108.69565217391303,A Carter,['JDS Neesham'],run out,LS Livingstone,2016-05-21,Derbyshire,Derbyshire,0,Old Trafford
+3,LS Livingstone,55,24,6,4,229.16666666666666,LE Plunkett,['BO Coad'],caught,LS Livingstone,2016-06-03,Yorkshire,Lancashire,0,Old Trafford
+3,LS Livingstone,9,10,1,0,90.0,SR Patel,['MH Wessels'],caught,LS Livingstone,2016-06-04,Lancashire,Nottinghamshire,0,Trent Bridge
+3,LS Livingstone,8,11,1,0,72.72727272727273,notOut,notOut,notOut,notOut,2016-06-19,Lancashire,Warwickshire,0,Edgbaston
+3,LS Livingstone,28,19,1,2,147.36842105263156,BL D'Oliveira,0,lbw,LS Livingstone,2016-06-24,Worcestershire,Lancashire,0,Old Trafford
+3,LS Livingstone,36,18,0,4,200.0,K Carver,['GS Ballance'],caught,LS Livingstone,2016-07-01,Lancashire,Yorkshire,0,Headingley
+3,LS Livingstone,7,13,0,0,53.84615384615385,DKH Mitchell,0,bowled,LS Livingstone,2016-07-08,Lancashire,Lancashire,0,"County Ground, New Road"
+3,LS Livingstone,16,12,1,1,133.33333333333331,JDS Neesham,['HR Hosein'],caught,LS Livingstone,2016-07-13,Lancashire,Derbyshire,0,County Ground
+3,LS Livingstone,10,8,1,0,125.0,RA Jones,['LJ Hill'],caught,LS Livingstone,2016-07-15,Lancashire,Leicestershire,0,Grace Road
+3,LS Livingstone,43,24,4,1,179.16666666666669,notOut,notOut,notOut,notOut,2016-07-22,Lancashire,Lancashire,0,Riverside Ground
+3,LS Livingstone,10,16,0,0,62.5,JS Patel,0,bowled,LS Livingstone,2016-07-29,Warwickshire,Lancashire,0,Old Trafford
+0,MJ Guptill,72,47,10,1,153.19148936170214,BJ McCarthy,['SG Borthwick'],caught,MJ Guptill,2016-05-27,Durham,Durham,0,Old Trafford
+0,MJ Guptill,13,13,2,0,100.0,TT Bresnan,['AZ Lees'],caught,MJ Guptill,2016-06-03,Yorkshire,Lancashire,0,Old Trafford
+0,MJ Guptill,28,18,4,1,155.55555555555557,HF Gurney,['GP Smith'],caught,MJ Guptill,2016-06-04,Lancashire,Nottinghamshire,0,Trent Bridge
+0,MJ Guptill,6,7,1,0,85.71428571428571,OJ Hannon-Dalby,['IR Bell'],caught,MJ Guptill,2016-06-19,Lancashire,Warwickshire,0,Edgbaston
+0,MJ Guptill,6,12,0,0,50.0,JD Shantry,['MJ Henry'],caught,MJ Guptill,2016-06-24,Worcestershire,Lancashire,0,Old Trafford
+7,N Wagner,7,4,1,0,175.0,notOut,notOut,notOut,notOut,2016-05-21,Derbyshire,Derbyshire,0,Old Trafford
+7,N Wagner,9,7,0,1,128.57142857142858,BJ McCarthy,['PD Collingwood'],run out,AM Lilley,2016-05-27,Durham,Durham,0,Old Trafford
+8,N Wagner,9,7,0,1,128.57142857142858,P Coughlin,['G Clark'],caught,N Wagner,2016-05-27,Durham,Durham,0,Old Trafford
+7,N Wagner,2,2,0,0,100.0,TT Bresnan,['JE Root'],caught,N Wagner,2016-06-03,Yorkshire,Lancashire,0,Old Trafford
+9,NL Buck,0,3,0,0,0.0,TT Bresnan,['A Lyth'],caught,NL Buck,2016-07-01,Lancashire,Yorkshire,0,Headingley
+10,NL Buck,0,1,0,0,0.0,notOut,notOut,notOut,notOut,2016-07-13,Lancashire,Derbyshire,0,County Ground
+9,SD Parry,6,7,0,0,85.71428571428571,notOut,notOut,notOut,notOut,2016-05-27,Durham,Durham,0,Old Trafford
+8,SD Parry,15,9,3,0,166.66666666666669,SA Patterson,['AJ Hodd'],caught,SD Parry,2016-07-01,Lancashire,Yorkshire,0,Headingley
+9,SD Parry,0,2,0,0,0.0,JDS Neesham,0,bowled,SD Parry,2016-07-13,Lancashire,Derbyshire,0,County Ground
+3,SJ Croft,31,35,1,1,88.57142857142857,JDS Neesham,0,lbw,SJ Croft,2016-05-21,Derbyshire,Derbyshire,0,Old Trafford
+4,SJ Croft,21,24,0,0,87.5,BJ McCarthy,['P Mustard'],caught,SJ Croft,2016-05-27,Durham,Durham,0,Old Trafford
+5,SJ Croft,9,8,0,0,112.5,notOut,notOut,notOut,notOut,2016-06-03,Yorkshire,Lancashire,0,Old Trafford
+5,SJ Croft,16,9,0,1,177.77777777777777,notOut,notOut,notOut,notOut,2016-06-04,Lancashire,Nottinghamshire,0,Trent Bridge
+5,SJ Croft,1,2,0,0,50.0,notOut,notOut,notOut,notOut,2016-06-19,Lancashire,Warwickshire,0,Edgbaston
+4,SJ Croft,4,3,0,0,133.33333333333331,J Leach,['DKH Mitchell'],caught,SJ Croft,2016-06-24,Worcestershire,Lancashire,0,Old Trafford
+4,SJ Croft,5,10,0,0,50.0,K Carver,['JA Leaning'],caught,SJ Croft,2016-07-01,Lancashire,Yorkshire,0,Headingley
+4,SJ Croft,23,20,1,0,114.99999999999999,notOut,notOut,notOut,notOut,2016-07-08,Lancashire,Lancashire,0,"County Ground, New Road"
+4,SJ Croft,27,20,1,1,135.0,JDS Neesham,['WL Madsen'],run out,LA Procter,2016-07-13,Lancashire,Derbyshire,0,County Ground
+5,SJ Croft,27,20,1,1,135.0,JDS Neesham,['MJJ Critchley'],caught,SJ Croft,2016-07-13,Lancashire,Derbyshire,0,County Ground
+4,SJ Croft,36,26,3,1,138.46153846153845,RJ Sayer,['RML Taylor'],caught,SJ Croft,2016-07-15,Lancashire,Leicestershire,0,Grace Road
+4,SJ Croft,24,18,3,0,133.33333333333331,notOut,notOut,notOut,notOut,2016-07-22,Lancashire,Lancashire,0,Riverside Ground
+4,SJ Croft,2,5,0,0,40.0,JE Poysden,0,bowled,SJ Croft,2016-07-29,Warwickshire,Lancashire,0,Old Trafford
+0,TC Smith,9,8,2,0,112.5,JDS Neesham,['CF Hughes'],caught,TC Smith,2016-05-21,Derbyshire,Derbyshire,0,Old Trafford
+5,TC Smith,9,15,0,0,60.0,notOut,notOut,notOut,notOut,2016-07-15,Lancashire,Leicestershire,0,Grace Road
+0,TC Smith,6,8,1,0,75.0,R Clarke,0,lbw,TC Smith,2016-07-29,Warwickshire,Lancashire,0,Old Trafford
+6,TJ Moores,13,14,2,0,92.85714285714286,notOut,notOut,notOut,notOut,2016-06-24,Worcestershire,Lancashire,0,Old Trafford
+7,TJ Moores,9,8,1,0,112.5,SA Patterson,['A Lyth'],caught,TJ Moores,2016-07-01,Lancashire,Yorkshire,0,Headingley
+8,TJ Moores,1,2,0,0,50.0,JDS Neesham,0,bowled,TJ Moores,2016-07-13,Lancashire,Derbyshire,0,County Ground
+5,TJ Moores,39,33,2,1,118.18181818181819,notOut,notOut,notOut,notOut,2016-07-29,Warwickshire,Lancashire,0,Old Trafford

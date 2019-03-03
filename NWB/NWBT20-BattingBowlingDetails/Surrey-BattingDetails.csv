@@ -1,0 +1,121 @@
+,batsman,runs,balls,4s,6s,SR,bowler,fielders,kind,player_out,date,team2,winner,result,venue
+1,AJ Finch,31,24,4,0,129.16666666666669,AJ Tye,['BAC Howell'],caught,AJ Finch,2016-07-06,Surrey,Gloucestershire,0,County Ground
+1,AJ Finch,51,27,5,3,188.88888888888889,MTC Waller,0,bowled,AJ Finch,2016-07-08,Somerset,Surrey,0,Kennington Oval
+1,AJ Finch,7,10,0,0,70.0,DA Griffiths,['K Rabada'],caught,AJ Finch,2016-07-15,Surrey,Kent,0,Nevill Ground
+1,AJ Finch,78,61,4,3,127.86885245901641,JK Fuller,['GJ Bailey'],caught,AJ Finch,2016-07-21,Surrey,Middlesex,0,Lord's
+1,AJ Finch,13,11,2,0,118.18181818181819,JC Archer,['WAT Beer'],caught,AJ Finch,2016-07-22,Sussex,Surrey,0,Kennington Oval
+1,AJ Finch,79,53,5,4,149.0566037735849,ME Claydon,['JL Denly'],caught,AJ Finch,2016-07-29,Kent,Surrey,0,Kennington Oval
+6,Azhar Mahmood,42,26,4,2,161.53846153846155,RS Bopara,['Ashar Zaidi'],caught,Azhar Mahmood,2016-05-20,Surrey,Surrey,0,County Ground
+6,Azhar Mahmood,0,3,0,0,0.0,CAJ Meschede,0,retired hurt,Azhar Mahmood,2016-05-26,Glamorgan,Glamorgan,0,Kennington Oval
+6,Azhar Mahmood,3,3,0,0,100.0,notOut,notOut,notOut,notOut,2016-07-21,Surrey,Middlesex,0,Lord's
+4,BT Foakes,9,13,0,0,69.23076923076923,ST Finn,['EJG Morgan'],caught,BT Foakes,2016-06-17,Middlesex,Surrey,0,Kennington Oval
+4,BT Foakes,7,9,0,0,77.77777777777779,CAJ Meschede,['AHT Donald'],run out,BT Foakes,2016-06-24,Surrey,Glamorgan,0,Sophia Gardens
+9,BT Foakes,7,6,0,0,116.66666666666667,GR Napier,['RS Bopara'],caught,BT Foakes,2016-06-25,Essex,Essex,0,Kennington Oval
+8,BT Foakes,5,5,0,0,100.0,AJ Tye,['GH Roderick'],run out,SM Curran,2016-07-06,Surrey,Gloucestershire,0,County Ground
+8,BT Foakes,8,5,1,0,160.0,L Gregory,['PD Trego'],caught,BT Foakes,2016-07-08,Somerset,Surrey,0,Kennington Oval
+4,BT Foakes,22,16,3,0,137.5,notOut,notOut,notOut,notOut,2016-07-22,Sussex,Surrey,0,Kennington Oval
+4,CH Morris,15,12,1,0,125.0,TMJ Smith,['LC Norwell'],caught,CH Morris,2016-07-06,Surrey,Gloucestershire,0,County Ground
+5,CH Morris,8,11,0,0,72.72727272727273,J Overton,0,caught and bowled,CH Morris,2016-07-08,Somerset,Surrey,0,Kennington Oval
+5,CH Morris,25,16,2,1,156.25,notOut,notOut,notOut,notOut,2016-07-15,Surrey,Kent,0,Nevill Ground
+4,CH Morris,25,19,0,2,131.57894736842107,RF Higgins,['JK Fuller'],caught,CH Morris,2016-07-21,Surrey,Middlesex,0,Lord's
+5,CH Morris,20,16,1,1,125.0,notOut,notOut,notOut,notOut,2016-07-22,Sussex,Surrey,0,Kennington Oval
+2,CH Morris,3,3,0,0,100.0,DA Griffiths,0,bowled,CH Morris,2016-07-29,Kent,Surrey,0,Kennington Oval
+3,DJ Bravo,30,15,0,4,200.0,CJ Jordan,['WAT Beer'],caught,DJ Bravo,2016-06-03,Surrey,Surrey,0,County Ground
+4,DJ Bravo,15,18,0,1,83.33333333333334,L Gregory,['RE van der Merwe'],caught,DJ Bravo,2016-06-10,Surrey,Somerset,0,County Ground
+5,DJ Bravo,7,10,1,0,70.0,OP Rayner,['ST Finn'],caught,DJ Bravo,2016-06-17,Middlesex,Surrey,0,Kennington Oval
+5,DJ Bravo,20,16,1,1,125.0,DA Cosker,['CB Cooke'],stumped,DJ Bravo,2016-06-24,Surrey,Glamorgan,0,Sophia Gardens
+6,DJ Bravo,20,20,0,1,100.0,MR Quinn,['RN ten Doeschate'],caught,DJ Bravo,2016-06-25,Essex,Essex,0,Kennington Oval
+3,DJ Bravo,3,7,0,0,42.857142857142854,RA Stevenson,['AJA Wheater'],caught,DJ Bravo,2016-07-01,Hampshire,Surrey,0,Kennington Oval
+1,DP Sibley,74,59,6,3,125.42372881355932,notOut,notOut,notOut,notOut,2016-06-10,Surrey,Somerset,0,County Ground
+1,DP Sibley,67,49,7,2,136.73469387755102,TL Best,['RA Stevenson'],caught,DP Sibley,2016-07-01,Hampshire,Surrey,0,Kennington Oval
+2,DP Sibley,32,37,0,1,86.48648648648648,AJ Tye,['TMJ Smith'],caught,DP Sibley,2016-07-06,Surrey,Gloucestershire,0,County Ground
+2,DP Sibley,20,22,1,0,90.9090909090909,JH Davey,['MTC Waller'],caught,DP Sibley,2016-07-08,Somerset,Surrey,0,Kennington Oval
+4,DP Sibley,14,16,0,0,87.5,JC Tredwell,['SW Billings'],stumped,DP Sibley,2016-07-15,Surrey,Kent,0,Nevill Ground
+2,DP Sibley,40,31,3,1,129.03225806451613,JC Archer,['LJ Wright'],caught,DP Sibley,2016-07-22,Sussex,Surrey,0,Kennington Oval
+3,GC Wilson,3,10,0,0,30.0,MW Dixon,['RN ten Doeschate'],caught,GC Wilson,2016-05-20,Surrey,Surrey,0,County Ground
+4,GC Wilson,5,11,0,0,45.45454545454545,T van der Gugten,0,bowled,GC Wilson,2016-05-26,Glamorgan,Glamorgan,0,Kennington Oval
+4,GC Wilson,1,1,0,0,100.0,notOut,notOut,notOut,notOut,2016-06-03,Surrey,Surrey,0,County Ground
+0,GC Wilson,6,7,1,0,85.71428571428571,T van der Gugten,['CB Cooke'],caught,GC Wilson,2016-06-24,Surrey,Glamorgan,0,Sophia Gardens
+0,GC Wilson,17,24,1,0,70.83333333333334,DW Lawrence,['Ashar Zaidi'],run out,KC Sangakkara,2016-06-25,Essex,Essex,0,Kennington Oval
+1,GC Wilson,17,24,1,0,70.83333333333334,DW Lawrence,['T Westley'],caught,GC Wilson,2016-06-25,Essex,Essex,0,Kennington Oval
+10,GJ Batty,3,5,0,0,60.0,notOut,notOut,notOut,notOut,2016-05-26,Glamorgan,Glamorgan,0,Kennington Oval
+9,GJ Batty,5,8,0,0,62.5,notOut,notOut,notOut,notOut,2016-06-24,Surrey,Glamorgan,0,Sophia Gardens
+9,GJ Batty,0,1,0,0,0.0,AJ Tye,['TMJ Smith'],caught,GJ Batty,2016-07-06,Surrey,Gloucestershire,0,County Ground
+9,GJ Batty,2,1,0,0,200.0,notOut,notOut,notOut,notOut,2016-07-08,Somerset,Surrey,0,Kennington Oval
+10,GJ Batty,2,1,0,0,200.0,notOut,notOut,notOut,notOut,2016-07-15,Surrey,Kent,0,Nevill Ground
+9,JE Burke,1,1,0,0,100.0,notOut,notOut,notOut,notOut,2016-05-20,Surrey,Surrey,0,County Ground
+8,JE Burke,0,3,0,0,0.0,T van der Gugten,0,lbw,JE Burke,2016-05-26,Glamorgan,Glamorgan,0,Kennington Oval
+0,JJ Roy,25,16,5,0,156.25,MR Quinn,['RS Bopara'],caught,JJ Roy,2016-05-20,Surrey,Surrey,0,County Ground
+0,JJ Roy,15,14,2,0,107.14285714285714,MG Hogan,['CA Ingram'],caught,JJ Roy,2016-05-26,Glamorgan,Glamorgan,0,Kennington Oval
+0,JJ Roy,109,67,16,1,162.6865671641791,CJ Jordan,['MW Machan'],caught,JJ Roy,2016-06-03,Surrey,Surrey,0,County Ground
+0,JJ Roy,28,18,5,0,155.55555555555557,C Overton,['RE van der Merwe'],caught,JJ Roy,2016-06-10,Surrey,Somerset,0,County Ground
+0,JJ Roy,35,19,3,2,184.21052631578948,MJ McClenaghan,['OP Rayner'],caught,JJ Roy,2016-06-17,Middlesex,Surrey,0,Kennington Oval
+0,JJ Roy,9,10,1,0,90.0,DJG Sammy,['LD McManus'],caught,JJ Roy,2016-07-01,Hampshire,Surrey,0,Kennington Oval
+0,JJ Roy,11,12,2,0,91.66666666666666,MD Taylor,['BAC Howell'],caught,JJ Roy,2016-07-06,Surrey,Gloucestershire,0,County Ground
+0,JJ Roy,5,9,0,0,55.55555555555556,JH Davey,['RE van der Merwe'],caught,JJ Roy,2016-07-08,Somerset,Surrey,0,Kennington Oval
+0,JJ Roy,52,29,5,4,179.31034482758622,DI Stevens,['K Rabada'],caught,JJ Roy,2016-07-15,Surrey,Kent,0,Nevill Ground
+0,JJ Roy,50,26,6,2,192.30769230769232,JEC Franklin,['GJ Bailey'],caught,JJ Roy,2016-07-21,Surrey,Middlesex,0,Lord's
+0,JJ Roy,36,25,6,1,144.0,DR Briggs,0,bowled,JJ Roy,2016-07-22,Sussex,Surrey,0,Kennington Oval
+0,JJ Roy,120,64,15,3,187.5,ME Claydon,['MT Coles'],run out,SM Curran,2016-07-29,Kent,Surrey,0,Kennington Oval
+10,JW Dernbach,1,1,0,0,100.0,notOut,notOut,notOut,notOut,2016-07-06,Surrey,Gloucestershire,0,County Ground
+2,KC Sangakkara,32,16,6,1,200.0,MR Quinn,['Wahab Riaz'],caught,KC Sangakkara,2016-05-20,Surrey,Surrey,0,County Ground
+2,KC Sangakkara,2,4,0,0,50.0,T van der Gugten,['CB Cooke'],caught,KC Sangakkara,2016-05-26,Glamorgan,Glamorgan,0,Kennington Oval
+2,KC Sangakkara,54,31,6,1,174.19354838709677,A Shahzad,0,lbw,KC Sangakkara,2016-06-03,Surrey,Surrey,0,County Ground
+2,KC Sangakkara,37,19,7,0,194.73684210526315,Yasir Arafat,['CH Gayle'],caught,KC Sangakkara,2016-06-10,Surrey,Somerset,0,County Ground
+2,KC Sangakkara,27,25,2,0,108.0,OP Rayner,['TS Roland-Jones'],run out,RJ Burns,2016-06-17,Middlesex,Surrey,0,Kennington Oval
+3,KC Sangakkara,27,25,2,0,108.0,OP Rayner,['JA Simpson'],stumped,KC Sangakkara,2016-06-17,Middlesex,Surrey,0,Kennington Oval
+2,KC Sangakkara,2,5,0,0,40.0,MG Hogan,['CB Cooke'],caught,KC Sangakkara,2016-06-24,Surrey,Glamorgan,0,Sophia Gardens
+3,KC Sangakkara,1,2,0,0,50.0,notOut,notOut,notOut,notOut,2016-06-25,Essex,Essex,0,Kennington Oval
+2,KC Sangakkara,72,35,9,2,205.7142857142857,DJG Sammy,['MS Crane'],caught,KC Sangakkara,2016-07-01,Hampshire,Surrey,0,Kennington Oval
+8,MW Pillans,11,11,0,1,100.0,notOut,notOut,notOut,notOut,2016-05-20,Surrey,Surrey,0,County Ground
+9,MW Pillans,13,18,2,0,72.22222222222221,DA Cosker,0,bowled,MW Pillans,2016-05-26,Glamorgan,Glamorgan,0,Kennington Oval
+10,R Rampaul,6,6,1,0,100.0,GG Wagg,['JA Rudolph'],caught,R Rampaul,2016-06-24,Surrey,Glamorgan,0,Sophia Gardens
+4,RJ Burns,5,7,0,0,71.42857142857143,Wahab Riaz,['GR Napier'],caught,RJ Burns,2016-05-20,Surrey,Surrey,0,County Ground
+3,RJ Burns,1,4,0,0,25.0,MTC Waller,['C Overton'],caught,RJ Burns,2016-06-10,Surrey,Somerset,0,County Ground
+3,RJ Burns,22,19,3,0,115.78947368421053,CAJ Meschede,['CB Cooke'],caught,RJ Burns,2016-06-24,Surrey,Glamorgan,0,Sophia Gardens
+4,RJ Burns,11,10,2,0,110.00000000000001,GR Napier,['T Westley'],caught,RJ Burns,2016-06-25,Essex,Essex,0,Kennington Oval
+4,RJ Burns,16,10,1,1,160.0,notOut,notOut,notOut,notOut,2016-07-01,Hampshire,Surrey,0,Kennington Oval
+3,RJ Burns,1,2,0,0,50.0,K Noema-Barnett,0,lbw,RJ Burns,2016-07-06,Surrey,Gloucestershire,0,County Ground
+3,RJ Burns,11,10,0,0,110.00000000000001,MTC Waller,['MA Leask'],run out,RJ Burns,2016-07-08,Somerset,Surrey,0,Kennington Oval
+6,RJ Burns,10,10,1,0,100.0,K Rabada,0,bowled,RJ Burns,2016-07-15,Surrey,Kent,0,Nevill Ground
+3,RJ Burns,15,11,0,1,136.36363636363635,NA Sowter,['JA Simpson'],caught,RJ Burns,2016-07-21,Surrey,Middlesex,0,Lord's
+3,RJ Burns,13,13,1,0,100.0,CJ Jordan,['Mustafizur Rahman'],caught,RJ Burns,2016-07-22,Sussex,Surrey,0,Kennington Oval
+5,SM Curran,6,11,1,0,54.54545454545454,MR Quinn,['RN ten Doeschate'],caught,SM Curran,2016-05-20,Surrey,Surrey,0,County Ground
+5,SM Curran,21,20,4,0,105.0,CAJ Meschede,['DL Lloyd'],caught,SM Curran,2016-05-26,Glamorgan,Glamorgan,0,Kennington Oval
+7,SM Curran,8,9,1,0,88.88888888888889,MJ McClenaghan,['DJ Malan'],caught,SM Curran,2016-06-17,Middlesex,Surrey,0,Kennington Oval
+7,SM Curran,5,15,0,0,33.33333333333333,DW Steyn,0,bowled,SM Curran,2016-06-24,Surrey,Glamorgan,0,Sophia Gardens
+7,SM Curran,32,34,1,1,94.11764705882352,MR Quinn,0,bowled,SM Curran,2016-06-25,Essex,Essex,0,Kennington Oval
+7,SM Curran,20,8,2,1,250.0,notOut,notOut,notOut,notOut,2016-07-06,Surrey,Gloucestershire,0,County Ground
+6,SM Curran,18,19,0,0,94.73684210526315,JH Davey,['JH Davey'],run out,SM Curran,2016-07-08,Somerset,Surrey,0,Kennington Oval
+7,SM Curran,19,14,2,1,135.71428571428572,ME Claydon,['AJ Ball'],run out,CH Morris,2016-07-15,Surrey,Kent,0,Nevill Ground
+8,SM Curran,19,14,2,1,135.71428571428572,ME Claydon,0,bowled,SM Curran,2016-07-15,Surrey,Kent,0,Nevill Ground
+5,SM Curran,4,4,1,0,100.0,JK Fuller,['PR Stirling'],caught,SM Curran,2016-07-21,Surrey,Middlesex,0,Lord's
+4,SM Curran,1,2,0,0,50.0,notOut,notOut,notOut,notOut,2016-07-29,Kent,Surrey,0,Kennington Oval
+1,SM Davies,1,6,0,0,16.666666666666664,MR Quinn,['RN ten Doeschate'],caught,SM Davies,2016-05-20,Surrey,Surrey,0,County Ground
+1,SM Davies,11,8,2,0,137.5,T van der Gugten,['CAJ Meschede'],caught,SM Davies,2016-05-26,Glamorgan,Glamorgan,0,Kennington Oval
+1,SM Davies,3,6,0,0,50.0,TS Mills,['MW Machan'],caught,SM Davies,2016-06-03,Surrey,Surrey,0,County Ground
+1,SM Davies,14,13,2,0,107.6923076923077,OP Rayner,['NRT Gubbins'],caught,SM Davies,2016-06-17,Middlesex,Surrey,0,Kennington Oval
+1,SM Davies,14,12,2,0,116.66666666666667,DW Steyn,['CB Cooke'],caught,SM Davies,2016-06-24,Surrey,Glamorgan,0,Sophia Gardens
+2,SM Davies,5,5,1,0,100.0,DW Lawrence,['KS Velani'],caught,SM Davies,2016-06-25,Essex,Essex,0,Kennington Oval
+2,SM Davies,23,15,2,1,153.33333333333334,JC Tredwell,0,bowled,SM Davies,2016-07-15,Surrey,Kent,0,Nevill Ground
+2,SM Davies,5,3,1,0,166.66666666666669,NA Sowter,['RF Higgins'],caught,SM Davies,2016-07-21,Surrey,Middlesex,0,Lord's
+7,TK Curran,32,26,4,0,123.07692307692308,GR Napier,0,bowled,TK Curran,2016-05-20,Surrey,Surrey,0,County Ground
+7,TK Curran,20,19,3,0,105.26315789473684,DA Cosker,['CAJ Meschede'],caught,TK Curran,2016-05-26,Glamorgan,Glamorgan,0,Kennington Oval
+5,TK Curran,4,2,0,0,200.0,notOut,notOut,notOut,notOut,2016-06-03,Surrey,Surrey,0,County Ground
+8,TK Curran,22,10,3,1,220.00000000000003,notOut,notOut,notOut,notOut,2016-06-17,Middlesex,Surrey,0,Kennington Oval
+8,TK Curran,12,18,1,0,66.66666666666666,GG Wagg,['MG Hogan'],caught,TK Curran,2016-06-24,Surrey,Glamorgan,0,Sophia Gardens
+8,TK Curran,9,11,0,0,81.81818181818183,GR Napier,['RS Bopara'],caught,TK Curran,2016-06-25,Essex,Essex,0,Kennington Oval
+5,TK Curran,4,3,1,0,133.33333333333331,RA Stevenson,['AJA Wheater'],caught,TK Curran,2016-07-01,Hampshire,Surrey,0,Kennington Oval
+6,TK Curran,16,8,2,0,200.0,MD Taylor,['GH Roderick'],caught,TK Curran,2016-07-06,Surrey,Gloucestershire,0,County Ground
+7,TK Curran,10,11,1,0,90.9090909090909,notOut,notOut,notOut,notOut,2016-07-08,Somerset,Surrey,0,Kennington Oval
+3,TK Curran,12,7,2,0,171.42857142857142,JC Tredwell,0,bowled,TK Curran,2016-07-15,Surrey,Kent,0,Nevill Ground
+3,TK Curran,4,2,1,0,200.0,DA Griffiths,0,bowled,TK Curran,2016-07-29,Kent,Surrey,0,Kennington Oval
+3,ZS Ansari,0,2,0,0,0.0,CAJ Meschede,['CB Cooke'],caught,ZS Ansari,2016-05-26,Glamorgan,Glamorgan,0,Kennington Oval
+5,ZS Ansari,15,9,0,1,166.66666666666669,notOut,notOut,notOut,notOut,2016-06-10,Surrey,Somerset,0,County Ground
+6,ZS Ansari,34,28,4,0,121.42857142857142,notOut,notOut,notOut,notOut,2016-06-17,Middlesex,Surrey,0,Kennington Oval
+6,ZS Ansari,3,7,0,0,42.857142857142854,DA Cosker,0,caught and bowled,ZS Ansari,2016-06-24,Surrey,Glamorgan,0,Sophia Gardens
+5,ZS Ansari,9,11,0,0,81.81818181818183,Ashar Zaidi,['GR Napier'],caught,ZS Ansari,2016-06-25,Essex,Essex,0,Kennington Oval
+6,ZS Ansari,11,9,0,1,122.22222222222223,notOut,notOut,notOut,notOut,2016-07-01,Hampshire,Surrey,0,Kennington Oval
+5,ZS Ansari,14,12,1,0,116.66666666666667,MD Taylor,0,bowled,ZS Ansari,2016-07-06,Surrey,Gloucestershire,0,County Ground
+4,ZS Ansari,10,10,0,0,100.0,JH Davey,['J Overton'],caught,ZS Ansari,2016-07-08,Somerset,Surrey,0,Kennington Oval
+9,ZS Ansari,8,6,0,0,133.33333333333331,notOut,notOut,notOut,notOut,2016-07-15,Surrey,Kent,0,Nevill Ground

@@ -1,0 +1,607 @@
+bowler,overs,runs,maidens,wicket,econrate,date,team2,winner,result,venue
+A Das,3,24,0,1,8.0,2012-06-26,India,England,0,St Lawrence Ground
+A Das,3,29,0,0,9.666666666666666,2012-06-28,India,England,0,County Ground
+A Das,3,13,0,0,4.333333333333333,2012-09-27,India,Australia,0,Galle International Stadium
+A Das,2,18,0,0,9.0,2012-09-29,India,England,0,Galle International Stadium
+A Das,4,12,0,3,3.0,2012-10-28,Pakistan,India,0,Guanggong International Cricket Stadium
+A Das,4,12,0,2,3.0,2012-10-31,Pakistan,India,0,Guanggong International Cricket Stadium
+A Das,3,20,0,1,6.666666666666667,2014-03-24,Sri Lanka,Sri Lanka,0,Sylhet Stadium
+A Das,2,10,0,0,5.0,2014-03-30,India,India,0,Sylhet Stadium
+A Das,3,18,0,2,6.0,2014-04-01,West Indies,India,0,Sylhet Stadium
+A Mishra,4,21,0,1,5.25,2010-06-13,India,India,0,Harare Sports Club
+A Mishra,4,22,1,2,5.5,2014-03-21,Pakistan,India,0,Shere Bangla National Stadium
+A Mishra,4,18,0,3,4.5,2014-03-23,West Indies,India,0,Shere Bangla National Stadium
+A Mishra,4,26,0,3,6.5,2014-03-28,India,India,0,Shere Bangla National Stadium
+A Mishra,3,13,0,2,4.333333333333333,2014-03-30,India,India,0,Shere Bangla National Stadium
+A Mishra,3,36,0,0,12.0,2014-04-04,South Africa,India,0,Shere Bangla National Stadium
+A Mishra,4,32,0,1,8.0,2014-04-06,Sri Lanka,Sri Lanka,0,Shere Bangla National Stadium
+A Mishra,4,24,0,3,6.0,2016-08-28,West Indies,0,0,Central Broward Regional Park Stadium Turf Ground
+A Mishra,4,25,0,1,6.25,2017-01-29,England,India,0,"Vidarbha Cricket Association Stadium, Jamtha"
+A Mishra,4,23,0,1,5.75,2017-02-01,England,India,0,M Chinnaswamy Stadium
+A Nehra,4,52,0,1,13.0,2009-12-09,Sri Lanka,Sri Lanka,0,"Vidarbha Cricket Association Stadium, Jamtha"
+A Nehra,3,44,0,0,14.666666666666666,2009-12-12,Sri Lanka,India,0,"Punjab Cricket Association Stadium, Mohali"
+A Nehra,4,19,0,4,4.75,2010-05-01,India,India,0,"Beausejour Stadium, Gros Islet"
+A Nehra,4,27,0,1,6.75,2010-05-02,South Africa,India,0,"Beausejour Stadium, Gros Islet"
+A Nehra,4,31,0,2,7.75,2010-05-07,India,Australia,0,"Kensington Oval, Bridgetown"
+A Nehra,4,35,0,4,8.75,2010-05-09,India,West Indies,0,"Kensington Oval, Bridgetown"
+A Nehra,4,44,0,2,11.0,2010-05-11,Sri Lanka,Sri Lanka,0,"Beausejour Stadium, Gros Islet"
+A Nehra,4,22,0,2,5.5,2011-01-09,India,India,0,Moses Mabhida Stadium
+A Nehra,4,30,0,1,7.5,2016-01-26,India,India,0,Adelaide Oval
+A Nehra,4,34,0,0,8.5,2016-01-29,India,India,0,Melbourne Cricket Ground
+A Nehra,4,32,0,1,8.0,2016-01-31,India,India,0,Sydney Cricket Ground
+A Nehra,3,21,0,2,7.0,2016-02-09,Sri Lanka,Sri Lanka,0,Maharashtra Cricket Association Stadium
+A Nehra,3,26,0,2,8.666666666666666,2016-02-12,Sri Lanka,India,0,JSCA International Stadium Complex
+A Nehra,2,17,0,1,8.5,2016-02-14,Sri Lanka,India,0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+A Nehra,4,23,0,3,5.75,2016-02-24,India,India,0,Shere Bangla National Stadium
+A Nehra,3,20,0,1,6.666666666666667,2016-02-27,Pakistan,India,0,Shere Bangla National Stadium
+A Nehra,4,23,0,2,5.75,2016-03-01,Sri Lanka,India,0,Shere Bangla National Stadium
+A Nehra,3,33,0,1,11.0,2016-03-06,India,India,0,Shere Bangla National Stadium
+A Nehra,3,20,1,2,6.666666666666667,2016-03-15,New Zealand,New Zealand,0,"Vidarbha Cricket Association Stadium, Jamtha"
+A Nehra,4,29,0,1,7.25,2016-03-23,Bangladesh,India,0,M Chinnaswamy Stadium
+A Nehra,4,20,0,1,5.0,2016-03-27,Australia,India,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+A Nehra,4,24,0,1,6.0,2016-03-31,West Indies,West Indies,0,Wankhede Stadium
+A Nehra,3,31,0,0,10.333333333333334,2017-01-26,England,England,0,Green Park
+A Nehra,4,28,0,3,7.0,2017-01-29,England,India,0,"Vidarbha Cricket Association Stadium, Jamtha"
+A Nehra,3,24,1,0,8.0,2017-02-01,England,India,0,M Chinnaswamy Stadium
+A Sharma,4,21,0,3,5.25,2009-06-18,New Zealand,New Zealand,0,Trent Bridge
+A Sharma,1,11,0,0,11.0,2010-05-13,India,Australia,0,"Beausejour Stadium, Gros Islet"
+A Sharma,3,18,0,2,6.0,2011-06-26,India,England,0,County Ground
+A Sharma,4,36,0,0,9.0,2012-06-26,India,England,0,St Lawrence Ground
+A Sharma,2,11,0,0,5.5,2012-06-28,India,England,0,County Ground
+AA Patil,3,21,0,0,7.0,2012-09-29,India,England,0,Galle International Stadium
+AA Patil,2,16,0,2,8.0,2012-10-01,Pakistan,Pakistan,0,Galle International Stadium
+AA Patil,4,20,0,1,5.0,2012-10-03,India,India,0,Nondescripts Cricket Club Ground
+AA Patil,2,16,0,1,8.0,2012-10-28,Pakistan,India,0,Guanggong International Cricket Stadium
+AA Patil,2,5,0,1,2.5,2012-10-31,Pakistan,India,0,Guanggong International Cricket Stadium
+AA Patil,4,16,0,2,4.0,2016-03-15,Bangladesh,India,0,M Chinnaswamy Stadium
+AA Patil,3,14,0,0,4.666666666666667,2016-03-19,Pakistan,Pakistan,0,Feroz Shah Kotla
+AA Patil,4,22,0,0,5.5,2016-03-22,England,England,0,Himachal Pradesh Cricket Association Stadium
+AA Patil,4,16,0,3,4.0,2016-03-27,West Indies,West Indies,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+AA Patil,4,18,0,1,4.5,2016-12-04,Pakistan,India,0,Asian Institute of Technology Ground
+AB Agarkar,2,10,1,2,5.0,2006-12-01,India,India,0,New Wanderers Stadium
+AB Agarkar,4,35,0,1,8.75,2007-09-14,Pakistan,0,0,Kingsmead
+AB Agarkar,4,40,0,0,10.0,2007-09-16,New Zealand,New Zealand,0,New Wanderers Stadium
+AB Dinda,3,34,0,1,11.333333333333334,2009-12-09,Sri Lanka,Sri Lanka,0,"Vidarbha Cricket Association Stadium, Jamtha"
+AB Dinda,3,27,0,2,9.0,2010-06-12,India,India,0,Harare Sports Club
+AB Dinda,4,15,0,2,3.75,2010-06-13,India,India,0,Harare Sports Club
+AB Dinda,3,19,1,4,6.333333333333333,2012-08-07,India,India,0,Pallekele International Cricket Stadium
+AB Dinda,2,26,0,1,13.0,2012-09-23,India,India,0,R Premadasa Stadium
+AB Dinda,3,18,0,2,6.0,2012-12-20,England,India,0,Subrata Roy Sahara Stadium
+AB Dinda,4,44,0,1,11.0,2012-12-22,England,England,0,Wankhede Stadium
+AB Dinda,4,26,0,1,6.5,2012-12-25,Pakistan,Pakistan,0,M Chinnaswamy Stadium
+AB Dinda,4,36,0,3,9.0,2012-12-28,Pakistan,India,0,"Sardar Patel Stadium, Motera"
+AR Patel,4,17,0,3,4.25,2015-07-17,India,India,0,Harare Sports Club
+AR Patel,4,23,0,1,5.75,2015-07-19,India,Zimbabwe,0,Harare Sports Club
+AR Patel,4,45,0,0,11.25,2015-10-02,South Africa,South Africa,0,Himachal Pradesh Cricket Association Stadium
+AR Patel,3,17,0,1,5.666666666666667,2015-10-05,South Africa,South Africa,0,Barabati Stadium
+AR Patel,4,18,0,2,4.5,2016-06-18,India,Zimbabwe,0,Harare Sports Club
+AR Patel,4,23,0,0,5.75,2016-06-20,India,India,0,Harare Sports Club
+AR Patel,4,18,0,1,4.5,2016-06-22,India,India,0,Harare Sports Club
+B Kumar,4,9,0,3,2.25,2012-12-25,Pakistan,Pakistan,0,M Chinnaswamy Stadium
+B Kumar,4,46,0,1,11.5,2012-12-28,Pakistan,India,0,"Sardar Patel Stadium, Motera"
+B Kumar,4,35,0,3,8.75,2013-10-10,Australia,India,0,Saurashtra Cricket Association Stadium
+B Kumar,3,21,0,2,7.0,2014-03-21,Pakistan,India,0,Shere Bangla National Stadium
+B Kumar,3,3,0,0,1.0,2014-03-23,West Indies,India,0,Shere Bangla National Stadium
+B Kumar,3,21,0,1,7.0,2014-03-28,India,India,0,Shere Bangla National Stadium
+B Kumar,3,7,0,1,2.3333333333333335,2014-03-30,India,India,0,Shere Bangla National Stadium
+B Kumar,4,33,0,1,8.25,2014-04-04,South Africa,India,0,Shere Bangla National Stadium
+B Kumar,3,18,0,0,6.0,2014-04-06,Sri Lanka,Sri Lanka,0,Shere Bangla National Stadium
+B Kumar,4,22,0,0,5.5,2015-07-17,India,India,0,Harare Sports Club
+B Kumar,4,26,0,2,6.5,2015-07-19,India,Zimbabwe,0,Harare Sports Club
+B Kumar,4,40,0,0,10.0,2015-10-02,South Africa,South Africa,0,Himachal Pradesh Cricket Association Stadium
+B Kumar,2,13,0,0,6.5,2015-10-05,South Africa,South Africa,0,Barabati Stadium
+B Kumar,4,8,2,3,2.0,2016-03-03,United Arab Emirates,India,0,Shere Bangla National Stadium
+B Kumar,4,43,0,0,10.75,2016-08-27,West Indies,West Indies,0,Central Broward Regional Park Stadium Turf Ground
+B Kumar,4,36,0,1,9.0,2016-08-28,West Indies,0,0,Central Broward Regional Park Stadium Turf Ground
+B Kumar,4,27,0,0,6.75,2017-07-09,India,West Indies,0,"Sabina Park, Kingston"
+BB Sran,4,10,0,4,2.5,2016-06-20,India,India,0,Harare Sports Club
+BB Sran,4,31,1,2,7.75,2016-06-22,India,India,0,Harare Sports Club
+DP David,4,15,0,0,3.75,2010-05-13,India,Australia,0,"Beausejour Stadium, Gros Islet"
+DP David,3,19,0,1,6.333333333333333,2011-06-26,India,England,0,County Ground
+DS Kulkarni,4,32,0,1,8.0,2016-06-20,India,India,0,Harare Sports Club
+DS Kulkarni,4,23,0,2,5.75,2016-06-22,India,India,0,Harare Sports Club
+E Bisht,4,17,0,1,4.25,2012-06-28,India,England,0,County Ground
+E Bisht,3,17,0,0,5.666666666666667,2012-09-27,India,Australia,0,Galle International Stadium
+E Bisht,3,20,0,0,6.666666666666667,2012-09-29,India,England,0,Galle International Stadium
+E Bisht,4,16,0,4,4.0,2012-10-03,India,India,0,Nondescripts Cricket Club Ground
+E Bisht,4,22,0,1,5.5,2012-10-28,Pakistan,India,0,Guanggong International Cricket Stadium
+E Bisht,4,9,0,1,2.25,2012-10-31,Pakistan,India,0,Guanggong International Cricket Stadium
+E Bisht,4,21,0,4,5.25,2016-03-22,England,England,0,Himachal Pradesh Cricket Association Stadium
+E Bisht,4,12,1,1,3.0,2016-03-27,West Indies,West Indies,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+E Bisht,4,22,0,2,5.5,2016-12-04,Pakistan,India,0,Asian Institute of Technology Ground
+G Sultana,3,28,0,0,9.333333333333334,2009-06-18,New Zealand,New Zealand,0,Trent Bridge
+G Sultana,3,28,0,0,9.333333333333334,2010-05-13,India,Australia,0,"Beausejour Stadium, Gros Islet"
+G Sultana,4,28,0,1,7.0,2011-06-26,India,England,0,County Ground
+G Sultana,4,21,0,2,5.25,2012-06-26,India,England,0,St Lawrence Ground
+G Sultana,2,20,0,0,10.0,2012-06-28,India,England,0,County Ground
+G Sultana,4,25,0,1,6.25,2014-03-24,Sri Lanka,Sri Lanka,0,Sylhet Stadium
+G Sultana,4,14,0,0,3.5,2014-03-26,India,England,0,Sylhet Stadium
+G Sultana,4,14,0,0,3.5,2014-03-30,India,India,0,Sylhet Stadium
+G Sultana,2,17,0,0,8.5,2014-04-01,West Indies,India,0,Sylhet Stadium
+G Sultana,4,26,0,0,6.5,2014-04-02,Pakistan,India,0,Sylhet Stadium
+H Kaur,1,14,0,0,14.0,2009-06-18,New Zealand,New Zealand,0,Trent Bridge
+H Kaur,2,18,0,0,9.0,2012-06-26,India,England,0,St Lawrence Ground
+H Kaur,2,12,0,2,6.0,2014-03-24,Sri Lanka,Sri Lanka,0,Sylhet Stadium
+H Kaur,1,9,0,0,9.0,2014-03-26,India,England,0,Sylhet Stadium
+H Kaur,3,12,0,2,4.0,2014-04-01,West Indies,India,0,Sylhet Stadium
+H Kaur,2,6,0,0,3.0,2016-03-15,Bangladesh,India,0,M Chinnaswamy Stadium
+H Kaur,2,9,0,1,4.5,2016-03-19,Pakistan,Pakistan,0,Feroz Shah Kotla
+H Kaur,4,22,0,3,5.5,2016-03-22,England,England,0,Himachal Pradesh Cricket Association Stadium
+H Kaur,3,23,0,4,7.666666666666667,2016-03-27,West Indies,West Indies,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+H Kaur,2,8,0,0,4.0,2016-12-04,Pakistan,India,0,Asian Institute of Technology Ground
+HH Pandya,4,37,0,2,9.25,2016-01-26,India,India,0,Adelaide Oval
+HH Pandya,2,17,0,1,8.5,2016-01-29,India,India,0,Melbourne Cricket Ground
+HH Pandya,2,24,0,0,12.0,2016-01-31,India,India,0,Sydney Cricket Ground
+HH Pandya,3,18,0,0,6.0,2016-02-09,Sri Lanka,Sri Lanka,0,Maharashtra Cricket Association Stadium
+HH Pandya,1,5,0,0,5.0,2016-02-12,Sri Lanka,India,0,JSCA International Stadium Complex
+HH Pandya,2,13,0,0,6.5,2016-02-14,Sri Lanka,India,0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+HH Pandya,4,23,0,1,5.75,2016-02-24,India,India,0,Shere Bangla National Stadium
+HH Pandya,3,8,1,3,2.6666666666666665,2016-02-27,Pakistan,India,0,Shere Bangla National Stadium
+HH Pandya,4,26,0,2,6.5,2016-03-01,Sri Lanka,India,0,Shere Bangla National Stadium
+HH Pandya,3,11,1,1,3.6666666666666665,2016-03-03,United Arab Emirates,India,0,Shere Bangla National Stadium
+HH Pandya,3,35,0,0,11.666666666666666,2016-03-06,India,India,0,Shere Bangla National Stadium
+HH Pandya,1,10,0,0,10.0,2016-03-15,New Zealand,New Zealand,0,"Vidarbha Cricket Association Stadium, Jamtha"
+HH Pandya,3,29,0,3,9.666666666666666,2016-03-23,Bangladesh,India,0,M Chinnaswamy Stadium
+HH Pandya,4,36,0,2,9.0,2016-03-27,Australia,India,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+HH Pandya,4,43,0,0,10.75,2016-03-31,West Indies,West Indies,0,Wankhede Stadium
+HH Pandya,2,12,0,0,6.0,2017-01-26,England,England,0,Green Park
+HH Pandya,2,17,0,0,8.5,2017-02-01,England,India,0,M Chinnaswamy Stadium
+Harbhajan Singh,3,22,0,2,7.333333333333333,2006-12-01,India,India,0,New Wanderers Stadium
+Harbhajan Singh,4,32,0,1,8.0,2007-09-14,Pakistan,0,0,Kingsmead
+Harbhajan Singh,4,24,0,3,6.0,2007-09-16,New Zealand,New Zealand,0,New Wanderers Stadium
+Harbhajan Singh,4,35,0,1,8.75,2007-09-19,India,India,0,Kingsmead
+Harbhajan Singh,4,31,0,2,7.75,2007-09-20,India,India,0,Kingsmead
+Harbhajan Singh,4,24,0,1,6.0,2007-09-22,India,India,0,Kingsmead
+Harbhajan Singh,3,36,0,0,12.0,2007-09-24,Pakistan,India,0,New Wanderers Stadium
+Harbhajan Singh,4,17,0,2,4.25,2007-10-20,Australia,India,0,Brabourne Stadium
+Harbhajan Singh,2,7,0,0,3.5,2008-02-01,India,Australia,0,Melbourne Cricket Ground
+Harbhajan Singh,4,19,0,1,4.75,2009-02-25,India,New Zealand,0,AMI Stadium
+Harbhajan Singh,4,15,0,1,3.75,2009-02-27,India,New Zealand,0,Westpac Stadium
+Harbhajan Singh,4,25,0,0,6.25,2009-06-06,India,India,0,Trent Bridge
+Harbhajan Singh,4,25,0,1,6.25,2009-06-10,Ireland,India,0,Trent Bridge
+Harbhajan Singh,4,31,1,0,7.75,2009-06-12,West Indies,West Indies,0,Lord's
+Harbhajan Singh,4,30,0,3,7.5,2009-06-14,India,England,0,Lord's
+Harbhajan Singh,4,20,0,1,5.0,2009-06-16,South Africa,South Africa,0,Trent Bridge
+Harbhajan Singh,4,24,0,0,6.0,2010-05-01,India,India,0,"Beausejour Stadium, Gros Islet"
+Harbhajan Singh,4,33,0,0,8.25,2010-05-02,South Africa,India,0,"Beausejour Stadium, Gros Islet"
+Harbhajan Singh,4,15,1,0,3.75,2010-05-07,India,Australia,0,"Kensington Oval, Bridgetown"
+Harbhajan Singh,4,16,0,0,4.0,2010-05-09,India,West Indies,0,"Kensington Oval, Bridgetown"
+Harbhajan Singh,4,35,0,0,8.75,2010-05-11,Sri Lanka,Sri Lanka,0,"Beausejour Stadium, Gros Islet"
+Harbhajan Singh,4,25,0,2,6.25,2011-06-04,India,India,0,"Queen's Park Oval, Port of Spain"
+Harbhajan Singh,4,12,2,4,3.0,2012-09-23,India,India,0,R Premadasa Stadium
+Harbhajan Singh,2,20,0,0,10.0,2012-09-28,India,Australia,0,R Premadasa Stadium
+Harbhajan Singh,4,29,0,2,7.25,2015-07-17,India,India,0,Harare Sports Club
+Harbhajan Singh,4,20,0,0,5.0,2015-10-05,South Africa,South Africa,0,Barabati Stadium
+Harbhajan Singh,4,11,1,1,2.75,2016-03-03,United Arab Emirates,India,0,Shere Bangla National Stadium
+I Sharma,1,8,0,0,8.0,2008-02-01,India,Australia,0,Melbourne Cricket Ground
+I Sharma,4,40,0,1,10.0,2009-02-10,India,India,0,R Premadasa Stadium
+I Sharma,4,35,0,1,8.75,2009-02-25,India,New Zealand,0,AMI Stadium
+I Sharma,2,19,0,0,9.5,2009-02-27,India,New Zealand,0,Westpac Stadium
+I Sharma,4,34,0,2,8.5,2009-06-06,India,India,0,Trent Bridge
+I Sharma,3,18,0,0,6.0,2009-06-10,Ireland,India,0,Trent Bridge
+I Sharma,3,31,0,0,10.333333333333334,2009-06-12,West Indies,West Indies,0,Lord's
+I Sharma,4,36,0,0,9.0,2009-06-14,India,England,0,Lord's
+I Sharma,1,6,0,0,6.0,2009-06-16,South Africa,South Africa,0,Trent Bridge
+I Sharma,4,22,0,0,5.5,2009-12-09,Sri Lanka,Sri Lanka,0,"Vidarbha Cricket Association Stadium, Jamtha"
+I Sharma,4,42,0,2,10.5,2009-12-12,Sri Lanka,India,0,"Punjab Cricket Association Stadium, Mohali"
+I Sharma,4,23,0,1,5.75,2012-12-25,Pakistan,Pakistan,0,M Chinnaswamy Stadium
+I Sharma,4,34,0,1,8.5,2012-12-28,Pakistan,India,0,"Sardar Patel Stadium, Motera"
+I Sharma,4,52,0,0,13.0,2013-10-10,Australia,India,0,Saurashtra Cricket Association Stadium
+IK Pathan,4,30,0,0,7.5,2006-12-01,India,India,0,New Wanderers Stadium
+IK Pathan,4,20,1,3,5.0,2007-09-14,Pakistan,0,0,Kingsmead
+IK Pathan,2,16,0,0,8.0,2007-09-16,New Zealand,New Zealand,0,New Wanderers Stadium
+IK Pathan,4,37,0,3,9.25,2007-09-19,India,India,0,Kingsmead
+IK Pathan,4,16,0,0,4.0,2007-09-20,India,India,0,Kingsmead
+IK Pathan,4,44,0,2,11.0,2007-09-22,India,India,0,Kingsmead
+IK Pathan,4,16,0,3,4.0,2007-09-24,Pakistan,India,0,New Wanderers Stadium
+IK Pathan,4,34,0,2,8.5,2007-10-20,Australia,India,0,Brabourne Stadium
+IK Pathan,3,18,0,0,6.0,2008-02-01,India,Australia,0,Melbourne Cricket Ground
+IK Pathan,4,34,0,1,8.5,2009-02-10,India,India,0,R Premadasa Stadium
+IK Pathan,3,38,0,0,12.666666666666666,2009-02-25,India,New Zealand,0,AMI Stadium
+IK Pathan,4,41,0,2,10.25,2009-02-27,India,New Zealand,0,Westpac Stadium
+IK Pathan,2,20,0,0,10.0,2009-06-06,India,India,0,Trent Bridge
+IK Pathan,3,22,0,0,7.333333333333333,2009-06-10,Ireland,India,0,Trent Bridge
+IK Pathan,2,9,0,1,4.5,2009-06-12,West Indies,West Indies,0,Lord's
+IK Pathan,4,44,0,1,11.0,2012-03-30,India,South Africa,0,New Wanderers Stadium
+IK Pathan,4,27,0,3,6.75,2012-08-07,India,India,0,Pallekele International Cricket Stadium
+IK Pathan,4,31,0,3,7.75,2012-09-11,New Zealand,New Zealand,0,"MA Chidambaram Stadium, Chepauk"
+IK Pathan,4,29,0,1,7.25,2012-09-19,India,India,0,R Premadasa Stadium
+IK Pathan,3,17,0,2,5.666666666666667,2012-09-23,India,India,0,R Premadasa Stadium
+IK Pathan,1,19,0,0,19.0,2012-09-28,India,Australia,0,R Premadasa Stadium
+IK Pathan,3,30,0,1,10.0,2012-09-30,Pakistan,India,0,R Premadasa Stadium
+IK Pathan,3,26,0,1,8.666666666666666,2012-10-02,South Africa,India,0,R Premadasa Stadium
+J Goswami,4,22,0,0,5.5,2009-06-18,New Zealand,New Zealand,0,Trent Bridge
+J Goswami,3,19,0,1,6.333333333333333,2010-05-13,India,Australia,0,"Beausejour Stadium, Gros Islet"
+J Goswami,4,20,1,3,5.0,2011-06-26,India,England,0,County Ground
+J Goswami,4,22,0,1,5.5,2012-06-26,India,England,0,St Lawrence Ground
+J Goswami,3,22,0,0,7.333333333333333,2012-06-28,India,England,0,County Ground
+J Goswami,4,21,0,1,5.25,2012-09-27,India,Australia,0,Galle International Stadium
+J Goswami,3,22,0,0,7.333333333333333,2012-09-29,India,England,0,Galle International Stadium
+J Goswami,4,16,1,3,4.0,2012-10-01,Pakistan,Pakistan,0,Galle International Stadium
+J Goswami,4,20,0,1,5.0,2012-10-03,India,India,0,Nondescripts Cricket Club Ground
+J Goswami,3,17,0,0,5.666666666666667,2012-10-28,Pakistan,India,0,Guanggong International Cricket Stadium
+J Goswami,3,23,0,0,7.666666666666667,2014-03-24,Sri Lanka,Sri Lanka,0,Sylhet Stadium
+J Goswami,4,23,0,2,5.75,2014-03-26,India,England,0,Sylhet Stadium
+J Goswami,3,11,1,3,3.6666666666666665,2014-03-30,India,India,0,Sylhet Stadium
+J Goswami,2,17,0,1,8.5,2014-04-01,West Indies,India,0,Sylhet Stadium
+J Goswami,4,17,0,0,4.25,2016-03-15,Bangladesh,India,0,M Chinnaswamy Stadium
+J Goswami,4,14,0,1,3.5,2016-03-19,Pakistan,Pakistan,0,Feroz Shah Kotla
+J Goswami,2,10,0,0,5.0,2016-03-22,England,England,0,Himachal Pradesh Cricket Association Stadium
+J Goswami,2,13,0,0,6.5,2016-03-27,West Indies,West Indies,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+J Goswami,4,19,0,1,4.75,2016-12-04,Pakistan,India,0,Asian Institute of Technology Ground
+JD Unadkat,4,43,0,1,10.75,2016-06-18,India,Zimbabwe,0,Harare Sports Club
+JJ Bumrah,3,23,1,3,7.666666666666667,2016-01-26,India,India,0,Adelaide Oval
+JJ Bumrah,4,37,0,2,9.25,2016-01-29,India,India,0,Melbourne Cricket Ground
+JJ Bumrah,4,43,0,1,10.75,2016-01-31,India,India,0,Sydney Cricket Ground
+JJ Bumrah,4,19,1,0,4.75,2016-02-09,Sri Lanka,Sri Lanka,0,Maharashtra Cricket Association Stadium
+JJ Bumrah,3,17,0,2,5.666666666666667,2016-02-12,Sri Lanka,India,0,JSCA International Stadium Complex
+JJ Bumrah,3,10,0,1,3.3333333333333335,2016-02-14,Sri Lanka,India,0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+JJ Bumrah,4,23,0,1,5.75,2016-02-24,India,India,0,Shere Bangla National Stadium
+JJ Bumrah,3,8,2,2,2.6666666666666665,2016-02-27,Pakistan,India,0,Shere Bangla National Stadium
+JJ Bumrah,4,27,0,2,6.75,2016-03-01,Sri Lanka,India,0,Shere Bangla National Stadium
+JJ Bumrah,4,23,0,1,5.75,2016-03-03,United Arab Emirates,India,0,Shere Bangla National Stadium
+JJ Bumrah,3,13,0,1,4.333333333333333,2016-03-06,India,India,0,Shere Bangla National Stadium
+JJ Bumrah,4,15,0,1,3.75,2016-03-15,New Zealand,New Zealand,0,"Vidarbha Cricket Association Stadium, Jamtha"
+JJ Bumrah,4,32,0,0,8.0,2016-03-23,Bangladesh,India,0,M Chinnaswamy Stadium
+JJ Bumrah,4,32,0,1,8.0,2016-03-27,Australia,India,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+JJ Bumrah,4,42,0,1,10.5,2016-03-31,West Indies,West Indies,0,Wankhede Stadium
+JJ Bumrah,4,24,1,2,6.0,2016-06-18,India,Zimbabwe,0,Harare Sports Club
+JJ Bumrah,4,11,0,3,2.75,2016-06-20,India,India,0,Harare Sports Club
+JJ Bumrah,4,23,0,0,5.75,2016-06-22,India,India,0,Harare Sports Club
+JJ Bumrah,4,47,0,3,11.75,2016-08-27,West Indies,West Indies,0,Central Broward Regional Park Stadium Turf Ground
+JJ Bumrah,4,26,0,2,6.5,2016-08-28,West Indies,0,0,Central Broward Regional Park Stadium Turf Ground
+JJ Bumrah,3,26,0,0,8.666666666666666,2017-01-26,England,England,0,Green Park
+JJ Bumrah,4,20,0,2,5.0,2017-01-29,England,India,0,"Vidarbha Cricket Association Stadium, Jamtha"
+JJ Bumrah,2,14,1,3,7.0,2017-02-01,England,India,0,M Chinnaswamy Stadium
+Joginder Sharma,4,57,0,0,14.25,2007-09-19,India,India,0,Kingsmead
+Joginder Sharma,4,24,0,0,6.0,2007-09-20,India,India,0,Kingsmead
+Joginder Sharma,3,37,0,2,12.333333333333334,2007-09-22,India,India,0,Kingsmead
+Joginder Sharma,3,20,0,2,6.666666666666667,2007-09-24,Pakistan,India,0,New Wanderers Stadium
+KV Sharma,4,28,0,1,7.0,2014-09-07,India,England,0,Edgbaston
+Kuldeep Yadav,4,34,0,1,8.5,2017-07-09,India,West Indies,0,"Sabina Park, Kingston"
+L Balaji,4,33,0,1,8.25,2012-09-11,New Zealand,New Zealand,0,"MA Chidambaram Stadium, Chepauk"
+L Balaji,3,19,1,4,6.333333333333333,2012-09-19,India,India,0,R Premadasa Stadium
+L Balaji,1,10,0,0,10.0,2012-09-23,India,India,0,R Premadasa Stadium
+L Balaji,3,22,0,3,7.333333333333333,2012-09-30,Pakistan,India,0,R Premadasa Stadium
+L Balaji,3,37,0,3,12.333333333333334,2012-10-02,South Africa,India,0,R Premadasa Stadium
+M Kartik,4,27,0,0,6.75,2007-10-20,Australia,India,0,Brabourne Stadium
+M Vijay,2,9,0,0,4.5,2015-07-19,India,Zimbabwe,0,Harare Sports Club
+MM Patel,2,26,0,1,13.0,2011-01-09,India,India,0,Moses Mabhida Stadium
+MM Patel,4,35,0,1,8.75,2011-06-04,India,India,0,"Queen's Park Oval, Port of Spain"
+MM Patel,4,25,0,2,6.25,2011-08-31,India,England,0,Old Trafford
+MM Sharma,2,11,0,1,5.5,2014-03-30,India,India,0,Shere Bangla National Stadium
+MM Sharma,3,34,0,0,11.333333333333334,2014-04-04,South Africa,India,0,Shere Bangla National Stadium
+MM Sharma,2,18,0,1,9.0,2014-04-06,Sri Lanka,Sri Lanka,0,Shere Bangla National Stadium
+MM Sharma,4,39,0,1,9.75,2014-09-07,India,England,0,Edgbaston
+MM Sharma,3,8,0,1,2.6666666666666665,2015-07-17,India,India,0,Harare Sports Club
+MM Sharma,4,28,0,2,7.0,2015-07-19,India,Zimbabwe,0,Harare Sports Club
+MM Sharma,4,40,0,0,10.0,2015-10-02,South Africa,South Africa,0,Himachal Pradesh Cricket Association Stadium
+MM Sharma,1,7,0,0,7.0,2015-10-05,South Africa,South Africa,0,Barabati Stadium
+MR Meshram,2,13,0,0,6.5,2012-09-27,India,Australia,0,Galle International Stadium
+MR Meshram,4,14,0,0,3.5,2012-10-01,Pakistan,Pakistan,0,Galle International Stadium
+Mohammed Shami,4,31,0,2,7.75,2014-03-21,Pakistan,India,0,Shere Bangla National Stadium
+Mohammed Shami,3,27,0,0,9.0,2014-03-23,West Indies,India,0,Shere Bangla National Stadium
+Mohammed Shami,3,29,0,1,9.666666666666666,2014-03-28,India,India,0,Shere Bangla National Stadium
+Mohammed Shami,4,38,0,4,9.5,2014-09-07,India,England,0,Edgbaston
+Mohammed Shami,4,48,0,1,12.0,2016-08-27,West Indies,West Indies,0,Central Broward Regional Park Stadium Turf Ground
+Mohammed Shami,2,31,0,2,15.5,2016-08-28,West Indies,0,0,Central Broward Regional Park Stadium Turf Ground
+Mohammed Shami,3,46,0,0,15.333333333333334,2017-07-09,India,West Indies,0,"Sabina Park, Kingston"
+N Niranjana,3,16,0,1,5.333333333333333,2012-06-26,India,England,0,St Lawrence Ground
+N Niranjana,3,18,0,1,6.0,2012-06-28,India,England,0,County Ground
+N Niranjana,2,17,0,0,8.5,2012-09-27,India,Australia,0,Galle International Stadium
+N Niranjana,3,12,1,0,4.0,2012-09-29,India,England,0,Galle International Stadium
+N Niranjana,4,18,0,2,4.5,2012-10-01,Pakistan,Pakistan,0,Galle International Stadium
+N Niranjana,4,19,0,0,4.75,2012-10-03,India,India,0,Nondescripts Cricket Club Ground
+N Niranjana,2,10,0,1,5.0,2012-10-28,Pakistan,India,0,Guanggong International Cricket Stadium
+N Niranjana,3,15,1,4,5.0,2012-10-31,Pakistan,India,0,Guanggong International Cricket Stadium
+P Awana,2,29,0,0,14.5,2012-12-20,England,India,0,Subrata Roy Sahara Stadium
+P Awana,4,42,0,0,10.5,2012-12-22,England,England,0,Wankhede Stadium
+P Kumar,2,15,0,1,7.5,2008-02-01,India,Australia,0,Melbourne Cricket Ground
+P Kumar,3,14,0,2,4.666666666666667,2010-05-01,India,India,0,"Beausejour Stadium, Gros Islet"
+P Kumar,1,3,0,0,3.0,2010-05-02,South Africa,India,0,"Beausejour Stadium, Gros Islet"
+P Kumar,3,17,0,1,5.666666666666667,2011-01-09,India,India,0,Moses Mabhida Stadium
+P Kumar,4,27,1,1,6.75,2011-06-04,India,India,0,"Queen's Park Oval, Port of Spain"
+P Kumar,4,27,0,1,6.75,2011-08-31,India,England,0,Old Trafford
+P Kumar,1,13,0,0,13.0,2011-10-29,England,England,0,Eden Gardens
+P Kumar,3,34,0,0,11.333333333333334,2012-02-01,India,Australia,0,Stadium Australia
+P Kumar,3,21,0,2,7.0,2012-02-03,India,India,0,Melbourne Cricket Ground
+P Kumar,2,22,0,0,11.0,2012-03-30,India,South Africa,0,New Wanderers Stadium
+P Negi,3,16,0,2,5.333333333333333,2016-03-03,United Arab Emirates,India,0,Shere Bangla National Stadium
+P Roy,1,6,0,1,6.0,2009-06-18,New Zealand,New Zealand,0,Trent Bridge
+P Roy,4,27,0,2,6.75,2010-05-13,India,Australia,0,"Beausejour Stadium, Gros Islet"
+P Roy,2,18,0,0,9.0,2011-06-26,India,England,0,County Ground
+PG Raut,3,17,0,0,5.666666666666667,2009-06-18,New Zealand,New Zealand,0,Trent Bridge
+PP Chawla,3,27,0,1,9.0,2010-05-02,South Africa,India,0,"Beausejour Stadium, Gros Islet"
+PP Chawla,4,28,0,0,7.0,2010-05-11,Sri Lanka,Sri Lanka,0,"Beausejour Stadium, Gros Islet"
+PP Chawla,4,14,0,1,3.5,2010-06-12,India,India,0,Harare Sports Club
+PP Chawla,4,13,1,2,3.25,2012-09-23,India,India,0,R Premadasa Stadium
+PP Chawla,1,14,0,0,14.0,2012-09-28,India,Australia,0,R Premadasa Stadium
+PP Chawla,3,24,0,0,8.0,2012-12-20,England,India,0,Subrata Roy Sahara Stadium
+PP Chawla,4,31,0,0,7.75,2012-12-22,England,England,0,Wankhede Stadium
+PP Ojha,4,21,0,4,5.25,2009-06-06,India,India,0,Trent Bridge
+PP Ojha,4,18,0,3,4.5,2009-06-10,Ireland,India,0,Trent Bridge
+PP Ojha,3,29,0,1,9.666666666666666,2009-06-12,West Indies,West Indies,0,Lord's
+PP Ojha,2,27,0,0,13.5,2009-12-09,Sri Lanka,Sri Lanka,0,"Vidarbha Cricket Association Stadium, Jamtha"
+PP Ojha,4,11,0,2,2.75,2010-06-12,India,India,0,Harare Sports Club
+PP Ojha,4,26,0,1,6.5,2010-06-13,India,India,0,Harare Sports Club
+Parvez Rasool,4,32,0,1,8.0,2017-01-26,England,England,0,Green Park
+Poonam Yadav,3,20,0,2,6.666666666666667,2014-03-24,Sri Lanka,Sri Lanka,0,Sylhet Stadium
+Poonam Yadav,3,12,0,1,4.0,2014-03-26,India,England,0,Sylhet Stadium
+Poonam Yadav,4,10,0,2,2.5,2014-03-30,India,India,0,Sylhet Stadium
+Poonam Yadav,4,20,0,1,5.0,2014-04-01,West Indies,India,0,Sylhet Stadium
+Poonam Yadav,4,25,0,2,6.25,2014-04-02,Pakistan,India,0,Sylhet Stadium
+Poonam Yadav,4,17,0,2,4.25,2016-03-15,Bangladesh,India,0,M Chinnaswamy Stadium
+Poonam Yadav,3,14,0,2,4.666666666666667,2016-03-19,Pakistan,Pakistan,0,Feroz Shah Kotla
+Poonam Yadav,4,24,0,0,6.0,2016-03-27,West Indies,West Indies,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+Preeti Bose,4,18,0,1,4.5,2016-12-04,Pakistan,India,0,Asian Institute of Technology Ground
+R Ashwin,4,22,0,1,5.5,2010-06-12,India,India,0,Harare Sports Club
+R Ashwin,4,48,0,1,12.0,2010-06-13,India,India,0,Harare Sports Club
+R Ashwin,4,33,0,1,8.25,2011-01-09,India,India,0,Moses Mabhida Stadium
+R Ashwin,4,30,0,1,7.5,2011-06-04,India,India,0,"Queen's Park Oval, Port of Spain"
+R Ashwin,4,37,0,0,9.25,2011-08-31,India,England,0,Old Trafford
+R Ashwin,4,20,0,0,5.0,2011-10-29,England,England,0,Eden Gardens
+R Ashwin,4,34,0,1,8.5,2012-02-01,India,Australia,0,Stadium Australia
+R Ashwin,4,23,0,0,5.75,2012-02-03,India,India,0,Melbourne Cricket Ground
+R Ashwin,4,33,0,1,8.25,2012-03-30,India,South Africa,0,New Wanderers Stadium
+R Ashwin,4,22,0,2,5.5,2012-08-07,India,India,0,Pallekele International Cricket Stadium
+R Ashwin,3,34,0,0,11.333333333333334,2012-09-11,New Zealand,New Zealand,0,"MA Chidambaram Stadium, Chepauk"
+R Ashwin,4,20,0,2,5.0,2012-09-19,India,India,0,R Premadasa Stadium
+R Ashwin,4,32,0,0,8.0,2012-09-28,India,Australia,0,R Premadasa Stadium
+R Ashwin,4,16,0,2,4.0,2012-09-30,Pakistan,India,0,R Premadasa Stadium
+R Ashwin,4,27,0,1,6.75,2012-10-02,South Africa,India,0,R Premadasa Stadium
+R Ashwin,4,33,1,1,8.25,2012-12-20,England,India,0,Subrata Roy Sahara Stadium
+R Ashwin,4,38,0,0,9.5,2012-12-22,England,England,0,Wankhede Stadium
+R Ashwin,4,28,0,1,7.0,2012-12-28,Pakistan,India,0,"Sardar Patel Stadium, Motera"
+R Ashwin,2,41,0,0,20.5,2013-10-10,Australia,India,0,Saurashtra Cricket Association Stadium
+R Ashwin,4,23,0,0,5.75,2014-03-21,Pakistan,India,0,Shere Bangla National Stadium
+R Ashwin,4,24,0,1,6.0,2014-03-23,West Indies,India,0,Shere Bangla National Stadium
+R Ashwin,4,15,0,2,3.75,2014-03-28,India,India,0,Shere Bangla National Stadium
+R Ashwin,3,11,1,4,3.6666666666666665,2014-03-30,India,India,0,Shere Bangla National Stadium
+R Ashwin,4,22,0,3,5.5,2014-04-04,South Africa,India,0,Shere Bangla National Stadium
+R Ashwin,4,29,0,1,7.25,2014-04-06,Sri Lanka,Sri Lanka,0,Shere Bangla National Stadium
+R Ashwin,4,37,0,0,9.25,2014-09-07,India,England,0,Edgbaston
+R Ashwin,4,26,0,2,6.5,2015-10-02,South Africa,South Africa,0,Himachal Pradesh Cricket Association Stadium
+R Ashwin,4,24,0,3,6.0,2015-10-05,South Africa,South Africa,0,Barabati Stadium
+R Ashwin,4,28,0,2,7.0,2016-01-26,India,India,0,Adelaide Oval
+R Ashwin,4,27,0,2,6.75,2016-01-29,India,India,0,Melbourne Cricket Ground
+R Ashwin,4,36,0,1,9.0,2016-01-31,India,India,0,Sydney Cricket Ground
+R Ashwin,3,13,0,2,4.333333333333333,2016-02-09,Sri Lanka,Sri Lanka,0,Maharashtra Cricket Association Stadium
+R Ashwin,4,14,0,3,3.5,2016-02-12,Sri Lanka,India,0,JSCA International Stadium Complex
+R Ashwin,4,8,1,4,2.0,2016-02-14,Sri Lanka,India,0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+R Ashwin,4,23,0,1,5.75,2016-02-24,India,India,0,Shere Bangla National Stadium
+R Ashwin,3,21,0,0,7.0,2016-02-27,Pakistan,India,0,Shere Bangla National Stadium
+R Ashwin,4,26,0,3,6.5,2016-03-01,Sri Lanka,India,0,Shere Bangla National Stadium
+R Ashwin,3,14,0,1,4.666666666666667,2016-03-06,India,India,0,Shere Bangla National Stadium
+R Ashwin,4,32,0,1,8.0,2016-03-15,New Zealand,New Zealand,0,"Vidarbha Cricket Association Stadium, Jamtha"
+R Ashwin,4,20,0,2,5.0,2016-03-23,Bangladesh,India,0,M Chinnaswamy Stadium
+R Ashwin,2,31,0,1,15.5,2016-03-27,Australia,India,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+R Ashwin,2,20,0,0,10.0,2016-03-31,West Indies,West Indies,0,Wankhede Stadium
+R Ashwin,4,36,0,0,9.0,2016-08-27,West Indies,West Indies,0,Central Broward Regional Park Stadium Turf Ground
+R Ashwin,3,11,0,2,3.6666666666666665,2016-08-28,West Indies,0,0,Central Broward Regional Park Stadium Turf Ground
+R Ashwin,4,39,0,0,9.75,2017-07-09,India,West Indies,0,"Sabina Park, Kingston"
+R Dhar,4,35,1,1,8.75,2009-06-18,New Zealand,New Zealand,0,Trent Bridge
+R Dhar,2,12,0,0,6.0,2010-05-13,India,Australia,0,"Beausejour Stadium, Gros Islet"
+R Dhawan,4,42,0,1,10.5,2016-06-18,India,Zimbabwe,0,Harare Sports Club
+R Malhotra,1,10,0,0,10.0,2010-05-13,India,Australia,0,"Beausejour Stadium, Gros Islet"
+R Malhotra,3,23,0,1,7.666666666666667,2012-09-29,India,England,0,Galle International Stadium
+R Malhotra,2,13,0,0,6.5,2012-10-01,Pakistan,Pakistan,0,Galle International Stadium
+R Malhotra,4,13,0,4,3.25,2012-10-28,Pakistan,India,0,Guanggong International Cricket Stadium
+R Malhotra,2,10,0,1,5.0,2012-10-31,Pakistan,India,0,Guanggong International Cricket Stadium
+R Sharma,3,27,0,1,9.0,2012-02-01,India,Australia,0,Stadium Australia
+R Sharma,3,29,0,4,9.666666666666666,2012-02-03,India,India,0,Melbourne Cricket Ground
+R Vinay Kumar,4,30,0,2,7.5,2010-05-11,Sri Lanka,Sri Lanka,0,"Beausejour Stadium, Gros Islet"
+R Vinay Kumar,3,24,0,3,8.0,2010-06-12,India,India,0,Harare Sports Club
+R Vinay Kumar,4,28,0,0,7.0,2010-06-13,India,India,0,Harare Sports Club
+R Vinay Kumar,3,35,0,0,11.666666666666666,2011-08-31,India,England,0,Old Trafford
+R Vinay Kumar,2,19,0,0,9.5,2011-10-29,England,England,0,Eden Gardens
+R Vinay Kumar,4,28,0,1,7.0,2012-02-01,India,Australia,0,Stadium Australia
+R Vinay Kumar,4,25,0,2,6.25,2012-02-03,India,India,0,Melbourne Cricket Ground
+R Vinay Kumar,3,32,0,0,10.666666666666666,2012-03-30,India,South Africa,0,New Wanderers Stadium
+R Vinay Kumar,4,26,0,3,6.5,2013-10-10,Australia,India,0,Saurashtra Cricket Association Stadium
+RA Jadeja,4,29,0,0,7.25,2009-02-10,India,India,0,R Premadasa Stadium
+RA Jadeja,4,21,0,0,5.25,2009-02-27,India,New Zealand,0,Westpac Stadium
+RA Jadeja,4,26,0,2,6.5,2009-06-14,India,England,0,Lord's
+RA Jadeja,3,9,0,1,3.0,2009-06-16,South Africa,South Africa,0,Trent Bridge
+RA Jadeja,4,30,0,0,7.5,2009-12-12,Sri Lanka,India,0,"Punjab Cricket Association Stadium, Mohali"
+RA Jadeja,4,15,1,1,3.75,2010-05-01,India,India,0,"Beausejour Stadium, Gros Islet"
+RA Jadeja,4,37,0,1,9.25,2010-05-02,South Africa,India,0,"Beausejour Stadium, Gros Islet"
+RA Jadeja,2,38,0,0,19.0,2010-05-07,India,Australia,0,"Kensington Oval, Bridgetown"
+RA Jadeja,2,27,0,1,13.5,2010-05-09,India,West Indies,0,"Kensington Oval, Bridgetown"
+RA Jadeja,4,9,1,1,2.25,2011-10-29,England,England,0,Eden Gardens
+RA Jadeja,2,23,0,0,11.5,2012-02-01,India,Australia,0,Stadium Australia
+RA Jadeja,3,16,0,1,5.333333333333333,2012-02-03,India,India,0,Melbourne Cricket Ground
+RA Jadeja,3,22,0,0,7.333333333333333,2012-12-20,England,India,0,Subrata Roy Sahara Stadium
+RA Jadeja,2,29,0,0,14.5,2012-12-25,Pakistan,Pakistan,0,M Chinnaswamy Stadium
+RA Jadeja,4,23,0,1,5.75,2013-10-10,Australia,India,0,Saurashtra Cricket Association Stadium
+RA Jadeja,4,18,0,1,4.5,2014-03-21,Pakistan,India,0,Shere Bangla National Stadium
+RA Jadeja,4,48,0,3,12.0,2014-03-23,West Indies,India,0,Shere Bangla National Stadium
+RA Jadeja,4,30,0,0,7.5,2014-03-28,India,India,0,Shere Bangla National Stadium
+RA Jadeja,4,25,0,2,6.25,2014-03-30,India,India,0,Shere Bangla National Stadium
+RA Jadeja,2,8,0,0,4.0,2014-04-04,South Africa,India,0,Shere Bangla National Stadium
+RA Jadeja,1,11,0,0,11.0,2014-04-06,Sri Lanka,Sri Lanka,0,Shere Bangla National Stadium
+RA Jadeja,4,35,0,1,8.75,2014-09-07,India,England,0,Edgbaston
+RA Jadeja,4,21,0,2,5.25,2016-01-26,India,India,0,Adelaide Oval
+RA Jadeja,4,32,0,2,8.0,2016-01-29,India,India,0,Melbourne Cricket Ground
+RA Jadeja,4,41,0,1,10.25,2016-01-31,India,India,0,Sydney Cricket Ground
+RA Jadeja,3,18,0,0,6.0,2016-02-09,Sri Lanka,Sri Lanka,0,Maharashtra Cricket Association Stadium
+RA Jadeja,4,24,0,2,6.0,2016-02-12,Sri Lanka,India,0,JSCA International Stadium Complex
+RA Jadeja,4,11,1,1,2.75,2016-02-14,Sri Lanka,India,0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+RA Jadeja,4,25,0,1,6.25,2016-02-24,India,India,0,Shere Bangla National Stadium
+RA Jadeja,3,11,0,2,3.6666666666666665,2016-02-27,Pakistan,India,0,Shere Bangla National Stadium
+RA Jadeja,2,19,0,0,9.5,2016-03-01,Sri Lanka,India,0,Shere Bangla National Stadium
+RA Jadeja,3,25,0,2,8.333333333333334,2016-03-06,India,India,0,Shere Bangla National Stadium
+RA Jadeja,4,26,0,1,6.5,2016-03-15,New Zealand,New Zealand,0,"Vidarbha Cricket Association Stadium, Jamtha"
+RA Jadeja,4,22,0,2,5.5,2016-03-23,Bangladesh,India,0,M Chinnaswamy Stadium
+RA Jadeja,3,20,0,0,6.666666666666667,2016-03-27,Australia,India,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+RA Jadeja,4,48,0,0,12.0,2016-03-31,West Indies,West Indies,0,Wankhede Stadium
+RA Jadeja,3,39,0,2,13.0,2016-08-27,West Indies,West Indies,0,Central Broward Regional Park Stadium Turf Ground
+RA Jadeja,2,11,0,0,5.5,2016-08-28,West Indies,0,0,Central Broward Regional Park Stadium Turf Ground
+RA Jadeja,3,41,0,0,13.666666666666666,2017-07-09,India,West Indies,0,"Sabina Park, Kingston"
+RG Sharma,2,15,0,0,7.5,2009-06-16,South Africa,South Africa,0,Trent Bridge
+RG Sharma,3,22,0,1,7.333333333333333,2009-12-09,Sri Lanka,Sri Lanka,0,"Vidarbha Cricket Association Stadium, Jamtha"
+RG Sharma,1,16,0,0,16.0,2011-08-31,India,England,0,Old Trafford
+RG Sharma,0,2,0,0,inf,2012-02-01,India,Australia,0,Stadium Australia
+RG Sharma,1,14,0,0,14.0,2012-03-30,India,South Africa,0,New Wanderers Stadium
+RG Sharma,1,9,0,0,9.0,2012-08-07,India,India,0,Pallekele International Cricket Stadium
+RG Sharma,1,10,0,0,10.0,2012-09-19,India,India,0,R Premadasa Stadium
+RG Sharma,1,12,0,0,12.0,2012-09-28,India,Australia,0,R Premadasa Stadium
+RG Sharma,1,13,0,0,13.0,2012-10-02,South Africa,India,0,R Premadasa Stadium
+RK Parwin,4,15,0,2,3.75,2012-10-01,Pakistan,Pakistan,0,Galle International Stadium
+RK Parwin,4,23,0,2,5.75,2012-10-03,India,India,0,Nondescripts Cricket Club Ground
+RP Singh,4,23,0,1,5.75,2007-09-14,Pakistan,0,0,Kingsmead
+RP Singh,4,29,0,5,7.25,2007-09-16,New Zealand,New Zealand,0,New Wanderers Stadium
+RP Singh,4,28,0,2,7.0,2007-09-19,India,India,0,Kingsmead
+RP Singh,4,13,0,5,3.25,2007-09-20,India,India,0,Kingsmead
+RP Singh,4,33,0,0,8.25,2007-09-22,India,India,0,Kingsmead
+RP Singh,4,26,0,3,6.5,2007-09-24,Pakistan,India,0,New Wanderers Stadium
+RP Singh,4,39,0,1,9.75,2007-10-20,Australia,India,0,Brabourne Stadium
+RP Singh,3,13,0,1,4.333333333333333,2009-06-14,India,England,0,Lord's
+RP Singh,2,21,0,1,10.5,2009-06-16,South Africa,South Africa,0,Trent Bridge
+RS Gayakwad,4,27,0,0,6.75,2016-03-15,Bangladesh,India,0,M Chinnaswamy Stadium
+RS Gayakwad,2,11,0,1,5.5,2016-03-19,Pakistan,Pakistan,0,Feroz Shah Kotla
+RS Gayakwad,4,10,1,1,2.5,2016-03-22,England,England,0,Himachal Pradesh Cricket Association Stadium
+RS Gayakwad,3,25,0,0,8.333333333333334,2016-03-27,West Indies,West Indies,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+S Aravind,3,44,0,1,14.666666666666666,2015-10-02,South Africa,South Africa,0,Himachal Pradesh Cricket Association Stadium
+S Pandey,1,5,0,1,5.0,2014-03-24,Sri Lanka,Sri Lanka,0,Sylhet Stadium
+S Pandey,1,7,0,0,7.0,2014-03-26,India,England,0,Sylhet Stadium
+S Pandey,2,8,0,1,4.0,2016-03-15,Bangladesh,India,0,M Chinnaswamy Stadium
+S Pandey,2,14,0,1,7.0,2016-03-19,Pakistan,Pakistan,0,Feroz Shah Kotla
+S Pandey,2,17,0,1,8.5,2016-12-04,Pakistan,India,0,Asian Institute of Technology Ground
+S Sharma,3,22,0,1,7.333333333333333,2012-09-27,India,Australia,0,Galle International Stadium
+S Sharma,4,12,0,1,3.0,2012-10-31,Pakistan,India,0,Guanggong International Cricket Stadium
+S Sharma,3,12,1,3,4.0,2014-03-30,India,India,0,Sylhet Stadium
+S Sharma,3,14,1,1,4.666666666666667,2014-04-01,West Indies,India,0,Sylhet Stadium
+S Sharma,4,21,1,2,5.25,2014-04-02,Pakistan,India,0,Sylhet Stadium
+S Sreesanth,4,33,0,1,8.25,2006-12-01,India,India,0,New Wanderers Stadium
+S Sreesanth,4,29,0,1,7.25,2007-09-14,Pakistan,0,0,Kingsmead
+S Sreesanth,3,37,0,1,12.333333333333334,2007-09-16,New Zealand,New Zealand,0,New Wanderers Stadium
+S Sreesanth,4,38,0,0,9.5,2007-09-19,India,India,0,Kingsmead
+S Sreesanth,5,23,0,2,4.6,2007-09-20,India,India,0,Kingsmead
+S Sreesanth,4,12,1,2,3.0,2007-09-22,India,India,0,Kingsmead
+S Sreesanth,4,44,1,2,11.0,2007-09-24,Pakistan,India,0,New Wanderers Stadium
+S Sreesanth,4,47,0,0,11.75,2007-10-20,Australia,India,0,Brabourne Stadium
+S Sreesanth,3,25,0,0,8.333333333333334,2008-02-01,India,Australia,0,Melbourne Cricket Ground
+S Tyagi,2,21,0,0,10.5,2009-12-12,Sri Lanka,India,0,"Punjab Cricket Association Stadium, Mohali"
+SK Naidu,1,12,0,0,12.0,2014-03-26,India,England,0,Sylhet Stadium
+SK Naidu,3,17,0,0,5.666666666666667,2014-04-01,West Indies,India,0,Sylhet Stadium
+SK Naidu,4,12,0,2,3.0,2014-04-02,Pakistan,India,0,Sylhet Stadium
+SK Raina,1,6,0,1,6.0,2009-06-16,South Africa,South Africa,0,Trent Bridge
+SK Raina,1,10,0,0,10.0,2009-12-12,Sri Lanka,India,0,"Punjab Cricket Association Stadium, Mohali"
+SK Raina,2,23,0,0,11.5,2010-05-09,India,West Indies,0,"Kensington Oval, Bridgetown"
+SK Raina,2,9,0,1,4.5,2011-10-29,England,England,0,Eden Gardens
+SK Raina,3,22,0,1,7.333333333333333,2012-02-01,India,Australia,0,Stadium Australia
+SK Raina,1,10,0,0,10.0,2012-02-03,India,India,0,Melbourne Cricket Ground
+SK Raina,4,49,0,2,12.25,2012-03-30,India,South Africa,0,New Wanderers Stadium
+SK Raina,2,12,0,0,6.0,2012-12-28,Pakistan,India,0,"Sardar Patel Stadium, Motera"
+SK Raina,2,8,0,0,4.0,2014-03-23,West Indies,India,0,Shere Bangla National Stadium
+SK Raina,2,11,0,0,5.5,2014-03-28,India,India,0,Shere Bangla National Stadium
+SK Raina,1,16,0,0,16.0,2014-03-30,India,India,0,Shere Bangla National Stadium
+SK Raina,4,35,0,0,8.75,2014-04-04,South Africa,India,0,Shere Bangla National Stadium
+SK Raina,4,24,0,1,6.0,2014-04-06,Sri Lanka,Sri Lanka,0,Shere Bangla National Stadium
+SK Raina,3,12,0,0,4.0,2015-10-05,South Africa,South Africa,0,Barabati Stadium
+SK Raina,2,13,0,1,6.5,2016-02-09,Sri Lanka,Sri Lanka,0,Maharashtra Cricket Association Stadium
+SK Raina,2,22,0,0,11.0,2016-02-12,Sri Lanka,India,0,JSCA International Stadium Complex
+SK Raina,2,6,0,2,3.0,2016-02-14,Sri Lanka,India,0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+SK Raina,1,9,0,0,9.0,2016-03-01,Sri Lanka,India,0,Shere Bangla National Stadium
+SK Raina,4,16,0,2,4.0,2016-03-15,New Zealand,New Zealand,0,"Vidarbha Cricket Association Stadium, Jamtha"
+SK Raina,1,9,0,1,9.0,2016-03-23,Bangladesh,India,0,M Chinnaswamy Stadium
+SK Raina,2,17,0,0,8.5,2017-01-26,England,England,0,Green Park
+SK Raina,4,30,0,0,7.5,2017-01-29,England,India,0,"Vidarbha Cricket Association Stadium, Jamtha"
+SK Raina,1,22,0,0,22.0,2017-02-01,England,India,0,M Chinnaswamy Stadium
+SN Pradhan,4,30,0,3,7.5,2011-06-26,India,England,0,County Ground
+SR Tendulkar,2,12,0,2,6.0,2006-12-01,India,India,0,New Wanderers Stadium
+STR Binny,2,8,0,1,4.0,2015-07-17,India,India,0,Harare Sports Club
+STR Binny,2,14,0,1,7.0,2015-07-19,India,Zimbabwe,0,Harare Sports Club
+STR Binny,1,32,0,0,32.0,2016-08-27,West Indies,West Indies,0,Central Broward Regional Park Stadium Turf Ground
+Sandeep Sharma,3,34,0,0,11.333333333333334,2015-07-17,India,India,0,Harare Sports Club
+Sandeep Sharma,4,39,0,1,9.75,2015-07-19,India,Zimbabwe,0,Harare Sports Club
+Soniya Dabir,4,18,0,1,4.5,2014-03-24,Sri Lanka,Sri Lanka,0,Sylhet Stadium
+Soniya Dabir,4,21,0,2,5.25,2014-03-26,India,England,0,Sylhet Stadium
+Soniya Dabir,4,14,1,0,3.5,2014-03-30,India,India,0,Sylhet Stadium
+Soniya Dabir,4,14,0,3,3.5,2014-04-02,Pakistan,India,0,Sylhet Stadium
+UT Yadav,3,24,0,1,8.0,2012-08-07,India,India,0,Pallekele International Cricket Stadium
+V Kohli,3,22,0,1,7.333333333333333,2011-08-31,India,England,0,Old Trafford
+V Kohli,2,13,0,1,6.5,2011-10-29,England,England,0,Eden Gardens
+V Kohli,1,7,0,1,7.0,2012-02-03,India,India,0,Melbourne Cricket Ground
+V Kohli,1,15,0,0,15.0,2012-03-30,India,South Africa,0,New Wanderers Stadium
+V Kohli,3,13,0,0,4.333333333333333,2012-08-07,India,India,0,Pallekele International Cricket Stadium
+V Kohli,3,27,0,0,9.0,2012-09-11,New Zealand,New Zealand,0,"MA Chidambaram Stadium, Chepauk"
+V Kohli,1,10,0,0,10.0,2012-09-28,India,Australia,0,R Premadasa Stadium
+V Kohli,3,21,0,1,7.0,2012-09-30,Pakistan,India,0,R Premadasa Stadium
+V Kohli,1,10,0,0,10.0,2012-12-20,England,India,0,Subrata Roy Sahara Stadium
+V Kohli,2,21,0,0,10.5,2012-12-25,Pakistan,Pakistan,0,M Chinnaswamy Stadium
+V Kohli,2,24,0,0,12.0,2013-10-10,Australia,India,0,Saurashtra Cricket Association Stadium
+V Kohli,1,15,0,1,15.0,2016-03-31,West Indies,West Indies,0,Wankhede Stadium
+V Krishnamurthy,1,4,0,0,4.0,2016-03-22,England,England,0,Himachal Pradesh Cricket Association Stadium
+V Sehwag,1,20,0,0,20.0,2007-09-22,India,India,0,Kingsmead
+YK Pathan,1,5,0,0,5.0,2007-09-24,Pakistan,India,0,New Wanderers Stadium
+YK Pathan,4,23,0,2,5.75,2009-02-10,India,India,0,R Premadasa Stadium
+YK Pathan,3,37,0,0,12.333333333333334,2009-02-25,India,New Zealand,0,AMI Stadium
+YK Pathan,3,26,0,1,8.666666666666666,2009-06-06,India,India,0,Trent Bridge
+YK Pathan,4,27,0,1,6.75,2009-06-12,West Indies,West Indies,0,Lord's
+YK Pathan,4,54,0,2,13.5,2009-12-09,Sri Lanka,Sri Lanka,0,"Vidarbha Cricket Association Stadium, Jamtha"
+YK Pathan,3,29,0,1,9.666666666666666,2009-12-12,Sri Lanka,India,0,"Punjab Cricket Association Stadium, Mohali"
+YK Pathan,1,12,0,0,12.0,2010-05-01,India,India,0,"Beausejour Stadium, Gros Islet"
+YK Pathan,4,42,0,2,10.5,2010-05-02,South Africa,India,0,"Beausejour Stadium, Gros Islet"
+YK Pathan,4,35,0,1,8.75,2010-05-07,India,Australia,0,"Kensington Oval, Bridgetown"
+YK Pathan,4,28,0,0,7.0,2010-05-09,India,West Indies,0,"Kensington Oval, Bridgetown"
+YK Pathan,3,23,0,1,7.666666666666667,2010-05-11,Sri Lanka,Sri Lanka,0,"Beausejour Stadium, Gros Islet"
+YK Pathan,2,10,0,0,5.0,2010-06-12,India,India,0,Harare Sports Club
+YK Pathan,3,22,0,2,7.333333333333333,2011-01-09,India,India,0,Moses Mabhida Stadium
+YK Pathan,4,22,0,0,5.5,2011-06-04,India,India,0,"Queen's Park Oval, Port of Spain"
+YK Pathan,3,34,0,1,11.333333333333334,2011-10-29,England,England,0,Eden Gardens
+YK Pathan,1,9,0,0,9.0,2012-03-30,India,South Africa,0,New Wanderers Stadium
+YS Chahal,4,38,0,1,9.5,2016-06-18,India,Zimbabwe,0,Harare Sports Club
+YS Chahal,4,19,1,1,4.75,2016-06-20,India,India,0,Harare Sports Club
+YS Chahal,4,32,0,1,8.0,2016-06-22,India,India,0,Harare Sports Club
+YS Chahal,4,27,0,2,6.75,2017-01-26,England,England,0,Green Park
+YS Chahal,4,33,0,0,8.25,2017-01-29,England,India,0,"Vidarbha Cricket Association Stadium, Jamtha"
+YS Chahal,4,25,0,6,6.25,2017-02-01,England,India,0,M Chinnaswamy Stadium
+Yuvraj Singh,3,38,0,1,12.666666666666666,2007-09-16,New Zealand,New Zealand,0,New Wanderers Stadium
+Yuvraj Singh,1,17,0,0,17.0,2009-02-25,India,New Zealand,0,AMI Stadium
+Yuvraj Singh,2,17,0,1,8.5,2009-02-27,India,New Zealand,0,Westpac Stadium
+Yuvraj Singh,1,4,0,0,4.0,2009-06-10,Ireland,India,0,Trent Bridge
+Yuvraj Singh,2,20,0,0,10.0,2009-06-14,India,England,0,Lord's
+Yuvraj Singh,4,25,0,0,6.25,2009-06-16,South Africa,South Africa,0,Trent Bridge
+Yuvraj Singh,3,23,0,4,7.666666666666667,2009-12-12,Sri Lanka,India,0,"Punjab Cricket Association Stadium, Mohali"
+Yuvraj Singh,1,4,0,0,4.0,2010-05-01,India,India,0,"Beausejour Stadium, Gros Islet"
+Yuvraj Singh,2,20,0,2,10.0,2010-05-07,India,Australia,0,"Kensington Oval, Bridgetown"
+Yuvraj Singh,1,6,0,0,6.0,2010-05-11,Sri Lanka,Sri Lanka,0,"Beausejour Stadium, Gros Islet"
+Yuvraj Singh,4,20,0,2,5.0,2011-01-09,India,India,0,Moses Mabhida Stadium
+Yuvraj Singh,2,14,0,0,7.0,2012-09-11,New Zealand,New Zealand,0,"MA Chidambaram Stadium, Chepauk"
+Yuvraj Singh,4,24,0,3,6.0,2012-09-19,India,India,0,R Premadasa Stadium
+Yuvraj Singh,0,2,0,1,inf,2012-09-23,India,India,0,R Premadasa Stadium
+Yuvraj Singh,2,16,0,1,8.0,2012-09-28,India,Australia,0,R Premadasa Stadium
+Yuvraj Singh,3,16,0,2,5.333333333333333,2012-09-30,Pakistan,India,0,R Premadasa Stadium
+Yuvraj Singh,4,23,0,2,5.75,2012-10-02,South Africa,India,0,R Premadasa Stadium
+Yuvraj Singh,4,19,0,3,4.75,2012-12-20,England,India,0,Subrata Roy Sahara Stadium
+Yuvraj Singh,4,17,0,3,4.25,2012-12-22,England,England,0,Wankhede Stadium
+Yuvraj Singh,3,25,0,0,8.333333333333334,2012-12-25,Pakistan,Pakistan,0,M Chinnaswamy Stadium
+Yuvraj Singh,2,23,0,1,11.5,2012-12-28,Pakistan,India,0,"Sardar Patel Stadium, Motera"
+Yuvraj Singh,1,13,0,0,13.0,2014-03-21,Pakistan,India,0,Shere Bangla National Stadium
+Yuvraj Singh,1,10,0,0,10.0,2016-01-26,India,India,0,Adelaide Oval
+Yuvraj Singh,2,7,0,1,3.5,2016-01-29,India,India,0,Melbourne Cricket Ground
+Yuvraj Singh,2,19,0,1,9.5,2016-01-31,India,India,0,Sydney Cricket Ground
+Yuvraj Singh,3,19,0,0,6.333333333333333,2016-02-12,Sri Lanka,India,0,JSCA International Stadium Complex
+Yuvraj Singh,1,15,0,1,15.0,2016-02-14,Sri Lanka,India,0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+Yuvraj Singh,2,11,0,2,5.5,2016-02-27,Pakistan,India,0,Shere Bangla National Stadium
+Yuvraj Singh,1,3,0,0,3.0,2016-03-01,Sri Lanka,India,0,Shere Bangla National Stadium
+Yuvraj Singh,2,10,0,1,5.0,2016-03-03,United Arab Emirates,India,0,Shere Bangla National Stadium
+Yuvraj Singh,3,19,0,1,6.333333333333333,2016-03-27,Australia,India,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+Z Khan,4,15,0,2,3.75,2006-12-01,India,India,0,New Wanderers Stadium
+Z Khan,4,34,0,0,8.5,2009-02-10,India,India,0,R Premadasa Stadium
+Z Khan,4,20,0,1,5.0,2009-02-25,India,New Zealand,0,AMI Stadium
+Z Khan,4,30,0,1,7.5,2009-02-27,India,New Zealand,0,Westpac Stadium
+Z Khan,3,26,0,1,8.666666666666666,2009-06-06,India,India,0,Trent Bridge
+Z Khan,3,19,0,4,6.333333333333333,2009-06-10,Ireland,India,0,Trent Bridge
+Z Khan,2,26,0,0,13.0,2009-06-12,West Indies,West Indies,0,Lord's
+Z Khan,3,26,0,1,8.666666666666666,2009-06-14,India,England,0,Lord's
+Z Khan,3,26,0,1,8.666666666666666,2009-06-16,South Africa,South Africa,0,Trent Bridge
+Z Khan,3,24,0,1,8.0,2010-05-01,India,India,0,"Beausejour Stadium, Gros Islet"
+Z Khan,4,45,0,0,11.25,2010-05-07,India,Australia,0,"Kensington Oval, Bridgetown"
+Z Khan,4,36,0,1,9.0,2010-05-09,India,West Indies,0,"Kensington Oval, Bridgetown"
+Z Khan,4,27,0,1,6.75,2012-09-11,New Zealand,New Zealand,0,"MA Chidambaram Stadium, Chepauk"
+Z Khan,3,32,0,0,10.666666666666666,2012-09-19,India,India,0,R Premadasa Stadium
+Z Khan,3,18,0,0,6.0,2012-09-28,India,Australia,0,R Premadasa Stadium
+Z Khan,3,22,0,1,7.333333333333333,2012-09-30,Pakistan,India,0,R Premadasa Stadium
+Z Khan,4,22,0,3,5.5,2012-10-02,South Africa,India,0,R Premadasa Stadium

@@ -1,0 +1,701 @@
+,batsman,runs,balls,4s,6s,SR,bowler,fielders,kind,player_out,date,team2,winner,result,venue
+9,Abdur Razzak,2.0,6,0,0,33.33333333333333,notOut,notOut,notOut,notOut,2007-09-15,Bangladesh,South Africa,0,Newlands
+11,Abdur Razzak,5.0,12,0,0,41.66666666666667,ST Jayasuriya,['KC Sangakkara'],caught,Abdur Razzak,2007-09-18,Sri Lanka,Sri Lanka,0,New Wanderers Stadium
+11,Abdur Razzak,0.0,1,0,0,0.0,Mohammad Asif,['Mohammad Asif'],run out,Abdur Razzak,2007-09-20,Pakistan,Pakistan,0,Newlands
+11,Abdur Razzak,1.0,3,0,0,33.33333333333333,notOut,notOut,notOut,notOut,2008-04-20,Bangladesh,Pakistan,0,National Stadium
+9,Abdur Razzak,0.0,2,0,0,0.0,DW Steyn,0,bowled,Abdur Razzak,2008-11-05,Bangladesh,South Africa,0,New Wanderers Stadium
+10,Abdur Razzak,3.0,8,0,0,37.5,notOut,notOut,notOut,notOut,2010-05-05,Bangladesh,Australia,0,"Kensington Oval, Bridgetown"
+8,Abdur Razzak,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2011-10-11,West Indies,Bangladesh,0,Shere Bangla National Stadium
+9,Abdur Razzak,9.0,9,1,0,100.0,Shoaib Malik,['Shahid Afridi'],caught,Abdur Razzak,2011-11-29,Pakistan,Pakistan,0,Shere Bangla National Stadium
+8,Abdur Razzak,2.0,3,0,0,66.66666666666666,Mudassar Bukhari,['Ahsan Malik'],caught,Abdur Razzak,2012-07-26,Bangladesh,Netherlands,0,Sportpark Westvliet
+9,Abdur Razzak,0.0,2,0,0,0.0,notOut,notOut,notOut,notOut,2012-09-21,New Zealand,New Zealand,0,Pallekele International Cricket Stadium
+8,Abdur Razzak,6.0,8,0,0,75.0,notOut,notOut,notOut,notOut,2013-03-31,Bangladesh,Sri Lanka,0,Pallekele International Cricket Stadium
+9,Abdur Razzak,2.0,4,0,0,50.0,T Panyangara,0,lbw,Abdur Razzak,2013-05-11,Bangladesh,Zimbabwe,0,Queens Sports Club
+8,Abdur Razzak,6.0,7,0,0,85.71428571428571,notOut,notOut,notOut,notOut,2013-05-12,Bangladesh,Bangladesh,0,Queens Sports Club
+9,Abdur Razzak,0.0,1,0,0,0.0,TG Southee,0,bowled,Abdur Razzak,2013-11-06,New Zealand,New Zealand,0,Shere Bangla National Stadium
+8,Abdur Razzak,0.0,1,0,0,0.0,Nizakat Khan,['JJ Atkinson'],caught,Abdur Razzak,2014-03-20,Hong Kong,Hong Kong,0,Zahur Ahmed Chowdhury Stadium
+8,Abu Hider,14.0,10,1,1,140.0,N Madziva,['LM Jongwe'],caught,Abu Hider,2016-01-22,Zimbabwe,Zimbabwe,0,Sheikh Abu Naser Stadium
+2,Aftab Ahmed,17.0,6,2,1,283.33333333333337,LN Onyango,['TM Odoyo'],caught,Aftab Ahmed,2007-09-01,Bangladesh,Bangladesh,0,Gymkhana Club Ground
+3,Aftab Ahmed,5.0,6,1,0,83.33333333333334,Shahid Afridi,0,lbw,Aftab Ahmed,2007-09-02,Pakistan,Pakistan,0,Gymkhana Club Ground
+2,Aftab Ahmed,62.0,52,8,1,119.23076923076923,notOut,notOut,notOut,notOut,2007-09-13,West Indies,Bangladesh,0,New Wanderers Stadium
+2,Aftab Ahmed,36.0,14,5,2,257.14285714285717,M Morkel,0,bowled,Aftab Ahmed,2007-09-15,Bangladesh,South Africa,0,Newlands
+2,Aftab Ahmed,31.0,35,2,0,88.57142857142857,NW Bracken,['BJ Hodge'],caught,Aftab Ahmed,2007-09-16,Bangladesh,Australia,0,Newlands
+2,Aftab Ahmed,18.0,11,3,0,163.63636363636365,CRD Fernando,0,bowled,Aftab Ahmed,2007-09-18,Sri Lanka,Sri Lanka,0,New Wanderers Stadium
+3,Aftab Ahmed,15.0,17,0,0,88.23529411764706,Mohammad Hafeez,['Kamran Akmal'],stumped,Aftab Ahmed,2007-09-20,Pakistan,Pakistan,0,Newlands
+5,Aftab Ahmed,3.0,5,0,0,60.0,notOut,notOut,notOut,notOut,2008-04-20,Bangladesh,Pakistan,0,National Stadium
+2,Aftab Ahmed,12.0,14,1,1,85.71428571428571,JEC Franklin,0,bowled,Aftab Ahmed,2010-02-03,Bangladesh,New Zealand,0,Seddon Park
+3,Aftab Ahmed,1.0,3,0,0,33.33333333333333,DP Nannes,['DA Warner'],caught,Aftab Ahmed,2010-05-05,Bangladesh,Australia,0,"Kensington Oval, Bridgetown"
+10,Al-Amin Hossain,5.0,3,1,0,166.66666666666669,notOut,notOut,notOut,notOut,2013-11-06,New Zealand,New Zealand,0,Shere Bangla National Stadium
+10,Al-Amin Hossain,1.0,5,0,0,20.0,Nadeem Ahmed,['Babar Hayat'],caught,Al-Amin Hossain,2014-03-20,Hong Kong,Hong Kong,0,Zahur Ahmed Chowdhury Stadium
+10,Al-Amin Hossain,1.0,2,0,0,50.0,notOut,notOut,notOut,notOut,2015-11-15,Zimbabwe,Zimbabwe,0,Shere Bangla National Stadium
+11,Al-Amin Hossain,0.0,2,0,0,0.0,IS Sodhi,0,bowled,Al-Amin Hossain,2016-03-26,New Zealand,New Zealand,0,Eden Gardens
+4,Alok Kapali,17.0,20,1,0,85.0,notOut,notOut,notOut,notOut,2007-09-01,Bangladesh,Bangladesh,0,Gymkhana Club Ground
+5,Alok Kapali,19.0,12,2,1,158.33333333333331,Shahid Afridi,0,bowled,Alok Kapali,2007-09-02,Pakistan,Pakistan,0,Gymkhana Club Ground
+5,Alok Kapali,5.0,7,0,0,71.42857142857143,notOut,notOut,notOut,notOut,2007-09-13,West Indies,Bangladesh,0,New Wanderers Stadium
+5,Alok Kapali,14.0,37,0,0,37.83783783783784,M Morkel,['AB de Villiers'],caught,Alok Kapali,2007-09-15,Bangladesh,South Africa,0,Newlands
+6,Alok Kapali,0.0,1,0,0,0.0,B Lee,0,lbw,Alok Kapali,2007-09-16,Bangladesh,Australia,0,Newlands
+4,Alok Kapali,2.0,9,0,0,22.22222222222222,CR Brathwaite,['A Martin'],caught,Alok Kapali,2011-10-11,West Indies,Bangladesh,0,Shere Bangla National Stadium
+2,Alok Kapali,0.0,3,0,0,0.0,Mohammad Hafeez,['Misbah-ul-Haq'],caught,Alok Kapali,2011-11-29,Pakistan,Pakistan,0,Shere Bangla National Stadium
+1,Anamul Haque,22.0,12,3,1,183.33333333333331,KAJ Roach,['DJG Sammy'],caught,Anamul Haque,2012-12-10,West Indies,West Indies,0,Shere Bangla National Stadium
+2,Anamul Haque,58.0,45,7,0,128.88888888888889,NLTC Perera,"['NLTC Perera', 'KC Sangakkara']",run out,Farhad Reza,2014-02-12,Sri Lanka,Sri Lanka,0,Zahur Ahmed Chowdhury Stadium
+3,Anamul Haque,58.0,45,7,0,128.88888888888889,NLTC Perera,0,caught and bowled,Anamul Haque,2014-02-12,Sri Lanka,Sri Lanka,0,Zahur Ahmed Chowdhury Stadium
+2,Anamul Haque,24.0,17,2,2,141.1764705882353,SMSM Senanayake,['MDKJ Perera'],caught,Anamul Haque,2014-02-14,Sri Lanka,Sri Lanka,0,Zahur Ahmed Chowdhury Stadium
+1,Anamul Haque,44.0,33,4,3,133.33333333333331,notOut,notOut,notOut,notOut,2014-03-16,Afghanistan,Bangladesh,0,Shere Bangla National Stadium
+1,Anamul Haque,42.0,33,5,2,127.27272727272727,SP Gauchan,"['Sagar Pun', 'SP Khakurel']",run out,Anamul Haque,2014-03-18,Nepal,Bangladesh,0,Zahur Ahmed Chowdhury Stadium
+2,Anamul Haque,26.0,17,3,1,152.94117647058823,Nadeem Ahmed,0,bowled,Anamul Haque,2014-03-20,Hong Kong,Hong Kong,0,Zahur Ahmed Chowdhury Stadium
+1,Anamul Haque,10.0,7,2,0,142.85714285714286,K Santokie,['D Ramdin'],stumped,Anamul Haque,2014-03-25,West Indies,West Indies,0,Shere Bangla National Stadium
+1,Anamul Haque,44.0,44,5,2,100.0,A Mishra,0,bowled,Anamul Haque,2014-03-28,India,India,0,Shere Bangla National Stadium
+1,Anamul Haque,18.0,16,3,0,112.5,Saeed Ajmal,0,caught and bowled,Anamul Haque,2014-03-30,Pakistan,Pakistan,0,Shere Bangla National Stadium
+1,Anamul Haque,0.0,6,0,0,0.0,NM Coulter-Nile,['SR Watson'],caught,Anamul Haque,2014-04-01,Australia,Australia,0,Shere Bangla National Stadium
+2,Anamul Haque,1.0,2,0,0,50.0,notOut,notOut,notOut,notOut,2015-11-13,Zimbabwe,Bangladesh,0,Shere Bangla National Stadium
+2,Anamul Haque,47.0,52,3,0,90.38461538461539,N Madziva,"['SC Williams', 'RW Chakabva']",run out,Anamul Haque,2015-11-15,Zimbabwe,Zimbabwe,0,Shere Bangla National Stadium
+10,Arafat Sunny,5.0,6,1,0,83.33333333333334,SL Malinga,['LD Chandimal'],caught,Arafat Sunny,2014-02-14,Sri Lanka,Sri Lanka,0,Zahur Ahmed Chowdhury Stadium
+10,Arafat Sunny,1.0,2,0,0,50.0,notOut,notOut,notOut,notOut,2015-07-05,South Africa,South Africa,0,Shere Bangla National Stadium
+9,Arafat Sunny,5.0,6,0,0,83.33333333333334,notOut,notOut,notOut,notOut,2015-07-07,South Africa,South Africa,0,Shere Bangla National Stadium
+8,Arafat Sunny,5.0,8,0,0,62.5,T Panyangara,['LM Jongwe'],caught,Arafat Sunny,2015-11-15,Zimbabwe,Zimbabwe,0,Shere Bangla National Stadium
+9,Arafat Sunny,10.0,6,2,0,166.66666666666669,N Madziva,0,bowled,Arafat Sunny,2016-01-22,Zimbabwe,Zimbabwe,0,Sheikh Abu Naser Stadium
+8,Arafat Sunny,8.0,4,0,1,200.0,notOut,notOut,notOut,notOut,2016-03-09,Netherlands,Bangladesh,0,Himachal Pradesh Cricket Association Stadium
+1,Ayasha Rahman,34.0,40,2,0,85.0,S Loubser,['MM Letsoalo'],caught,Ayasha Rahman,2013-09-14,Bangladesh,South Africa,0,Senwes Park
+0,Ayasha Rahman,42.0,59,3,0,71.1864406779661,S Luus,"['D van Niekerk', 'S Luus']",run out,Rumana Ahmed,2013-09-15,Bangladesh,South Africa,0,Senwes Park
+1,Ayasha Rahman,42.0,59,3,0,71.1864406779661,S Luus,"['D van Niekerk', 'S Luus']",run out,Lata Mondal,2013-09-15,Bangladesh,South Africa,0,Senwes Park
+2,Ayasha Rahman,42.0,59,3,0,71.1864406779661,M Kapp,0,lbw,Ayasha Rahman,2013-09-15,Bangladesh,South Africa,0,Senwes Park
+0,Ayasha Rahman,10.0,19,1,0,52.63157894736842,SL Quintyne,0,bowled,Ayasha Rahman,2014-03-26,West Indies,West Indies,0,Sylhet Stadium
+0,Ayasha Rahman,10.0,16,2,0,62.5,Poonam Yadav,['G Sultana'],caught,Ayasha Rahman,2014-03-30,India,India,0,Sylhet Stadium
+0,Ayasha Rahman,6.0,5,1,0,120.0,KDU Prabodhani,0,bowled,Ayasha Rahman,2014-04-01,Sri Lanka,Bangladesh,0,Sylhet Stadium
+0,Ayasha Rahman,12.0,22,2,0,54.54545454545454,LN McCarthy,['MV Waldron'],caught,Ayasha Rahman,2014-04-03,Ireland,Bangladesh,0,Sylhet Stadium
+0,Ayasha Rahman,23.0,28,3,0,82.14285714285714,Bismah Maroof,['Sana Mir'],caught,Ayasha Rahman,2015-09-30,Bangladesh,Pakistan,0,Southend Club Cricket Stadium
+0,Ayasha Rahman,5.0,5,1,0,100.0,Sana Mir,0,caught and bowled,Ayasha Rahman,2015-10-01,Bangladesh,Pakistan,0,Southend Club Cricket Stadium
+1,Ayasha Rahman,4.0,11,0,0,36.36363636363637,AA Patil,['Poonam Yadav'],caught,Ayasha Rahman,2016-03-15,Bangladesh,India,0,M Chinnaswamy Stadium
+1,Ayasha Rahman,2.0,9,0,0,22.22222222222222,A Shrubsole,['CM Edwards'],caught,Ayasha Rahman,2016-03-17,England,England,0,M Chinnaswamy Stadium
+0,Ayasha Rahman,8.0,16,1,0,50.0,IMHC Joyce,['MV Waldron'],caught,Ayasha Rahman,2016-09-05,Bangladesh,Ireland,0,"Bready Cricket Club, Magheramason"
+8,Dhiman Ghosh,1.0,2,0,0,50.0,notOut,notOut,notOut,notOut,2008-04-20,Bangladesh,Pakistan,0,National Stadium
+9,Elias Sunny,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2012-07-26,Bangladesh,Netherlands,0,Sportpark Westvliet
+8,Elias Sunny,5.0,3,1,0,166.66666666666669,TG Southee,['JDP Oram'],caught,Elias Sunny,2012-09-21,New Zealand,New Zealand,0,Pallekele International Cricket Stadium
+6,Fahima Khatun,0.0,1,0,0,0.0,M Kapp,0,bowled,Fahima Khatun,2013-09-14,Bangladesh,South Africa,0,Senwes Park
+8,Fahima Khatun,1.0,2,0,0,50.0,SC Selman,['SC Selman'],run out,Fahima Khatun,2014-03-26,West Indies,West Indies,0,Sylhet Stadium
+8,Fahima Khatun,7.0,7,1,0,100.0,notOut,notOut,notOut,notOut,2014-03-30,India,India,0,Sylhet Stadium
+7,Fahima Khatun,14.0,16,1,0,87.5,SS Weerakkody,['NND de Silva (sub)'],caught,Fahima Khatun,2014-04-01,Sri Lanka,Bangladesh,0,Sylhet Stadium
+6,Fahima Khatun,0.0,3,0,0,0.0,LK O'Reilly,['MV Waldron'],caught,Fahima Khatun,2014-04-03,Ireland,Bangladesh,0,Sylhet Stadium
+5,Fahima Khatun,1.0,3,0,0,33.33333333333333,Anam Amin,0,caught and bowled,Fahima Khatun,2015-09-30,Bangladesh,Pakistan,0,Southend Club Cricket Stadium
+6,Fahima Khatun,14.0,17,2,0,82.35294117647058,AA Patil,0,lbw,Fahima Khatun,2016-03-15,Bangladesh,India,0,M Chinnaswamy Stadium
+9,Fahima Khatun,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2016-03-20,West Indies,West Indies,0,"MA Chidambaram Stadium, Chepauk"
+7,Fahima Khatun,4.0,3,0,0,133.33333333333331,notOut,notOut,notOut,notOut,2016-03-24,Pakistan,Pakistan,0,Feroz Shah Kotla
+1,Fargana Hoque,3.0,11,0,0,27.27272727272727,SS Weerakkody,0,bowled,Fargana Hoque,2012-10-28,Sri Lanka,Bangladesh,0,Guanggong International Cricket Stadium
+0,Fargana Hoque,28.0,46,1,0,60.86956521739131,Sana Mir,['Batool Fatima'],stumped,Fargana Hoque,2012-10-30,Pakistan,Pakistan,0,Guanggong International Cricket Stadium
+0,Fargana Hoque,4.0,11,0,0,36.36363636363637,M Kapp,['D van Niekerk'],caught,Fargana Hoque,2013-09-14,Bangladesh,South Africa,0,Senwes Park
+6,Fargana Hoque,8.0,5,1,0,160.0,notOut,notOut,notOut,notOut,2013-09-15,Bangladesh,South Africa,0,Senwes Park
+3,Fargana Hoque,2.0,4,0,0,50.0,SL Quintyne,0,lbw,Fargana Hoque,2014-03-26,West Indies,West Indies,0,Sylhet Stadium
+1,Fargana Hoque,15.0,31,0,0,48.38709677419355,J Goswami,0,lbw,Fargana Hoque,2014-03-30,India,India,0,Sylhet Stadium
+2,Fargana Hoque,23.0,37,2,0,62.16216216216216,Nida Dar,['Rabiya Shah'],stumped,Fargana Hoque,2015-09-30,Bangladesh,Pakistan,0,Southend Club Cricket Stadium
+2,Fargana Hoque,6.0,7,1,0,85.71428571428571,Sumaiya Siddiqi,['Iram Javed'],caught,Fargana Hoque,2015-10-01,Bangladesh,Pakistan,0,Southend Club Cricket Stadium
+4,Fargana Hoque,6.0,6,0,0,100.0,notOut,notOut,notOut,notOut,2015-12-05,Ireland,Ireland,0,Terdthai Cricket Ground
+2,Fargana Hoque,19.0,25,2,0,76.0,D Hazell,['NR Sciver'],caught,Fargana Hoque,2016-03-17,England,England,0,M Chinnaswamy Stadium
+2,Fargana Hoque,17.0,25,1,0,68.0,HK Matthews,['SS Connell'],run out,Salma Khatun,2016-03-20,West Indies,West Indies,0,"MA Chidambaram Stadium, Chepauk"
+3,Fargana Hoque,17.0,25,1,0,68.0,HK Matthews,0,bowled,Fargana Hoque,2016-03-20,West Indies,West Indies,0,"MA Chidambaram Stadium, Chepauk"
+3,Fargana Hoque,36.0,38,2,0,94.73684210526315,Nida Dar,"['Iram Javed', 'Nida Dar']",run out,Nigar Sultana,2016-03-24,Pakistan,Pakistan,0,Feroz Shah Kotla
+4,Fargana Hoque,36.0,38,2,0,94.73684210526315,Nida Dar,"['Bismah Maroof', 'Nida Dar']",run out,Fahima Khatun,2016-03-24,Pakistan,Pakistan,0,Feroz Shah Kotla
+2,Fargana Hoque,24.0,26,0,0,92.3076923076923,CJ Metcalfe,['CJ Metcalfe'],run out,Nigar Sultana,2016-09-05,Bangladesh,Ireland,0,"Bready Cricket Club, Magheramason"
+3,Fargana Hoque,24.0,26,0,0,92.3076923076923,LK O'Reilly,['MV Waldron'],stumped,Fargana Hoque,2016-09-05,Bangladesh,Ireland,0,"Bready Cricket Club, Magheramason"
+8,Farhad Reza,18.0,14,2,0,128.57142857142858,Shoaib Akhtar,0,bowled,Farhad Reza,2007-09-02,Pakistan,Pakistan,0,Gymkhana Club Ground
+7,Farhad Reza,19.0,21,0,2,90.47619047619048,VD Philander,['JM Kemp'],caught,Farhad Reza,2007-09-15,Bangladesh,South Africa,0,Newlands
+7,Farhad Reza,4.0,13,0,0,30.76923076923077,NW Bracken,['MEK Hussey'],caught,Farhad Reza,2007-09-16,Bangladesh,Australia,0,Newlands
+7,Farhad Reza,2.0,4,0,0,50.0,Wahab Riaz,"['Fawad Alam', 'Kamran Akmal']",run out,Farhad Reza,2008-04-20,Bangladesh,Pakistan,0,National Stadium
+8,Farhad Reza,6.0,12,0,0,50.0,Shahid Afridi,0,lbw,Farhad Reza,2011-11-29,Pakistan,Pakistan,0,Shere Bangla National Stadium
+7,Farhad Reza,7.0,5,1,0,140.0,notOut,notOut,notOut,notOut,2014-02-12,Sri Lanka,Sri Lanka,0,Zahur Ahmed Chowdhury Stadium
+8,Farhad Reza,9.0,16,0,0,56.25,KMDN Kulasekara,['LD Chandimal'],caught,Farhad Reza,2014-02-14,Sri Lanka,Sri Lanka,0,Zahur Ahmed Chowdhury Stadium
+7,Farhad Reza,0.0,4,0,0,0.0,Nizakat Khan,['JJ Atkinson'],caught,Farhad Reza,2014-03-20,Hong Kong,Hong Kong,0,Zahur Ahmed Chowdhury Stadium
+1,Imrul Kayes,0.0,2,0,0,0.0,Mohammad Amir,['Misbah-ul-Haq'],caught,Imrul Kayes,2010-05-01,Pakistan,Pakistan,0,"Beausejour Stadium, Gros Islet"
+0,Imrul Kayes,0.0,6,0,0,0.0,SW Tait,['DJ Hussey'],caught,Imrul Kayes,2010-05-05,Bangladesh,Australia,0,"Kensington Oval, Bridgetown"
+1,Imrul Kayes,22.0,23,3,1,95.65217391304348,A Martin,['DP Hyatt'],caught,Imrul Kayes,2011-10-11,West Indies,Bangladesh,0,Shere Bangla National Stadium
+1,Imrul Kayes,2.0,10,0,0,20.0,notOut,notOut,notOut,notOut,2011-11-29,Pakistan,Pakistan,0,Shere Bangla National Stadium
+1,Imrul Kayes,10.0,11,2,0,90.9090909090909,TS Chisoro,['SC Williams'],caught,Imrul Kayes,2015-11-15,Zimbabwe,Zimbabwe,0,Shere Bangla National Stadium
+0,Imrul Kayes,1.0,3,0,0,33.33333333333333,TS Chisoro,0,bowled,Imrul Kayes,2016-01-20,Zimbabwe,Zimbabwe,0,Sheikh Abu Naser Stadium
+5,Imrul Kayes,18.0,15,2,1,120.0,Sikandar Raza,['LM Jongwe'],caught,Imrul Kayes,2016-01-22,Zimbabwe,Zimbabwe,0,Sheikh Abu Naser Stadium
+3,Imrul Kayes,14.0,24,1,0,58.333333333333336,R Ashwin,['Yuvraj Singh'],caught,Imrul Kayes,2016-02-24,India,India,0,Shere Bangla National Stadium
+1,Imrul Kayes,0.0,2,0,0,0.0,MJ Henry,['L Ronchi'],caught,Imrul Kayes,2017-01-03,Bangladesh,New Zealand,0,McLean Park
+1,Imrul Kayes,0.0,3,0,0,0.0,MJ Santner,['TC Bruce'],caught,Imrul Kayes,2017-01-06,Bangladesh,New Zealand,0,Bay Oval
+0,Imrul Kayes,36.0,27,4,1,133.33333333333331,notOut,notOut,notOut,notOut,2017-04-06,Bangladesh,Bangladesh,0,R Premadasa Stadium
+7,Jahanara Alam,4.0,10,0,0,40.0,CR Seneviratna,['HMD Rasangika'],run out,Jahanara Alam,2012-10-28,Sri Lanka,Bangladesh,0,Guanggong International Cricket Stadium
+6,Jahanara Alam,1.0,5,0,0,20.0,Sadia Yousuf,['Batool Fatima'],stumped,Jahanara Alam,2012-10-30,Pakistan,Pakistan,0,Guanggong International Cricket Stadium
+9,Jahanara Alam,2.0,3,0,0,66.66666666666666,notOut,notOut,notOut,notOut,2014-03-26,West Indies,West Indies,0,Sylhet Stadium
+9,Jahanara Alam,0.0,2,0,0,0.0,notOut,notOut,notOut,notOut,2014-03-30,India,India,0,Sylhet Stadium
+11,Jahanara Alam,4.0,2,0,0,200.0,notOut,notOut,notOut,notOut,2014-04-01,Sri Lanka,Bangladesh,0,Sylhet Stadium
+7,Jahanara Alam,5.0,9,0,0,55.55555555555556,notOut,notOut,notOut,notOut,2015-09-30,Bangladesh,Pakistan,0,Southend Club Cricket Stadium
+8,Jahanara Alam,1.0,2,0,0,50.0,notOut,notOut,notOut,notOut,2015-10-01,Bangladesh,Pakistan,0,Southend Club Cricket Stadium
+7,Jahanara Alam,10.0,13,0,0,76.92307692307693,notOut,notOut,notOut,notOut,2016-03-15,Bangladesh,India,0,M Chinnaswamy Stadium
+7,Jahanara Alam,2.0,3,0,0,66.66666666666666,JL Gunn,['LS Greenway'],caught,Jahanara Alam,2016-03-17,England,England,0,M Chinnaswamy Stadium
+8,Jahanara Alam,0.0,1,0,0,0.0,SR Taylor,0,lbw,Jahanara Alam,2016-03-20,West Indies,West Indies,0,"MA Chidambaram Stadium, Chepauk"
+8,Jahanara Alam,11.0,9,1,0,122.22222222222223,Sana Mir,"['Sidra Ameen', 'Sidra Nawaz']",run out,Fargana Hoque,2016-03-24,Pakistan,Pakistan,0,Feroz Shah Kotla
+9,Jahanara Alam,11.0,9,1,0,122.22222222222223,Asmavia Iqbal,"['Sidra Nawaz', 'Asmavia Iqbal']",run out,Jahanara Alam,2016-03-24,Pakistan,Pakistan,0,Feroz Shah Kotla
+7,Jahanara Alam,2.0,2,0,0,100.0,notOut,notOut,notOut,notOut,2016-09-05,Bangladesh,Ireland,0,"Bready Cricket Club, Magheramason"
+7,Jahurul Islam,18.0,13,1,1,138.46153846153845,DP Nannes,['MJ Clarke'],caught,Jahurul Islam,2010-05-05,Bangladesh,Australia,0,"Kensington Oval, Bridgetown"
+7,Jahurul Islam,2.0,2,0,0,100.0,T van der Gugten,['W Barresi'],caught,Jahurul Islam,2012-07-26,Bangladesh,Netherlands,0,Sportpark Westvliet
+2,Jahurul Islam,11.0,9,2,0,122.22222222222223,AD Mathews,0,bowled,Jahurul Islam,2013-03-31,Bangladesh,Sri Lanka,0,Pallekele International Cricket Stadium
+1,Junaid Siddique,71.0,52,6,3,136.53846153846155,Mohammad Asif,['Mohammad Hafeez'],run out,Tamim Iqbal,2007-09-20,Pakistan,Pakistan,0,Newlands
+2,Junaid Siddique,71.0,52,6,3,136.53846153846155,Shoaib Malik,['Misbah-ul-Haq'],caught,Junaid Siddique,2007-09-20,Pakistan,Pakistan,0,Newlands
+1,Junaid Siddique,4.0,2,1,0,200.0,RK Kleinveldt,['AB de Villiers'],caught,Junaid Siddique,2008-11-05,Bangladesh,South Africa,0,New Wanderers Stadium
+1,Junaid Siddique,41.0,22,2,3,186.36363636363635,PP Ojha,['Harbhajan Singh'],caught,Junaid Siddique,2009-06-06,India,India,0,Trent Bridge
+1,Junaid Siddique,13.0,6,3,0,216.66666666666666,DT Johnston,['JP Bray'],caught,Junaid Siddique,2009-06-08,Ireland,Ireland,0,Trent Bridge
+1,Junaid Siddique,5.0,6,1,0,83.33333333333334,DJG Sammy,['DS Smith'],caught,Junaid Siddique,2009-08-02,Bangladesh,West Indies,0,"Warner Park, Basseterre"
+1,Junaid Siddique,25.0,20,3,1,125.0,T van der Gugten,['PW Borren'],caught,Junaid Siddique,2012-07-25,Bangladesh,Bangladesh,0,Sportpark Westvliet
+1,Junaid Siddique,0.0,4,0,0,0.0,TGJ Gruijters,['PW Borren'],caught,Junaid Siddique,2012-07-26,Bangladesh,Netherlands,0,Sportpark Westvliet
+10,Khadija Tul Kubra,0.0,2,0,0,0.0,SK Dolawatte,0,bowled,Khadija Tul Kubra,2012-10-28,Sri Lanka,Bangladesh,0,Guanggong International Cricket Stadium
+10,Khadija Tul Kubra,0.0,1,0,0,0.0,SC Selman,0,bowled,Khadija Tul Kubra,2014-03-26,West Indies,West Indies,0,Sylhet Stadium
+0,Lata Mondal,7.0,21,0,0,33.33333333333333,I Ranaweera,0,lbw,Lata Mondal,2012-10-28,Sri Lanka,Bangladesh,0,Guanggong International Cricket Stadium
+3,Lata Mondal,1.0,3,0,0,33.33333333333333,Bismah Maroof,['Marina Iqbal'],caught,Lata Mondal,2012-10-30,Pakistan,Pakistan,0,Guanggong International Cricket Stadium
+2,Lata Mondal,31.0,52,1,0,59.61538461538461,notOut,notOut,notOut,notOut,2013-09-14,Bangladesh,South Africa,0,Senwes Park
+4,Lata Mondal,8.0,11,0,0,72.72727272727273,notOut,notOut,notOut,notOut,2013-09-15,Bangladesh,South Africa,0,Senwes Park
+6,Lata Mondal,3.0,5,0,0,60.0,TD Smartt,['A Mohammed'],caught,Lata Mondal,2014-03-26,West Indies,West Indies,0,Sylhet Stadium
+4,Lata Mondal,10.0,20,0,0,50.0,S Sharma,['Poonam Yadav'],caught,Lata Mondal,2014-03-30,India,India,0,Sylhet Stadium
+3,Lata Mondal,0.0,3,0,0,0.0,HHC Gunaratne,0,lbw,Lata Mondal,2014-04-01,Sri Lanka,Bangladesh,0,Sylhet Stadium
+3,Lata Mondal,8.0,12,1,0,66.66666666666666,LK O'Reilly,0,bowled,Lata Mondal,2014-04-03,Ireland,Bangladesh,0,Sylhet Stadium
+4,Lata Mondal,6.0,10,0,0,60.0,Sumaiya Siddiqi,['Rabiya Shah'],stumped,Lata Mondal,2015-09-30,Bangladesh,Pakistan,0,Southend Club Cricket Stadium
+7,Lata Mondal,10.0,10,1,0,100.0,Sumaiya Siddiqi,['Rabiya Shah'],run out,Ritu Moni,2015-10-01,Bangladesh,Pakistan,0,Southend Club Cricket Stadium
+2,Lata Mondal,0.0,1,0,0,0.0,CJ Metcalfe,['CMA Shillington'],caught,Lata Mondal,2015-12-05,Ireland,Ireland,0,Terdthai Cricket Ground
+10,Lata Mondal,1.0,5,0,0,20.0,DJS Dottin,['MR Aguilleira'],caught,Lata Mondal,2016-03-20,West Indies,West Indies,0,"MA Chidambaram Stadium, Chepauk"
+10,Lata Mondal,12.0,7,2,0,171.42857142857142,Asmavia Iqbal,['Sidra Nawaz'],stumped,Lata Mondal,2016-03-24,Pakistan,Pakistan,0,Feroz Shah Kotla
+1,Lata Mondal,0.0,2,0,0,0.0,KJ Garth,0,caught and bowled,Lata Mondal,2016-09-05,Bangladesh,Ireland,0,"Bready Cricket Club, Magheramason"
+9,Lily Rani Biswas,0.0,2,0,0,0.0,SK Dolawatte,['I Ranaweera'],caught,Lily Rani Biswas,2012-10-28,Sri Lanka,Bangladesh,0,Guanggong International Cricket Stadium
+6,Liton Das,22.0,27,0,1,81.48148148148148,D Wiese,"['AB de Villiers', 'D Wiese']",run out,Sohag Gazi,2015-07-05,South Africa,South Africa,0,Shere Bangla National Stadium
+7,Liton Das,22.0,27,0,1,81.48148148148148,D Wiese,['AB de Villiers'],caught,Liton Das,2015-07-05,South Africa,South Africa,0,Shere Bangla National Stadium
+7,Liton Das,10.0,8,1,0,125.0,AM Phangiso,['D Wiese'],caught,Liton Das,2015-07-07,South Africa,South Africa,0,Shere Bangla National Stadium
+7,Liton Das,17.0,12,2,0,141.66666666666669,TS Chisoro,['AG Cremer'],caught,Liton Das,2015-11-13,Zimbabwe,Bangladesh,0,Shere Bangla National Stadium
+5,Mahmudullah,2.0,8,0,0,25.0,TM Odoyo,['DO Obuya'],caught,Mahmudullah,2007-09-01,Bangladesh,Bangladesh,0,Gymkhana Club Ground
+6,Mahmudullah,9.0,15,1,0,60.0,notOut,notOut,notOut,notOut,2007-09-02,Pakistan,Pakistan,0,Gymkhana Club Ground
+7,Mahmudullah,16.0,16,0,1,100.0,SL Malinga,"['MF Maharoof', 'KC Sangakkara']",run out,Mushfiqur Rahim,2007-09-18,Sri Lanka,Sri Lanka,0,New Wanderers Stadium
+8,Mahmudullah,16.0,16,0,1,100.0,ST Jayasuriya,['J Mubarak'],caught,Mahmudullah,2007-09-18,Sri Lanka,Sri Lanka,0,New Wanderers Stadium
+9,Mahmudullah,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2007-09-20,Pakistan,Pakistan,0,Newlands
+9,Mahmudullah,2.0,5,0,0,40.0,Mansoor Amjad,['Kamran Akmal'],stumped,Mahmudullah,2008-04-20,Bangladesh,Pakistan,0,National Stadium
+4,Mahmudullah,8.0,13,0,0,61.53846153846154,PP Ojha,['Yuvraj Singh'],caught,Mahmudullah,2009-06-06,India,India,0,Trent Bridge
+4,Mahmudullah,7.0,10,0,0,70.0,WK McCallan,"[""NJ O'Brien"", 'WK McCallan']",run out,Tamim Iqbal,2009-06-08,Ireland,Ireland,0,Trent Bridge
+5,Mahmudullah,7.0,10,0,0,70.0,AR Cusack,"[""NJ O'Brien""]",stumped,Mahmudullah,2009-06-08,Ireland,Ireland,0,Trent Bridge
+6,Mahmudullah,21.0,29,2,0,72.41379310344827,NO Miller,['ADS Fletcher'],run out,Mushfiqur Rahim,2009-08-02,Bangladesh,West Indies,0,"Warner Park, Basseterre"
+6,Mahmudullah,11.0,23,1,0,47.82608695652174,NL McCullum,['JEC Franklin'],caught,Mahmudullah,2010-02-03,Bangladesh,New Zealand,0,Seddon Park
+4,Mahmudullah,0.0,3,0,0,0.0,Mohammad Sami,['Mohammad Amir'],caught,Mahmudullah,2010-05-01,Pakistan,Pakistan,0,"Beausejour Stadium, Gros Islet"
+4,Mahmudullah,2.0,3,0,0,66.66666666666666,DP Nannes,['MEK Hussey'],caught,Mahmudullah,2010-05-05,Bangladesh,Australia,0,"Kensington Oval, Bridgetown"
+6,Mahmudullah,2.0,5,0,0,40.0,Aizaz Cheema,['Umar Akmal'],caught,Mahmudullah,2011-11-29,Pakistan,Pakistan,0,Shere Bangla National Stadium
+4,Mahmudullah,23.0,15,1,2,153.33333333333334,MC Sorensen,['PR Stirling'],caught,Mahmudullah,2012-07-18,Bangladesh,Bangladesh,0,"Civil Service Cricket Club, Stormont"
+4,Mahmudullah,41.0,31,6,0,132.25806451612902,Ahsan Malik,['PW Borren'],caught,Mahmudullah,2012-07-26,Bangladesh,Netherlands,0,Sportpark Westvliet
+4,Mahmudullah,15.0,19,0,1,78.94736842105263,NL McCullum,['KS Williamson'],caught,Mahmudullah,2012-09-21,New Zealand,New Zealand,0,Pallekele International Cricket Stadium
+5,Mahmudullah,0.0,2,0,0,0.0,Shahid Afridi,['Umar Akmal'],caught,Mahmudullah,2012-09-25,Pakistan,Pakistan,0,Pallekele International Cricket Stadium
+2,Mahmudullah,64.0,48,3,4,133.33333333333331,notOut,notOut,notOut,notOut,2012-12-10,West Indies,West Indies,0,Shere Bangla National Stadium
+5,Mahmudullah,31.0,18,3,1,172.22222222222223,SMSM Senanayake,"['SL Malinga', 'LD Chandimal']",run out,Mahmudullah,2013-03-31,Bangladesh,Sri Lanka,0,Pallekele International Cricket Stadium
+6,Mahmudullah,2.0,2,0,0,100.0,notOut,notOut,notOut,notOut,2013-05-11,Bangladesh,Zimbabwe,0,Queens Sports Club
+5,Mahmudullah,1.0,4,0,0,25.0,T Panyangara,['Sikandar Raza'],caught,Mahmudullah,2013-05-12,Bangladesh,Bangladesh,0,Queens Sports Club
+6,Mahmudullah,34.0,25,0,3,136.0,CJ Anderson,['LRPL Taylor'],caught,Mahmudullah,2013-11-06,New Zealand,New Zealand,0,Shere Bangla National Stadium
+7,Mahmudullah,9.0,10,1,0,90.0,notOut,notOut,notOut,notOut,2014-02-14,Sri Lanka,Sri Lanka,0,Zahur Ahmed Chowdhury Stadium
+6,Mahmudullah,2.0,3,0,0,66.66666666666666,Nadeem Ahmed,0,bowled,Mahmudullah,2014-03-20,Hong Kong,Hong Kong,0,Zahur Ahmed Chowdhury Stadium
+6,Mahmudullah,1.0,3,0,0,33.33333333333333,S Badree,['LMP Simmons'],caught,Mahmudullah,2014-03-25,West Indies,West Indies,0,Shere Bangla National Stadium
+6,Mahmudullah,33.0,24,5,1,137.5,notOut,notOut,notOut,notOut,2014-03-28,India,India,0,Shere Bangla National Stadium
+6,Mahmudullah,17.0,13,0,1,130.76923076923077,notOut,notOut,notOut,notOut,2014-03-30,Pakistan,Pakistan,0,Shere Bangla National Stadium
+4,Mahmudullah,6.0,7,0,0,85.71428571428571,notOut,notOut,notOut,notOut,2014-04-01,Australia,Australia,0,Shere Bangla National Stadium
+6,Mahmudullah,22.0,22,2,0,100.0,notOut,notOut,notOut,notOut,2015-11-13,Zimbabwe,Bangladesh,0,Shere Bangla National Stadium
+6,Mahmudullah,8.0,4,2,0,200.0,T Panyangara,['LM Jongwe'],caught,Mahmudullah,2015-11-15,Zimbabwe,Zimbabwe,0,Shere Bangla National Stadium
+7,Mahmudullah,7.0,3,0,1,233.33333333333334,LM Jongwe,0,bowled,Mahmudullah,2016-01-15,Zimbabwe,Bangladesh,0,Sheikh Abu Naser Stadium
+3,Mahmudullah,1.0,3,0,0,33.33333333333333,WP Masakadza,['R Mutumbami'],caught,Mahmudullah,2016-01-17,Zimbabwe,Bangladesh,0,Sheikh Abu Naser Stadium
+5,Mahmudullah,6.0,4,0,0,150.0,AG Cremer,['R Mutumbami'],caught,Mahmudullah,2016-01-20,Zimbabwe,Zimbabwe,0,Sheikh Abu Naser Stadium
+4,Mahmudullah,54.0,45,5,2,120.0,TS Chisoro,0,bowled,Mahmudullah,2016-01-22,Zimbabwe,Zimbabwe,0,Sheikh Abu Naser Stadium
+6,Mahmudullah,7.0,7,1,0,100.0,A Nehra,['RG Sharma'],caught,Mahmudullah,2016-02-24,India,India,0,Shere Bangla National Stadium
+5,Mahmudullah,36.0,27,1,2,133.33333333333331,Rohan Mustafa,"['Saqlain Haider', 'Rohan Mustafa']",run out,Taskin Ahmed,2016-02-26,United Arab Emirates,Bangladesh,0,Shere Bangla National Stadium
+5,Mahmudullah,23.0,13,2,1,176.9230769230769,PVD Chameera,"['AD Mathews', 'LD Chandimal']",run out,Mashrafe Mortaza,2016-02-28,Sri Lanka,Bangladesh,0,Shere Bangla National Stadium
+5,Mahmudullah,22.0,15,2,1,146.66666666666666,notOut,notOut,notOut,notOut,2016-03-02,Pakistan,Bangladesh,0,Shere Bangla National Stadium
+6,Mahmudullah,33.0,14,2,2,235.71428571428572,notOut,notOut,notOut,notOut,2016-03-06,India,India,0,Shere Bangla National Stadium
+4,Mahmudullah,10.0,9,1,0,111.11111111111111,T van der Gugten,0,bowled,Mahmudullah,2016-03-09,Netherlands,Bangladesh,0,Himachal Pradesh Cricket Association Stadium
+4,Mahmudullah,4.0,5,0,0,80.0,Imad Wasim,['Sharjeel Khan'],caught,Mahmudullah,2016-03-16,Pakistan,Pakistan,0,Eden Gardens
+5,Mahmudullah,49.0,30,7,1,163.33333333333334,notOut,notOut,notOut,notOut,2016-03-21,Bangladesh,Australia,0,M Chinnaswamy Stadium
+5,Mahmudullah,18.0,22,1,0,81.81818181818183,HH Pandya,['RA Jadeja'],caught,Mahmudullah,2016-03-23,Bangladesh,India,0,M Chinnaswamy Stadium
+6,Mahmudullah,5.0,8,0,0,62.5,IS Sodhi,0,bowled,Mahmudullah,2016-03-26,New Zealand,New Zealand,0,Eden Gardens
+5,Mahmudullah,52.0,53,3,3,98.11320754716981,LH Ferguson,0,bowled,Mahmudullah,2017-01-03,Bangladesh,New Zealand,0,McLean Park
+6,Mahmudullah,19.0,16,0,1,118.75,IS Sodhi,['C de Grandhomme'],caught,Mahmudullah,2017-01-06,Bangladesh,New Zealand,0,Bay Oval
+4,Mahmudullah,18.0,14,3,0,128.57142857142858,IS Sodhi,0,bowled,Mahmudullah,2017-01-08,Bangladesh,New Zealand,0,Bay Oval
+6,Mahmudullah,31.0,26,3,0,119.23076923076923,SL Malinga,0,bowled,Mahmudullah,2017-04-04,Bangladesh,Sri Lanka,0,R Premadasa Stadium
+6,Mahmudullah,4.0,5,0,0,80.0,notOut,notOut,notOut,notOut,2017-04-06,Bangladesh,Bangladesh,0,R Premadasa Stadium
+6,Mashrafe Mortaza,7.0,7,0,1,100.0,notOut,notOut,notOut,notOut,2007-09-01,Bangladesh,Bangladesh,0,Gymkhana Club Ground
+7,Mashrafe Mortaza,10.0,14,0,0,71.42857142857143,Iftikhar Anjum,['Iftikhar Anjum'],run out,Mahmudullah,2007-09-02,Pakistan,Pakistan,0,Gymkhana Club Ground
+6,Mashrafe Mortaza,12.0,8,0,2,150.0,VD Philander,['JP Duminy'],caught,Mashrafe Mortaza,2007-09-15,Bangladesh,South Africa,0,Newlands
+5,Mashrafe Mortaza,0.0,1,0,0,0.0,B Lee,0,bowled,Mashrafe Mortaza,2007-09-16,Bangladesh,Australia,0,Newlands
+9,Mashrafe Mortaza,12.0,12,2,0,100.0,SL Malinga,0,bowled,Mashrafe Mortaza,2007-09-18,Sri Lanka,Sri Lanka,0,New Wanderers Stadium
+7,Mashrafe Mortaza,11.0,14,0,0,78.57142857142857,Umar Gul,['Umar Gul'],run out,Mahmudullah,2007-09-20,Pakistan,Pakistan,0,Newlands
+8,Mashrafe Mortaza,11.0,14,0,0,78.57142857142857,Mohammad Asif,0,bowled,Mashrafe Mortaza,2007-09-20,Pakistan,Pakistan,0,Newlands
+10,Mashrafe Mortaza,2.0,4,0,0,50.0,Mansoor Amjad,['Umar Gul'],caught,Mashrafe Mortaza,2008-04-20,Bangladesh,Pakistan,0,National Stadium
+6,Mashrafe Mortaza,11.0,8,0,1,137.5,PP Ojha,0,bowled,Mashrafe Mortaza,2009-06-06,India,India,0,Trent Bridge
+8,Mashrafe Mortaza,33.0,16,1,2,206.25,notOut,notOut,notOut,notOut,2009-06-08,Ireland,Ireland,0,Trent Bridge
+7,Mashrafe Mortaza,1.0,3,0,0,33.33333333333333,Saeed Ajmal,['Kamran Akmal'],stumped,Mashrafe Mortaza,2010-05-01,Pakistan,Pakistan,0,"Beausejour Stadium, Gros Islet"
+9,Mashrafe Mortaza,6.0,5,1,0,120.0,RJ Harris,0,bowled,Mashrafe Mortaza,2010-05-05,Bangladesh,Australia,0,"Kensington Oval, Bridgetown"
+7,Mashrafe Mortaza,5.0,4,1,0,125.0,JDP Oram,['JEC Franklin'],caught,Mashrafe Mortaza,2012-09-21,New Zealand,New Zealand,0,Pallekele International Cricket Stadium
+8,Mashrafe Mortaza,7.0,7,1,0,100.0,notOut,notOut,notOut,notOut,2013-11-06,New Zealand,New Zealand,0,Shere Bangla National Stadium
+9,Mashrafe Mortaza,17.0,10,4,0,170.0,SL Malinga,0,bowled,Mashrafe Mortaza,2014-02-14,Sri Lanka,Sri Lanka,0,Zahur Ahmed Chowdhury Stadium
+9,Mashrafe Mortaza,19.0,17,3,0,111.76470588235294,K Santokie,['DJ Bravo'],caught,Mashrafe Mortaza,2014-03-25,West Indies,West Indies,0,Shere Bangla National Stadium
+8,Mashrafe Mortaza,6.0,2,0,1,300.0,notOut,notOut,notOut,notOut,2014-03-28,India,India,0,Shere Bangla National Stadium
+8,Mashrafe Mortaza,17.0,9,4,0,188.88888888888889,notOut,notOut,notOut,notOut,2014-03-30,Pakistan,Pakistan,0,Shere Bangla National Stadium
+8,Mashrafe Mortaza,5.0,4,1,0,125.0,K Rabada,['AB de Villiers'],caught,Mashrafe Mortaza,2015-07-05,South Africa,South Africa,0,Shere Bangla National Stadium
+8,Mashrafe Mortaza,17.0,8,0,2,212.5,KJ Abbott,0,bowled,Mashrafe Mortaza,2015-07-07,South Africa,South Africa,0,Shere Bangla National Stadium
+8,Mashrafe Mortaza,15.0,12,2,1,125.0,notOut,notOut,notOut,notOut,2015-11-13,Zimbabwe,Bangladesh,0,Shere Bangla National Stadium
+7,Mashrafe Mortaza,0.0,1,0,0,0.0,N Madziva,0,bowled,Mashrafe Mortaza,2015-11-15,Zimbabwe,Zimbabwe,0,Shere Bangla National Stadium
+7,Mashrafe Mortaza,22.0,12,1,2,183.33333333333331,LM Jongwe,['V Sibanda'],caught,Mashrafe Mortaza,2016-01-22,Zimbabwe,Zimbabwe,0,Sheikh Abu Naser Stadium
+7,Mashrafe Mortaza,0.0,1,0,0,0.0,A Nehra,['RA Jadeja'],caught,Mashrafe Mortaza,2016-02-24,India,India,0,Shere Bangla National Stadium
+7,Mashrafe Mortaza,0.0,3,0,0,0.0,Mohammad Naveed,['Fahad Tariq'],caught,Mashrafe Mortaza,2016-02-26,United Arab Emirates,Bangladesh,0,Shere Bangla National Stadium
+7,Mashrafe Mortaza,2.0,2,0,0,100.0,notOut,notOut,notOut,notOut,2016-02-28,Sri Lanka,Bangladesh,0,Shere Bangla National Stadium
+6,Mashrafe Mortaza,12.0,7,2,0,171.42857142857142,notOut,notOut,notOut,notOut,2016-03-02,Pakistan,Bangladesh,0,Shere Bangla National Stadium
+5,Mashrafe Mortaza,0.0,1,0,0,0.0,RA Jadeja,['V Kohli'],caught,Mashrafe Mortaza,2016-03-06,India,India,0,Shere Bangla National Stadium
+7,Mashrafe Mortaza,7.0,5,0,1,140.0,T van der Gugten,['TLW Cooper'],caught,Mashrafe Mortaza,2016-03-09,Netherlands,Bangladesh,0,Himachal Pradesh Cricket Association Stadium
+7,Mashrafe Mortaza,15.0,10,2,1,150.0,notOut,notOut,notOut,notOut,2016-03-16,Pakistan,Pakistan,0,Eden Gardens
+4,Mashrafe Mortaza,6.0,5,0,1,120.0,RA Jadeja,0,bowled,Mashrafe Mortaza,2016-03-23,Bangladesh,India,0,M Chinnaswamy Stadium
+9,Mashrafe Mortaza,3.0,5,0,0,60.0,GD Elliott,0,lbw,Mashrafe Mortaza,2016-03-26,New Zealand,New Zealand,0,Eden Gardens
+7,Mashrafe Mortaza,1.0,4,0,0,25.0,BM Wheeler,['C de Grandhomme'],caught,Mashrafe Mortaza,2017-01-03,Bangladesh,New Zealand,0,McLean Park
+9,Mashrafe Mortaza,1.0,2,0,0,50.0,IS Sodhi,['TA Boult'],caught,Mashrafe Mortaza,2017-01-06,Bangladesh,New Zealand,0,Bay Oval
+7,Mashrafe Mortaza,9.0,6,1,0,150.0,notOut,notOut,notOut,notOut,2017-04-04,Bangladesh,Sri Lanka,0,R Premadasa Stadium
+8,Mashrafe Mortaza,0.0,1,0,0,0.0,SL Malinga,0,bowled,Mashrafe Mortaza,2017-04-06,Bangladesh,Bangladesh,0,R Premadasa Stadium
+9,Mehedi Hasan Miraz,0.0,1,0,0,0.0,SL Malinga,0,lbw,Mehedi Hasan Miraz,2017-04-06,Bangladesh,Bangladesh,0,R Premadasa Stadium
+8,Mehrab Hossain jnr,6.0,8,0,0,75.0,notOut,notOut,notOut,notOut,2008-11-05,Bangladesh,South Africa,0,New Wanderers Stadium
+8,Mehrab Hossain jnr,10.0,19,1,0,52.63157894736842,DJG Sammy,['DJG Sammy'],run out,Mehrab Hossain jnr,2009-08-02,Bangladesh,West Indies,0,"Warner Park, Basseterre"
+3,Mohammad Ashraful,36.0,21,4,1,171.42857142857142,PJ Ongondo,['TM Odoyo'],caught,Mohammad Ashraful,2007-09-01,Bangladesh,Bangladesh,0,Gymkhana Club Ground
+4,Mohammad Ashraful,7.0,4,1,0,175.0,notOut,notOut,notOut,notOut,2007-09-02,Pakistan,Pakistan,0,Gymkhana Club Ground
+3,Mohammad Ashraful,61.0,27,7,3,225.9259259259259,RR Sarwan,['CH Gayle'],caught,Mohammad Ashraful,2007-09-13,West Indies,Bangladesh,0,New Wanderers Stadium
+3,Mohammad Ashraful,10.0,3,1,1,333.33333333333337,SM Pollock,['GC Smith'],caught,Mohammad Ashraful,2007-09-15,Bangladesh,South Africa,0,Newlands
+3,Mohammad Ashraful,7.0,6,1,0,116.66666666666667,SR Clark,['A Symonds'],caught,Mohammad Ashraful,2007-09-16,Bangladesh,Australia,0,Newlands
+5,Mohammad Ashraful,4.0,8,0,0,50.0,WPUJC Vaas,['TM Dilshan'],caught,Mohammad Ashraful,2007-09-18,Sri Lanka,Sri Lanka,0,New Wanderers Stadium
+4,Mohammad Ashraful,5.0,4,0,0,125.0,Shahid Afridi,0,lbw,Mohammad Ashraful,2007-09-20,Pakistan,Pakistan,0,Newlands
+4,Mohammad Ashraful,13.0,12,1,0,108.33333333333333,Shoaib Malik,['Younis Khan'],caught,Mohammad Ashraful,2008-04-20,Bangladesh,Pakistan,0,National Stadium
+2,Mohammad Ashraful,21.0,12,5,0,175.0,J Botha,0,bowled,Mohammad Ashraful,2008-11-05,Bangladesh,South Africa,0,New Wanderers Stadium
+2,Mohammad Ashraful,11.0,9,1,0,122.22222222222223,I Sharma,['G Gambhir'],caught,Mohammad Ashraful,2009-06-06,India,India,0,Trent Bridge
+2,Mohammad Ashraful,14.0,10,1,1,140.0,DT Johnston,"[""KJ O'Brien""]",caught,Mohammad Ashraful,2009-06-08,Ireland,Ireland,0,Trent Bridge
+2,Mohammad Ashraful,0.0,1,0,0,0.0,DJG Sammy,['GC Tonge'],caught,Mohammad Ashraful,2009-08-02,Bangladesh,West Indies,0,"Warner Park, Basseterre"
+1,Mohammad Ashraful,11.0,14,1,0,78.57142857142857,DL Vettori,['GJ Hopkins'],caught,Mohammad Ashraful,2010-02-03,Bangladesh,New Zealand,0,Seddon Park
+2,Mohammad Ashraful,65.0,51,4,3,127.45098039215685,Mohammad Amir,['Kamran Akmal'],caught,Mohammad Ashraful,2010-05-01,Pakistan,Pakistan,0,"Beausejour Stadium, Gros Islet"
+1,Mohammad Ashraful,0.0,3,0,0,0.0,DP Nannes,['SW Tait'],caught,Mohammad Ashraful,2010-05-05,Bangladesh,Australia,0,"Kensington Oval, Bridgetown"
+2,Mohammad Ashraful,24.0,25,2,0,96.0,MN Samuels,['A Martin'],caught,Mohammad Ashraful,2011-10-11,West Indies,Bangladesh,0,Shere Bangla National Stadium
+1,Mohammad Ashraful,15.0,13,2,0,115.38461538461537,MC Sorensen,0,bowled,Mohammad Ashraful,2012-07-18,Bangladesh,Bangladesh,0,"Civil Service Cricket Club, Stormont"
+2,Mohammad Ashraful,21.0,21,3,0,100.0,TG Southee,0,lbw,Mohammad Ashraful,2012-09-21,New Zealand,New Zealand,0,Pallekele International Cricket Stadium
+1,Mohammad Ashraful,14.0,13,3,0,107.6923076923077,Sohail Tanvir,0,bowled,Mohammad Ashraful,2012-09-25,Pakistan,Pakistan,0,Pallekele International Cricket Stadium
+0,Mohammad Ashraful,43.0,28,4,2,153.57142857142858,NLTC Perera,0,lbw,Mohammad Ashraful,2013-03-31,Bangladesh,Sri Lanka,0,Pallekele International Cricket Stadium
+6,Mohammad Mithun,0.0,1,0,0,0.0,KMDN Kulasekara,['AD Mathews'],caught,Mohammad Mithun,2014-02-12,Sri Lanka,Sri Lanka,0,Zahur Ahmed Chowdhury Stadium
+1,Mohammad Mithun,1.0,3,0,0,33.33333333333333,A Nehra,0,bowled,Mohammad Mithun,2016-02-24,India,India,0,Shere Bangla National Stadium
+0,Mohammad Mithun,47.0,41,4,2,114.6341463414634,Rohan Mustafa,['SP Patil'],run out,Mohammad Mithun,2016-02-26,United Arab Emirates,Bangladesh,0,Shere Bangla National Stadium
+0,Mohammad Mithun,0.0,2,0,0,0.0,AD Mathews,0,lbw,Mohammad Mithun,2016-02-28,Sri Lanka,Bangladesh,0,Shere Bangla National Stadium
+6,Mohammad Mithun,2.0,4,0,0,50.0,Mohammad Irfan,['Mohammad Amir'],caught,Mohammad Mithun,2016-03-16,Pakistan,Pakistan,0,Eden Gardens
+0,Mohammad Mithun,23.0,23,1,1,100.0,A Zampa,['SR Watson'],caught,Mohammad Mithun,2016-03-21,Bangladesh,Australia,0,M Chinnaswamy Stadium
+1,Mohammad Mithun,1.0,3,0,0,33.33333333333333,R Ashwin,['HH Pandya'],caught,Mohammad Mithun,2016-03-23,Bangladesh,India,0,M Chinnaswamy Stadium
+1,Mohammad Mithun,11.0,17,1,0,64.70588235294117,CJ Anderson,['C Munro'],run out,Tamim Iqbal,2016-03-26,New Zealand,New Zealand,0,Eden Gardens
+2,Mohammad Mithun,11.0,17,1,0,64.70588235294117,MJ McClenaghan,0,bowled,Mohammad Mithun,2016-03-26,New Zealand,New Zealand,0,Eden Gardens
+10,Mohammad Saifuddin,6.0,5,1,0,120.0,KMDN Kulasekara,['KMDN Kulasekara'],run out,Mohammad Saifuddin,2017-04-06,Bangladesh,Bangladesh,0,R Premadasa Stadium
+7,Mominul Haque,26.0,18,2,1,144.44444444444443,notOut,notOut,notOut,notOut,2013-03-31,Bangladesh,Sri Lanka,0,Pallekele International Cricket Stadium
+6,Mominul Haque,9.0,9,1,0,100.0,BV Vitori,0,bowled,Mominul Haque,2013-05-12,Bangladesh,Bangladesh,0,Queens Sports Club
+1,Mominul Haque,9.0,6,0,1,150.0,MJ McClenaghan,['KD Mills'],caught,Mominul Haque,2013-11-06,New Zealand,New Zealand,0,Shere Bangla National Stadium
+2,Mominul Haque,16.0,20,2,0,80.0,SP Narine,['K Santokie'],caught,Mominul Haque,2014-03-25,West Indies,West Indies,0,Shere Bangla National Stadium
+3,Mosaddek Hossain,15.0,20,1,0,75.0,Sikandar Raza,0,bowled,Mosaddek Hossain,2016-01-20,Zimbabwe,Zimbabwe,0,Sheikh Abu Naser Stadium
+6,Mosaddek Hossain,20.0,21,0,2,95.23809523809523,MJ Santner,['CJ Anderson'],caught,Mosaddek Hossain,2017-01-03,Bangladesh,New Zealand,0,McLean Park
+7,Mosaddek Hossain,1.0,7,0,0,14.285714285714285,KS Williamson,['MJ Santner'],caught,Mosaddek Hossain,2017-01-06,Bangladesh,New Zealand,0,Bay Oval
+5,Mosaddek Hossain,12.0,7,2,0,171.42857142857142,MJ Santner,['C de Grandhomme'],caught,Mosaddek Hossain,2017-01-08,Bangladesh,New Zealand,0,Bay Oval
+5,Mosaddek Hossain,34.0,32,3,0,106.25,notOut,notOut,notOut,notOut,2017-04-04,Bangladesh,Sri Lanka,0,R Premadasa Stadium
+5,Mosaddek Hossain,17.0,11,1,1,154.54545454545453,NLTC Perera,0,bowled,Mosaddek Hossain,2017-04-06,Bangladesh,Bangladesh,0,R Premadasa Stadium
+6,Muktar Ali,19.0,15,1,1,126.66666666666666,notOut,notOut,notOut,notOut,2016-01-20,Zimbabwe,Zimbabwe,0,Sheikh Abu Naser Stadium
+9,Mushfiqur Rahim,1.0,2,0,0,50.0,notOut,notOut,notOut,notOut,2007-09-02,Pakistan,Pakistan,0,Gymkhana Club Ground
+8,Mushfiqur Rahim,4.0,6,0,0,66.66666666666666,JJ van der Wath,['SM Pollock'],caught,Mushfiqur Rahim,2007-09-15,Bangladesh,South Africa,0,Newlands
+8,Mushfiqur Rahim,3.0,2,0,0,150.0,notOut,notOut,notOut,notOut,2007-09-16,Bangladesh,Australia,0,Newlands
+10,Mushfiqur Rahim,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2007-09-18,Sri Lanka,Sri Lanka,0,New Wanderers Stadium
+10,Mushfiqur Rahim,6.0,9,0,0,66.66666666666666,notOut,notOut,notOut,notOut,2007-09-20,Pakistan,Pakistan,0,Newlands
+7,Mushfiqur Rahim,12.0,9,2,0,133.33333333333331,notOut,notOut,notOut,notOut,2008-11-05,Bangladesh,South Africa,0,New Wanderers Stadium
+7,Mushfiqur Rahim,11.0,11,1,0,100.0,notOut,notOut,notOut,notOut,2009-06-06,India,India,0,Trent Bridge
+7,Mushfiqur Rahim,14.0,15,0,0,93.33333333333333,RM West,['JF Mooney'],caught,Mushfiqur Rahim,2009-06-08,Ireland,Ireland,0,Trent Bridge
+5,Mushfiqur Rahim,3.0,9,0,0,33.33333333333333,notOut,notOut,notOut,notOut,2009-08-02,Bangladesh,West Indies,0,"Warner Park, Basseterre"
+4,Mushfiqur Rahim,0.0,1,0,0,0.0,DL Vettori,0,lbw,Mushfiqur Rahim,2010-02-03,Bangladesh,New Zealand,0,Seddon Park
+6,Mushfiqur Rahim,4.0,3,0,0,133.33333333333331,Mohammad Sami,['Saeed Ajmal'],caught,Mushfiqur Rahim,2010-05-01,Pakistan,Pakistan,0,"Beausejour Stadium, Gros Islet"
+5,Mushfiqur Rahim,24.0,26,2,1,92.3076923076923,DJ Hussey,['MEK Hussey'],caught,Mushfiqur Rahim,2010-05-05,Bangladesh,Australia,0,"Kensington Oval, Bridgetown"
+5,Mushfiqur Rahim,41.0,26,1,2,157.69230769230768,notOut,notOut,notOut,notOut,2011-10-11,West Indies,Bangladesh,0,Shere Bangla National Stadium
+5,Mushfiqur Rahim,10.0,18,0,0,55.55555555555556,Shahid Afridi,"['Imran Farhat', 'Umar Akmal']",run out,Mushfiqur Rahim,2011-11-29,Pakistan,Pakistan,0,Shere Bangla National Stadium
+3,Mushfiqur Rahim,6.0,5,1,0,120.0,WB Rankin,['WTS Porterfield'],caught,Mushfiqur Rahim,2012-07-18,Bangladesh,Bangladesh,0,"Civil Service Cricket Club, Stormont"
+3,Mushfiqur Rahim,37.0,24,0,4,154.16666666666669,notOut,notOut,notOut,notOut,2012-07-25,Bangladesh,Bangladesh,0,Sportpark Westvliet
+3,Mushfiqur Rahim,2.0,6,0,0,33.33333333333333,MR Swart,['Mudassar Bukhari'],caught,Mushfiqur Rahim,2012-07-26,Bangladesh,Netherlands,0,Sportpark Westvliet
+3,Mushfiqur Rahim,4.0,6,0,0,66.66666666666666,KD Mills,['KS Williamson'],caught,Mushfiqur Rahim,2012-09-21,New Zealand,New Zealand,0,Pallekele International Cricket Stadium
+4,Mushfiqur Rahim,25.0,28,1,1,89.28571428571429,Yasir Arafat,['Imran Nazir'],caught,Mushfiqur Rahim,2012-09-25,Pakistan,Pakistan,0,Pallekele International Cricket Stadium
+3,Mushfiqur Rahim,39.0,30,3,1,130.0,SMSM Senanayake,['RMS Eranga'],caught,Mushfiqur Rahim,2013-03-31,Bangladesh,Sri Lanka,0,Pallekele International Cricket Stadium
+3,Mushfiqur Rahim,28.0,14,1,2,200.0,CT Mutombodzi,"['Sikandar Raza', 'CT Mutombodzi']",run out,Nasir Hossain,2013-05-11,Bangladesh,Zimbabwe,0,Queens Sports Club
+4,Mushfiqur Rahim,28.0,14,1,2,200.0,CT Mutombodzi,"['CT Mutombodzi', 'BRM Taylor']",run out,Mahmudullah,2013-05-11,Bangladesh,Zimbabwe,0,Queens Sports Club
+5,Mushfiqur Rahim,28.0,14,1,2,200.0,T Panyangara,['SC Williams'],caught,Mushfiqur Rahim,2013-05-11,Bangladesh,Zimbabwe,0,Queens Sports Club
+3,Mushfiqur Rahim,17.0,12,2,0,141.66666666666669,H Masakadza,0,lbw,Mushfiqur Rahim,2013-05-12,Bangladesh,Bangladesh,0,Queens Sports Club
+3,Mushfiqur Rahim,50.0,30,7,1,166.66666666666669,CJ Anderson,['LRPL Taylor'],caught,Mushfiqur Rahim,2013-11-06,New Zealand,New Zealand,0,Shere Bangla National Stadium
+4,Mushfiqur Rahim,23.0,18,3,0,127.77777777777777,Nizakat Khan,['Munir Dar'],caught,Mushfiqur Rahim,2014-03-20,Hong Kong,Hong Kong,0,Zahur Ahmed Chowdhury Stadium
+4,Mushfiqur Rahim,22.0,23,2,1,95.65217391304348,S Badree,['DJ Bravo'],caught,Mushfiqur Rahim,2014-03-25,West Indies,West Indies,0,Shere Bangla National Stadium
+4,Mushfiqur Rahim,24.0,21,4,0,114.28571428571428,Mohammed Shami,['V Kohli'],caught,Mushfiqur Rahim,2014-03-28,India,India,0,Shere Bangla National Stadium
+4,Mushfiqur Rahim,2.0,4,0,0,50.0,Zulfiqar Babar,0,lbw,Mushfiqur Rahim,2014-03-30,Pakistan,Pakistan,0,Shere Bangla National Stadium
+3,Mushfiqur Rahim,47.0,38,5,1,123.6842105263158,SR Watson,['GJ Maxwell'],caught,Mushfiqur Rahim,2014-04-01,Australia,Australia,0,Shere Bangla National Stadium
+3,Mushfiqur Rahim,19.0,15,4,0,126.66666666666666,Wahab Riaz,0,bowled,Mushfiqur Rahim,2015-04-24,Pakistan,Bangladesh,0,Shere Bangla National Stadium
+3,Mushfiqur Rahim,17.0,19,2,0,89.47368421052632,JP Duminy,['DA Miller'],caught,Mushfiqur Rahim,2015-07-05,South Africa,South Africa,0,Shere Bangla National Stadium
+3,Mushfiqur Rahim,19.0,16,1,1,118.75,E Leie,['RR Rossouw'],caught,Mushfiqur Rahim,2015-07-07,South Africa,South Africa,0,Shere Bangla National Stadium
+4,Mushfiqur Rahim,2.0,5,0,0,40.0,AG Cremer,['Sikandar Raza'],caught,Mushfiqur Rahim,2015-11-13,Zimbabwe,Bangladesh,0,Shere Bangla National Stadium
+3,Mushfiqur Rahim,9.0,8,1,0,112.5,AG Cremer,['SC Williams'],caught,Mushfiqur Rahim,2015-11-15,Zimbabwe,Zimbabwe,0,Shere Bangla National Stadium
+5,Mushfiqur Rahim,26.0,19,3,0,136.8421052631579,WP Masakadza,['Sikandar Raza'],caught,Mushfiqur Rahim,2016-01-15,Zimbabwe,Bangladesh,0,Sheikh Abu Naser Stadium
+4,Mushfiqur Rahim,24.0,20,1,0,120.0,AG Cremer,0,retired hurt,Mushfiqur Rahim,2016-01-17,Zimbabwe,Bangladesh,0,Sheikh Abu Naser Stadium
+5,Mushfiqur Rahim,16.0,17,2,0,94.11764705882352,notOut,notOut,notOut,notOut,2016-02-24,India,India,0,Shere Bangla National Stadium
+3,Mushfiqur Rahim,4.0,8,0,0,50.0,Mohammad Naveed,['SP Patil'],caught,Mushfiqur Rahim,2016-02-26,United Arab Emirates,Bangladesh,0,Shere Bangla National Stadium
+3,Mushfiqur Rahim,4.0,9,0,0,44.44444444444444,AD Mathews,['AD Mathews'],run out,Mushfiqur Rahim,2016-02-28,Sri Lanka,Bangladesh,0,Shere Bangla National Stadium
+3,Mushfiqur Rahim,12.0,15,0,0,80.0,Shoaib Malik,0,lbw,Mushfiqur Rahim,2016-03-02,Pakistan,Bangladesh,0,Shere Bangla National Stadium
+4,Mushfiqur Rahim,4.0,5,0,0,80.0,RA Jadeja,"['V Kohli', 'MS Dhoni']",run out,Mushfiqur Rahim,2016-03-06,India,India,0,Shere Bangla National Stadium
+5,Mushfiqur Rahim,0.0,3,0,0,0.0,T van der Gugten,0,bowled,Mushfiqur Rahim,2016-03-09,Netherlands,Bangladesh,0,Himachal Pradesh Cricket Association Stadium
+5,Mushfiqur Rahim,18.0,21,3,0,85.71428571428571,Mohammad Amir,['Sarfraz Ahmed'],caught,Mushfiqur Rahim,2016-03-16,Pakistan,Pakistan,0,Eden Gardens
+6,Mushfiqur Rahim,15.0,11,2,0,136.36363636363635,notOut,notOut,notOut,notOut,2016-03-21,Bangladesh,Australia,0,M Chinnaswamy Stadium
+7,Mushfiqur Rahim,11.0,6,2,0,183.33333333333331,HH Pandya,['S Dhawan'],caught,Mushfiqur Rahim,2016-03-23,Bangladesh,India,0,M Chinnaswamy Stadium
+7,Mushfiqur Rahim,0.0,2,0,0,0.0,GD Elliott,0,bowled,Mushfiqur Rahim,2016-03-26,New Zealand,New Zealand,0,Eden Gardens
+3,Mushfiqur Rahim,8.0,9,1,0,88.88888888888889,DAS Gunaratne,0,bowled,Mushfiqur Rahim,2017-04-04,Bangladesh,Sri Lanka,0,R Premadasa Stadium
+7,Mushfiqur Rahim,15.0,6,1,1,250.0,SL Malinga,0,bowled,Mushfiqur Rahim,2017-04-06,Bangladesh,Bangladesh,0,R Premadasa Stadium
+11,Mustafizur Rahman,1.0,6,0,0,16.666666666666664,WD Parnell,0,bowled,Mustafizur Rahman,2015-07-05,South Africa,South Africa,0,Shere Bangla National Stadium
+10,Mustafizur Rahman,0.0,2,0,0,0.0,KJ Abbott,0,bowled,Mustafizur Rahman,2015-07-07,South Africa,South Africa,0,Shere Bangla National Stadium
+9,Mustafizur Rahman,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2015-11-15,Zimbabwe,Zimbabwe,0,Shere Bangla National Stadium
+10,Mustafizur Rahman,6.0,3,0,1,200.0,GD Elliott,['L Ronchi'],caught,Mustafizur Rahman,2016-03-26,New Zealand,New Zealand,0,Eden Gardens
+11,Mustafizur Rahman,0.0,4,0,0,0.0,notOut,notOut,notOut,notOut,2017-01-06,Bangladesh,New Zealand,0,Bay Oval
+6,Nadif Chowdhury,5.0,6,0,0,83.33333333333334,notOut,notOut,notOut,notOut,2007-09-18,Sri Lanka,Sri Lanka,0,New Wanderers Stadium
+6,Nadif Chowdhury,12.0,10,1,0,120.0,Shoaib Malik,['Kamran Akmal'],caught,Nadif Chowdhury,2007-09-20,Pakistan,Pakistan,0,Newlands
+5,Naeem Islam,15.0,17,1,0,88.23529411764706,JA Morkel,"['J Botha', 'AB de Villiers']",run out,Mushfiqur Rahim,2008-11-05,Bangladesh,South Africa,0,New Wanderers Stadium
+6,Naeem Islam,15.0,17,1,0,88.23529411764706,DW Steyn,0,bowled,Naeem Islam,2008-11-05,Bangladesh,South Africa,0,New Wanderers Stadium
+8,Naeem Islam,28.0,19,0,3,147.36842105263156,I Sharma,['Yuvraj Singh'],caught,Naeem Islam,2009-06-06,India,India,0,Trent Bridge
+9,Naeem Islam,7.0,10,0,0,70.0,WB Rankin,0,bowled,Naeem Islam,2009-06-08,Ireland,Ireland,0,Trent Bridge
+3,Naeem Islam,27.0,18,2,2,150.0,DE Bernard,['DC Thomas'],run out,Naeem Islam,2009-08-02,Bangladesh,West Indies,0,"Warner Park, Basseterre"
+5,Naeem Islam,5.0,11,0,0,45.45454545454545,JDP Oram,0,bowled,Naeem Islam,2010-02-03,Bangladesh,New Zealand,0,Seddon Park
+5,Naeem Islam,10.0,10,1,0,100.0,notOut,notOut,notOut,notOut,2010-05-01,Pakistan,Pakistan,0,"Beausejour Stadium, Gros Islet"
+6,Naeem Islam,7.0,6,0,1,116.66666666666667,DJ Hussey,['SPD Smith'],caught,Naeem Islam,2010-05-05,Bangladesh,Australia,0,"Kensington Oval, Bridgetown"
+6,Naeem Islam,10.0,9,1,0,111.11111111111111,DJG Sammy,0,bowled,Naeem Islam,2011-10-11,West Indies,Bangladesh,0,Shere Bangla National Stadium
+0,Naeem Islam,3.0,9,0,0,33.33333333333333,Umar Gul,0,lbw,Naeem Islam,2011-11-29,Pakistan,Pakistan,0,Shere Bangla National Stadium
+4,Naeem Islam,18.0,10,3,1,180.0,KD Mills,['TG Southee'],caught,Naeem Islam,2013-11-06,New Zealand,New Zealand,0,Shere Bangla National Stadium
+12,Nahida Akter,2.0,8,0,0,25.0,notOut,notOut,notOut,notOut,2016-03-20,West Indies,West Indies,0,"MA Chidambaram Stadium, Chepauk"
+7,Nasir Hossain,18.0,15,1,0,120.0,R Rampaul,['D Ramdin'],caught,Nasir Hossain,2011-10-11,West Indies,Bangladesh,0,Shere Bangla National Stadium
+7,Nasir Hossain,35.0,39,2,1,89.74358974358975,notOut,notOut,notOut,notOut,2011-11-29,Pakistan,Pakistan,0,Shere Bangla National Stadium
+6,Nasir Hossain,8.0,6,0,0,133.33333333333331,notOut,notOut,notOut,notOut,2012-07-18,Bangladesh,Bangladesh,0,"Civil Service Cricket Club, Stormont"
+6,Nasir Hossain,4.0,7,0,0,57.14285714285714,Mudassar Bukhari,0,bowled,Nasir Hossain,2012-07-26,Bangladesh,Netherlands,0,Sportpark Westvliet
+5,Nasir Hossain,50.0,40,6,1,125.0,TG Southee,['MJ Guptill'],caught,Nasir Hossain,2012-09-21,New Zealand,New Zealand,0,Pallekele International Cricket Stadium
+6,Nasir Hossain,16.0,13,2,0,123.07692307692308,Yasir Arafat,0,bowled,Nasir Hossain,2012-09-25,Pakistan,Pakistan,0,Pallekele International Cricket Stadium
+4,Nasir Hossain,8.0,6,1,0,133.33333333333331,NLTC Perera,['AK Perera'],caught,Nasir Hossain,2013-03-31,Bangladesh,Sri Lanka,0,Pallekele International Cricket Stadium
+4,Nasir Hossain,27.0,25,3,0,108.0,notOut,notOut,notOut,notOut,2013-05-12,Bangladesh,Bangladesh,0,Queens Sports Club
+5,Nasir Hossain,28.0,20,4,0,140.0,NL McCullum,0,caught and bowled,Nasir Hossain,2013-11-06,New Zealand,New Zealand,0,Shere Bangla National Stadium
+5,Nasir Hossain,16.0,13,0,1,123.07692307692308,SL Malinga,['NLTC Perera'],caught,Nasir Hossain,2014-02-12,Sri Lanka,Sri Lanka,0,Zahur Ahmed Chowdhury Stadium
+4,Nasir Hossain,8.0,13,0,0,61.53846153846154,BAW Mendis,['LD Chandimal'],caught,Nasir Hossain,2014-02-14,Sri Lanka,Sri Lanka,0,Zahur Ahmed Chowdhury Stadium
+5,Nasir Hossain,14.0,17,0,0,82.35294117647058,notOut,notOut,notOut,notOut,2014-03-20,Hong Kong,Hong Kong,0,Zahur Ahmed Chowdhury Stadium
+5,Nasir Hossain,16.0,17,1,0,94.11764705882352,A Mishra,['MS Dhoni'],stumped,Nasir Hossain,2014-03-28,India,India,0,Shere Bangla National Stadium
+5,Nasir Hossain,23.0,19,1,1,121.05263157894737,Saeed Ajmal,['Kamran Akmal'],stumped,Nasir Hossain,2014-03-30,Pakistan,Pakistan,0,Shere Bangla National Stadium
+5,Nasir Hossain,14.0,10,2,0,140.0,MA Starc,0,bowled,Nasir Hossain,2014-04-01,Australia,Australia,0,Shere Bangla National Stadium
+5,Nasir Hossain,1.0,2,0,0,50.0,AM Phangiso,['RR Rossouw'],caught,Nasir Hossain,2015-07-05,South Africa,South Africa,0,Shere Bangla National Stadium
+6,Nasir Hossain,0.0,2,0,0,0.0,AM Phangiso,['RR Rossouw'],caught,Nasir Hossain,2015-07-07,South Africa,South Africa,0,Shere Bangla National Stadium
+5,Nasir Hossain,16.0,12,1,1,133.33333333333331,AG Cremer,0,lbw,Nasir Hossain,2015-11-13,Zimbabwe,Bangladesh,0,Shere Bangla National Stadium
+5,Nasir Hossain,3.0,5,0,0,60.0,T Panyangara,0,bowled,Nasir Hossain,2015-11-15,Zimbabwe,Zimbabwe,0,Shere Bangla National Stadium
+6,Nasir Hossain,3.0,7,0,0,42.857142857142854,PA van Meekeren,['Mudassar Bukhari'],caught,Nasir Hossain,2016-03-09,Netherlands,Bangladesh,0,Himachal Pradesh Cricket Association Stadium
+1,Nazimuddin,43.0,38,3,2,113.1578947368421,JK Kamande,['RL Bhudia'],caught,Nazimuddin,2007-09-01,Bangladesh,Bangladesh,0,Gymkhana Club Ground
+1,Nazimuddin,81.0,52,8,5,155.76923076923077,Yasir Arafat,['Imran Nazir'],run out,Mohammad Ashraful,2007-09-02,Pakistan,Pakistan,0,Gymkhana Club Ground
+2,Nazimuddin,81.0,52,8,5,155.76923076923077,Yasir Arafat,0,bowled,Nazimuddin,2007-09-02,Pakistan,Pakistan,0,Gymkhana Club Ground
+1,Nazimuddin,1.0,4,0,0,25.0,R Rampaul,['RR Sarwan'],caught,Nazimuddin,2007-09-13,West Indies,Bangladesh,0,New Wanderers Stadium
+1,Nazimuddin,0.0,1,0,0,0.0,M Ntini,0,lbw,Nazimuddin,2007-09-15,Bangladesh,South Africa,0,Newlands
+1,Nazimuddin,11.0,18,2,0,61.111111111111114,MG Johnson,['RT Ponting'],caught,Nazimuddin,2007-09-16,Bangladesh,Australia,0,Newlands
+1,Nazimuddin,0.0,1,0,0,0.0,WPUJC Vaas,0,lbw,Nazimuddin,2007-09-18,Sri Lanka,Sri Lanka,0,New Wanderers Stadium
+1,Nazimuddin,42.0,50,0,3,84.0,Shahid Afridi,"['Misbah-ul-Haq', 'Shahid Afridi']",run out,Aftab Ahmed,2008-04-20,Bangladesh,Pakistan,0,National Stadium
+2,Nazimuddin,42.0,50,0,3,84.0,Shahid Afridi,['Misbah-ul-Haq'],run out,Dhiman Ghosh,2008-04-20,Bangladesh,Pakistan,0,National Stadium
+3,Nazimuddin,42.0,50,0,3,84.0,Wahab Riaz,['Mansoor Amjad'],caught,Nazimuddin,2008-04-20,Bangladesh,Pakistan,0,National Stadium
+9,Nazmul Hossain,3.0,12,0,0,25.0,KAJ Roach,['DJG Sammy'],run out,Mahmudullah,2009-08-02,Bangladesh,West Indies,0,"Warner Park, Basseterre"
+10,Nazmul Hossain,0.0,3,0,0,0.0,notOut,notOut,notOut,notOut,2010-02-03,Bangladesh,New Zealand,0,Seddon Park
+8,Nigar Sultana,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2015-09-30,Bangladesh,Pakistan,0,Southend Club Cricket Stadium
+5,Nigar Sultana,0.0,5,0,0,0.0,Nida Dar,['Iram Javed'],caught,Nigar Sultana,2015-10-01,Bangladesh,Pakistan,0,Southend Club Cricket Stadium
+1,Nigar Sultana,41.0,60,2,0,68.33333333333333,CJ Metcalfe,['GH Lewis'],caught,Nigar Sultana,2015-12-05,Ireland,Ireland,0,Terdthai Cricket Ground
+5,Nigar Sultana,27.0,26,2,0,103.84615384615385,notOut,notOut,notOut,notOut,2016-03-15,Bangladesh,India,0,M Chinnaswamy Stadium
+4,Nigar Sultana,35.0,28,4,1,125.0,D Hazell,['CM Edwards'],run out,Rumana Ahmed,2016-03-17,England,England,0,M Chinnaswamy Stadium
+5,Nigar Sultana,35.0,28,4,1,125.0,A Shrubsole,['SJ Taylor'],stumped,Nigar Sultana,2016-03-17,England,England,0,M Chinnaswamy Stadium
+5,Nigar Sultana,27.0,30,2,0,90.0,DJS Dottin,['SACA King'],run out,Fahima Khatun,2016-03-20,West Indies,West Indies,0,"MA Chidambaram Stadium, Chepauk"
+6,Nigar Sultana,27.0,30,2,0,90.0,ASS Fletcher,0,lbw,Nigar Sultana,2016-03-20,West Indies,West Indies,0,"MA Chidambaram Stadium, Chepauk"
+5,Nigar Sultana,0.0,2,0,0,0.0,notOut,notOut,notOut,notOut,2016-03-24,Pakistan,Pakistan,0,Feroz Shah Kotla
+4,Nigar Sultana,7.0,10,0,0,70.0,notOut,notOut,notOut,notOut,2016-09-05,Bangladesh,Ireland,0,"Bready Cricket Club, Magheramason"
+8,Nurul Hasan,7.0,5,1,0,140.0,notOut,notOut,notOut,notOut,2016-01-15,Zimbabwe,Bangladesh,0,Sheikh Abu Naser Stadium
+7,Nurul Hasan,30.0,18,5,0,166.66666666666669,notOut,notOut,notOut,notOut,2016-01-20,Zimbabwe,Zimbabwe,0,Sheikh Abu Naser Stadium
+6,Nurul Hasan,15.0,15,1,0,100.0,Sikandar Raza,['E Chigumbura'],caught,Nurul Hasan,2016-01-22,Zimbabwe,Zimbabwe,0,Sheikh Abu Naser Stadium
+6,Nurul Hasan,0.0,1,0,0,0.0,Amjad Javed,['Fahad Tariq'],caught,Nurul Hasan,2016-02-26,United Arab Emirates,Bangladesh,0,Shere Bangla National Stadium
+6,Nurul Hasan,2.0,5,0,0,40.0,PVD Chameera,['AD Mathews'],caught,Nurul Hasan,2016-02-28,Sri Lanka,Bangladesh,0,Shere Bangla National Stadium
+8,Nurul Hasan,7.0,6,1,0,116.66666666666667,notOut,notOut,notOut,notOut,2017-01-03,Bangladesh,New Zealand,0,McLean Park
+8,Nurul Hasan,10.0,9,0,0,111.11111111111111,KS Williamson,['TA Boult'],caught,Nurul Hasan,2017-01-06,Bangladesh,New Zealand,0,Bay Oval
+6,Nurul Hasan,7.0,5,1,0,140.0,notOut,notOut,notOut,notOut,2017-01-08,Bangladesh,New Zealand,0,Bay Oval
+8,Nuzhat Tasnia,6.0,11,0,0,54.54545454545454,SK Dolawatte,0,lbw,Nuzhat Tasnia,2012-10-28,Sri Lanka,Bangladesh,0,Guanggong International Cricket Stadium
+7,Nuzhat Tasnia,1.0,2,0,0,50.0,notOut,notOut,notOut,notOut,2013-09-14,Bangladesh,South Africa,0,Senwes Park
+5,Nuzhat Tasnia,6.0,11,0,0,54.54545454545454,A Mohammed,0,lbw,Nuzhat Tasnia,2014-03-26,West Indies,West Indies,0,Sylhet Stadium
+5,Nuzhat Tasnia,5.0,16,0,0,31.25,J Goswami,0,bowled,Nuzhat Tasnia,2014-03-30,India,India,0,Sylhet Stadium
+6,Panna Ghosh,1.0,7,0,0,14.285714285714285,I Ranaweera,0,bowled,Panna Ghosh,2012-10-28,Sri Lanka,Bangladesh,0,Guanggong International Cricket Stadium
+8,Panna Ghosh,2.0,2,0,0,100.0,notOut,notOut,notOut,notOut,2012-10-30,Pakistan,Pakistan,0,Guanggong International Cricket Stadium
+7,Panna Ghosh,1.0,3,0,0,33.33333333333333,TD Smartt,['A Mohammed'],caught,Panna Ghosh,2014-03-26,West Indies,West Indies,0,Sylhet Stadium
+7,Panna Ghosh,2.0,8,0,0,25.0,S Sharma,0,bowled,Panna Ghosh,2014-03-30,India,India,0,Sylhet Stadium
+10,Panna Ghosh,0.0,1,0,0,0.0,notOut,notOut,notOut,notOut,2014-04-01,Sri Lanka,Bangladesh,0,Sylhet Stadium
+8,Panna Ghosh,4.0,4,0,0,100.0,notOut,notOut,notOut,notOut,2014-04-03,Ireland,Bangladesh,0,Sylhet Stadium
+11,Panna Ghosh,1.0,3,0,0,33.33333333333333,notOut,notOut,notOut,notOut,2016-03-24,Pakistan,Pakistan,0,Feroz Shah Kotla
+3,Raqibul Hasan,3.0,5,0,0,60.0,M Morkel,['AB de Villiers'],caught,Raqibul Hasan,2008-11-05,Bangladesh,South Africa,0,New Wanderers Stadium
+5,Raqibul Hasan,16.0,21,1,0,76.19047619047619,Z Khan,['PP Ojha'],caught,Raqibul Hasan,2009-06-06,India,India,0,Trent Bridge
+6,Raqibul Hasan,13.0,20,0,0,65.0,WK McCallan,0,bowled,Raqibul Hasan,2009-06-08,Ireland,Ireland,0,Trent Bridge
+7,Raqibul Hasan,1.0,4,0,0,25.0,NO Miller,0,lbw,Raqibul Hasan,2009-08-02,Bangladesh,West Indies,0,"Warner Park, Basseterre"
+7,Raqibul Hasan,18.0,13,2,1,138.46153846153845,JDP Oram,['GJ Hopkins'],caught,Raqibul Hasan,2010-02-03,Bangladesh,New Zealand,0,Seddon Park
+5,Ritu Moni,4.0,10,0,0,40.0,I Ranaweera,['MADD Surangika'],caught,Ritu Moni,2012-10-28,Sri Lanka,Bangladesh,0,Guanggong International Cricket Stadium
+5,Ritu Moni,0.0,1,0,0,0.0,M Kapp,0,bowled,Ritu Moni,2013-09-14,Bangladesh,South Africa,0,Senwes Park
+7,Ritu Moni,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2013-09-15,Bangladesh,South Africa,0,Senwes Park
+6,Ritu Moni,17.0,24,0,0,70.83333333333334,Anam Amin,['Anam Amin'],run out,Rumana Ahmed,2015-10-01,Bangladesh,Pakistan,0,Southend Club Cricket Stadium
+11,Ritu Moni,0.0,3,0,0,0.0,DJS Dottin,0,lbw,Ritu Moni,2016-03-20,West Indies,West Indies,0,"MA Chidambaram Stadium, Chepauk"
+6,Ritu Moni,0.0,1,0,0,0.0,LK O'Reilly,"[""LK O'Reilly""]",run out,Ritu Moni,2016-09-05,Bangladesh,Ireland,0,"Bready Cricket Club, Magheramason"
+5,Rony Talukdar,21.0,22,0,1,95.45454545454545,KJ Abbott,0,bowled,Rony Talukdar,2015-07-07,South Africa,South Africa,0,Shere Bangla National Stadium
+10,Rubel Hossain,8.0,5,1,0,160.0,notOut,notOut,notOut,notOut,2009-08-02,Bangladesh,West Indies,0,"Warner Park, Basseterre"
+11,Rubel Hossain,0.0,5,0,0,0.0,notOut,notOut,notOut,notOut,2011-11-29,Pakistan,Pakistan,0,Shere Bangla National Stadium
+9,Rubel Hossain,0.0,3,0,0,0.0,Nadeem Ahmed,0,bowled,Rubel Hossain,2014-03-20,Hong Kong,Hong Kong,0,Zahur Ahmed Chowdhury Stadium
+9,Rubel Hossain,2.0,2,0,0,100.0,notOut,notOut,notOut,notOut,2017-01-03,Bangladesh,New Zealand,0,McLean Park
+10,Rubel Hossain,1.0,2,0,0,50.0,BM Wheeler,['TC Bruce'],caught,Rubel Hossain,2017-01-06,Bangladesh,New Zealand,0,Bay Oval
+7,Rubel Hossain,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2017-01-08,Bangladesh,New Zealand,0,Bay Oval
+4,Rumana Ahmed,25.0,34,2,0,73.52941176470588,notOut,notOut,notOut,notOut,2012-10-28,Sri Lanka,Bangladesh,0,Guanggong International Cricket Stadium
+2,Rumana Ahmed,4.0,10,0,0,40.0,Bismah Maroof,['Nida Dar'],caught,Rumana Ahmed,2012-10-30,Pakistan,Pakistan,0,Guanggong International Cricket Stadium
+4,Rumana Ahmed,0.0,3,0,0,0.0,M Kapp,['T Chetty'],caught,Rumana Ahmed,2013-09-14,Bangladesh,South Africa,0,Senwes Park
+3,Rumana Ahmed,40.0,47,5,0,85.1063829787234,notOut,notOut,notOut,notOut,2013-09-15,Bangladesh,South Africa,0,Senwes Park
+4,Rumana Ahmed,26.0,24,4,0,108.33333333333333,SL Quintyne,['TD Smartt'],caught,Rumana Ahmed,2014-03-26,West Indies,West Indies,0,Sylhet Stadium
+3,Rumana Ahmed,1.0,3,0,0,33.33333333333333,J Goswami,0,lbw,Rumana Ahmed,2014-03-30,India,India,0,Sylhet Stadium
+4,Rumana Ahmed,41.0,34,3,0,120.58823529411764,PRCS Kumarihami,['SS Weerakkody'],run out,Shamima Sultana,2014-04-01,Sri Lanka,Bangladesh,0,Sylhet Stadium
+4,Rumana Ahmed,16.0,15,3,0,106.66666666666667,LK O'Reilly,0,bowled,Rumana Ahmed,2014-04-03,Ireland,Bangladesh,0,Sylhet Stadium
+3,Rumana Ahmed,22.0,24,3,0,91.66666666666666,Sana Mir,['Nida Dar'],caught,Rumana Ahmed,2015-09-30,Bangladesh,Pakistan,0,Southend Club Cricket Stadium
+4,Rumana Ahmed,27.0,33,3,0,81.81818181818183,notOut,notOut,notOut,notOut,2015-10-01,Bangladesh,Pakistan,0,Southend Club Cricket Stadium
+3,Rumana Ahmed,38.0,45,1,0,84.44444444444444,notOut,notOut,notOut,notOut,2015-12-05,Ireland,Ireland,0,Terdthai Cricket Ground
+3,Rumana Ahmed,12.0,19,1,0,63.1578947368421,S Pandey,['DB Sharma (sub)'],run out,Sharmin Akhter,2016-03-15,Bangladesh,India,0,M Chinnaswamy Stadium
+4,Rumana Ahmed,12.0,19,1,0,63.1578947368421,Poonam Yadav,['AA Patil'],caught,Rumana Ahmed,2016-03-15,Bangladesh,India,0,M Chinnaswamy Stadium
+3,Rumana Ahmed,19.0,19,2,0,100.0,notOut,notOut,notOut,notOut,2016-03-17,England,England,0,M Chinnaswamy Stadium
+7,Rumana Ahmed,4.0,5,0,0,80.0,SR Taylor,['ASS Fletcher'],caught,Rumana Ahmed,2016-03-20,West Indies,West Indies,0,"MA Chidambaram Stadium, Chepauk"
+6,Rumana Ahmed,7.0,7,1,0,100.0,Anam Amin,0,bowled,Rumana Ahmed,2016-03-24,Pakistan,Pakistan,0,Feroz Shah Kotla
+5,Rumana Ahmed,5.0,5,0,0,100.0,LK O'Reilly,0,lbw,Rumana Ahmed,2016-09-05,Bangladesh,Ireland,0,"Bready Cricket Club, Magheramason"
+5,Sabbir Rahman,26.0,37,2,0,70.27027027027027,KMDN Kulasekara,['TM Dilshan'],run out,Mahmudullah,2014-02-14,Sri Lanka,Sri Lanka,0,Zahur Ahmed Chowdhury Stadium
+6,Sabbir Rahman,26.0,37,2,0,70.27027027027027,SL Malinga,['KMDN Kulasekara'],caught,Sabbir Rahman,2014-02-14,Sri Lanka,Sri Lanka,0,Zahur Ahmed Chowdhury Stadium
+2,Sabbir Rahman,21.0,20,1,1,105.0,notOut,notOut,notOut,notOut,2014-03-18,Nepal,Bangladesh,0,Zahur Ahmed Chowdhury Stadium
+1,Sabbir Rahman,2.0,5,0,0,40.0,Tanwir Afzal,0,lbw,Sabbir Rahman,2014-03-20,Hong Kong,Hong Kong,0,Zahur Ahmed Chowdhury Stadium
+5,Sabbir Rahman,1.0,3,0,0,33.33333333333333,S Badree,['DJG Sammy'],caught,Sabbir Rahman,2014-03-25,West Indies,West Indies,0,Shere Bangla National Stadium
+4,Sabbir Rahman,51.0,33,7,1,154.54545454545453,notOut,notOut,notOut,notOut,2015-04-24,Pakistan,Bangladesh,0,Shere Bangla National Stadium
+4,Sabbir Rahman,4.0,7,0,0,57.14285714285714,JP Duminy,['Q de Kock'],caught,Sabbir Rahman,2015-07-05,South Africa,South Africa,0,Shere Bangla National Stadium
+4,Sabbir Rahman,1.0,3,0,0,33.33333333333333,E Leie,['DA Miller'],caught,Sabbir Rahman,2015-07-07,South Africa,South Africa,0,Shere Bangla National Stadium
+3,Sabbir Rahman,18.0,17,3,0,105.88235294117648,TS Chisoro,['CR Ervine'],caught,Sabbir Rahman,2015-11-13,Zimbabwe,Bangladesh,0,Shere Bangla National Stadium
+4,Sabbir Rahman,17.0,18,1,0,94.44444444444444,AG Cremer,0,lbw,Sabbir Rahman,2015-11-15,Zimbabwe,Zimbabwe,0,Shere Bangla National Stadium
+3,Sabbir Rahman,46.0,38,4,1,121.05263157894737,AG Cremer,['MN Waller'],caught,Sabbir Rahman,2016-01-15,Zimbabwe,Bangladesh,0,Sheikh Abu Naser Stadium
+2,Sabbir Rahman,43.0,30,1,3,143.33333333333334,notOut,notOut,notOut,notOut,2016-01-17,Zimbabwe,Bangladesh,0,Sheikh Abu Naser Stadium
+2,Sabbir Rahman,50.0,33,9,0,151.5151515151515,Sikandar Raza,['T Muzarabani'],caught,Sabbir Rahman,2016-01-20,Zimbabwe,Zimbabwe,0,Sheikh Abu Naser Stadium
+2,Sabbir Rahman,1.0,4,0,0,25.0,TS Chisoro,['WP Masakadza (sub)'],caught,Sabbir Rahman,2016-01-22,Zimbabwe,Zimbabwe,0,Sheikh Abu Naser Stadium
+2,Sabbir Rahman,44.0,33,2,2,133.33333333333331,HH Pandya,['MS Dhoni'],caught,Sabbir Rahman,2016-02-24,India,India,0,Shere Bangla National Stadium
+2,Sabbir Rahman,6.0,12,0,0,50.0,Rohan Mustafa,['Fahad Tariq'],caught,Sabbir Rahman,2016-02-26,United Arab Emirates,Bangladesh,0,Shere Bangla National Stadium
+1,Sabbir Rahman,80.0,55,10,3,145.45454545454547,PVD Chameera,['GSNFG Jayasuriya'],caught,Sabbir Rahman,2016-02-28,Sri Lanka,Bangladesh,0,Shere Bangla National Stadium
+2,Sabbir Rahman,14.0,15,1,0,93.33333333333333,Shahid Afridi,0,bowled,Sabbir Rahman,2016-03-02,Pakistan,Bangladesh,0,Shere Bangla National Stadium
+2,Sabbir Rahman,32.0,30,2,0,106.66666666666667,notOut,notOut,notOut,notOut,2016-03-06,India,India,0,Shere Bangla National Stadium
+2,Sabbir Rahman,15.0,16,1,1,93.75,RE van der Merwe,0,lbw,Sabbir Rahman,2016-03-09,Netherlands,Bangladesh,0,Himachal Pradesh Cricket Association Stadium
+2,Sabbir Rahman,13.0,9,0,1,144.44444444444443,notOut,notOut,notOut,notOut,2016-03-11,Ireland,0,0,Himachal Pradesh Cricket Association Stadium
+2,Sabbir Rahman,44.0,26,5,1,169.23076923076923,Khawar Ali,0,bowled,Sabbir Rahman,2016-03-13,Oman,Bangladesh,0,Himachal Pradesh Cricket Association Stadium
+2,Sabbir Rahman,25.0,20,5,0,125.0,Shahid Afridi,0,bowled,Sabbir Rahman,2016-03-16,Pakistan,Pakistan,0,Eden Gardens
+2,Sabbir Rahman,12.0,18,2,0,66.66666666666666,SR Watson,['JP Faulkner'],caught,Sabbir Rahman,2016-03-21,Bangladesh,Australia,0,M Chinnaswamy Stadium
+2,Sabbir Rahman,26.0,16,3,1,162.5,SK Raina,['MS Dhoni'],stumped,Sabbir Rahman,2016-03-23,Bangladesh,India,0,M Chinnaswamy Stadium
+3,Sabbir Rahman,12.0,18,1,0,66.66666666666666,NL McCullum,['MJ Santner'],caught,Sabbir Rahman,2016-03-26,New Zealand,New Zealand,0,Eden Gardens
+2,Sabbir Rahman,16.0,16,1,1,100.0,LH Ferguson,['MJ Henry'],caught,Sabbir Rahman,2017-01-03,Bangladesh,New Zealand,0,McLean Park
+2,Sabbir Rahman,48.0,37,3,3,129.72972972972974,C de Grandhomme,"['KS Williamson', 'C de Grandhomme']",run out,Tamim Iqbal,2017-01-06,Bangladesh,New Zealand,0,Bay Oval
+3,Sabbir Rahman,48.0,37,3,3,129.72972972972974,IS Sodhi,['TA Boult'],caught,Sabbir Rahman,2017-01-06,Bangladesh,New Zealand,0,Bay Oval
+2,Sabbir Rahman,18.0,17,2,0,105.88235294117648,KS Williamson,0,bowled,Sabbir Rahman,2017-01-08,Bangladesh,New Zealand,0,Bay Oval
+1,Sabbir Rahman,16.0,15,2,0,106.66666666666667,JRMVB Sanjaya,['S Prasanna'],run out,Sabbir Rahman,2017-04-04,Bangladesh,Sri Lanka,0,R Premadasa Stadium
+2,Sabbir Rahman,19.0,19,0,1,100.0,S Prasanna,"['WU Tharanga', 'MDKJ Perera']",run out,Imrul Kayes,2017-04-06,Bangladesh,Bangladesh,0,R Premadasa Stadium
+3,Sabbir Rahman,19.0,19,0,1,100.0,JRMVB Sanjaya,0,bowled,Sabbir Rahman,2017-04-06,Bangladesh,Bangladesh,0,R Premadasa Stadium
+3,Salma Khatun,2.0,3,0,0,66.66666666666666,KDU Prabodhani,['CR Seneviratna'],caught,Salma Khatun,2012-10-28,Sri Lanka,Bangladesh,0,Guanggong International Cricket Stadium
+4,Salma Khatun,14.0,19,0,0,73.68421052631578,Nida Dar,['Sana Mir'],caught,Salma Khatun,2012-10-30,Pakistan,Pakistan,0,Guanggong International Cricket Stadium
+3,Salma Khatun,12.0,11,1,0,109.09090909090908,S Ismail,['M du Preez'],caught,Salma Khatun,2013-09-14,Bangladesh,South Africa,0,Senwes Park
+5,Salma Khatun,1.0,3,0,0,33.33333333333333,M Kapp,['T Chetty'],stumped,Salma Khatun,2013-09-15,Bangladesh,South Africa,0,Senwes Park
+2,Salma Khatun,17.0,18,2,0,94.44444444444444,A Mohammed,0,lbw,Salma Khatun,2014-03-26,West Indies,West Indies,0,Sylhet Stadium
+2,Salma Khatun,19.0,18,0,1,105.55555555555556,Poonam Yadav,0,bowled,Salma Khatun,2014-03-30,India,India,0,Sylhet Stadium
+1,Salma Khatun,22.0,18,4,0,122.22222222222223,HASD Siriwardene,['PRCS Kumarihami'],caught,Salma Khatun,2014-04-01,Sri Lanka,Bangladesh,0,Sylhet Stadium
+2,Salma Khatun,7.0,6,1,0,116.66666666666667,LN McCarthy,['MV Waldron'],caught,Salma Khatun,2014-04-03,Ireland,Bangladesh,0,Sylhet Stadium
+6,Salma Khatun,5.0,10,0,0,50.0,Aliya Riaz,0,caught and bowled,Salma Khatun,2015-09-30,Bangladesh,Pakistan,0,Southend Club Cricket Stadium
+3,Salma Khatun,10.0,18,1,0,55.55555555555556,Nida Dar,['Asmavia Iqbal'],caught,Salma Khatun,2015-10-01,Bangladesh,Pakistan,0,Southend Club Cricket Stadium
+6,Salma Khatun,32.0,31,4,0,103.2258064516129,notOut,notOut,notOut,notOut,2016-03-17,England,England,0,M Chinnaswamy Stadium
+4,Salma Khatun,8.0,9,1,0,88.88888888888889,notOut,notOut,notOut,notOut,2016-03-20,West Indies,West Indies,0,"MA Chidambaram Stadium, Chepauk"
+2,Salma Khatun,10.0,15,2,0,66.66666666666666,Asmavia Iqbal,0,bowled,Salma Khatun,2016-03-24,Pakistan,Pakistan,0,Feroz Shah Kotla
+1,Sanjida Islam,6.0,15,0,0,40.0,Asmavia Iqbal,['Bismah Maroof'],run out,Sanjida Islam,2012-10-30,Pakistan,Pakistan,0,Guanggong International Cricket Stadium
+1,Sanjida Islam,8.0,17,1,0,47.05882352941176,A Mohammed,['SC Selman'],run out,Sanjida Islam,2014-03-26,West Indies,West Indies,0,Sylhet Stadium
+5,Sanjida Islam,3.0,10,0,0,30.0,PRCS Kumarihami,0,bowled,Sanjida Islam,2014-04-01,Sri Lanka,Bangladesh,0,Sylhet Stadium
+2,Sanjida Islam,2.0,8,0,0,25.0,Poonam Yadav,['AA Patil'],caught,Sanjida Islam,2016-03-15,Bangladesh,India,0,M Chinnaswamy Stadium
+0,Sanjida Islam,14.0,15,3,0,93.33333333333333,SR Taylor,['DJS Dottin'],caught,Sanjida Islam,2016-03-20,West Indies,West Indies,0,"MA Chidambaram Stadium, Chepauk"
+0,Sanjida Islam,1.0,7,0,0,14.285714285714285,Anam Amin,['Sidra Nawaz'],caught,Sanjida Islam,2016-03-24,Pakistan,Pakistan,0,Feroz Shah Kotla
+9,Shafiul Islam,1.0,9,0,0,11.11111111111111,DR Tuffey,['LRPL Taylor'],caught,Shafiul Islam,2010-02-03,Bangladesh,New Zealand,0,Seddon Park
+8,Shafiul Islam,16.0,13,1,1,123.07692307692308,SPD Smith,0,bowled,Shafiul Islam,2010-05-05,Bangladesh,Australia,0,"Kensington Oval, Bridgetown"
+10,Shafiul Islam,0.0,1,0,0,0.0,Shoaib Malik,0,lbw,Shafiul Islam,2011-11-29,Pakistan,Pakistan,0,Shere Bangla National Stadium
+10,Shafiul Islam,1.0,1,0,0,100.0,Mudassar Bukhari,"['PM Seelaar', 'Mudassar Bukhari']",run out,Elias Sunny,2012-07-26,Bangladesh,Netherlands,0,Sportpark Westvliet
+12,Shahadat Hossain,0.0,1,0,0,0.0,Mansoor Amjad,0,bowled,Shahadat Hossain,2008-04-20,Bangladesh,Pakistan,0,National Stadium
+10,Shahadat Hossain,4.0,4,0,0,100.0,notOut,notOut,notOut,notOut,2008-11-05,Bangladesh,South Africa,0,New Wanderers Stadium
+8,Shahadat Hossain,1.0,3,0,0,33.33333333333333,DL Vettori,['BB McCullum'],stumped,Shahadat Hossain,2010-02-03,Bangladesh,New Zealand,0,Seddon Park
+6,Shaila Sharmin,0.0,1,0,0,0.0,S Sharma,0,bowled,Shaila Sharmin,2014-03-30,India,India,0,Sylhet Stadium
+5,Shaila Sharmin,6.0,8,0,0,75.0,IMHC Joyce,0,bowled,Shaila Sharmin,2014-04-03,Ireland,Bangladesh,0,Sylhet Stadium
+4,Shakib Al Hasan,13.0,9,1,0,144.44444444444443,RR Sarwan,['DBL Powell'],caught,Shakib Al Hasan,2007-09-13,West Indies,Bangladesh,0,New Wanderers Stadium
+4,Shakib Al Hasan,19.0,15,3,0,126.66666666666666,JJ van der Wath,['JP Duminy'],run out,Shakib Al Hasan,2007-09-15,Bangladesh,South Africa,0,Newlands
+4,Shakib Al Hasan,16.0,11,1,1,145.45454545454547,B Lee,['AC Gilchrist'],caught,Shakib Al Hasan,2007-09-16,Bangladesh,Australia,0,Newlands
+3,Shakib Al Hasan,18.0,19,2,0,94.73684210526315,TM Dilshan,"['SL Malinga', 'TM Dilshan']",run out,Nadif Chowdhury,2007-09-18,Sri Lanka,Sri Lanka,0,New Wanderers Stadium
+4,Shakib Al Hasan,18.0,19,2,0,94.73684210526315,MF Maharoof,0,bowled,Shakib Al Hasan,2007-09-18,Sri Lanka,Sri Lanka,0,New Wanderers Stadium
+5,Shakib Al Hasan,1.0,4,0,0,25.0,Mohammad Hafeez,0,caught and bowled,Shakib Al Hasan,2007-09-20,Pakistan,Pakistan,0,Newlands
+6,Shakib Al Hasan,0.0,1,0,0,0.0,Shahid Afridi,['Mansoor Amjad'],caught,Shakib Al Hasan,2008-04-20,Bangladesh,Pakistan,0,National Stadium
+4,Shakib Al Hasan,4.0,3,1,0,133.33333333333331,J Botha,"['LE Bosman', 'J Botha']",run out,Shakib Al Hasan,2008-11-05,Bangladesh,South Africa,0,New Wanderers Stadium
+3,Shakib Al Hasan,8.0,10,0,0,80.0,PP Ojha,['MS Dhoni'],caught,Shakib Al Hasan,2009-06-06,India,India,0,Trent Bridge
+3,Shakib Al Hasan,7.0,7,1,0,100.0,DT Johnston,['GC Wilson'],caught,Shakib Al Hasan,2009-06-08,Ireland,Ireland,0,Trent Bridge
+4,Shakib Al Hasan,17.0,16,3,0,106.25,NO Miller,0,bowled,Shakib Al Hasan,2009-08-02,Bangladesh,West Indies,0,"Warner Park, Basseterre"
+3,Shakib Al Hasan,3.0,5,0,0,60.0,NL McCullum,0,bowled,Shakib Al Hasan,2010-02-03,Bangladesh,New Zealand,0,Seddon Park
+3,Shakib Al Hasan,47.0,31,3,2,151.61290322580646,Mohammad Sami,['Umar Akmal'],caught,Shakib Al Hasan,2010-05-01,Pakistan,Pakistan,0,"Beausejour Stadium, Gros Islet"
+2,Shakib Al Hasan,28.0,31,0,1,90.32258064516128,SPD Smith,['MEK Hussey'],caught,Shakib Al Hasan,2010-05-05,Bangladesh,Australia,0,"Kensington Oval, Bridgetown"
+3,Shakib Al Hasan,0.0,1,0,0,0.0,MN Samuels,0,bowled,Shakib Al Hasan,2011-10-11,West Indies,Bangladesh,0,Shere Bangla National Stadium
+3,Shakib Al Hasan,7.0,14,0,0,50.0,Saeed Ajmal,"['Mohammad Hafeez', 'Umar Akmal']",run out,Imrul Kayes,2011-11-29,Pakistan,Pakistan,0,Shere Bangla National Stadium
+4,Shakib Al Hasan,7.0,14,0,0,50.0,Mohammad Hafeez,0,bowled,Shakib Al Hasan,2011-11-29,Pakistan,Pakistan,0,Shere Bangla National Stadium
+2,Shakib Al Hasan,57.0,33,9,0,172.72727272727272,PR Stirling,0,bowled,Shakib Al Hasan,2012-07-18,Bangladesh,Bangladesh,0,"Civil Service Cricket Club, Stormont"
+2,Shakib Al Hasan,12.0,11,2,0,109.09090909090908,Ahsan Malik,0,caught and bowled,Shakib Al Hasan,2012-07-25,Bangladesh,Bangladesh,0,Sportpark Westvliet
+2,Shakib Al Hasan,0.0,3,0,0,0.0,MR Swart,0,bowled,Shakib Al Hasan,2012-07-26,Bangladesh,Netherlands,0,Sportpark Westvliet
+1,Shakib Al Hasan,11.0,9,2,0,122.22222222222223,KD Mills,['KS Williamson'],caught,Shakib Al Hasan,2012-09-21,New Zealand,New Zealand,0,Pallekele International Cricket Stadium
+2,Shakib Al Hasan,84.0,55,11,2,152.72727272727275,Sohail Tanvir,['Mohammad Hafeez'],run out,Tamim Iqbal,2012-09-25,Pakistan,Pakistan,0,Pallekele International Cricket Stadium
+3,Shakib Al Hasan,84.0,55,11,2,152.72727272727275,Yasir Arafat,['Umar Akmal'],caught,Shakib Al Hasan,2012-09-25,Pakistan,Pakistan,0,Pallekele International Cricket Stadium
+1,Shakib Al Hasan,65.0,41,8,2,158.53658536585365,P Utseya,['MN Waller'],caught,Shakib Al Hasan,2013-05-11,Bangladesh,Zimbabwe,0,Queens Sports Club
+2,Shakib Al Hasan,40.0,30,6,1,133.33333333333331,N M'shangwe,['Sikandar Raza'],caught,Shakib Al Hasan,2013-05-12,Bangladesh,Bangladesh,0,Queens Sports Club
+4,Shakib Al Hasan,26.0,17,2,1,152.94117647058823,KMDN Kulasekara,0,bowled,Shakib Al Hasan,2014-02-12,Sri Lanka,Sri Lanka,0,Zahur Ahmed Chowdhury Stadium
+3,Shakib Al Hasan,12.0,6,3,0,200.0,SMSM Senanayake,['KMDN Kulasekara'],caught,Shakib Al Hasan,2014-02-14,Sri Lanka,Sri Lanka,0,Zahur Ahmed Chowdhury Stadium
+2,Shakib Al Hasan,10.0,14,1,0,71.42857142857143,notOut,notOut,notOut,notOut,2014-03-16,Afghanistan,Bangladesh,0,Shere Bangla National Stadium
+3,Shakib Al Hasan,37.0,18,1,4,205.55555555555554,notOut,notOut,notOut,notOut,2014-03-18,Nepal,Bangladesh,0,Zahur Ahmed Chowdhury Stadium
+3,Shakib Al Hasan,34.0,27,6,0,125.92592592592592,Irfan Ahmed,['Nizakat Khan'],caught,Shakib Al Hasan,2014-03-20,Hong Kong,Hong Kong,0,Zahur Ahmed Chowdhury Stadium
+3,Shakib Al Hasan,0.0,1,0,0,0.0,K Santokie,0,bowled,Shakib Al Hasan,2014-03-25,West Indies,West Indies,0,Shere Bangla National Stadium
+3,Shakib Al Hasan,1.0,2,0,0,50.0,B Kumar,0,bowled,Shakib Al Hasan,2014-03-28,India,India,0,Shere Bangla National Stadium
+2,Shakib Al Hasan,38.0,32,2,2,118.75,Umar Gul,['Umar Akmal'],caught,Shakib Al Hasan,2014-03-30,Pakistan,Pakistan,0,Shere Bangla National Stadium
+2,Shakib Al Hasan,66.0,54,5,3,122.22222222222223,DE Bollinger,['GJ Maxwell'],caught,Shakib Al Hasan,2014-04-01,Australia,Australia,0,Shere Bangla National Stadium
+2,Shakib Al Hasan,57.0,41,9,0,139.02439024390242,notOut,notOut,notOut,notOut,2015-04-24,Pakistan,Bangladesh,0,Shere Bangla National Stadium
+2,Shakib Al Hasan,26.0,30,1,1,86.66666666666667,D Wiese,['WD Parnell'],caught,Shakib Al Hasan,2015-07-05,South Africa,South Africa,0,Shere Bangla National Stadium
+2,Shakib Al Hasan,8.0,14,0,0,57.14285714285714,AM Phangiso,['RR Rossouw'],caught,Shakib Al Hasan,2015-07-07,South Africa,South Africa,0,Shere Bangla National Stadium
+6,Shakib Al Hasan,20.0,15,2,0,133.33333333333331,notOut,notOut,notOut,notOut,2016-01-15,Zimbabwe,Bangladesh,0,Sheikh Abu Naser Stadium
+5,Shakib Al Hasan,27.0,18,2,1,150.0,notOut,notOut,notOut,notOut,2016-01-17,Zimbabwe,Bangladesh,0,Sheikh Abu Naser Stadium
+4,Shakib Al Hasan,3.0,10,0,0,30.0,AG Cremer,['MN Waller'],caught,Shakib Al Hasan,2016-01-20,Zimbabwe,Zimbabwe,0,Sheikh Abu Naser Stadium
+3,Shakib Al Hasan,4.0,3,1,0,133.33333333333331,TS Chisoro,0,bowled,Shakib Al Hasan,2016-01-22,Zimbabwe,Zimbabwe,0,Sheikh Abu Naser Stadium
+4,Shakib Al Hasan,3.0,9,0,0,33.33333333333333,RA Jadeja,"['RG Sharma', 'MS Dhoni']",run out,Shakib Al Hasan,2016-02-24,India,India,0,Shere Bangla National Stadium
+4,Shakib Al Hasan,13.0,14,1,0,92.85714285714286,Amjad Javed,0,bowled,Shakib Al Hasan,2016-02-26,United Arab Emirates,Bangladesh,0,Shere Bangla National Stadium
+4,Shakib Al Hasan,32.0,34,3,0,94.11764705882352,PVD Chameera,['LD Chandimal'],caught,Shakib Al Hasan,2016-02-28,Sri Lanka,Bangladesh,0,Shere Bangla National Stadium
+4,Shakib Al Hasan,8.0,14,0,0,57.14285714285714,Mohammad Amir,0,bowled,Shakib Al Hasan,2016-03-02,Pakistan,Bangladesh,0,Shere Bangla National Stadium
+3,Shakib Al Hasan,21.0,16,3,0,131.25,R Ashwin,['JJ Bumrah'],caught,Shakib Al Hasan,2016-03-06,India,India,0,Shere Bangla National Stadium
+3,Shakib Al Hasan,5.0,7,0,0,71.42857142857143,PW Borren,['SJ Myburgh'],caught,Shakib Al Hasan,2016-03-09,Netherlands,Bangladesh,0,Himachal Pradesh Cricket Association Stadium
+3,Shakib Al Hasan,17.0,11,2,1,154.54545454545453,notOut,notOut,notOut,notOut,2016-03-13,Oman,Bangladesh,0,Himachal Pradesh Cricket Association Stadium
+3,Shakib Al Hasan,50.0,40,5,1,125.0,notOut,notOut,notOut,notOut,2016-03-16,Pakistan,Pakistan,0,Eden Gardens
+3,Shakib Al Hasan,33.0,25,3,1,132.0,A Zampa,['NM Coulter-Nile'],caught,Shakib Al Hasan,2016-03-21,Bangladesh,Australia,0,M Chinnaswamy Stadium
+3,Shakib Al Hasan,22.0,15,0,2,146.66666666666666,R Ashwin,['SK Raina'],caught,Shakib Al Hasan,2016-03-23,Bangladesh,India,0,M Chinnaswamy Stadium
+4,Shakib Al Hasan,2.0,6,0,0,33.33333333333333,MJ Santner,['NL McCullum'],caught,Shakib Al Hasan,2016-03-26,New Zealand,New Zealand,0,Eden Gardens
+3,Shakib Al Hasan,14.0,15,0,0,93.33333333333333,C de Grandhomme,['MJ Santner'],caught,Shakib Al Hasan,2017-01-03,Bangladesh,New Zealand,0,McLean Park
+4,Shakib Al Hasan,1.0,2,0,0,50.0,BM Wheeler,['JDS Neesham'],caught,Shakib Al Hasan,2017-01-06,Bangladesh,New Zealand,0,Bay Oval
+3,Shakib Al Hasan,41.0,34,4,0,120.58823529411764,TA Boult,['CJ Anderson'],caught,Shakib Al Hasan,2017-01-08,Bangladesh,New Zealand,0,Bay Oval
+4,Shakib Al Hasan,11.0,15,0,0,73.33333333333333,S Prasanna,['DAS Gunaratne'],caught,Shakib Al Hasan,2017-04-04,Bangladesh,Sri Lanka,0,R Premadasa Stadium
+4,Shakib Al Hasan,38.0,31,4,0,122.58064516129032,KMDN Kulasekara,0,bowled,Shakib Al Hasan,2017-04-06,Bangladesh,Bangladesh,0,R Premadasa Stadium
+6,Shamima Sultana,1.0,2,0,0,50.0,notOut,notOut,notOut,notOut,2014-04-01,Sri Lanka,Bangladesh,0,Sylhet Stadium
+7,Shamima Sultana,7.0,11,0,0,63.63636363636363,notOut,notOut,notOut,notOut,2014-04-03,Ireland,Bangladesh,0,Sylhet Stadium
+1,Shamsur Rahman,0.0,1,0,0,0.0,AD Mathews,0,lbw,Shamsur Rahman,2013-03-31,Bangladesh,Sri Lanka,0,Pallekele International Cricket Stadium
+2,Shamsur Rahman,53.0,48,7,1,110.41666666666667,P Utseya,['BRM Taylor'],caught,Shamsur Rahman,2013-05-11,Bangladesh,Zimbabwe,0,Queens Sports Club
+1,Shamsur Rahman,2.0,3,0,0,66.66666666666666,P Utseya,['MN Waller'],caught,Shamsur Rahman,2013-05-12,Bangladesh,Bangladesh,0,Queens Sports Club
+0,Shamsur Rahman,4.0,2,1,0,200.0,TG Southee,['MJ McClenaghan'],caught,Shamsur Rahman,2013-11-06,New Zealand,New Zealand,0,Shere Bangla National Stadium
+1,Shamsur Rahman,22.0,15,4,0,146.66666666666666,BAW Mendis,0,caught and bowled,Shamsur Rahman,2014-02-12,Sri Lanka,Sri Lanka,0,Zahur Ahmed Chowdhury Stadium
+1,Shamsur Rahman,1.0,3,0,0,33.33333333333333,TM Dilshan,['LD Chandimal'],caught,Shamsur Rahman,2014-02-14,Sri Lanka,Sri Lanka,0,Zahur Ahmed Chowdhury Stadium
+2,Shamsur Rahman,0.0,1,0,0,0.0,R Ashwin,['RG Sharma'],caught,Shamsur Rahman,2014-03-28,India,India,0,Shere Bangla National Stadium
+3,Shamsur Rahman,4.0,13,0,0,30.76923076923077,Shahid Afridi,['Kamran Akmal'],caught,Shamsur Rahman,2014-03-30,Pakistan,Pakistan,0,Shere Bangla National Stadium
+2,Sharmin Akhter,18.0,25,2,0,72.0,HHC Gunaratne,['RS Vandort'],stumped,Sharmin Akhter,2014-04-01,Sri Lanka,Bangladesh,0,Sylhet Stadium
+1,Sharmin Akhter,35.0,46,3,0,76.08695652173914,IMHC Joyce,['CMA Shillington'],caught,Sharmin Akhter,2014-04-03,Ireland,Bangladesh,0,Sylhet Stadium
+1,Sharmin Akhter,0.0,5,0,0,0.0,Anam Amin,['Aliya Riaz'],caught,Sharmin Akhter,2015-09-30,Bangladesh,Pakistan,0,Southend Club Cricket Stadium
+1,Sharmin Akhter,4.0,16,0,0,25.0,Sumaiya Siddiqi,['Nida Dar'],caught,Sharmin Akhter,2015-10-01,Bangladesh,Pakistan,0,Southend Club Cricket Stadium
+0,Sharmin Akhter,9.0,15,1,0,60.0,CJ Metcalfe,0,lbw,Sharmin Akhter,2015-12-05,Ireland,Ireland,0,Terdthai Cricket Ground
+0,Sharmin Akhter,21.0,27,3,0,77.77777777777779,notOut,notOut,notOut,notOut,2016-03-15,Bangladesh,India,0,M Chinnaswamy Stadium
+0,Sharmin Akhter,0.0,6,0,0,0.0,KH Brunt,0,bowled,Sharmin Akhter,2016-03-17,England,England,0,M Chinnaswamy Stadium
+1,Sharmin Akhter,11.0,17,1,0,64.70588235294117,HK Matthews,['DJS Dottin'],caught,Sharmin Akhter,2016-03-20,West Indies,West Indies,0,"MA Chidambaram Stadium, Chepauk"
+1,Sharmin Akhter,19.0,35,1,0,54.285714285714285,Sana Mir,['Nida Dar'],caught,Sharmin Akhter,2016-03-24,Pakistan,Pakistan,0,Feroz Shah Kotla
+8,Shohely Akhter,3.0,6,0,0,50.0,KDU Prabodhani,['AC Jayangani'],run out,Rumana Ahmed,2014-04-01,Sri Lanka,Bangladesh,0,Sylhet Stadium
+9,Shohely Akhter,3.0,6,0,0,50.0,KDU Prabodhani,['RS Vandort'],caught,Shohely Akhter,2014-04-01,Sri Lanka,Bangladesh,0,Sylhet Stadium
+7,Shukhtara Rahman,16.0,19,1,0,84.21052631578947,notOut,notOut,notOut,notOut,2012-10-30,Pakistan,Pakistan,0,Guanggong International Cricket Stadium
+4,Shuvagata Hom,6.0,7,0,0,85.71428571428571,SC Williams,0,bowled,Shuvagata Hom,2016-01-15,Zimbabwe,Bangladesh,0,Sheikh Abu Naser Stadium
+4,Shuvagata Hom,13.0,10,1,1,130.0,A Zampa,0,lbw,Shuvagata Hom,2016-03-21,Bangladesh,Australia,0,M Chinnaswamy Stadium
+8,Shuvagata Hom,0.0,1,0,0,0.0,HH Pandya,['MS Dhoni'],run out,Mustafizur Rahman,2016-03-23,Bangladesh,India,0,M Chinnaswamy Stadium
+8,Shuvagata Hom,16.0,17,2,0,94.11764705882352,notOut,notOut,notOut,notOut,2016-03-26,New Zealand,New Zealand,0,Eden Gardens
+6,Sohag Gazi,9.0,7,1,0,128.57142857142858,SL Malinga,['AD Mathews'],caught,Sohag Gazi,2013-03-31,Bangladesh,Sri Lanka,0,Pallekele International Cricket Stadium
+8,Sohag Gazi,2.0,4,0,0,50.0,notOut,notOut,notOut,notOut,2013-05-11,Bangladesh,Zimbabwe,0,Queens Sports Club
+7,Sohag Gazi,8.0,7,1,0,114.28571428571428,BV Vitori,['V Sibanda'],run out,Nasir Hossain,2013-05-12,Bangladesh,Bangladesh,0,Queens Sports Club
+7,Sohag Gazi,24.0,15,1,1,160.0,KD Mills,"['NL McCullum', 'L Ronchi']",run out,Sohag Gazi,2013-11-06,New Zealand,New Zealand,0,Shere Bangla National Stadium
+8,Sohag Gazi,11.0,21,0,0,52.38095238095239,AD Russell,0,bowled,Sohag Gazi,2014-03-25,West Indies,West Indies,0,Shere Bangla National Stadium
+9,Sohag Gazi,3.0,6,0,0,50.0,notOut,notOut,notOut,notOut,2015-07-05,South Africa,South Africa,0,Shere Bangla National Stadium
+1,Soumya Sarkar,7.0,7,1,0,100.0,K Rabada,['JP Duminy'],caught,Soumya Sarkar,2015-07-05,South Africa,South Africa,0,Shere Bangla National Stadium
+1,Soumya Sarkar,37.0,23,6,1,160.8695652173913,E Leie,['Q de Kock'],stumped,Soumya Sarkar,2015-07-07,South Africa,South Africa,0,Shere Bangla National Stadium
+2,Soumya Sarkar,7.0,5,1,0,140.0,notOut,notOut,notOut,notOut,2016-01-15,Zimbabwe,Bangladesh,0,Sheikh Abu Naser Stadium
+1,Soumya Sarkar,43.0,35,4,3,122.85714285714286,AG Cremer,['MN Waller'],caught,Soumya Sarkar,2016-01-17,Zimbabwe,Bangladesh,0,Sheikh Abu Naser Stadium
+1,Soumya Sarkar,25.0,21,3,1,119.04761904761905,AG Cremer,['H Masakadza'],caught,Soumya Sarkar,2016-01-20,Zimbabwe,Zimbabwe,0,Sheikh Abu Naser Stadium
+1,Soumya Sarkar,11.0,7,1,1,157.14285714285714,N Madziva,['R Mutumbami'],caught,Soumya Sarkar,2016-01-22,Zimbabwe,Zimbabwe,0,Sheikh Abu Naser Stadium
+0,Soumya Sarkar,11.0,14,1,0,78.57142857142857,JJ Bumrah,['MS Dhoni'],caught,Soumya Sarkar,2016-02-24,India,India,0,Shere Bangla National Stadium
+1,Soumya Sarkar,21.0,15,2,1,140.0,Mohammad Shahzad (2),['Amjad Javed'],caught,Soumya Sarkar,2016-02-26,United Arab Emirates,Bangladesh,0,Shere Bangla National Stadium
+2,Soumya Sarkar,0.0,3,0,0,0.0,KMDN Kulasekara,['AD Mathews'],caught,Soumya Sarkar,2016-02-28,Sri Lanka,Bangladesh,0,Shere Bangla National Stadium
+1,Soumya Sarkar,48.0,49,5,1,97.95918367346938,Mohammad Amir,0,bowled,Soumya Sarkar,2016-03-02,Pakistan,Bangladesh,0,Shere Bangla National Stadium
+1,Soumya Sarkar,14.0,9,3,0,155.55555555555557,A Nehra,['HH Pandya'],caught,Soumya Sarkar,2016-03-06,India,India,0,Shere Bangla National Stadium
+1,Soumya Sarkar,15.0,13,2,0,115.38461538461537,PA van Meekeren,['W Barresi'],caught,Soumya Sarkar,2016-03-09,Netherlands,Bangladesh,0,Himachal Pradesh Cricket Association Stadium
+1,Soumya Sarkar,20.0,14,3,0,142.85714285714286,AR McBrine,"[""NJ O'Brien""]",stumped,Soumya Sarkar,2016-03-11,Ireland,0,0,Himachal Pradesh Cricket Association Stadium
+1,Soumya Sarkar,12.0,22,2,0,54.54545454545454,AV Lalcheta,0,bowled,Soumya Sarkar,2016-03-13,Oman,Bangladesh,0,Himachal Pradesh Cricket Association Stadium
+1,Soumya Sarkar,0.0,2,0,0,0.0,Mohammad Amir,0,bowled,Soumya Sarkar,2016-03-16,Pakistan,Pakistan,0,Eden Gardens
+1,Soumya Sarkar,1.0,6,0,0,16.666666666666664,SR Watson,['GJ Maxwell'],caught,Soumya Sarkar,2016-03-21,Bangladesh,Australia,0,M Chinnaswamy Stadium
+6,Soumya Sarkar,21.0,21,1,1,100.0,A Nehra,['V Kohli'],caught,Soumya Sarkar,2016-03-23,Bangladesh,India,0,M Chinnaswamy Stadium
+5,Soumya Sarkar,6.0,9,0,0,66.66666666666666,IS Sodhi,['L Ronchi'],stumped,Soumya Sarkar,2016-03-26,New Zealand,New Zealand,0,Eden Gardens
+4,Soumya Sarkar,0.0,1,0,0,0.0,LH Ferguson,['CJ Anderson'],caught,Soumya Sarkar,2017-01-03,Bangladesh,New Zealand,0,McLean Park
+5,Soumya Sarkar,39.0,26,3,2,150.0,TA Boult,['C Munro'],caught,Soumya Sarkar,2017-01-06,Bangladesh,New Zealand,0,Bay Oval
+1,Soumya Sarkar,42.0,30,6,0,140.0,IS Sodhi,0,caught and bowled,Soumya Sarkar,2017-01-08,Bangladesh,New Zealand,0,Bay Oval
+2,Soumya Sarkar,29.0,22,3,1,131.8181818181818,JRMVB Sanjaya,['NLTC Perera'],caught,Soumya Sarkar,2017-04-04,Bangladesh,Sri Lanka,0,R Premadasa Stadium
+1,Soumya Sarkar,34.0,19,4,2,178.94736842105263,DAS Gunaratne,0,caught and bowled,Soumya Sarkar,2017-04-06,Bangladesh,Bangladesh,0,R Premadasa Stadium
+8,Suhrawadi Shuvo,1.0,3,0,0,33.33333333333333,notOut,notOut,notOut,notOut,2010-05-01,Pakistan,Pakistan,0,"Beausejour Stadium, Gros Islet"
+10,Syed Rasel,6.0,3,1,0,200.0,SM Pollock,0,bowled,Syed Rasel,2007-09-15,Bangladesh,South Africa,0,Newlands
+12,Syed Rasel,1.0,6,0,0,16.666666666666664,Umar Gul,0,bowled,Syed Rasel,2007-09-20,Pakistan,Pakistan,0,Newlands
+0,Tamim Iqbal,11.0,12,2,0,91.66666666666666,PJ Ongondo,['CO Obuya'],caught,Tamim Iqbal,2007-09-01,Bangladesh,Bangladesh,0,Gymkhana Club Ground
+0,Tamim Iqbal,1.0,5,0,0,20.0,Shoaib Akhtar,['Shahid Afridi'],caught,Tamim Iqbal,2007-09-02,Pakistan,Pakistan,0,Gymkhana Club Ground
+0,Tamim Iqbal,10.0,14,2,0,71.42857142857143,R Rampaul,['S Chanderpaul'],caught,Tamim Iqbal,2007-09-13,West Indies,Bangladesh,0,New Wanderers Stadium
+0,Tamim Iqbal,8.0,7,2,0,114.28571428571428,SM Pollock,['GC Smith'],caught,Tamim Iqbal,2007-09-15,Bangladesh,South Africa,0,Newlands
+0,Tamim Iqbal,32.0,43,3,0,74.4186046511628,MJ Clarke,['RT Ponting'],caught,Tamim Iqbal,2007-09-16,Bangladesh,Australia,0,Newlands
+0,Tamim Iqbal,3.0,10,0,0,30.0,CRD Fernando,['SL Malinga'],caught,Tamim Iqbal,2007-09-18,Sri Lanka,Sri Lanka,0,New Wanderers Stadium
+0,Tamim Iqbal,3.0,10,0,0,30.0,notOut,notOut,notOut,notOut,2007-09-20,Pakistan,Pakistan,0,Newlands
+0,Tamim Iqbal,23.0,18,4,0,127.77777777777777,Sohail Tanvir,0,bowled,Tamim Iqbal,2008-04-20,Bangladesh,Pakistan,0,National Stadium
+0,Tamim Iqbal,25.0,28,4,0,89.28571428571429,J Botha,['AB de Villiers'],stumped,Tamim Iqbal,2008-11-05,Bangladesh,South Africa,0,New Wanderers Stadium
+0,Tamim Iqbal,15.0,10,3,0,150.0,YK Pathan,['MS Dhoni'],stumped,Tamim Iqbal,2009-06-06,India,India,0,Trent Bridge
+0,Tamim Iqbal,22.0,28,2,0,78.57142857142857,notOut,notOut,notOut,notOut,2009-06-08,Ireland,Ireland,0,Trent Bridge
+0,Tamim Iqbal,7.0,6,1,0,116.66666666666667,GC Tonge,['FL Reifer'],caught,Tamim Iqbal,2009-08-02,Bangladesh,West Indies,0,"Warner Park, Basseterre"
+0,Tamim Iqbal,14.0,9,3,0,155.55555555555557,DR Tuffey,['BB McCullum'],caught,Tamim Iqbal,2010-02-03,Bangladesh,New Zealand,0,Seddon Park
+0,Tamim Iqbal,19.0,18,3,0,105.55555555555556,Mohammad Hafeez,0,caught and bowled,Tamim Iqbal,2010-05-01,Pakistan,Pakistan,0,"Beausejour Stadium, Gros Islet"
+0,Tamim Iqbal,11.0,15,2,0,73.33333333333333,R Rampaul,['D Ramdin'],caught,Tamim Iqbal,2011-10-11,West Indies,Bangladesh,0,Shere Bangla National Stadium
+0,Tamim Iqbal,31.0,32,3,0,96.875,PR Stirling,['JF Mooney'],caught,Tamim Iqbal,2012-07-18,Bangladesh,Bangladesh,0,"Civil Service Cricket Club, Stormont"
+0,Tamim Iqbal,69.0,53,5,2,130.18867924528303,notOut,notOut,notOut,notOut,2012-07-25,Bangladesh,Bangladesh,0,Sportpark Westvliet
+0,Tamim Iqbal,50.0,46,2,1,108.69565217391303,T van der Gugten,['PW Borren'],caught,Tamim Iqbal,2012-07-26,Bangladesh,Netherlands,0,Sportpark Westvliet
+0,Tamim Iqbal,0.0,3,0,0,0.0,KD Mills,['MJ Guptill'],caught,Tamim Iqbal,2012-09-21,New Zealand,New Zealand,0,Pallekele International Cricket Stadium
+0,Tamim Iqbal,24.0,13,5,0,184.6153846153846,notOut,notOut,notOut,notOut,2012-09-25,Pakistan,Pakistan,0,Pallekele International Cricket Stadium
+0,Tamim Iqbal,88.0,62,10,2,141.93548387096774,notOut,notOut,notOut,notOut,2012-12-10,West Indies,West Indies,0,Shere Bangla National Stadium
+0,Tamim Iqbal,2.0,2,0,0,100.0,BV Vitori,0,bowled,Tamim Iqbal,2013-05-11,Bangladesh,Zimbabwe,0,Queens Sports Club
+0,Tamim Iqbal,43.0,31,6,1,138.70967741935485,P Utseya,['SW Masakadza'],caught,Tamim Iqbal,2013-05-12,Bangladesh,Bangladesh,0,Queens Sports Club
+0,Tamim Iqbal,30.0,26,6,0,115.38461538461537,NLTC Perera,['AD Mathews'],caught,Tamim Iqbal,2014-02-12,Sri Lanka,Sri Lanka,0,Zahur Ahmed Chowdhury Stadium
+0,Tamim Iqbal,2.0,4,0,0,50.0,KMDN Kulasekara,['BAW Mendis'],caught,Tamim Iqbal,2014-02-14,Sri Lanka,Sri Lanka,0,Zahur Ahmed Chowdhury Stadium
+0,Tamim Iqbal,21.0,27,2,0,77.77777777777779,Samiullah Shenwari,0,lbw,Tamim Iqbal,2014-03-16,Afghanistan,Bangladesh,0,Shere Bangla National Stadium
+0,Tamim Iqbal,30.0,22,2,1,136.36363636363635,B Regmi,['Sagar Pun'],caught,Tamim Iqbal,2014-03-18,Nepal,Bangladesh,0,Zahur Ahmed Chowdhury Stadium
+0,Tamim Iqbal,0.0,2,0,0,0.0,Tanwir Afzal,0,bowled,Tamim Iqbal,2014-03-20,Hong Kong,Hong Kong,0,Zahur Ahmed Chowdhury Stadium
+0,Tamim Iqbal,5.0,10,1,0,50.0,S Badree,['DJ Bravo'],caught,Tamim Iqbal,2014-03-25,West Indies,West Indies,0,Shere Bangla National Stadium
+0,Tamim Iqbal,6.0,10,1,0,60.0,R Ashwin,['SK Raina'],caught,Tamim Iqbal,2014-03-28,India,India,0,Shere Bangla National Stadium
+0,Tamim Iqbal,16.0,15,2,0,106.66666666666667,Umar Gul,0,bowled,Tamim Iqbal,2014-03-30,Pakistan,Pakistan,0,Shere Bangla National Stadium
+0,Tamim Iqbal,5.0,14,0,0,35.714285714285715,NM Coulter-Nile,['DE Bollinger'],caught,Tamim Iqbal,2014-04-01,Australia,Australia,0,Shere Bangla National Stadium
+0,Tamim Iqbal,14.0,10,2,1,140.0,Mohammad Hafeez,['Saeed Ajmal'],run out,Soumya Sarkar,2015-04-24,Pakistan,Bangladesh,0,Shere Bangla National Stadium
+1,Tamim Iqbal,14.0,10,2,1,140.0,Umar Gul,['Mohammad Hafeez'],caught,Tamim Iqbal,2015-04-24,Pakistan,Bangladesh,0,Shere Bangla National Stadium
+0,Tamim Iqbal,5.0,5,1,0,100.0,KJ Abbott,['Q de Kock'],caught,Tamim Iqbal,2015-07-05,South Africa,South Africa,0,Shere Bangla National Stadium
+0,Tamim Iqbal,13.0,19,1,0,68.42105263157895,WD Parnell,['D Wiese'],caught,Tamim Iqbal,2015-07-07,South Africa,South Africa,0,Shere Bangla National Stadium
+0,Tamim Iqbal,31.0,30,3,0,103.33333333333334,T Panyangara,"['Sikandar Raza', 'RW Chakabva']",run out,Anamul Haque,2015-11-13,Zimbabwe,Bangladesh,0,Shere Bangla National Stadium
+1,Tamim Iqbal,31.0,30,3,0,103.33333333333334,AG Cremer,0,lbw,Tamim Iqbal,2015-11-13,Zimbabwe,Bangladesh,0,Shere Bangla National Stadium
+0,Tamim Iqbal,21.0,17,1,2,123.52941176470588,N Madziva,['E Chigumbura'],caught,Tamim Iqbal,2015-11-15,Zimbabwe,Zimbabwe,0,Shere Bangla National Stadium
+0,Tamim Iqbal,29.0,24,3,1,120.83333333333333,LM Jongwe,"['WP Masakadza', 'LM Jongwe']",run out,Soumya Sarkar,2016-01-15,Zimbabwe,Bangladesh,0,Sheikh Abu Naser Stadium
+1,Tamim Iqbal,29.0,24,3,1,120.83333333333333,AG Cremer,['V Sibanda'],caught,Tamim Iqbal,2016-01-15,Zimbabwe,Bangladesh,0,Sheikh Abu Naser Stadium
+0,Tamim Iqbal,23.0,17,3,1,135.29411764705884,T Muzarabani,['BV Vitori'],caught,Tamim Iqbal,2016-01-17,Zimbabwe,Bangladesh,0,Sheikh Abu Naser Stadium
+0,Tamim Iqbal,1.0,2,0,0,50.0,N Madziva,0,bowled,Tamim Iqbal,2016-01-22,Zimbabwe,Zimbabwe,0,Sheikh Abu Naser Stadium
+0,Tamim Iqbal,7.0,4,0,1,175.0,Mohammad Irfan,0,lbw,Tamim Iqbal,2016-03-02,Pakistan,Bangladesh,0,Shere Bangla National Stadium
+0,Tamim Iqbal,13.0,18,2,0,72.22222222222221,JJ Bumrah,0,lbw,Tamim Iqbal,2016-03-06,India,India,0,Shere Bangla National Stadium
+0,Tamim Iqbal,83.0,59,6,3,140.67796610169492,notOut,notOut,notOut,notOut,2016-03-09,Netherlands,Bangladesh,0,Himachal Pradesh Cricket Association Stadium
+0,Tamim Iqbal,47.0,28,3,4,167.85714285714286,GH Dockrell,['WTS Porterfield'],caught,Tamim Iqbal,2016-03-11,Ireland,0,0,Himachal Pradesh Cricket Association Stadium
+0,Tamim Iqbal,103.0,64,10,5,160.9375,notOut,notOut,notOut,notOut,2016-03-13,Oman,Bangladesh,0,Himachal Pradesh Cricket Association Stadium
+0,Tamim Iqbal,24.0,22,0,2,109.09090909090908,Shahid Afridi,['Imad Wasim'],caught,Tamim Iqbal,2016-03-16,Pakistan,Pakistan,0,Eden Gardens
+0,Tamim Iqbal,35.0,32,5,0,109.375,RA Jadeja,['MS Dhoni'],stumped,Tamim Iqbal,2016-03-23,Bangladesh,India,0,M Chinnaswamy Stadium
+0,Tamim Iqbal,3.0,8,0,0,37.5,notOut,notOut,notOut,notOut,2016-03-26,New Zealand,New Zealand,0,Eden Gardens
+0,Tamim Iqbal,11.0,14,1,0,78.57142857142857,BM Wheeler,['TC Bruce'],caught,Tamim Iqbal,2017-01-03,Bangladesh,New Zealand,0,McLean Park
+0,Tamim Iqbal,13.0,9,2,0,144.44444444444443,notOut,notOut,notOut,notOut,2017-01-06,Bangladesh,New Zealand,0,Bay Oval
+0,Tamim Iqbal,24.0,15,3,1,160.0,TA Boult,['C de Grandhomme'],caught,Tamim Iqbal,2017-01-08,Bangladesh,New Zealand,0,Bay Oval
+0,Tamim Iqbal,0.0,2,0,0,0.0,SL Malinga,0,bowled,Tamim Iqbal,2017-04-04,Bangladesh,Sri Lanka,0,R Premadasa Stadium
+10,Taskin Ahmed,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2016-01-22,Zimbabwe,Zimbabwe,0,Sheikh Abu Naser Stadium
+8,Taskin Ahmed,15.0,18,1,1,83.33333333333334,notOut,notOut,notOut,notOut,2016-02-24,India,India,0,Shere Bangla National Stadium
+8,Taskin Ahmed,1.0,2,0,0,50.0,notOut,notOut,notOut,notOut,2016-02-26,United Arab Emirates,Bangladesh,0,Shere Bangla National Stadium
+2,Tazia Akhter,0.0,3,0,0,0.0,CR Seneviratna,['KDU Prabodhani'],caught,Tazia Akhter,2012-10-28,Sri Lanka,Bangladesh,0,Guanggong International Cricket Stadium
+5,Tazia Akhter,3.0,9,0,0,33.33333333333333,Nida Dar,['Batool Fatima'],caught,Tazia Akhter,2012-10-30,Pakistan,Pakistan,0,Guanggong International Cricket Stadium
+5,Ziaur Rahman,40.0,17,0,5,235.29411764705884,notOut,notOut,notOut,notOut,2012-07-18,Bangladesh,Bangladesh,0,"Civil Service Cricket Club, Stormont"
+5,Ziaur Rahman,22.0,17,2,1,129.41176470588235,T van der Gugten,['PW Borren'],caught,Ziaur Rahman,2012-07-26,Bangladesh,Netherlands,0,Sportpark Westvliet
+6,Ziaur Rahman,14.0,17,0,1,82.35294117647058,notOut,notOut,notOut,notOut,2012-09-21,New Zealand,New Zealand,0,Pallekele International Cricket Stadium
+7,Ziaur Rahman,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2012-09-25,Pakistan,Pakistan,0,Pallekele International Cricket Stadium
+7,Ziaur Rahman,2.0,8,0,0,25.0,T Panyangara,['V Sibanda'],caught,Ziaur Rahman,2013-05-11,Bangladesh,Zimbabwe,0,Queens Sports Club
+2,Ziaur Rahman,6.0,2,0,1,300.0,TG Southee,0,bowled,Ziaur Rahman,2013-11-06,New Zealand,New Zealand,0,Shere Bangla National Stadium
+7,Ziaur Rahman,9.0,13,0,0,69.23076923076923,AD Russell,0,bowled,Ziaur Rahman,2014-03-25,West Indies,West Indies,0,Shere Bangla National Stadium
+7,Ziaur Rahman,0.0,1,0,0,0.0,A Mishra,['RA Jadeja'],caught,Ziaur Rahman,2014-03-28,India,India,0,Shere Bangla National Stadium
+7,Ziaur Rahman,0.0,1,0,0,0.0,Umar Gul,['Kamran Akmal'],caught,Ziaur Rahman,2014-03-30,Pakistan,Pakistan,0,Shere Bangla National Stadium

@@ -1,0 +1,98 @@
+,batsman,runs,balls,4s,6s,SR,bowler,fielders,kind,player_out,date,team2,winner,result,venue
+7,AG Salter,16.0,13,1,0,123.07692307692308,notOut,notOut,notOut,notOut,2016-07-14,Glamorgan,Hampshire,0,The Rose Bowl
+6,AG Salter,2.0,5,0,0,40.0,GHS Garton,0,bowled,AG Salter,2016-07-28,Glamorgan,0,0,County Ground
+5,AG Salter,1.0,2,0,0,50.0,notOut,notOut,notOut,notOut,2016-07-29,Glamorgan,0,0,County Ground
+7,AG Salter,9.0,6,0,1,150.0,AU Rashid,0,bowled,AG Salter,2016-08-11,Yorkshire,Yorkshire,0,Sophia Gardens
+3,AHT Donald,13.0,11,1,1,118.18181818181819,notOut,notOut,notOut,notOut,2016-05-26,Glamorgan,Glamorgan,0,Kennington Oval
+3,AHT Donald,51.0,39,5,2,130.76923076923077,Ashar Zaidi,0,bowled,AHT Donald,2016-06-01,Essex,Essex,0,Sophia Gardens
+3,AHT Donald,55.0,27,8,2,203.70370370370372,LA Dawson,0,bowled,AHT Donald,2016-06-03,Hampshire,Glamorgan,0,Sophia Gardens
+3,AHT Donald,48.0,39,4,1,123.07692307692308,notOut,notOut,notOut,notOut,2016-06-10,Glamorgan,Glamorgan,0,County Ground
+4,AHT Donald,1.0,2,0,0,50.0,ME Claydon,0,bowled,AHT Donald,2016-06-17,Kent,Glamorgan,0,Sophia Gardens
+4,AHT Donald,0.0,1,0,0,0.0,KMDN Kulasekara,['Craig Cachopa'],caught,AHT Donald,2016-07-07,Sussex,Glamorgan,0,Sophia Gardens
+4,AHT Donald,4.0,7,1,0,57.14285714285714,TMJ Smith,['IA Cockbain'],caught,AHT Donald,2016-07-10,Gloucestershire,Gloucestershire,0,Sophia Gardens
+3,AHT Donald,0.0,6,0,0,0.0,Shahid Afridi,0,bowled,AHT Donald,2016-07-14,Glamorgan,Hampshire,0,The Rose Bowl
+3,AHT Donald,44.0,29,5,1,151.72413793103448,notOut,notOut,notOut,notOut,2016-07-22,Somerset,Glamorgan,0,Sophia Gardens
+3,AHT Donald,6.0,7,1,0,85.71428571428571,GHS Garton,['MW Machan'],caught,AHT Donald,2016-07-28,Glamorgan,0,0,County Ground
+3,AHT Donald,12.0,11,2,0,109.09090909090908,RN ten Doeschate,['RS Bopara'],caught,AHT Donald,2016-07-29,Glamorgan,0,0,County Ground
+3,AHT Donald,1.0,6,0,0,16.666666666666664,DJ Willey,0,bowled,AHT Donald,2016-08-11,Yorkshire,Yorkshire,0,Sophia Gardens
+2,CA Ingram,11.0,9,0,1,122.22222222222223,JE Burke,['MW Pillans'],caught,CA Ingram,2016-05-26,Glamorgan,Glamorgan,0,Kennington Oval
+2,CA Ingram,26.0,25,1,1,104.0,RS Bopara,['DW Lawrence'],caught,CA Ingram,2016-06-01,Essex,Essex,0,Sophia Gardens
+2,CA Ingram,43.0,30,4,2,143.33333333333334,LA Dawson,['GM Andrew'],caught,CA Ingram,2016-06-03,Hampshire,Glamorgan,0,Sophia Gardens
+2,CA Ingram,64.0,32,4,5,200.0,CDJ Dent,['M Klinger'],caught,CA Ingram,2016-06-10,Glamorgan,Glamorgan,0,County Ground
+2,CA Ingram,60.0,30,6,4,200.0,JC Tredwell,['AJ Blake'],caught,CA Ingram,2016-06-17,Kent,Glamorgan,0,Sophia Gardens
+1,CA Ingram,73.0,49,7,3,148.9795918367347,notOut,notOut,notOut,notOut,2016-06-24,Surrey,Glamorgan,0,Sophia Gardens
+2,CA Ingram,16.0,11,3,0,145.45454545454547,WAT Beer,['KMDN Kulasekara'],caught,CA Ingram,2016-07-07,Sussex,Glamorgan,0,Sophia Gardens
+2,CA Ingram,19.0,6,0,3,316.66666666666663,notOut,notOut,notOut,notOut,2016-07-08,Glamorgan,Glamorgan,0,Old Deer Park
+2,CA Ingram,4.0,2,1,0,200.0,GL van Buuren,0,lbw,CA Ingram,2016-07-10,Gloucestershire,Gloucestershire,0,Sophia Gardens
+2,CA Ingram,5.0,3,1,0,166.66666666666669,LA Dawson,['LD McManus'],caught,CA Ingram,2016-07-14,Glamorgan,Hampshire,0,The Rose Bowl
+2,CA Ingram,54.0,37,5,2,145.94594594594594,PD Trego,['J Allenby'],caught,CA Ingram,2016-07-22,Somerset,Glamorgan,0,Sophia Gardens
+2,CA Ingram,10.0,8,1,1,125.0,TS Mills,['HZ Finch'],caught,CA Ingram,2016-07-28,Glamorgan,0,0,County Ground
+2,CA Ingram,101.0,60,6,7,168.33333333333334,GR Napier,0,bowled,CA Ingram,2016-07-29,Glamorgan,0,0,County Ground
+1,CA Ingram,16.0,13,3,0,123.07692307692308,MJ Waite,['WMH Rhodes'],caught,CA Ingram,2016-08-11,Yorkshire,Yorkshire,0,Sophia Gardens
+6,CAJ Meschede,6.0,10,0,0,60.0,Wahab Riaz,['CJ Taylor'],run out,CAJ Meschede,2016-06-01,Essex,Essex,0,Sophia Gardens
+6,CAJ Meschede,11.0,6,0,1,183.33333333333331,notOut,notOut,notOut,notOut,2016-06-03,Hampshire,Glamorgan,0,Sophia Gardens
+6,CAJ Meschede,3.0,6,0,0,50.0,TS Mills,0,bowled,CAJ Meschede,2016-07-07,Sussex,Glamorgan,0,Sophia Gardens
+6,CAJ Meschede,2.0,3,0,0,66.66666666666666,notOut,notOut,notOut,notOut,2016-07-10,Gloucestershire,Gloucestershire,0,Sophia Gardens
+6,CAJ Meschede,17.0,14,1,1,121.42857142857142,LA Dawson,['JJ Weatherley'],caught,CAJ Meschede,2016-07-14,Glamorgan,Hampshire,0,The Rose Bowl
+7,CAJ Meschede,8.0,16,1,0,50.0,CJ Jordan,['MW Machan'],caught,CAJ Meschede,2016-07-28,Glamorgan,0,0,County Ground
+6,CAJ Meschede,1.0,7,0,0,14.285714285714285,AU Rashid,['LE Plunkett'],caught,CAJ Meschede,2016-08-11,Yorkshire,Yorkshire,0,Sophia Gardens
+4,CB Cooke,23.0,21,1,1,109.52380952380953,notOut,notOut,notOut,notOut,2016-06-01,Essex,Essex,0,Sophia Gardens
+4,CB Cooke,24.0,19,2,1,126.3157894736842,notOut,notOut,notOut,notOut,2016-06-03,Hampshire,Glamorgan,0,Sophia Gardens
+4,CB Cooke,16.0,12,1,1,133.33333333333331,BAC Howell,['CDJ Dent'],caught,CB Cooke,2016-06-10,Glamorgan,Glamorgan,0,County Ground
+3,CB Cooke,2.0,3,0,0,66.66666666666666,DA Griffiths,['JC Tredwell'],caught,CB Cooke,2016-06-17,Kent,Glamorgan,0,Sophia Gardens
+8,DA Cosker,6.0,8,0,0,75.0,notOut,notOut,notOut,notOut,2016-07-07,Sussex,Glamorgan,0,Sophia Gardens
+0,DL Lloyd,31.0,22,6,0,140.9090909090909,MW Pillans,['GJ Batty'],caught,DL Lloyd,2016-05-26,Glamorgan,Glamorgan,0,Kennington Oval
+0,DL Lloyd,7.0,7,1,0,100.0,DD Masters,['JS Foster'],caught,DL Lloyd,2016-06-01,Essex,Essex,0,Sophia Gardens
+1,DL Lloyd,2.0,6,0,0,33.33333333333333,GK Berg,0,lbw,DL Lloyd,2016-06-03,Hampshire,Glamorgan,0,Sophia Gardens
+1,DL Lloyd,17.0,19,3,0,89.47368421052632,AJ Tye,['LC Norwell'],caught,DL Lloyd,2016-06-10,Glamorgan,Glamorgan,0,County Ground
+0,DL Lloyd,97.0,50,10,4,194.0,notOut,notOut,notOut,notOut,2016-06-17,Kent,Glamorgan,0,Sophia Gardens
+0,DL Lloyd,0.0,3,0,0,0.0,SM Curran,['BT Foakes'],caught,DL Lloyd,2016-06-24,Surrey,Glamorgan,0,Sophia Gardens
+1,DL Lloyd,81.0,57,11,2,142.10526315789474,CJ Jordan,['PD Salt'],caught,DL Lloyd,2016-07-07,Sussex,Glamorgan,0,Sophia Gardens
+0,DL Lloyd,49.0,45,2,1,108.88888888888889,NA Sowter,['JEC Franklin'],caught,DL Lloyd,2016-07-08,Glamorgan,Glamorgan,0,Old Deer Park
+0,DL Lloyd,22.0,24,3,0,91.66666666666666,GL van Buuren,['M Klinger'],caught,DL Lloyd,2016-07-10,Gloucestershire,Gloucestershire,0,Sophia Gardens
+0,DL Lloyd,18.0,18,2,0,100.0,LA Dawson,0,bowled,DL Lloyd,2016-07-14,Glamorgan,Hampshire,0,The Rose Bowl
+0,DL Lloyd,28.0,24,4,0,116.66666666666667,MTC Waller,0,bowled,DL Lloyd,2016-07-22,Somerset,Glamorgan,0,Sophia Gardens
+0,DL Lloyd,7.0,13,1,0,53.84615384615385,JC Archer,['MW Machan'],caught,DL Lloyd,2016-07-28,Glamorgan,0,0,County Ground
+0,DL Lloyd,23.0,14,4,1,164.28571428571428,DD Masters,['NLJ Browne'],caught,DL Lloyd,2016-07-29,Glamorgan,0,0,County Ground
+0,DL Lloyd,0.0,1,0,0,0.0,TT Bresnan,0,bowled,DL Lloyd,2016-08-11,Yorkshire,Yorkshire,0,Sophia Gardens
+7,DW Steyn,7.0,5,1,0,140.0,notOut,notOut,notOut,notOut,2016-06-01,Essex,Essex,0,Sophia Gardens
+5,GG Wagg,7.0,11,0,0,63.63636363636363,RS Bopara,0,bowled,GG Wagg,2016-06-01,Essex,Essex,0,Sophia Gardens
+5,GG Wagg,2.0,5,0,0,40.0,Shahid Afridi,0,bowled,GG Wagg,2016-06-03,Hampshire,Glamorgan,0,Sophia Gardens
+5,GG Wagg,2.0,2,0,0,100.0,notOut,notOut,notOut,notOut,2016-06-10,Glamorgan,Glamorgan,0,County Ground
+5,GG Wagg,2.0,2,0,0,100.0,notOut,notOut,notOut,notOut,2016-06-17,Kent,Glamorgan,0,Sophia Gardens
+5,GG Wagg,10.0,9,1,0,111.11111111111111,KMDN Kulasekara,['MW Machan'],caught,GG Wagg,2016-07-07,Sussex,Glamorgan,0,Sophia Gardens
+5,GG Wagg,32.0,23,2,2,139.1304347826087,AJ Tye,['HJH Marshall'],run out,CAJ Meschede,2016-07-10,Gloucestershire,Gloucestershire,0,Sophia Gardens
+5,GG Wagg,25.0,27,2,0,92.5925925925926,LA Dawson,['GM Andrew'],caught,GG Wagg,2016-07-14,Glamorgan,Hampshire,0,The Rose Bowl
+5,GG Wagg,7.0,8,1,0,87.5,GHS Garton,0,caught and bowled,GG Wagg,2016-07-28,Glamorgan,0,0,County Ground
+6,GG Wagg,2.0,1,0,0,200.0,notOut,notOut,notOut,notOut,2016-07-29,Glamorgan,0,0,County Ground
+5,GG Wagg,2.0,3,0,0,66.66666666666666,LE Plunkett,0,bowled,GG Wagg,2016-08-11,Yorkshire,Yorkshire,0,Sophia Gardens
+1,JA Rudolph,34.0,37,3,0,91.8918918918919,notOut,notOut,notOut,notOut,2016-05-26,Glamorgan,Glamorgan,0,Kennington Oval
+1,JA Rudolph,2.0,6,0,0,33.33333333333333,MR Quinn,['DW Lawrence'],caught,JA Rudolph,2016-06-01,Essex,Essex,0,Sophia Gardens
+0,JA Rudolph,1.0,4,0,0,25.0,GM Andrew,['JM Vince'],caught,JA Rudolph,2016-06-03,Hampshire,Glamorgan,0,Sophia Gardens
+0,JA Rudolph,16.0,14,2,0,114.28571428571428,BAC Howell,0,bowled,JA Rudolph,2016-06-10,Glamorgan,Glamorgan,0,County Ground
+1,JA Rudolph,8.0,12,1,0,66.66666666666666,ME Claydon,['DJ Bell-Drummond'],caught,JA Rudolph,2016-06-17,Kent,Glamorgan,0,Sophia Gardens
+2,JA Rudolph,40.0,44,3,0,90.9090909090909,notOut,notOut,notOut,notOut,2016-06-24,Surrey,Glamorgan,0,Sophia Gardens
+3,JA Rudolph,24.0,12,3,1,200.0,KMDN Kulasekara,['LJ Wright'],caught,JA Rudolph,2016-07-07,Sussex,Glamorgan,0,Sophia Gardens
+3,JA Rudolph,17.0,29,0,0,58.620689655172406,GL van Buuren,0,lbw,JA Rudolph,2016-07-10,Gloucestershire,Gloucestershire,0,Sophia Gardens
+4,JA Rudolph,0.0,1,0,0,0.0,BJ Taylor,0,caught and bowled,JA Rudolph,2016-07-14,Glamorgan,Hampshire,0,The Rose Bowl
+4,JA Rudolph,8.0,5,1,0,160.0,notOut,notOut,notOut,notOut,2016-07-22,Somerset,Glamorgan,0,Sophia Gardens
+4,JA Rudolph,6.0,7,0,0,85.71428571428571,WAT Beer,['TS Mills'],caught,JA Rudolph,2016-07-28,Glamorgan,0,0,County Ground
+4,JA Rudolph,28.0,19,2,1,147.36842105263156,MR Quinn,['GR Napier'],caught,JA Rudolph,2016-07-29,Glamorgan,0,0,County Ground
+4,JA Rudolph,26.0,25,4,0,104.0,Azeem Rafiq,['A Lyth'],caught,JA Rudolph,2016-08-11,Yorkshire,Yorkshire,0,Sophia Gardens
+0,MA Wallace,9.0,12,0,0,75.0,KMDN Kulasekara,['LRPL Taylor'],caught,MA Wallace,2016-07-07,Sussex,Glamorgan,0,Sophia Gardens
+1,MA Wallace,69.0,51,7,1,135.29411764705884,notOut,notOut,notOut,notOut,2016-07-08,Glamorgan,Glamorgan,0,Old Deer Park
+1,MA Wallace,20.0,28,2,0,71.42857142857143,TMJ Smith,0,bowled,MA Wallace,2016-07-10,Gloucestershire,Gloucestershire,0,Sophia Gardens
+1,MA Wallace,45.0,34,5,0,132.35294117647058,BJ Taylor,['SM Ervine'],caught,MA Wallace,2016-07-14,Glamorgan,Hampshire,0,The Rose Bowl
+1,MA Wallace,20.0,14,4,0,142.85714285714286,PA van Meekeren,['MTC Waller'],caught,MA Wallace,2016-07-22,Somerset,Glamorgan,0,Sophia Gardens
+1,MA Wallace,0.0,8,0,0,0.0,TS Mills,['MW Machan'],caught,MA Wallace,2016-07-28,Glamorgan,0,0,County Ground
+1,MA Wallace,11.0,17,0,0,64.70588235294117,DW Lawrence,0,bowled,MA Wallace,2016-07-29,Glamorgan,0,0,County Ground
+2,MA Wallace,6.0,6,1,0,100.0,TT Bresnan,['LE Plunkett'],caught,MA Wallace,2016-08-11,Yorkshire,Yorkshire,0,Sophia Gardens
+9,MG Hogan,3.0,5,0,0,60.0,notOut,notOut,notOut,notOut,2016-07-07,Sussex,Glamorgan,0,Sophia Gardens
+9,MG Hogan,13.0,10,1,1,130.0,CJ Jordan,['MW Machan'],caught,MG Hogan,2016-07-28,Glamorgan,0,0,County Ground
+9,MG Hogan,12.0,6,1,1,200.0,AU Rashid,0,bowled,MG Hogan,2016-08-11,Yorkshire,Yorkshire,0,Sophia Gardens
+10,SW Tait,12.0,7,2,0,171.42857142857142,notOut,notOut,notOut,notOut,2016-07-28,Glamorgan,0,0,County Ground
+7,T van der Gugten,0.0,1,0,0,0.0,TS Mills,['LRPL Taylor'],caught,T van der Gugten,2016-07-07,Sussex,Glamorgan,0,Sophia Gardens
+7,T van der Gugten,7.0,6,1,0,116.66666666666667,notOut,notOut,notOut,notOut,2016-07-10,Gloucestershire,Gloucestershire,0,Sophia Gardens
+8,T van der Gugten,11.0,6,2,0,183.33333333333331,notOut,notOut,notOut,notOut,2016-07-14,Glamorgan,Hampshire,0,The Rose Bowl
+8,T van der Gugten,4.0,4,1,0,100.0,GHS Garton,['JC Archer'],caught,T van der Gugten,2016-07-28,Glamorgan,0,0,County Ground
+8,T van der Gugten,13.0,6,1,1,216.66666666666666,AU Rashid,['MJ Waite'],caught,T van der Gugten,2016-08-11,Yorkshire,Yorkshire,0,Sophia Gardens

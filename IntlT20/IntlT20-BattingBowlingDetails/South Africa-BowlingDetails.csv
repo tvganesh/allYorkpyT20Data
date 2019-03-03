@@ -1,0 +1,771 @@
+bowler,overs,runs,maidens,wicket,econrate,date,team2,winner,result,venue
+A Khaka,2,20,0,2,10.0,2014-10-23,South Africa,Sri Lanka,0,Colts Cricket Club Ground
+A Khaka,4,26,0,0,6.5,2015-03-19,South Africa,Pakistan,0,Sharjah Cricket Stadium
+A Khaka,1,9,0,0,9.0,2016-02-21,England,England,0,New Wanderers Stadium
+A Khaka,3,19,0,0,6.333333333333333,2016-03-18,South Africa,Australia,0,"Vidarbha Cricket Association Stadium, Jamtha"
+A Nel,4,19,0,2,4.75,2005-10-21,New Zealand,New Zealand,0,New Wanderers Stadium
+A Nel,4,23,0,0,5.75,2007-09-19,New Zealand,South Africa,0,Kingsmead
+AJ Hall,4,38,0,0,9.5,2006-01-09,South Africa,Australia,0,"Brisbane Cricket Ground, Woolloongabba"
+AJ Hall,4,22,0,3,5.5,2006-02-24,Australia,South Africa,0,New Wanderers Stadium
+AL Phehlukwayo,2,23,0,0,11.5,2017-01-20,Sri Lanka,South Africa,0,SuperSport Park
+AL Phehlukwayo,2,22,0,0,11.0,2017-01-22,Sri Lanka,Sri Lanka,0,New Wanderers Stadium
+AL Phehlukwayo,4,32,0,0,8.0,2017-01-25,Sri Lanka,Sri Lanka,0,Newlands
+AL Phehlukwayo,3,19,0,3,6.333333333333333,2017-02-17,South Africa,South Africa,0,Eden Park
+AL Phehlukwayo,1,11,0,1,11.0,2017-06-21,South Africa,England,0,The Rose Bowl
+AL Phehlukwayo,4,34,0,2,8.5,2017-06-23,South Africa,South Africa,0,County Ground
+AL Phehlukwayo,4,44,0,2,11.0,2017-06-25,South Africa,England,0,Sophia Gardens
+AM Phangiso,4,42,0,0,10.5,2012-12-23,New Zealand,New Zealand,0,Buffalo Park
+AM Phangiso,4,25,0,3,6.25,2012-12-26,New Zealand,South Africa,0,St George's Park
+AM Phangiso,3,33,0,1,11.0,2013-11-22,Pakistan,Pakistan,0,Newlands
+AM Phangiso,3,33,0,1,11.0,2015-01-11,West Indies,West Indies,0,New Wanderers Stadium
+AM Phangiso,4,23,0,1,5.75,2015-01-14,West Indies,South Africa,0,Kingsmead
+AM Phangiso,4,21,0,1,5.25,2015-07-05,South Africa,South Africa,0,Shere Bangla National Stadium
+AM Phangiso,4,30,0,3,7.5,2015-07-07,South Africa,South Africa,0,Shere Bangla National Stadium
+AM Phangiso,4,29,0,2,7.25,2015-08-14,New Zealand,South Africa,0,Kingsmead
+AM Phangiso,4,40,0,1,10.0,2015-08-16,New Zealand,New Zealand,0,SuperSport Park
+AM Phangiso,4,19,0,1,4.75,2016-03-25,West Indies,West Indies,0,"Vidarbha Cricket Association Stadium, Jamtha"
+AM Phangiso,2,24,0,1,12.0,2017-01-20,Sri Lanka,South Africa,0,SuperSport Park
+AM Phangiso,4,24,0,0,6.0,2017-01-22,Sri Lanka,Sri Lanka,0,New Wanderers Stadium
+APC Kilowan,3,20,1,3,6.666666666666667,2009-10-28,West Indies,West Indies,0,Boland Bank Park
+AS Taai,4,9,2,2,2.25,2009-10-28,West Indies,West Indies,0,Boland Bank Park
+BE Hendricks,2,31,0,1,15.5,2014-03-12,Australia,Australia,0,Kingsmead
+BE Hendricks,3,21,0,1,7.0,2014-03-14,Australia,Australia,0,SuperSport Park
+BE Hendricks,3,16,0,1,5.333333333333333,2014-03-27,South Africa,South Africa,0,Zahur Ahmed Chowdhury Stadium
+BE Hendricks,4,50,0,1,12.5,2014-03-29,South Africa,South Africa,0,Zahur Ahmed Chowdhury Stadium
+BE Hendricks,4,31,0,2,7.75,2014-04-04,South Africa,India,0,Shere Bangla National Stadium
+C van der Westhuizen,4,12,1,2,3.0,2009-10-28,West Indies,West Indies,0,Boland Bank Park
+CH Morris,3,19,0,2,6.333333333333333,2012-12-21,New Zealand,South Africa,0,Kingsmead
+CH Morris,4,35,0,2,8.75,2013-03-03,Pakistan,Pakistan,0,SuperSport Park
+CH Morris,4,46,0,2,11.5,2015-10-02,South Africa,South Africa,0,Himachal Pradesh Cricket Association Stadium
+CH Morris,2,16,0,2,8.0,2015-10-05,South Africa,South Africa,0,Barabati Stadium
+CH Morris,4,32,0,0,8.0,2016-02-19,England,South Africa,0,Newlands
+CH Morris,3,35,0,1,11.666666666666666,2016-03-04,Australia,South Africa,0,Kingsmead
+CH Morris,4,39,0,1,9.75,2016-03-06,Australia,Australia,0,New Wanderers Stadium
+CH Morris,3,39,0,0,13.0,2016-03-18,South Africa,England,0,Wankhede Stadium
+CH Morris,4,27,0,4,6.75,2016-03-20,South Africa,South Africa,0,Wankhede Stadium
+CH Morris,4,32,0,1,8.0,2016-03-25,West Indies,West Indies,0,"Vidarbha Cricket Association Stadium, Jamtha"
+CH Morris,3,10,1,2,3.3333333333333335,2017-02-17,South Africa,South Africa,0,Eden Park
+CH Morris,4,18,0,3,4.5,2017-06-23,South Africa,South Africa,0,County Ground
+CH Morris,4,24,0,0,6.0,2017-06-25,South Africa,England,0,Sophia Gardens
+CK Langeveldt,2,14,0,2,7.0,2005-10-21,New Zealand,New Zealand,0,New Wanderers Stadium
+CK Langeveldt,4,20,0,3,5.0,2006-12-01,India,India,0,New Wanderers Stadium
+CK Langeveldt,4,33,0,0,8.25,2007-11-23,New Zealand,South Africa,0,New Wanderers Stadium
+CK Langeveldt,4,39,0,1,9.75,2009-11-13,England,England,0,New Wanderers Stadium
+CK Langeveldt,4,12,0,3,3.0,2010-05-05,South Africa,South Africa,0,"Kensington Oval, Bridgetown"
+CK Langeveldt,4,39,0,2,9.75,2010-05-06,South Africa,South Africa,0,"Kensington Oval, Bridgetown"
+CK Langeveldt,4,34,0,2,8.5,2010-05-08,South Africa,England,0,"Kensington Oval, Bridgetown"
+CK Langeveldt,4,19,0,4,4.75,2010-05-10,South Africa,Pakistan,0,"Beausejour Stadium, Gros Islet"
+CK Langeveldt,3,31,0,1,10.333333333333334,2010-05-19,South Africa,South Africa,0,"Sir Vivian Richards Stadium, North Sound"
+CL Tryon,1,5,0,0,5.0,2011-10-29,England,0,0,Senwes Park
+CL Tryon,3,20,0,1,6.666666666666667,2013-01-19,South Africa,West Indies,0,"Beausejour Stadium, Gros Islet"
+CL Tryon,3,22,0,0,7.333333333333333,2013-01-20,South Africa,West Indies,0,"Beausejour Stadium, Gros Islet"
+CL Tryon,2,14,0,0,7.0,2013-10-31,Sri Lanka,South Africa,0,Senwes Park
+CL Tryon,2,8,0,1,4.0,2013-11-04,Sri Lanka,South Africa,0,Senwes Park
+CL Tryon,3,8,1,2,2.6666666666666665,2014-01-19,South Africa,Pakistan,0,West End Park International Cricket Stadium
+CL Tryon,1,8,0,0,8.0,2014-01-20,South Africa,South Africa,0,West End Park International Cricket Stadium
+CL Tryon,2,14,0,0,7.0,2014-03-29,South Africa,South Africa,0,Sylhet Stadium
+CL Tryon,2,16,0,0,8.0,2014-04-04,South Africa,England,0,Shere Bangla National Stadium
+CL Tryon,1,8,0,0,8.0,2014-09-01,South Africa,England,0,County Ground
+CL Tryon,4,26,0,0,6.5,2014-09-03,South Africa,England,0,County Ground
+CL Tryon,2,18,0,2,9.0,2014-09-07,South Africa,England,0,Edgbaston
+CL Tryon,2,15,0,0,7.5,2014-10-23,South Africa,Sri Lanka,0,Colts Cricket Club Ground
+CL Tryon,3,15,0,2,5.0,2014-10-25,South Africa,South Africa,0,Colts Cricket Club Ground
+CL Tryon,3,27,0,0,9.0,2014-10-26,South Africa,South Africa,0,Mercantile Cricket Association Ground
+CL Tryon,2,21,0,1,10.5,2016-02-18,England,England,0,Boland Park
+CL Tryon,2,19,0,1,9.5,2016-02-21,England,England,0,New Wanderers Stadium
+D Devnarain,1,8,0,0,8.0,2012-09-26,South Africa,South Africa,0,Galle International Stadium
+D Devnarain,2,16,0,0,8.0,2013-01-20,South Africa,West Indies,0,"Beausejour Stadium, Gros Islet"
+D Devnarain,1,12,0,0,12.0,2016-02-21,England,England,0,New Wanderers Stadium
+D Paterson,4,38,0,1,9.5,2017-01-25,Sri Lanka,Sri Lanka,0,Newlands
+D Paterson,2,13,0,0,6.5,2017-02-17,South Africa,South Africa,0,Eden Park
+D Paterson,4,32,0,1,8.0,2017-06-23,South Africa,South Africa,0,County Ground
+D Paterson,4,32,0,4,8.0,2017-06-25,South Africa,England,0,Sophia Gardens
+D Pretorius,2,20,0,0,10.0,2017-06-21,South Africa,England,0,The Rose Bowl
+D Wiese,1,8,0,0,8.0,2013-08-02,South Africa,South Africa,0,R Premadasa Stadium
+D Wiese,4,25,0,1,6.25,2013-08-04,South Africa,South Africa,0,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa"
+D Wiese,4,24,0,2,6.0,2013-08-06,South Africa,Sri Lanka,0,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa"
+D Wiese,3,24,0,0,8.0,2013-11-22,Pakistan,Pakistan,0,Newlands
+D Wiese,4,21,0,3,5.25,2014-11-09,South Africa,Australia,0,Stadium Australia
+D Wiese,2,20,0,1,10.0,2015-01-09,West Indies,West Indies,0,Newlands
+D Wiese,4,43,0,3,10.75,2015-01-11,West Indies,West Indies,0,New Wanderers Stadium
+D Wiese,4,23,0,5,5.75,2015-01-14,West Indies,South Africa,0,Kingsmead
+D Wiese,3,12,0,3,4.0,2015-07-05,South Africa,South Africa,0,Shere Bangla National Stadium
+D Wiese,2,17,0,0,8.5,2015-07-07,South Africa,South Africa,0,Shere Bangla National Stadium
+D Wiese,4,24,0,3,6.0,2015-08-14,New Zealand,South Africa,0,Kingsmead
+D Wiese,4,26,0,1,6.5,2015-08-16,New Zealand,New Zealand,0,SuperSport Park
+D Wiese,4,19,0,1,4.75,2016-02-19,England,South Africa,0,Newlands
+D Wiese,4,16,0,2,4.0,2016-03-04,Australia,South Africa,0,Kingsmead
+D Wiese,4,58,0,0,14.5,2016-03-06,Australia,Australia,0,New Wanderers Stadium
+D Wiese,2,23,0,0,11.5,2016-03-09,Australia,Australia,0,Newlands
+D Wiese,4,47,0,0,11.75,2016-03-20,South Africa,South Africa,0,Wankhede Stadium
+D Wiese,4,19,0,2,4.75,2016-03-25,West Indies,West Indies,0,"Vidarbha Cricket Association Stadium, Jamtha"
+D van Niekerk,3,19,0,1,6.333333333333333,2009-10-28,West Indies,West Indies,0,Boland Bank Park
+D van Niekerk,4,9,1,3,2.25,2012-09-26,South Africa,South Africa,0,Galle International Stadium
+D van Niekerk,4,29,0,2,7.25,2012-09-28,South Africa,New Zealand,0,Galle International Stadium
+D van Niekerk,1,7,0,0,7.0,2012-09-30,West Indies,West Indies,0,Galle International Stadium
+D van Niekerk,2,13,0,0,6.5,2013-01-19,South Africa,West Indies,0,"Beausejour Stadium, Gros Islet"
+D van Niekerk,2,7,0,0,3.5,2013-01-20,South Africa,West Indies,0,"Beausejour Stadium, Gros Islet"
+D van Niekerk,2,15,0,0,7.5,2013-09-14,Bangladesh,South Africa,0,Senwes Park
+D van Niekerk,2,15,0,0,7.5,2013-09-15,Bangladesh,South Africa,0,Senwes Park
+D van Niekerk,2,11,0,1,5.5,2013-10-31,Sri Lanka,South Africa,0,Senwes Park
+D van Niekerk,3,23,0,0,7.666666666666667,2013-11-02,Sri Lanka,Sri Lanka,0,Senwes Park
+D van Niekerk,2,12,0,0,6.0,2013-11-04,Sri Lanka,South Africa,0,Senwes Park
+D van Niekerk,4,15,0,4,3.75,2014-01-20,South Africa,South Africa,0,West End Park International Cricket Stadium
+D van Niekerk,2,10,0,3,5.0,2014-03-29,South Africa,South Africa,0,Sylhet Stadium
+D van Niekerk,3,12,0,2,4.0,2014-03-31,South Africa,South Africa,0,Sylhet Stadium
+D van Niekerk,2,13,0,0,6.5,2014-04-04,South Africa,England,0,Shere Bangla National Stadium
+D van Niekerk,2,9,0,0,4.5,2014-09-01,South Africa,England,0,County Ground
+D van Niekerk,3,13,0,1,4.333333333333333,2014-09-03,South Africa,England,0,County Ground
+D van Niekerk,4,16,0,1,4.0,2014-09-07,South Africa,England,0,Edgbaston
+D van Niekerk,1,5,0,0,5.0,2014-10-23,South Africa,Sri Lanka,0,Colts Cricket Club Ground
+D van Niekerk,4,17,0,5,4.25,2014-10-25,South Africa,South Africa,0,Colts Cricket Club Ground
+D van Niekerk,3,19,0,0,6.333333333333333,2014-10-26,South Africa,South Africa,0,Mercantile Cricket Association Ground
+D van Niekerk,4,19,0,1,4.75,2015-03-19,South Africa,Pakistan,0,Sharjah Cricket Stadium
+D van Niekerk,4,13,0,2,3.25,2015-03-20,South Africa,Pakistan,0,Sharjah Cricket Stadium
+D van Niekerk,4,12,0,3,3.0,2015-03-22,South Africa,South Africa,0,Sharjah Cricket Stadium
+D van Niekerk,4,26,0,2,6.5,2016-02-18,England,England,0,Boland Park
+D van Niekerk,2,28,0,1,14.0,2016-02-21,England,England,0,New Wanderers Stadium
+D van Niekerk,4,19,0,2,4.75,2016-03-04,West Indies,South Africa,0,Kingsmead
+D van Niekerk,4,16,0,1,4.0,2016-03-09,West Indies,South Africa,0,Newlands
+D van Niekerk,3,18,0,1,6.0,2016-03-18,South Africa,Australia,0,"Vidarbha Cricket Association Stadium, Jamtha"
+D van Niekerk,4,18,0,1,4.5,2016-03-23,South Africa,South Africa,0,"MA Chidambaram Stadium, Chepauk"
+D van Niekerk,3,23,0,1,7.666666666666667,2016-03-26,South Africa,New Zealand,0,M Chinnaswamy Stadium
+D van Niekerk,3,17,0,0,5.666666666666667,2016-03-28,Sri Lanka,Sri Lanka,0,M Chinnaswamy Stadium
+DW Steyn,4,17,0,1,4.25,2007-11-23,New Zealand,South Africa,0,New Wanderers Stadium
+DW Steyn,3,9,0,4,3.0,2007-12-16,West Indies,West Indies,0,St George's Park
+DW Steyn,3,18,0,2,6.0,2008-11-05,Bangladesh,South Africa,0,New Wanderers Stadium
+DW Steyn,4,38,0,3,9.5,2009-01-11,South Africa,Australia,0,Melbourne Cricket Ground
+DW Steyn,3,19,0,1,6.333333333333333,2009-01-13,South Africa,Australia,0,"Brisbane Cricket Ground, Woolloongabba"
+DW Steyn,4,44,0,0,11.0,2009-03-27,Australia,South Africa,0,New Wanderers Stadium
+DW Steyn,3,21,0,3,7.0,2009-06-07,South Africa,South Africa,0,Kennington Oval
+DW Steyn,4,22,0,1,5.5,2009-06-09,South Africa,South Africa,0,Lord's
+DW Steyn,4,19,0,1,4.75,2009-06-11,South Africa,South Africa,0,Trent Bridge
+DW Steyn,4,30,0,2,7.5,2009-06-13,West Indies,South Africa,0,Kennington Oval
+DW Steyn,3,25,0,2,8.333333333333334,2009-06-16,South Africa,South Africa,0,Trent Bridge
+DW Steyn,4,28,0,1,7.0,2009-06-18,South Africa,Pakistan,0,Trent Bridge
+DW Steyn,4,40,0,1,10.0,2009-11-13,England,England,0,New Wanderers Stadium
+DW Steyn,4,29,0,2,7.25,2009-11-15,England,South Africa,0,SuperSport Park
+DW Steyn,4,24,0,1,6.0,2010-05-02,South Africa,India,0,"Beausejour Stadium, Gros Islet"
+DW Steyn,3,6,0,2,2.0,2010-05-05,South Africa,South Africa,0,"Kensington Oval, Bridgetown"
+DW Steyn,4,25,0,1,6.25,2010-05-06,South Africa,South Africa,0,"Kensington Oval, Bridgetown"
+DW Steyn,4,50,0,0,12.5,2010-05-08,South Africa,England,0,"Kensington Oval, Bridgetown"
+DW Steyn,4,26,0,1,6.5,2010-05-10,South Africa,Pakistan,0,"Beausejour Stadium, Gros Islet"
+DW Steyn,5,23,0,1,4.6,2010-05-19,South Africa,South Africa,0,"Sir Vivian Richards Stadium, North Sound"
+DW Steyn,4,18,0,1,4.5,2010-05-20,South Africa,South Africa,0,"Sir Vivian Richards Stadium, North Sound"
+DW Steyn,4,13,0,1,3.25,2012-09-08,South Africa,South Africa,0,Riverside Ground
+DW Steyn,1,10,0,1,10.0,2012-09-10,South Africa,0,0,Old Trafford
+DW Steyn,4,9,0,1,2.25,2012-09-20,Zimbabwe,South Africa,0,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa"
+DW Steyn,2,10,0,2,5.0,2012-09-22,South Africa,South Africa,0,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa"
+DW Steyn,4,22,0,3,5.5,2012-09-28,South Africa,Pakistan,0,R Premadasa Stadium
+DW Steyn,3,15,0,0,5.0,2012-09-30,South Africa,Australia,0,R Premadasa Stadium
+DW Steyn,4,26,1,0,6.5,2012-10-02,South Africa,India,0,R Premadasa Stadium
+DW Steyn,3,13,0,2,4.333333333333333,2012-12-21,New Zealand,South Africa,0,Kingsmead
+DW Steyn,4,15,0,4,3.75,2013-11-13,South Africa,South Africa,0,Dubai International Cricket Stadium
+DW Steyn,4,20,1,2,5.0,2013-11-15,South Africa,South Africa,0,Dubai International Cricket Stadium
+DW Steyn,2,13,0,0,6.5,2013-11-20,Pakistan,South Africa,0,New Wanderers Stadium
+DW Steyn,4,29,0,2,7.25,2013-11-22,Pakistan,Pakistan,0,Newlands
+DW Steyn,4,37,0,2,9.25,2014-03-22,Sri Lanka,Sri Lanka,0,Zahur Ahmed Chowdhury Stadium
+DW Steyn,4,17,0,5,4.25,2014-03-24,South Africa,South Africa,0,Zahur Ahmed Chowdhury Stadium
+DW Steyn,4,19,0,2,4.75,2014-03-27,South Africa,South Africa,0,Zahur Ahmed Chowdhury Stadium
+DW Steyn,4,44,0,1,11.0,2014-03-29,South Africa,South Africa,0,Zahur Ahmed Chowdhury Stadium
+DW Steyn,3,36,0,0,12.0,2014-04-04,South Africa,India,0,Shere Bangla National Stadium
+DW Steyn,4,32,0,2,8.0,2016-03-06,Australia,Australia,0,New Wanderers Stadium
+DW Steyn,4,30,0,1,7.5,2016-03-09,Australia,Australia,0,Newlands
+DW Steyn,2,35,0,0,17.5,2016-03-18,South Africa,England,0,Wankhede Stadium
+E Leie,3,16,0,3,5.333333333333333,2015-07-07,South Africa,South Africa,0,Shere Bangla National Stadium
+E Leie,3,32,0,1,10.666666666666666,2015-08-16,New Zealand,New Zealand,0,SuperSport Park
+F Behardien,1,8,0,0,8.0,2015-01-09,West Indies,West Indies,0,Newlands
+F Behardien,1,4,0,1,4.0,2015-08-16,New Zealand,New Zealand,0,SuperSport Park
+F du Plessis,1,3,0,0,3.0,2012-10-02,South Africa,India,0,R Premadasa Stadium
+F du Plessis,0,0,1,0,,2012-12-21,New Zealand,South Africa,0,Kingsmead
+GC Smith,1,20,0,0,20.0,2005-10-21,New Zealand,New Zealand,0,New Wanderers Stadium
+GC Smith,2,21,0,0,10.5,2006-02-24,Australia,South Africa,0,New Wanderers Stadium
+GC Smith,1,16,0,0,16.0,2007-09-11,West Indies,South Africa,0,New Wanderers Stadium
+GJP Kruger,4,29,0,0,7.25,2006-01-09,South Africa,Australia,0,"Brisbane Cricket Ground, Woolloongabba"
+H Davids,1,7,0,0,7.0,2013-08-02,South Africa,South Africa,0,R Premadasa Stadium
+H Davids,1,6,0,1,6.0,2013-11-15,South Africa,South Africa,0,Dubai International Cricket Stadium
+Imran Tahir,4,22,0,1,5.5,2013-08-02,South Africa,South Africa,0,R Premadasa Stadium
+Imran Tahir,4,21,0,1,5.25,2013-08-04,South Africa,South Africa,0,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa"
+Imran Tahir,4,20,0,1,5.0,2013-08-06,South Africa,Sri Lanka,0,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa"
+Imran Tahir,4,17,0,2,4.25,2013-11-13,South Africa,South Africa,0,Dubai International Cricket Stadium
+Imran Tahir,4,21,0,2,5.25,2013-11-15,South Africa,South Africa,0,Dubai International Cricket Stadium
+Imran Tahir,1,8,0,0,8.0,2013-11-20,Pakistan,South Africa,0,New Wanderers Stadium
+Imran Tahir,4,21,0,2,5.25,2014-03-14,Australia,Australia,0,SuperSport Park
+Imran Tahir,4,26,0,3,6.5,2014-03-22,Sri Lanka,Sri Lanka,0,Zahur Ahmed Chowdhury Stadium
+Imran Tahir,4,27,0,2,6.75,2014-03-24,South Africa,South Africa,0,Zahur Ahmed Chowdhury Stadium
+Imran Tahir,4,21,0,4,5.25,2014-03-27,South Africa,South Africa,0,Zahur Ahmed Chowdhury Stadium
+Imran Tahir,4,27,0,2,6.75,2014-03-29,South Africa,South Africa,0,Zahur Ahmed Chowdhury Stadium
+Imran Tahir,4,30,0,1,7.5,2014-04-04,South Africa,India,0,Shere Bangla National Stadium
+Imran Tahir,4,31,0,1,7.75,2014-11-05,South Africa,South Africa,0,Adelaide Oval
+Imran Tahir,2,18,0,0,9.0,2014-11-07,South Africa,Australia,0,Melbourne Cricket Ground
+Imran Tahir,4,28,0,3,7.0,2015-01-09,West Indies,West Indies,0,Newlands
+Imran Tahir,4,29,0,0,7.25,2015-01-11,West Indies,West Indies,0,New Wanderers Stadium
+Imran Tahir,3,35,0,0,11.666666666666666,2015-10-02,South Africa,South Africa,0,Himachal Pradesh Cricket Association Stadium
+Imran Tahir,4,24,0,2,6.0,2015-10-05,South Africa,South Africa,0,Barabati Stadium
+Imran Tahir,4,21,0,4,5.25,2016-02-19,England,South Africa,0,Newlands
+Imran Tahir,4,21,0,3,5.25,2016-03-04,Australia,South Africa,0,Kingsmead
+Imran Tahir,4,47,0,0,11.75,2016-03-06,Australia,Australia,0,New Wanderers Stadium
+Imran Tahir,4,38,0,2,9.5,2016-03-09,Australia,Australia,0,Newlands
+Imran Tahir,4,28,0,1,7.0,2016-03-18,South Africa,England,0,Wankhede Stadium
+Imran Tahir,4,24,0,2,6.0,2016-03-20,South Africa,South Africa,0,Wankhede Stadium
+Imran Tahir,4,13,0,2,3.25,2016-03-25,West Indies,West Indies,0,"Vidarbha Cricket Association Stadium, Jamtha"
+Imran Tahir,2,23,0,2,11.5,2017-01-20,Sri Lanka,South Africa,0,SuperSport Park
+Imran Tahir,4,14,0,1,3.5,2017-01-22,Sri Lanka,Sri Lanka,0,New Wanderers Stadium
+Imran Tahir,4,18,0,3,4.5,2017-01-25,Sri Lanka,Sri Lanka,0,Newlands
+Imran Tahir,3,24,0,5,8.0,2017-02-17,South Africa,South Africa,0,Eden Park
+Imran Tahir,3,37,0,0,12.333333333333334,2017-06-21,South Africa,England,0,The Rose Bowl
+Imran Tahir,4,38,0,1,9.5,2017-06-25,South Africa,England,0,Sophia Gardens
+J Botha,4,43,0,1,10.75,2006-01-09,South Africa,Australia,0,"Brisbane Cricket Ground, Woolloongabba"
+J Botha,4,19,0,1,4.75,2007-11-23,New Zealand,South Africa,0,New Wanderers Stadium
+J Botha,3,8,0,1,2.6666666666666665,2008-01-18,West Indies,South Africa,0,New Wanderers Stadium
+J Botha,3,15,0,3,5.0,2008-11-05,Bangladesh,South Africa,0,New Wanderers Stadium
+J Botha,4,31,0,0,7.75,2009-01-11,South Africa,Australia,0,Melbourne Cricket Ground
+J Botha,4,19,0,0,4.75,2009-01-13,South Africa,Australia,0,"Brisbane Cricket Ground, Woolloongabba"
+J Botha,4,25,0,0,6.25,2009-03-27,Australia,South Africa,0,New Wanderers Stadium
+J Botha,4,16,0,3,4.0,2009-03-29,Australia,South Africa,0,SuperSport Park
+J Botha,4,17,0,2,4.25,2009-06-07,South Africa,South Africa,0,Kennington Oval
+J Botha,3,17,0,0,5.666666666666667,2009-06-09,South Africa,South Africa,0,Lord's
+J Botha,4,25,0,1,6.25,2009-06-11,South Africa,South Africa,0,Trent Bridge
+J Botha,2,20,0,0,10.0,2009-06-13,West Indies,South Africa,0,Kennington Oval
+J Botha,4,16,0,3,4.0,2009-06-16,South Africa,South Africa,0,Trent Bridge
+J Botha,2,23,0,0,11.5,2009-06-18,South Africa,Pakistan,0,Trent Bridge
+J Botha,4,36,0,0,9.0,2009-11-13,England,England,0,New Wanderers Stadium
+J Botha,3,23,0,2,7.666666666666667,2010-05-06,South Africa,South Africa,0,"Kensington Oval, Bridgetown"
+J Botha,4,15,0,2,3.75,2010-05-08,South Africa,England,0,"Kensington Oval, Bridgetown"
+J Botha,2,13,0,0,6.5,2010-05-10,South Africa,Pakistan,0,"Beausejour Stadium, Gros Islet"
+J Botha,4,19,0,2,4.75,2010-05-19,South Africa,South Africa,0,"Sir Vivian Richards Stadium, North Sound"
+J Botha,4,22,0,3,5.5,2010-05-20,South Africa,South Africa,0,"Sir Vivian Richards Stadium, North Sound"
+J Botha,4,30,0,0,7.5,2010-10-08,Zimbabwe,South Africa,0,OUTsurance Oval
+J Botha,3,30,0,1,10.0,2010-10-10,Zimbabwe,South Africa,0,De Beers Diamond Oval
+J Botha,4,31,0,3,7.75,2010-10-26,South Africa,South Africa,0,Sheikh Zayed Stadium
+J Botha,4,17,0,1,4.25,2010-10-27,South Africa,South Africa,0,Sheikh Zayed Stadium
+J Botha,3,25,0,1,8.333333333333334,2011-01-09,India,India,0,Moses Mabhida Stadium
+J Botha,4,22,0,1,5.5,2011-10-13,Australia,Australia,0,Newlands
+J Botha,4,26,0,1,6.5,2011-10-16,Australia,South Africa,0,New Wanderers Stadium
+J Botha,3,24,0,0,8.0,2012-02-17,South Africa,New Zealand,0,Westpac Stadium
+J Botha,4,22,0,1,5.5,2012-02-19,South Africa,South Africa,0,Seddon Park
+J Botha,4,20,0,2,5.0,2012-02-22,South Africa,South Africa,0,Eden Park
+J Botha,1,10,0,0,10.0,2012-03-30,India,South Africa,0,New Wanderers Stadium
+J Botha,4,19,0,2,4.75,2012-09-08,South Africa,South Africa,0,Riverside Ground
+J Botha,1,10,0,0,10.0,2012-09-10,South Africa,0,0,Old Trafford
+J Botha,3,19,0,2,6.333333333333333,2012-09-12,South Africa,England,0,Edgbaston
+J Botha,3,16,0,0,5.333333333333333,2012-09-20,Zimbabwe,South Africa,0,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa"
+J Botha,1,9,0,0,9.0,2012-09-22,South Africa,South Africa,0,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa"
+J Botha,2,10,1,1,5.0,2012-09-28,South Africa,Pakistan,0,R Premadasa Stadium
+J Botha,4,31,0,0,7.75,2012-09-30,South Africa,Australia,0,R Premadasa Stadium
+J Botha,3,30,0,0,10.0,2012-10-02,South Africa,India,0,R Premadasa Stadium
+J Louw,3,18,0,0,6.0,2008-11-05,Bangladesh,South Africa,0,New Wanderers Stadium
+J Louw,4,36,0,2,9.0,2009-03-29,Australia,South Africa,0,SuperSport Park
+J Theron,4,33,0,2,8.25,2010-10-08,Zimbabwe,South Africa,0,OUTsurance Oval
+J Theron,4,27,0,2,6.75,2010-10-10,Zimbabwe,South Africa,0,De Beers Diamond Oval
+J Theron,3,25,0,2,8.333333333333334,2010-10-26,South Africa,South Africa,0,Sheikh Zayed Stadium
+J Theron,4,27,0,4,6.75,2010-10-27,South Africa,South Africa,0,Sheikh Zayed Stadium
+J Theron,4,39,0,2,9.75,2011-01-09,India,India,0,Moses Mabhida Stadium
+J Theron,3,42,0,0,14.0,2011-10-13,Australia,Australia,0,Newlands
+J Theron,4,28,0,2,7.0,2011-10-16,Australia,South Africa,0,New Wanderers Stadium
+J Theron,4,27,0,1,6.75,2012-02-17,South Africa,New Zealand,0,Westpac Stadium
+J Theron,1,13,0,0,13.0,2012-03-30,India,South Africa,0,New Wanderers Stadium
+JA Morkel,2,13,0,0,6.5,2005-10-21,New Zealand,New Zealand,0,New Wanderers Stadium
+JA Morkel,2,12,0,0,6.0,2006-12-01,India,India,0,New Wanderers Stadium
+JA Morkel,1,16,0,0,16.0,2007-09-11,West Indies,South Africa,0,New Wanderers Stadium
+JA Morkel,2,6,0,0,3.0,2007-09-15,Bangladesh,South Africa,0,Newlands
+JA Morkel,2,12,0,2,6.0,2007-09-16,England,South Africa,0,Newlands
+JA Morkel,3,30,0,1,10.0,2007-09-19,New Zealand,South Africa,0,Kingsmead
+JA Morkel,2,13,0,0,6.5,2007-09-20,India,India,0,Kingsmead
+JA Morkel,4,29,0,2,7.25,2007-11-23,New Zealand,South Africa,0,New Wanderers Stadium
+JA Morkel,1,5,0,0,5.0,2007-12-16,West Indies,West Indies,0,St George's Park
+JA Morkel,3,11,0,0,3.6666666666666665,2008-01-18,West Indies,South Africa,0,New Wanderers Stadium
+JA Morkel,2,18,0,1,9.0,2008-11-05,Bangladesh,South Africa,0,New Wanderers Stadium
+JA Morkel,4,30,0,3,7.5,2009-01-11,South Africa,Australia,0,Melbourne Cricket Ground
+JA Morkel,3,36,0,0,12.0,2009-01-13,South Africa,Australia,0,"Brisbane Cricket Ground, Woolloongabba"
+JA Morkel,4,36,0,1,9.0,2009-03-27,Australia,South Africa,0,New Wanderers Stadium
+JA Morkel,3,24,0,1,8.0,2009-03-29,Australia,South Africa,0,SuperSport Park
+JA Morkel,1,15,1,2,15.0,2009-06-07,South Africa,South Africa,0,Kennington Oval
+JA Morkel,2,14,0,0,7.0,2009-06-09,South Africa,South Africa,0,Lord's
+JA Morkel,1,0,1,1,0.0,2009-06-11,South Africa,South Africa,0,Trent Bridge
+JA Morkel,2,21,0,0,10.5,2009-06-13,West Indies,South Africa,0,Kennington Oval
+JA Morkel,1,12,0,0,12.0,2009-06-16,South Africa,South Africa,0,Trent Bridge
+JA Morkel,2,13,0,0,6.5,2009-06-18,South Africa,Pakistan,0,Trent Bridge
+JA Morkel,2,32,0,0,16.0,2009-11-13,England,England,0,New Wanderers Stadium
+JA Morkel,4,35,0,3,8.75,2009-11-15,England,South Africa,0,SuperSport Park
+JA Morkel,3,39,0,1,13.0,2010-05-02,South Africa,India,0,"Beausejour Stadium, Gros Islet"
+JA Morkel,2,20,0,0,10.0,2010-05-05,South Africa,South Africa,0,"Kensington Oval, Bridgetown"
+JA Morkel,1,13,0,0,13.0,2010-05-06,South Africa,South Africa,0,"Kensington Oval, Bridgetown"
+JA Morkel,4,28,0,0,7.0,2010-05-10,South Africa,Pakistan,0,"Beausejour Stadium, Gros Islet"
+JA Morkel,4,28,0,1,7.0,2010-10-26,South Africa,South Africa,0,Sheikh Zayed Stadium
+JA Morkel,4,31,0,1,7.75,2010-10-27,South Africa,South Africa,0,Sheikh Zayed Stadium
+JA Morkel,3,20,0,0,6.666666666666667,2012-02-17,South Africa,New Zealand,0,Westpac Stadium
+JA Morkel,1,13,0,0,13.0,2012-02-22,South Africa,South Africa,0,Eden Park
+JA Morkel,1,16,0,0,16.0,2012-03-30,India,South Africa,0,New Wanderers Stadium
+JA Morkel,3,12,0,2,4.0,2012-09-08,South Africa,South Africa,0,Riverside Ground
+JA Morkel,0,0,1,1,,2012-09-10,South Africa,0,0,Old Trafford
+JA Morkel,1,5,0,0,5.0,2012-09-12,South Africa,England,0,Edgbaston
+JA Morkel,4,26,0,1,6.5,2012-09-20,Zimbabwe,South Africa,0,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa"
+JA Morkel,1,8,0,1,8.0,2012-09-22,South Africa,South Africa,0,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa"
+JA Morkel,2,26,0,0,13.0,2012-09-28,South Africa,Pakistan,0,R Premadasa Stadium
+JA Morkel,2,26,0,0,13.0,2014-03-14,Australia,Australia,0,SuperSport Park
+JA Morkel,2,24,0,0,12.0,2014-03-22,Sri Lanka,Sri Lanka,0,Zahur Ahmed Chowdhury Stadium
+JA Morkel,2,13,0,1,6.5,2014-03-24,South Africa,South Africa,0,Zahur Ahmed Chowdhury Stadium
+JA Morkel,2,19,0,0,9.5,2014-03-27,South Africa,South Africa,0,Zahur Ahmed Chowdhury Stadium
+JA Morkel,2,19,0,0,9.5,2014-03-29,South Africa,South Africa,0,Zahur Ahmed Chowdhury Stadium
+JA Morkel,2,17,0,0,8.5,2014-04-04,South Africa,India,0,Shere Bangla National Stadium
+JA Morkel,4,12,0,4,3.0,2015-10-05,South Africa,South Africa,0,Barabati Stadium
+JH Kallis,1,17,0,0,17.0,2006-01-09,South Africa,Australia,0,"Brisbane Cricket Ground, Woolloongabba"
+JH Kallis,2,25,0,0,12.5,2009-01-11,South Africa,Australia,0,Melbourne Cricket Ground
+JH Kallis,1,4,0,0,4.0,2009-06-07,South Africa,South Africa,0,Kennington Oval
+JH Kallis,3,17,0,1,5.666666666666667,2009-06-09,South Africa,South Africa,0,Lord's
+JH Kallis,3,20,0,2,6.666666666666667,2009-06-11,South Africa,South Africa,0,Trent Bridge
+JH Kallis,2,23,0,0,11.5,2009-06-13,West Indies,South Africa,0,Kennington Oval
+JH Kallis,2,14,0,0,7.0,2009-06-18,South Africa,Pakistan,0,Trent Bridge
+JH Kallis,4,30,0,1,7.5,2010-05-02,South Africa,India,0,"Beausejour Stadium, Gros Islet"
+JH Kallis,4,23,0,0,5.75,2010-05-06,South Africa,South Africa,0,"Kensington Oval, Bridgetown"
+JH Kallis,3,15,0,0,5.0,2010-05-08,South Africa,England,0,"Kensington Oval, Bridgetown"
+JH Kallis,4,28,0,1,7.0,2010-05-10,South Africa,Pakistan,0,"Beausejour Stadium, Gros Islet"
+JH Kallis,2,13,0,0,6.5,2010-05-19,South Africa,South Africa,0,"Sir Vivian Richards Stadium, North Sound"
+JH Kallis,3,20,0,0,6.666666666666667,2012-09-08,South Africa,South Africa,0,Riverside Ground
+JH Kallis,1,11,0,0,11.0,2012-09-12,South Africa,England,0,Edgbaston
+JH Kallis,4,15,1,4,3.75,2012-09-20,Zimbabwe,South Africa,0,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa"
+JH Kallis,1,9,0,1,9.0,2012-09-22,South Africa,South Africa,0,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa"
+JH Kallis,2,17,0,1,8.5,2012-09-28,South Africa,Pakistan,0,R Premadasa Stadium
+JH Kallis,1,8,0,0,8.0,2012-09-30,South Africa,Australia,0,R Premadasa Stadium
+JH Kallis,3,24,0,2,8.0,2012-10-02,South Africa,India,0,R Premadasa Stadium
+JJ van der Wath,4,40,0,1,10.0,2006-02-24,Australia,South Africa,0,New Wanderers Stadium
+JJ van der Wath,4,18,0,0,4.5,2006-12-01,India,India,0,New Wanderers Stadium
+JJ van der Wath,4,33,0,2,8.25,2007-09-11,West Indies,South Africa,0,New Wanderers Stadium
+JJ van der Wath,4,13,0,2,3.25,2007-09-15,Bangladesh,South Africa,0,Newlands
+JJ van der Wath,4,30,0,1,7.5,2007-09-16,England,South Africa,0,Newlands
+JJ van der Wath,4,31,0,2,7.75,2007-09-19,New Zealand,South Africa,0,Kingsmead
+JJ van der Wath,4,43,0,1,10.75,2007-09-20,India,India,0,Kingsmead
+JL Ontong,2,25,0,1,12.5,2008-01-18,West Indies,South Africa,0,New Wanderers Stadium
+JL Ontong,1,9,0,0,9.0,2012-12-26,New Zealand,South Africa,0,St George's Park
+JL Ontong,2,32,0,1,16.0,2013-03-03,Pakistan,Pakistan,0,SuperSport Park
+JL Ontong,1,17,0,0,17.0,2015-01-11,West Indies,West Indies,0,New Wanderers Stadium
+JP Duminy,1,8,0,0,8.0,2009-01-13,South Africa,Australia,0,"Brisbane Cricket Ground, Woolloongabba"
+JP Duminy,2,16,0,1,8.0,2009-06-13,West Indies,South Africa,0,Kennington Oval
+JP Duminy,1,3,0,1,3.0,2009-06-16,South Africa,South Africa,0,Trent Bridge
+JP Duminy,2,14,0,1,7.0,2009-06-18,South Africa,Pakistan,0,Trent Bridge
+JP Duminy,1,11,0,1,11.0,2010-05-08,South Africa,England,0,"Kensington Oval, Bridgetown"
+JP Duminy,2,23,0,0,11.5,2010-10-08,Zimbabwe,South Africa,0,OUTsurance Oval
+JP Duminy,1,17,0,0,17.0,2010-10-10,Zimbabwe,South Africa,0,De Beers Diamond Oval
+JP Duminy,2,12,0,1,6.0,2011-01-09,India,India,0,Moses Mabhida Stadium
+JP Duminy,1,4,0,0,4.0,2011-10-13,Australia,Australia,0,Newlands
+JP Duminy,2,20,0,1,10.0,2012-02-17,South Africa,New Zealand,0,Westpac Stadium
+JP Duminy,3,28,0,0,9.333333333333334,2012-02-19,South Africa,South Africa,0,Seddon Park
+JP Duminy,2,9,0,0,4.5,2012-02-22,South Africa,South Africa,0,Eden Park
+JP Duminy,2,5,0,1,2.5,2012-09-28,South Africa,Pakistan,0,R Premadasa Stadium
+JP Duminy,1,4,0,0,4.0,2012-09-30,South Africa,Australia,0,R Premadasa Stadium
+JP Duminy,1,6,0,0,6.0,2012-10-02,South Africa,India,0,R Premadasa Stadium
+JP Duminy,4,18,0,3,4.5,2013-08-02,South Africa,South Africa,0,R Premadasa Stadium
+JP Duminy,1,3,0,1,3.0,2013-11-20,Pakistan,South Africa,0,New Wanderers Stadium
+JP Duminy,2,14,0,0,7.0,2013-11-22,Pakistan,Pakistan,0,Newlands
+JP Duminy,1,5,0,2,5.0,2014-03-12,Australia,Australia,0,Kingsmead
+JP Duminy,2,27,0,0,13.5,2014-03-14,Australia,Australia,0,SuperSport Park
+JP Duminy,2,13,0,0,6.5,2014-03-22,Sri Lanka,Sri Lanka,0,Zahur Ahmed Chowdhury Stadium
+JP Duminy,3,30,0,0,10.0,2014-03-24,South Africa,South Africa,0,Zahur Ahmed Chowdhury Stadium
+JP Duminy,1,12,0,1,12.0,2014-03-27,South Africa,South Africa,0,Zahur Ahmed Chowdhury Stadium
+JP Duminy,2,18,0,0,9.0,2014-03-29,South Africa,South Africa,0,Zahur Ahmed Chowdhury Stadium
+JP Duminy,3,29,0,0,9.666666666666666,2014-04-04,South Africa,India,0,Shere Bangla National Stadium
+JP Duminy,2,8,0,0,4.0,2014-11-05,South Africa,South Africa,0,Adelaide Oval
+JP Duminy,1,9,0,0,9.0,2014-11-07,South Africa,Australia,0,Melbourne Cricket Ground
+JP Duminy,1,6,0,0,6.0,2015-01-14,West Indies,South Africa,0,Kingsmead
+JP Duminy,4,11,0,2,2.75,2015-07-05,South Africa,South Africa,0,Shere Bangla National Stadium
+JP Duminy,4,26,0,0,6.5,2015-07-07,South Africa,South Africa,0,Shere Bangla National Stadium
+JP Duminy,1,8,0,0,8.0,2015-10-02,South Africa,South Africa,0,Himachal Pradesh Cricket Association Stadium
+JP Duminy,1,24,0,0,24.0,2016-03-04,Australia,South Africa,0,Kingsmead
+JP Duminy,2,18,0,0,9.0,2016-03-09,Australia,Australia,0,Newlands
+JP Duminy,3,31,0,1,10.333333333333334,2016-03-18,South Africa,England,0,Wankhede Stadium
+JT Smuts,2,19,0,1,9.5,2017-01-22,Sri Lanka,Sri Lanka,0,New Wanderers Stadium
+JT Smuts,2,22,0,0,11.0,2017-01-25,Sri Lanka,Sri Lanka,0,Newlands
+JT Smuts,3,20,0,0,6.666666666666667,2017-06-21,South Africa,England,0,The Rose Bowl
+JT Smuts,1,11,0,0,11.0,2017-06-23,South Africa,South Africa,0,County Ground
+K Rabada,3,27,0,0,9.0,2014-11-05,South Africa,South Africa,0,Adelaide Oval
+K Rabada,3,25,0,1,8.333333333333334,2014-11-07,South Africa,Australia,0,Melbourne Cricket Ground
+K Rabada,4,38,0,0,9.5,2015-01-09,West Indies,West Indies,0,Newlands
+K Rabada,3,28,0,2,9.333333333333334,2015-07-05,South Africa,South Africa,0,Shere Bangla National Stadium
+K Rabada,4,29,0,2,7.25,2015-08-14,New Zealand,South Africa,0,Kingsmead
+K Rabada,4,30,0,3,7.5,2015-08-16,New Zealand,New Zealand,0,SuperSport Park
+K Rabada,4,32,0,1,8.0,2015-10-02,South Africa,South Africa,0,Himachal Pradesh Cricket Association Stadium
+K Rabada,4,18,0,2,4.5,2015-10-05,South Africa,South Africa,0,Barabati Stadium
+K Rabada,4,29,0,1,7.25,2016-02-19,England,South Africa,0,Newlands
+K Rabada,4,26,0,2,6.5,2016-03-04,Australia,South Africa,0,Kingsmead
+K Rabada,4,25,0,2,6.25,2016-03-06,Australia,Australia,0,New Wanderers Stadium
+K Rabada,4,38,0,1,9.5,2016-03-09,Australia,Australia,0,Newlands
+K Rabada,4,50,0,2,12.5,2016-03-18,South Africa,England,0,Wankhede Stadium
+K Rabada,4,37,0,2,9.25,2016-03-20,South Africa,South Africa,0,Wankhede Stadium
+K Rabada,4,38,0,1,9.5,2016-03-25,West Indies,West Indies,0,"Vidarbha Cricket Association Stadium, Jamtha"
+KJ Abbott,4,41,0,1,10.25,2013-03-03,Pakistan,Pakistan,0,SuperSport Park
+KJ Abbott,1,5,0,1,5.0,2014-03-12,Australia,Australia,0,Kingsmead
+KJ Abbott,4,21,0,3,5.25,2014-11-05,South Africa,South Africa,0,Adelaide Oval
+KJ Abbott,2,17,0,0,8.5,2014-11-07,South Africa,Australia,0,Melbourne Cricket Ground
+KJ Abbott,3,20,0,1,6.666666666666667,2014-11-09,South Africa,Australia,0,Stadium Australia
+KJ Abbott,4,30,0,0,7.5,2015-01-09,West Indies,West Indies,0,Newlands
+KJ Abbott,4,68,0,1,17.0,2015-01-11,West Indies,West Indies,0,New Wanderers Stadium
+KJ Abbott,3,14,0,0,4.666666666666667,2015-01-14,West Indies,South Africa,0,Kingsmead
+KJ Abbott,2,10,0,1,5.0,2015-07-05,South Africa,South Africa,0,Shere Bangla National Stadium
+KJ Abbott,3,20,0,3,6.666666666666667,2015-07-07,South Africa,South Africa,0,Shere Bangla National Stadium
+KJ Abbott,4,27,0,0,6.75,2015-08-14,New Zealand,South Africa,0,Kingsmead
+KJ Abbott,4,44,0,0,11.0,2015-08-16,New Zealand,New Zealand,0,SuperSport Park
+KJ Abbott,4,29,0,2,7.25,2015-10-02,South Africa,South Africa,0,Himachal Pradesh Cricket Association Stadium
+KJ Abbott,3,21,0,0,7.0,2015-10-05,South Africa,South Africa,0,Barabati Stadium
+KJ Abbott,4,31,0,2,7.75,2016-02-19,England,South Africa,0,Newlands
+KJ Abbott,4,32,0,1,8.0,2016-03-04,Australia,South Africa,0,Kingsmead
+KJ Abbott,3,32,0,0,10.666666666666666,2016-03-09,Australia,Australia,0,Newlands
+KJ Abbott,4,41,0,4,10.25,2016-03-18,South Africa,England,0,Wankhede Stadium
+KJ Abbott,4,36,0,2,9.0,2016-03-20,South Africa,South Africa,0,Wankhede Stadium
+L Lee,1,9,0,0,9.0,2015-03-19,South Africa,Pakistan,0,Sharjah Cricket Stadium
+L Ngidi,2,12,0,2,6.0,2017-01-20,Sri Lanka,South Africa,0,SuperSport Park
+L Ngidi,4,19,0,4,4.75,2017-01-22,Sri Lanka,Sri Lanka,0,New Wanderers Stadium
+L Ngidi,2,13,0,0,6.5,2017-01-25,Sri Lanka,Sri Lanka,0,Newlands
+LL Tsotsobe,2,16,0,1,8.0,2009-01-11,South Africa,Australia,0,Melbourne Cricket Ground
+LL Tsotsobe,4,28,0,0,7.0,2010-05-20,South Africa,South Africa,0,"Sir Vivian Richards Stadium, North Sound"
+LL Tsotsobe,4,32,0,1,8.0,2010-10-10,Zimbabwe,South Africa,0,De Beers Diamond Oval
+LL Tsotsobe,4,16,0,3,4.0,2010-10-26,South Africa,South Africa,0,Sheikh Zayed Stadium
+LL Tsotsobe,4,20,0,2,5.0,2010-10-27,South Africa,South Africa,0,Sheikh Zayed Stadium
+LL Tsotsobe,4,21,0,2,5.25,2011-10-13,Australia,Australia,0,Newlands
+LL Tsotsobe,4,11,0,2,2.75,2011-10-16,Australia,South Africa,0,New Wanderers Stadium
+LL Tsotsobe,3,28,0,0,9.333333333333334,2012-02-17,South Africa,New Zealand,0,Westpac Stadium
+LL Tsotsobe,3,23,0,0,7.666666666666667,2012-02-19,South Africa,South Africa,0,Seddon Park
+LL Tsotsobe,3,15,0,0,5.0,2012-03-30,India,South Africa,0,New Wanderers Stadium
+LL Tsotsobe,2,22,0,0,11.0,2012-09-08,South Africa,South Africa,0,Riverside Ground
+LL Tsotsobe,4,28,0,1,7.0,2013-03-03,Pakistan,Pakistan,0,SuperSport Park
+LL Tsotsobe,3,11,0,1,3.6666666666666665,2013-08-02,South Africa,South Africa,0,R Premadasa Stadium
+LL Tsotsobe,4,17,0,2,4.25,2013-08-04,South Africa,South Africa,0,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa"
+LL Tsotsobe,4,49,0,0,12.25,2013-08-06,South Africa,Sri Lanka,0,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa"
+LL Tsotsobe,4,9,2,2,2.25,2013-11-13,South Africa,South Africa,0,Dubai International Cricket Stadium
+LL Tsotsobe,3,30,0,0,10.0,2013-11-15,South Africa,South Africa,0,Dubai International Cricket Stadium
+LL Tsotsobe,4,19,0,1,4.75,2013-11-20,Pakistan,South Africa,0,New Wanderers Stadium
+LL Tsotsobe,1,21,0,0,21.0,2014-03-12,Australia,Australia,0,Kingsmead
+LL Tsotsobe,2,19,0,0,9.5,2014-03-14,Australia,Australia,0,SuperSport Park
+LL Tsotsobe,4,31,0,0,7.75,2014-03-22,Sri Lanka,Sri Lanka,0,Zahur Ahmed Chowdhury Stadium
+LL Tsotsobe,4,29,0,0,7.25,2014-03-24,South Africa,South Africa,0,Zahur Ahmed Chowdhury Stadium
+LL Tsotsobe,4,46,0,2,11.5,2014-03-27,South Africa,South Africa,0,Zahur Ahmed Chowdhury Stadium
+M Daniels,4,24,0,0,6.0,2013-11-02,Sri Lanka,Sri Lanka,0,Senwes Park
+M Daniels,4,25,0,1,6.25,2013-11-04,Sri Lanka,South Africa,0,Senwes Park
+M Daniels,1,6,0,0,6.0,2014-01-19,South Africa,Pakistan,0,West End Park International Cricket Stadium
+M Daniels,2,11,0,1,5.5,2014-01-20,South Africa,South Africa,0,West End Park International Cricket Stadium
+M Daniels,3,13,0,1,4.333333333333333,2014-01-24,South Africa,Pakistan,0,West End Park International Cricket Stadium
+M Daniels,3,16,1,0,5.333333333333333,2014-03-31,South Africa,South Africa,0,Sylhet Stadium
+M Daniels,2,3,1,0,1.5,2014-04-04,South Africa,England,0,Shere Bangla National Stadium
+M Daniels,2,5,0,1,2.5,2014-09-01,South Africa,England,0,County Ground
+M Daniels,4,28,0,2,7.0,2014-09-03,South Africa,England,0,County Ground
+M Daniels,4,15,0,0,3.75,2014-09-07,South Africa,England,0,Edgbaston
+M Daniels,3,8,0,0,2.6666666666666665,2015-03-20,South Africa,Pakistan,0,Sharjah Cricket Stadium
+M Daniels,4,18,0,2,4.5,2015-03-22,South Africa,South Africa,0,Sharjah Cricket Stadium
+M Daniels,4,20,0,2,5.0,2016-02-18,England,England,0,Boland Park
+M Daniels,4,24,0,0,6.0,2016-02-21,England,England,0,New Wanderers Stadium
+M Daniels,4,24,0,0,6.0,2016-03-04,West Indies,South Africa,0,Kingsmead
+M Daniels,4,21,0,1,5.25,2016-03-09,West Indies,South Africa,0,Newlands
+M Daniels,4,14,0,0,3.5,2016-03-18,South Africa,Australia,0,"Vidarbha Cricket Association Stadium, Jamtha"
+M Daniels,4,17,1,1,4.25,2016-03-23,South Africa,South Africa,0,"MA Chidambaram Stadium, Chepauk"
+M Daniels,2,16,0,0,8.0,2016-03-26,South Africa,New Zealand,0,M Chinnaswamy Stadium
+M Kapp,4,11,0,3,2.75,2012-09-26,South Africa,South Africa,0,Galle International Stadium
+M Kapp,4,26,0,0,6.5,2012-09-28,South Africa,New Zealand,0,Galle International Stadium
+M Kapp,2,14,0,0,7.0,2012-09-30,West Indies,West Indies,0,Galle International Stadium
+M Kapp,3,12,0,0,4.0,2013-01-19,South Africa,West Indies,0,"Beausejour Stadium, Gros Islet"
+M Kapp,4,3,2,3,0.75,2013-01-20,South Africa,West Indies,0,"Beausejour Stadium, Gros Islet"
+M Kapp,4,6,1,4,1.5,2013-09-14,Bangladesh,South Africa,0,Senwes Park
+M Kapp,4,20,0,2,5.0,2013-09-15,Bangladesh,South Africa,0,Senwes Park
+M Kapp,4,15,0,1,3.75,2013-10-31,Sri Lanka,South Africa,0,Senwes Park
+M Kapp,4,18,0,4,4.5,2013-11-02,Sri Lanka,Sri Lanka,0,Senwes Park
+M Kapp,3,13,0,2,4.333333333333333,2013-11-04,Sri Lanka,South Africa,0,Senwes Park
+M Kapp,2,7,0,1,3.5,2014-01-19,South Africa,Pakistan,0,West End Park International Cricket Stadium
+M Kapp,4,9,0,2,2.25,2014-01-20,South Africa,South Africa,0,West End Park International Cricket Stadium
+M Kapp,3,18,0,0,6.0,2014-01-24,South Africa,Pakistan,0,West End Park International Cricket Stadium
+M Kapp,2,8,1,1,4.0,2014-03-29,South Africa,South Africa,0,Sylhet Stadium
+M Kapp,4,23,0,4,5.75,2014-03-31,South Africa,South Africa,0,Sylhet Stadium
+M Kapp,2,23,0,0,11.5,2014-04-04,South Africa,England,0,Shere Bangla National Stadium
+M Kapp,2,21,0,0,10.5,2014-09-01,South Africa,England,0,County Ground
+M Kapp,3,20,0,0,6.666666666666667,2014-09-03,South Africa,England,0,County Ground
+M Kapp,2,24,0,1,12.0,2014-09-07,South Africa,England,0,Edgbaston
+M Kapp,3,16,0,2,5.333333333333333,2014-10-23,South Africa,Sri Lanka,0,Colts Cricket Club Ground
+M Kapp,2,12,0,0,6.0,2014-10-25,South Africa,South Africa,0,Colts Cricket Club Ground
+M Kapp,4,29,0,1,7.25,2014-10-26,South Africa,South Africa,0,Mercantile Cricket Association Ground
+M Kapp,3,21,0,1,7.0,2016-03-18,South Africa,Australia,0,"Vidarbha Cricket Association Stadium, Jamtha"
+M Kapp,4,12,0,1,3.0,2016-03-23,South Africa,South Africa,0,"MA Chidambaram Stadium, Chepauk"
+M Kapp,4,19,0,1,4.75,2016-03-26,South Africa,New Zealand,0,M Chinnaswamy Stadium
+M Kapp,4,17,0,3,4.25,2016-03-28,Sri Lanka,Sri Lanka,0,M Chinnaswamy Stadium
+M Klaas,3,17,0,1,5.666666666666667,2016-02-18,England,England,0,Boland Park
+M Klaas,3,22,0,1,7.333333333333333,2016-03-09,West Indies,South Africa,0,Newlands
+M Klaas,1,11,0,1,11.0,2016-03-26,South Africa,New Zealand,0,M Chinnaswamy Stadium
+M Morkel,4,30,0,1,7.5,2007-09-11,West Indies,South Africa,0,New Wanderers Stadium
+M Morkel,4,21,0,2,5.25,2007-09-15,Bangladesh,South Africa,0,Newlands
+M Morkel,4,20,0,1,5.0,2007-09-16,England,South Africa,0,Newlands
+M Morkel,4,17,0,5,4.25,2007-09-19,New Zealand,South Africa,0,Kingsmead
+M Morkel,4,32,0,1,8.0,2007-09-20,India,India,0,Kingsmead
+M Morkel,4,22,0,1,5.5,2008-01-18,West Indies,South Africa,0,New Wanderers Stadium
+M Morkel,2,15,0,1,7.5,2008-11-05,Bangladesh,South Africa,0,New Wanderers Stadium
+M Morkel,3,32,0,3,10.666666666666666,2009-01-13,South Africa,Australia,0,"Brisbane Cricket Ground, Woolloongabba"
+M Morkel,4,23,0,1,5.75,2009-06-16,South Africa,South Africa,0,Trent Bridge
+M Morkel,4,32,0,0,8.0,2010-05-02,South Africa,India,0,"Beausejour Stadium, Gros Islet"
+M Morkel,3,20,0,5,6.666666666666667,2010-05-05,South Africa,South Africa,0,"Kensington Oval, Bridgetown"
+M Morkel,4,27,0,2,6.75,2010-05-06,South Africa,South Africa,0,"Kensington Oval, Bridgetown"
+M Morkel,4,40,0,2,10.0,2010-05-08,South Africa,England,0,"Kensington Oval, Bridgetown"
+M Morkel,4,15,0,2,3.75,2010-05-20,South Africa,South Africa,0,"Sir Vivian Richards Stadium, North Sound"
+M Morkel,2,9,0,0,4.5,2010-10-08,Zimbabwe,South Africa,0,OUTsurance Oval
+M Morkel,4,18,1,1,4.5,2010-10-26,South Africa,South Africa,0,Sheikh Zayed Stadium
+M Morkel,4,22,1,1,5.5,2010-10-27,South Africa,South Africa,0,Sheikh Zayed Stadium
+M Morkel,4,24,0,1,6.0,2011-10-13,Australia,Australia,0,Newlands
+M Morkel,4,37,0,2,9.25,2011-10-16,Australia,South Africa,0,New Wanderers Stadium
+M Morkel,4,26,1,2,6.5,2012-02-17,South Africa,New Zealand,0,Westpac Stadium
+M Morkel,4,38,0,1,9.5,2012-02-19,South Africa,South Africa,0,Seddon Park
+M Morkel,4,31,0,2,7.75,2012-02-22,South Africa,South Africa,0,Eden Park
+M Morkel,2,8,0,0,4.0,2012-09-10,South Africa,0,0,Old Trafford
+M Morkel,2,28,0,2,14.0,2012-09-12,South Africa,England,0,Edgbaston
+M Morkel,4,16,0,2,4.0,2012-09-20,Zimbabwe,South Africa,0,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa"
+M Morkel,2,9,0,1,4.5,2012-09-22,South Africa,South Africa,0,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa"
+M Morkel,3,33,0,0,11.0,2012-09-28,South Africa,Pakistan,0,R Premadasa Stadium
+M Morkel,3,23,0,1,7.666666666666667,2012-09-30,South Africa,Australia,0,R Premadasa Stadium
+M Morkel,4,28,0,2,7.0,2012-10-02,South Africa,India,0,R Premadasa Stadium
+M Morkel,4,29,0,0,7.25,2012-12-23,New Zealand,New Zealand,0,Buffalo Park
+M Morkel,4,37,0,0,9.25,2012-12-26,New Zealand,South Africa,0,St George's Park
+M Morkel,4,28,0,2,7.0,2013-08-02,South Africa,South Africa,0,R Premadasa Stadium
+M Morkel,4,34,0,2,8.5,2013-08-04,South Africa,South Africa,0,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa"
+M Morkel,3,33,0,0,11.0,2013-08-06,South Africa,Sri Lanka,0,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa"
+M Morkel,1,10,0,0,10.0,2013-11-20,Pakistan,South Africa,0,New Wanderers Stadium
+M Morkel,4,37,0,0,9.25,2013-11-22,Pakistan,Pakistan,0,Newlands
+M Morkel,4,31,0,2,7.75,2014-03-22,Sri Lanka,Sri Lanka,0,Zahur Ahmed Chowdhury Stadium
+M Morkel,3,50,0,0,16.666666666666668,2014-03-24,South Africa,South Africa,0,Zahur Ahmed Chowdhury Stadium
+M Morkel,4,37,0,1,9.25,2015-08-14,New Zealand,South Africa,0,Kingsmead
+M Morkel,4,43,0,0,10.75,2017-06-23,South Africa,South Africa,0,County Ground
+M Morkel,4,32,0,1,8.0,2017-06-25,South Africa,England,0,Sophia Gardens
+M Ntini,2,21,0,0,10.5,2005-10-21,New Zealand,New Zealand,0,New Wanderers Stadium
+M Ntini,3,44,0,0,14.666666666666666,2006-02-24,Australia,South Africa,0,New Wanderers Stadium
+M Ntini,2,19,0,0,9.5,2007-09-11,West Indies,South Africa,0,New Wanderers Stadium
+M Ntini,2,31,0,1,15.5,2007-09-15,Bangladesh,South Africa,0,Newlands
+M Ntini,4,29,0,0,7.25,2007-09-16,England,South Africa,0,Newlands
+M Ntini,4,30,0,1,7.5,2007-09-20,India,India,0,Kingsmead
+M Ntini,3,16,0,0,5.333333333333333,2007-12-16,West Indies,West Indies,0,St George's Park
+M Ntini,4,22,0,3,5.5,2008-01-18,West Indies,South Africa,0,New Wanderers Stadium
+M Ntini,4,40,0,2,10.0,2009-01-11,South Africa,Australia,0,Melbourne Cricket Ground
+M Ntini,4,46,0,0,11.5,2011-01-09,India,India,0,Moses Mabhida Stadium
+M Zondeki,3,41,0,1,13.666666666666666,2006-01-09,South Africa,Australia,0,"Brisbane Cricket Ground, Woolloongabba"
+M de Lange,4,43,0,2,10.75,2012-02-19,South Africa,South Africa,0,Seddon Park
+M de Lange,4,36,0,2,9.0,2012-02-22,South Africa,South Africa,0,Eden Park
+M de Lange,4,34,0,1,8.5,2014-11-09,South Africa,Australia,0,Stadium Australia
+M de Lange,3,42,0,1,14.0,2015-01-11,West Indies,West Indies,0,New Wanderers Stadium
+M de Lange,4,26,0,2,6.5,2015-01-14,West Indies,South Africa,0,Kingsmead
+M de Lange,4,47,0,0,11.75,2015-10-02,South Africa,South Africa,0,Himachal Pradesh Cricket Association Stadium
+MM Letsoalo,4,16,0,2,4.0,2009-10-28,West Indies,West Indies,0,Boland Bank Park
+MM Letsoalo,3,22,0,0,7.333333333333333,2012-09-28,South Africa,New Zealand,0,Galle International Stadium
+MM Letsoalo,4,21,0,0,5.25,2013-01-19,South Africa,West Indies,0,"Beausejour Stadium, Gros Islet"
+MM Letsoalo,3,24,0,1,8.0,2013-01-20,South Africa,West Indies,0,"Beausejour Stadium, Gros Islet"
+MM Letsoalo,2,6,0,0,3.0,2013-09-14,Bangladesh,South Africa,0,Senwes Park
+MM Letsoalo,3,24,0,0,8.0,2013-09-15,Bangladesh,South Africa,0,Senwes Park
+MM Letsoalo,3,16,0,2,5.333333333333333,2013-10-31,Sri Lanka,South Africa,0,Senwes Park
+MM Letsoalo,1,16,0,0,16.0,2013-11-02,Sri Lanka,Sri Lanka,0,Senwes Park
+MM Letsoalo,2,10,0,0,5.0,2013-11-04,Sri Lanka,South Africa,0,Senwes Park
+MM Letsoalo,1,9,0,0,9.0,2014-01-19,South Africa,Pakistan,0,West End Park International Cricket Stadium
+MM Letsoalo,1,10,0,0,10.0,2014-01-24,South Africa,Pakistan,0,West End Park International Cricket Stadium
+MM Letsoalo,3,23,0,2,7.666666666666667,2014-03-29,South Africa,South Africa,0,Sylhet Stadium
+MM Letsoalo,1,14,0,0,14.0,2014-09-01,South Africa,England,0,County Ground
+MM Letsoalo,3,18,0,1,6.0,2014-09-07,South Africa,England,0,Edgbaston
+MM Letsoalo,1,9,0,0,9.0,2014-10-23,South Africa,Sri Lanka,0,Colts Cricket Club Ground
+MM Letsoalo,1,5,0,0,5.0,2014-10-25,South Africa,South Africa,0,Colts Cricket Club Ground
+MM Letsoalo,4,15,0,2,3.75,2014-10-26,South Africa,South Africa,0,Mercantile Cricket Association Ground
+MM Letsoalo,2,11,0,0,5.5,2015-03-19,South Africa,Pakistan,0,Sharjah Cricket Stadium
+MM Letsoalo,1,8,0,0,8.0,2015-03-20,South Africa,Pakistan,0,Sharjah Cricket Stadium
+MM Letsoalo,3,22,0,0,7.333333333333333,2015-03-22,South Africa,South Africa,0,Sharjah Cricket Stadium
+MM Letsoalo,1,10,0,0,10.0,2016-03-04,West Indies,South Africa,0,Kingsmead
+MM Letsoalo,1,14,0,0,14.0,2016-03-23,South Africa,South Africa,0,"MA Chidambaram Stadium, Chepauk"
+MM Letsoalo,2,12,0,1,6.0,2016-03-28,Sri Lanka,Sri Lanka,0,M Chinnaswamy Stadium
+N Boje,4,27,0,1,6.75,2005-10-21,New Zealand,New Zealand,0,New Wanderers Stadium
+O Kirsten,3,26,0,1,8.666666666666666,2016-03-04,West Indies,South Africa,0,Kingsmead
+R McLaren,4,33,0,3,8.25,2009-11-13,England,England,0,New Wanderers Stadium
+R McLaren,4,26,0,1,6.5,2009-11-15,England,South Africa,0,SuperSport Park
+R McLaren,4,19,0,5,4.75,2010-05-19,South Africa,South Africa,0,"Sir Vivian Richards Stadium, North Sound"
+R McLaren,4,29,0,1,7.25,2010-05-20,South Africa,South Africa,0,"Sir Vivian Richards Stadium, North Sound"
+R McLaren,4,37,0,0,9.25,2010-10-08,Zimbabwe,South Africa,0,OUTsurance Oval
+R McLaren,4,27,0,1,6.75,2012-12-21,New Zealand,South Africa,0,Kingsmead
+R McLaren,4,26,0,1,6.5,2012-12-23,New Zealand,New Zealand,0,Buffalo Park
+R McLaren,4,25,0,4,6.25,2012-12-26,New Zealand,South Africa,0,St George's Park
+R McLaren,4,29,0,1,7.25,2013-11-13,South Africa,South Africa,0,Dubai International Cricket Stadium
+R McLaren,4,38,0,1,9.5,2013-11-15,South Africa,South Africa,0,Dubai International Cricket Stadium
+R McLaren,3,27,0,1,9.0,2014-11-05,South Africa,South Africa,0,Adelaide Oval
+R McLaren,1,16,0,0,16.0,2014-11-07,South Africa,Australia,0,Melbourne Cricket Ground
+R Telemachus,4,40,0,1,10.0,2006-02-24,Australia,South Africa,0,New Wanderers Stadium
+R Telemachus,4,28,0,0,7.0,2006-12-01,India,India,0,New Wanderers Stadium
+RE van der Merwe,4,30,0,1,7.5,2009-03-29,Australia,South Africa,0,SuperSport Park
+RE van der Merwe,4,17,0,2,4.25,2009-06-07,South Africa,South Africa,0,Kennington Oval
+RE van der Merwe,4,14,0,2,3.5,2009-06-09,South Africa,South Africa,0,Lord's
+RE van der Merwe,4,32,0,2,8.0,2009-06-11,South Africa,South Africa,0,Trent Bridge
+RE van der Merwe,4,30,0,2,7.5,2009-06-13,West Indies,South Africa,0,Kennington Oval
+RE van der Merwe,4,13,0,1,3.25,2009-06-16,South Africa,South Africa,0,Trent Bridge
+RE van der Merwe,4,29,0,1,7.25,2009-06-18,South Africa,Pakistan,0,Trent Bridge
+RE van der Merwe,2,17,0,1,8.5,2009-11-13,England,England,0,New Wanderers Stadium
+RE van der Merwe,4,39,0,1,9.75,2009-11-15,England,South Africa,0,SuperSport Park
+RE van der Merwe,1,13,0,0,13.0,2010-05-02,South Africa,India,0,"Beausejour Stadium, Gros Islet"
+RE van der Merwe,4,21,0,0,5.25,2010-05-05,South Africa,South Africa,0,"Kensington Oval, Bridgetown"
+RE van der Merwe,2,33,0,1,16.5,2010-05-10,South Africa,Pakistan,0,"Beausejour Stadium, Gros Islet"
+RE van der Merwe,3,17,0,1,5.666666666666667,2010-05-19,South Africa,South Africa,0,"Sir Vivian Richards Stadium, North Sound"
+RJ Peterson,3,29,0,2,9.666666666666666,2006-02-24,Australia,South Africa,0,New Wanderers Stadium
+RJ Peterson,1,11,0,1,11.0,2006-12-01,India,India,0,New Wanderers Stadium
+RJ Peterson,4,30,0,4,7.5,2009-03-27,Australia,South Africa,0,New Wanderers Stadium
+RJ Peterson,2,16,0,0,8.0,2009-03-29,Australia,South Africa,0,SuperSport Park
+RJ Peterson,4,36,0,2,9.0,2010-10-10,Zimbabwe,South Africa,0,De Beers Diamond Oval
+RJ Peterson,3,20,0,1,6.666666666666667,2011-01-09,India,India,0,Moses Mabhida Stadium
+RJ Peterson,3,29,0,1,9.666666666666666,2011-10-13,Australia,Australia,0,Newlands
+RJ Peterson,4,34,0,1,8.5,2012-02-22,South Africa,South Africa,0,Eden Park
+RJ Peterson,4,27,0,2,6.75,2012-09-08,South Africa,South Africa,0,Riverside Ground
+RJ Peterson,2,16,0,0,8.0,2012-09-12,South Africa,England,0,Edgbaston
+RJ Peterson,1,8,0,0,8.0,2012-09-20,Zimbabwe,South Africa,0,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa"
+RJ Peterson,4,15,1,2,3.75,2012-09-28,South Africa,Pakistan,0,R Premadasa Stadium
+RJ Peterson,4,41,0,1,10.25,2012-09-30,South Africa,Australia,0,R Premadasa Stadium
+RJ Peterson,4,25,0,2,6.25,2012-10-02,South Africa,India,0,R Premadasa Stadium
+RJ Peterson,4,8,0,2,2.0,2012-12-21,New Zealand,South Africa,0,Kingsmead
+RJ Peterson,3,28,0,1,9.333333333333334,2012-12-23,New Zealand,New Zealand,0,Buffalo Park
+RJ Peterson,3,24,0,1,8.0,2012-12-26,New Zealand,South Africa,0,St George's Park
+RJ Peterson,2,26,0,0,13.0,2013-03-03,Pakistan,Pakistan,0,SuperSport Park
+RJ Peterson,4,28,0,3,7.0,2014-11-09,South Africa,Australia,0,Stadium Australia
+RK Kleinveldt,1,20,0,1,20.0,2008-11-05,Bangladesh,South Africa,0,New Wanderers Stadium
+RK Kleinveldt,4,48,0,2,12.0,2010-05-02,South Africa,India,0,"Beausejour Stadium, Gros Islet"
+RK Kleinveldt,3,18,2,3,6.0,2012-12-21,New Zealand,South Africa,0,Kingsmead
+RK Kleinveldt,4,35,0,0,8.75,2012-12-23,New Zealand,New Zealand,0,Buffalo Park
+RK Kleinveldt,4,25,0,1,6.25,2012-12-26,New Zealand,South Africa,0,St George's Park
+RK Kleinveldt,4,27,0,2,6.75,2013-03-03,Pakistan,Pakistan,0,SuperSport Park
+S Ismail,1,20,0,0,20.0,2009-10-28,West Indies,West Indies,0,Boland Bank Park
+S Ismail,1,9,0,0,9.0,2011-10-29,England,0,0,Senwes Park
+S Ismail,3,18,0,1,6.0,2012-09-26,South Africa,South Africa,0,Galle International Stadium
+S Ismail,3,30,0,0,10.0,2012-09-28,South Africa,New Zealand,0,Galle International Stadium
+S Ismail,2,14,0,0,7.0,2012-09-30,West Indies,West Indies,0,Galle International Stadium
+S Ismail,4,17,0,1,4.25,2013-09-14,Bangladesh,South Africa,0,Senwes Park
+S Ismail,4,19,0,0,4.75,2013-09-15,Bangladesh,South Africa,0,Senwes Park
+S Ismail,4,19,0,0,4.75,2013-10-31,Sri Lanka,South Africa,0,Senwes Park
+S Ismail,3,27,0,0,9.0,2013-11-02,Sri Lanka,Sri Lanka,0,Senwes Park
+S Ismail,4,17,0,1,4.25,2013-11-04,Sri Lanka,South Africa,0,Senwes Park
+S Ismail,2,9,0,0,4.5,2014-01-19,South Africa,Pakistan,0,West End Park International Cricket Stadium
+S Ismail,4,15,0,1,3.75,2014-01-20,South Africa,South Africa,0,West End Park International Cricket Stadium
+S Ismail,4,9,2,0,2.25,2014-01-24,South Africa,Pakistan,0,West End Park International Cricket Stadium
+S Ismail,3,5,0,3,1.6666666666666667,2014-03-29,South Africa,South Africa,0,Sylhet Stadium
+S Ismail,4,31,0,1,7.75,2014-03-31,South Africa,South Africa,0,Sylhet Stadium
+S Ismail,3,20,0,0,6.666666666666667,2014-04-04,South Africa,England,0,Shere Bangla National Stadium
+S Ismail,3,16,0,0,5.333333333333333,2014-09-01,South Africa,England,0,County Ground
+S Ismail,4,33,0,0,8.25,2014-09-03,South Africa,England,0,County Ground
+S Ismail,4,23,0,1,5.75,2014-09-07,South Africa,England,0,Edgbaston
+S Ismail,3,17,0,2,5.666666666666667,2014-10-23,South Africa,Sri Lanka,0,Colts Cricket Club Ground
+S Ismail,2,15,0,1,7.5,2014-10-25,South Africa,South Africa,0,Colts Cricket Club Ground
+S Ismail,4,19,0,3,4.75,2014-10-26,South Africa,South Africa,0,Mercantile Cricket Association Ground
+S Ismail,3,21,0,1,7.0,2015-03-19,South Africa,Pakistan,0,Sharjah Cricket Stadium
+S Ismail,2,10,0,0,5.0,2015-03-20,South Africa,Pakistan,0,Sharjah Cricket Stadium
+S Ismail,4,23,0,2,5.75,2015-03-22,South Africa,South Africa,0,Sharjah Cricket Stadium
+S Ismail,4,39,0,1,9.75,2016-02-18,England,England,0,Boland Park
+S Ismail,3,27,0,3,9.0,2016-02-21,England,England,0,New Wanderers Stadium
+S Ismail,4,12,1,3,3.0,2016-03-04,West Indies,South Africa,0,Kingsmead
+S Ismail,4,22,0,2,5.5,2016-03-09,West Indies,South Africa,0,Newlands
+S Ismail,3,15,1,2,5.0,2016-03-18,South Africa,Australia,0,"Vidarbha Cricket Association Stadium, Jamtha"
+S Ismail,3,15,0,0,5.0,2016-03-23,South Africa,South Africa,0,"MA Chidambaram Stadium, Chepauk"
+S Ismail,2,19,0,0,9.5,2016-03-26,South Africa,New Zealand,0,M Chinnaswamy Stadium
+S Ismail,4,26,0,1,6.5,2016-03-28,Sri Lanka,Sri Lanka,0,M Chinnaswamy Stadium
+S Loubser,3,20,0,1,6.666666666666667,2012-09-26,South Africa,South Africa,0,Galle International Stadium
+S Loubser,2,29,0,1,14.5,2012-09-28,South Africa,New Zealand,0,Galle International Stadium
+S Loubser,0,10,0,0,inf,2012-09-30,West Indies,West Indies,0,Galle International Stadium
+S Loubser,3,19,0,1,6.333333333333333,2013-01-19,South Africa,West Indies,0,"Beausejour Stadium, Gros Islet"
+S Loubser,4,16,0,1,4.0,2013-09-14,Bangladesh,South Africa,0,Senwes Park
+S Loubser,3,15,0,0,5.0,2013-09-15,Bangladesh,South Africa,0,Senwes Park
+S Loubser,3,15,0,0,5.0,2013-10-31,Sri Lanka,South Africa,0,Senwes Park
+S Loubser,4,20,1,1,5.0,2013-11-02,Sri Lanka,Sri Lanka,0,Senwes Park
+S Loubser,3,22,1,1,7.333333333333333,2013-11-04,Sri Lanka,South Africa,0,Senwes Park
+S Loubser,3,13,0,1,4.333333333333333,2014-01-19,South Africa,Pakistan,0,West End Park International Cricket Stadium
+S Loubser,4,14,0,2,3.5,2014-01-24,South Africa,Pakistan,0,West End Park International Cricket Stadium
+S Loubser,3,19,0,0,6.333333333333333,2014-03-29,South Africa,South Africa,0,Sylhet Stadium
+S Loubser,4,23,0,0,5.75,2014-03-31,South Africa,South Africa,0,Sylhet Stadium
+S Loubser,2,12,0,0,6.0,2014-04-04,South Africa,England,0,Shere Bangla National Stadium
+S Loubser,1,9,0,0,9.0,2014-09-01,South Africa,England,0,County Ground
+S Loubser,2,19,0,0,9.5,2014-09-03,South Africa,England,0,County Ground
+S Luus,1,4,0,0,4.0,2012-09-26,South Africa,South Africa,0,Galle International Stadium
+S Luus,3,16,0,0,5.333333333333333,2013-09-14,Bangladesh,South Africa,0,Senwes Park
+S Luus,4,13,0,2,3.25,2013-09-15,Bangladesh,South Africa,0,Senwes Park
+S Luus,2,24,0,0,12.0,2013-10-31,Sri Lanka,South Africa,0,Senwes Park
+S Luus,1,8,0,0,8.0,2013-11-02,Sri Lanka,Sri Lanka,0,Senwes Park
+S Luus,2,13,0,0,6.5,2014-01-19,South Africa,Pakistan,0,West End Park International Cricket Stadium
+S Luus,1,5,0,0,5.0,2014-01-20,South Africa,South Africa,0,West End Park International Cricket Stadium
+S Luus,1,7,0,0,7.0,2014-01-24,South Africa,Pakistan,0,West End Park International Cricket Stadium
+S Luus,2,6,0,1,3.0,2014-03-31,South Africa,South Africa,0,Sylhet Stadium
+S Luus,3,15,0,1,5.0,2014-04-04,South Africa,England,0,Shere Bangla National Stadium
+S Luus,1,9,0,0,9.0,2014-09-01,South Africa,England,0,County Ground
+S Luus,1,6,0,0,6.0,2014-09-07,South Africa,England,0,Edgbaston
+S Luus,4,14,0,3,3.5,2015-03-19,South Africa,Pakistan,0,Sharjah Cricket Stadium
+S Luus,4,22,0,1,5.5,2015-03-20,South Africa,Pakistan,0,Sharjah Cricket Stadium
+S Luus,4,18,0,0,4.5,2015-03-22,South Africa,South Africa,0,Sharjah Cricket Stadium
+S Luus,3,19,0,0,6.333333333333333,2016-02-18,England,England,0,Boland Park
+S Luus,2,12,0,1,6.0,2016-02-21,England,England,0,New Wanderers Stadium
+S Luus,4,23,0,0,5.75,2016-03-04,West Indies,South Africa,0,Kingsmead
+S Luus,1,13,0,0,13.0,2016-03-09,West Indies,South Africa,0,Newlands
+S Luus,1,8,0,0,8.0,2016-03-18,South Africa,Australia,0,"Vidarbha Cricket Association Stadium, Jamtha"
+S Luus,4,8,0,6,2.0,2016-03-23,South Africa,South Africa,0,"MA Chidambaram Stadium, Chepauk"
+S Luus,2,11,0,0,5.5,2016-03-26,South Africa,New Zealand,0,M Chinnaswamy Stadium
+S Luus,3,20,0,2,6.666666666666667,2016-03-28,Sri Lanka,Sri Lanka,0,M Chinnaswamy Stadium
+SM Benade,4,7,0,2,1.75,2012-09-26,South Africa,South Africa,0,Galle International Stadium
+SM Benade,4,15,0,2,3.75,2012-09-28,South Africa,New Zealand,0,Galle International Stadium
+SM Benade,4,26,1,0,6.5,2012-09-30,West Indies,West Indies,0,Galle International Stadium
+SM Benade,3,28,0,0,9.333333333333334,2013-01-19,South Africa,West Indies,0,"Beausejour Stadium, Gros Islet"
+SM Pollock,3,16,0,0,5.333333333333333,2005-10-21,New Zealand,New Zealand,0,New Wanderers Stadium
+SM Pollock,4,34,0,1,8.5,2006-01-09,South Africa,Australia,0,"Brisbane Cricket Ground, Woolloongabba"
+SM Pollock,4,52,0,1,13.0,2007-09-11,West Indies,South Africa,0,New Wanderers Stadium
+SM Pollock,3,40,0,3,13.333333333333334,2007-09-15,Bangladesh,South Africa,0,Newlands
+SM Pollock,4,17,1,3,4.25,2007-09-16,England,South Africa,0,Newlands
+SM Pollock,4,41,0,0,10.25,2007-09-19,New Zealand,South Africa,0,Kingsmead
+SM Pollock,4,17,0,2,4.25,2007-09-20,India,India,0,Kingsmead
+SM Pollock,4,28,0,3,7.0,2007-11-23,New Zealand,South Africa,0,New Wanderers Stadium
+SM Pollock,2,19,0,1,9.5,2007-12-16,West Indies,West Indies,0,St George's Park
+SM Pollock,4,19,0,1,4.75,2008-01-18,West Indies,South Africa,0,New Wanderers Stadium
+T Henderson,4,31,0,0,7.75,2006-12-01,India,India,0,New Wanderers Stadium
+T Shamsi,3,23,0,0,7.666666666666667,2017-06-21,South Africa,England,0,The Rose Bowl
+T Shamsi,3,24,0,0,8.0,2017-06-23,South Africa,South Africa,0,County Ground
+VD Philander,4,35,0,2,8.75,2007-09-11,West Indies,South Africa,0,New Wanderers Stadium
+VD Philander,4,23,0,2,5.75,2007-09-15,Bangladesh,South Africa,0,Newlands
+VD Philander,2,22,0,0,11.0,2007-09-16,England,South Africa,0,Newlands
+VD Philander,1,10,0,0,10.0,2007-09-19,New Zealand,South Africa,0,Kingsmead
+VD Philander,2,14,0,0,7.0,2007-09-20,India,India,0,Kingsmead
+VD Philander,1,10,0,0,10.0,2007-12-16,West Indies,West Indies,0,St George's Park
+WD Parnell,4,44,0,0,11.0,2009-01-13,South Africa,Australia,0,"Brisbane Cricket Ground, Woolloongabba"
+WD Parnell,4,29,0,2,7.25,2009-03-27,Australia,South Africa,0,New Wanderers Stadium
+WD Parnell,2,6,0,1,3.0,2009-06-07,South Africa,South Africa,0,Kennington Oval
+WD Parnell,4,38,0,1,9.5,2009-06-09,South Africa,South Africa,0,Lord's
+WD Parnell,4,14,0,3,3.5,2009-06-11,South Africa,South Africa,0,Trent Bridge
+WD Parnell,4,13,0,4,3.25,2009-06-13,West Indies,South Africa,0,Kennington Oval
+WD Parnell,3,22,0,0,7.333333333333333,2009-06-16,South Africa,South Africa,0,Trent Bridge
+WD Parnell,4,26,0,1,6.5,2009-06-18,South Africa,Pakistan,0,Trent Bridge
+WD Parnell,4,29,0,2,7.25,2010-10-08,Zimbabwe,South Africa,0,OUTsurance Oval
+WD Parnell,4,41,0,1,10.25,2010-10-10,Zimbabwe,South Africa,0,De Beers Diamond Oval
+WD Parnell,4,25,0,1,6.25,2011-01-09,India,India,0,Moses Mabhida Stadium
+WD Parnell,4,44,0,1,11.0,2011-10-16,Australia,South Africa,0,New Wanderers Stadium
+WD Parnell,2,15,0,0,7.5,2012-02-19,South Africa,South Africa,0,Seddon Park
+WD Parnell,1,14,0,0,14.0,2012-02-22,South Africa,South Africa,0,Eden Park
+WD Parnell,1,14,0,0,14.0,2012-03-30,India,South Africa,0,New Wanderers Stadium
+WD Parnell,2,37,0,1,18.5,2012-09-12,South Africa,England,0,Edgbaston
+WD Parnell,2,24,0,0,12.0,2012-09-30,South Africa,Australia,0,R Premadasa Stadium
+WD Parnell,3,8,1,2,2.6666666666666665,2013-08-02,South Africa,South Africa,0,R Premadasa Stadium
+WD Parnell,4,25,0,1,6.25,2013-08-04,South Africa,South Africa,0,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa"
+WD Parnell,3,37,0,1,12.333333333333334,2013-08-06,South Africa,Sri Lanka,0,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa"
+WD Parnell,4,27,0,0,6.75,2013-11-13,South Africa,South Africa,0,Dubai International Cricket Stadium
+WD Parnell,4,25,0,3,6.25,2013-11-15,South Africa,South Africa,0,Dubai International Cricket Stadium
+WD Parnell,4,37,1,1,9.25,2013-11-22,Pakistan,Pakistan,0,Newlands
+WD Parnell,1,17,0,1,17.0,2014-03-12,Australia,Australia,0,Kingsmead
+WD Parnell,2,15,0,1,7.5,2014-03-14,Australia,Australia,0,SuperSport Park
+WD Parnell,4,31,0,3,7.75,2014-03-29,South Africa,South Africa,0,Zahur Ahmed Chowdhury Stadium
+WD Parnell,3,33,0,1,11.0,2014-04-04,South Africa,India,0,Shere Bangla National Stadium
+WD Parnell,4,28,0,1,7.0,2014-11-05,South Africa,South Africa,0,Adelaide Oval
+WD Parnell,3,17,1,2,5.666666666666667,2014-11-07,South Africa,Australia,0,Melbourne Cricket Ground
+WD Parnell,4,43,0,0,10.75,2014-11-09,South Africa,Australia,0,Stadium Australia
+WD Parnell,4,39,0,2,9.75,2015-01-09,West Indies,West Indies,0,Newlands
+WD Parnell,3,33,0,2,11.0,2015-01-14,West Indies,South Africa,0,Kingsmead
+WD Parnell,2,12,1,1,6.0,2015-07-05,South Africa,South Africa,0,Shere Bangla National Stadium
+WD Parnell,3,29,0,1,9.666666666666666,2015-07-07,South Africa,South Africa,0,Shere Bangla National Stadium
+WD Parnell,2,23,0,1,11.5,2017-01-20,Sri Lanka,South Africa,0,SuperSport Park
+WD Parnell,3,16,0,1,5.333333333333333,2017-01-22,Sri Lanka,Sri Lanka,0,New Wanderers Stadium
+WD Parnell,4,42,0,1,10.5,2017-01-25,Sri Lanka,Sri Lanka,0,Newlands
+WD Parnell,3,40,0,0,13.333333333333334,2017-02-17,South Africa,South Africa,0,Eden Park
+WD Parnell,2,26,0,0,13.0,2017-06-21,South Africa,England,0,The Rose Bowl
+Y Fourie,1,15,0,1,15.0,2014-10-23,South Africa,Sri Lanka,0,Colts Cricket Club Ground
+Y Fourie,2,12,0,2,6.0,2014-10-25,South Africa,South Africa,0,Colts Cricket Club Ground
+Y Fourie,2,22,0,0,11.0,2014-10-26,South Africa,South Africa,0,Mercantile Cricket Association Ground
+Y Fourie,3,23,0,1,7.666666666666667,2015-03-20,South Africa,Pakistan,0,Sharjah Cricket Stadium
+Y Fourie,1,11,0,0,11.0,2015-03-22,South Africa,South Africa,0,Sharjah Cricket Stadium
+Y Fourie,4,20,0,3,5.0,2016-03-09,West Indies,South Africa,0,Newlands
+Y Fourie,1,4,0,0,4.0,2016-03-18,South Africa,Australia,0,"Vidarbha Cricket Association Stadium, Jamtha"
+Y Fourie,4,17,0,0,4.25,2016-03-28,Sri Lanka,Sri Lanka,0,M Chinnaswamy Stadium
+Y Potgieter,3,19,0,0,6.333333333333333,2013-01-20,South Africa,West Indies,0,"Beausejour Stadium, Gros Islet"
+Y Potgieter,1,7,0,0,7.0,2013-09-14,Bangladesh,South Africa,0,Senwes Park
+Y Potgieter,4,9,0,0,2.25,2014-01-20,South Africa,South Africa,0,West End Park International Cricket Stadium
+YA Abdulla,3,16,0,1,5.333333333333333,2009-03-29,Australia,South Africa,0,SuperSport Park
+YA Abdulla,4,28,0,1,7.0,2009-11-15,England,South Africa,0,SuperSport Park

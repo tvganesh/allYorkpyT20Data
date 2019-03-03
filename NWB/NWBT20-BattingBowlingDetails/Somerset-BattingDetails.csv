@@ -1,0 +1,114 @@
+,batsman,runs,balls,4s,6s,SR,bowler,fielders,kind,player_out,date,team2,winner,result,venue
+0,AJ Hose,4.0,4,0,0,100.0,R McLaren,['LD McManus'],caught,AJ Hose,2016-07-29,Somerset,Hampshire,0,The Rose Bowl
+6,AWR Barrow,17.0,19,1,0,89.47368421052632,notOut,notOut,notOut,notOut,2016-07-08,Somerset,Surrey,0,Kennington Oval
+7,BGF Green,12.0,13,1,0,92.3076923076923,notOut,notOut,notOut,notOut,2016-07-29,Somerset,Hampshire,0,The Rose Bowl
+7,C Overton,3.0,3,0,0,100.0,notOut,notOut,notOut,notOut,2016-06-23,Somerset,Middlesex,0,Lord's
+8,C Overton,2.0,3,0,0,66.66666666666666,notOut,notOut,notOut,notOut,2016-07-01,Gloucestershire,Gloucestershire,0,County Ground
+2,CH Gayle,5.0,5,1,0,100.0,TS Mills,0,bowled,CH Gayle,2016-06-01,Somerset,Sussex,0,County Ground
+0,CH Gayle,49.0,28,5,4,175.0,Wahab Riaz,['DW Lawrence'],caught,CH Gayle,2016-06-03,Essex,Somerset,0,County Ground
+0,CH Gayle,31.0,13,1,4,238.46153846153845,TK Curran,['DJ Bravo'],caught,CH Gayle,2016-06-10,Surrey,Somerset,0,County Ground
+0,CH Gayle,40.0,27,6,2,148.14814814814815,K Noema-Barnett,['M Klinger'],caught,CH Gayle,2016-06-17,Somerset,Gloucestershire,0,County Ground
+0,CH Gayle,52.0,41,4,3,126.82926829268293,WR Smith,0,bowled,CH Gayle,2016-06-19,Hampshire,Somerset,0,County Ground
+8,DM Bess,1.0,2,0,0,50.0,LA Dawson,0,bowled,DM Bess,2016-07-29,Somerset,Hampshire,0,The Rose Bowl
+3,DPMD Jayawardene,51.0,36,4,3,141.66666666666669,A Shahzad,['D Wiese'],caught,DPMD Jayawardene,2016-06-01,Somerset,Sussex,0,County Ground
+3,DPMD Jayawardene,6.0,5,1,0,120.0,DD Masters,0,bowled,DPMD Jayawardene,2016-06-03,Essex,Somerset,0,County Ground
+3,DPMD Jayawardene,24.0,21,2,0,114.28571428571428,BAC Howell,0,caught and bowled,DPMD Jayawardene,2016-06-17,Somerset,Gloucestershire,0,County Ground
+3,DPMD Jayawardene,45.0,33,6,1,136.36363636363635,notOut,notOut,notOut,notOut,2016-06-19,Hampshire,Somerset,0,County Ground
+3,DPMD Jayawardene,0.0,1,0,0,0.0,JEC Franklin,['PR Stirling'],caught,DPMD Jayawardene,2016-06-23,Somerset,Middlesex,0,Lord's
+3,DPMD Jayawardene,41.0,35,4,0,117.14285714285715,MD Taylor,['IA Cockbain'],caught,DPMD Jayawardene,2016-07-01,Gloucestershire,Gloucestershire,0,County Ground
+1,DPMD Jayawardene,2.0,6,0,0,33.33333333333333,DI Stevens,['AJ Blake'],caught,DPMD Jayawardene,2016-07-07,Kent,Kent,0,County Ground
+1,DPMD Jayawardene,36.0,25,6,1,144.0,GJ Batty,['JJ Roy'],caught,DPMD Jayawardene,2016-07-08,Somerset,Surrey,0,Kennington Oval
+0,DPMD Jayawardene,18.0,16,3,0,112.5,HW Podmore,['JA Simpson'],caught,DPMD Jayawardene,2016-07-15,Middlesex,Middlesex,0,County Ground
+0,DPMD Jayawardene,16.0,10,2,1,160.0,T van der Gugten,['AHT Donald'],caught,DPMD Jayawardene,2016-07-22,Somerset,Glamorgan,0,Sophia Gardens
+1,J Allenby,91.0,60,10,3,151.66666666666666,ME Claydon,0,bowled,J Allenby,2016-05-20,Somerset,Kent,0,St Lawrence Ground
+0,J Allenby,0.0,2,0,0,0.0,A Shahzad,0,bowled,J Allenby,2016-06-01,Somerset,Sussex,0,County Ground
+1,J Allenby,37.0,47,3,0,78.72340425531915,notOut,notOut,notOut,notOut,2016-06-03,Essex,Somerset,0,County Ground
+1,J Allenby,1.0,4,0,0,25.0,R Rampaul,['BT Foakes'],caught,J Allenby,2016-06-10,Surrey,Somerset,0,County Ground
+1,J Allenby,27.0,30,3,0,90.0,AJ Tye,['MD Taylor'],caught,J Allenby,2016-06-17,Somerset,Gloucestershire,0,County Ground
+1,J Allenby,4.0,5,1,0,80.0,GK Berg,['Shahid Afridi'],caught,J Allenby,2016-06-19,Hampshire,Somerset,0,County Ground
+1,J Allenby,17.0,10,2,1,170.0,JK Fuller,['PR Stirling'],caught,J Allenby,2016-06-23,Somerset,Middlesex,0,Lord's
+1,J Allenby,1.0,4,0,0,25.0,MD Taylor,['HJH Marshall'],caught,J Allenby,2016-07-01,Gloucestershire,Gloucestershire,0,County Ground
+2,J Allenby,20.0,19,2,0,105.26315789473684,FK Cowdrey,0,bowled,J Allenby,2016-07-07,Kent,Kent,0,County Ground
+3,J Allenby,22.0,19,2,0,115.78947368421053,ZS Ansari,['JW Dernbach'],run out,J Allenby,2016-07-08,Somerset,Surrey,0,Kennington Oval
+1,J Allenby,64.0,54,8,1,118.5185185185185,TS Roland-Jones,['EJG Morgan'],caught,J Allenby,2016-07-15,Middlesex,Middlesex,0,County Ground
+1,J Allenby,4.0,6,0,0,66.66666666666666,MG Hogan,['AG Salter'],run out,J Allenby,2016-07-22,Somerset,Glamorgan,0,Sophia Gardens
+1,J Allenby,40.0,29,5,1,137.93103448275863,Shahid Afridi,['GT Griffiths'],caught,J Allenby,2016-07-29,Somerset,Hampshire,0,The Rose Bowl
+5,J Overton,1.0,2,0,0,50.0,FK Cowdrey,['JL Denly'],caught,J Overton,2016-05-20,Somerset,Kent,0,St Lawrence Ground
+8,J Overton,10.0,9,1,0,111.11111111111111,DR Briggs,['CJ Jordan'],caught,J Overton,2016-06-01,Somerset,Sussex,0,County Ground
+6,J Overton,9.0,9,0,0,100.0,ST Finn,['BB McCullum'],caught,J Overton,2016-06-23,Somerset,Middlesex,0,Lord's
+7,J Overton,14.0,4,0,2,350.0,AJ Tye,['BAC Howell'],run out,J Overton,2016-07-01,Gloucestershire,Gloucestershire,0,County Ground
+7,J Overton,4.0,5,1,0,80.0,DI Stevens,0,bowled,J Overton,2016-07-07,Kent,Kent,0,County Ground
+7,JC Hildreth,8.0,6,1,0,133.33333333333331,notOut,notOut,notOut,notOut,2016-05-20,Somerset,Kent,0,St Lawrence Ground
+4,JC Hildreth,4.0,7,0,0,57.14285714285714,D Wiese,0,bowled,JC Hildreth,2016-06-01,Somerset,Sussex,0,County Ground
+4,JC Hildreth,39.0,29,4,1,134.48275862068965,GG Wagg,['AHT Donald'],caught,JC Hildreth,2016-07-22,Somerset,Glamorgan,0,Sophia Gardens
+3,JC Hildreth,8.0,5,2,0,160.0,GT Griffiths,0,bowled,JC Hildreth,2016-07-29,Somerset,Hampshire,0,The Rose Bowl
+0,JG Myburgh,5.0,6,1,0,83.33333333333334,DA Griffiths,['DI Stevens'],caught,JG Myburgh,2016-05-20,Somerset,Kent,0,St Lawrence Ground
+3,JG Myburgh,86.0,54,4,5,159.25925925925927,notOut,notOut,notOut,notOut,2016-06-10,Surrey,Somerset,0,County Ground
+4,JG Myburgh,8.0,11,0,0,72.72727272727273,BAC Howell,['IA Cockbain'],caught,JG Myburgh,2016-06-17,Somerset,Gloucestershire,0,County Ground
+4,JG Myburgh,11.0,13,1,0,84.61538461538461,GK Berg,0,bowled,JG Myburgh,2016-06-19,Hampshire,Somerset,0,County Ground
+0,JG Myburgh,12.0,7,2,0,171.42857142857142,JK Fuller,['ST Finn'],caught,JG Myburgh,2016-06-23,Somerset,Middlesex,0,Lord's
+0,JG Myburgh,25.0,20,4,1,125.0,BAC Howell,['M Klinger'],caught,JG Myburgh,2016-07-01,Gloucestershire,Gloucestershire,0,County Ground
+0,JG Myburgh,12.0,10,2,0,120.0,K Rabada,['SA Northeast'],caught,JG Myburgh,2016-07-07,Kent,Kent,0,County Ground
+0,JG Myburgh,10.0,9,1,0,111.11111111111111,JW Dernbach,['BT Foakes'],caught,JG Myburgh,2016-07-08,Somerset,Surrey,0,Kennington Oval
+3,JG Myburgh,21.0,14,2,1,150.0,NA Sowter,['JK Fuller'],caught,JG Myburgh,2016-07-15,Middlesex,Middlesex,0,County Ground
+3,JG Myburgh,28.0,14,4,1,200.0,SW Tait,['DL Lloyd'],caught,JG Myburgh,2016-07-22,Somerset,Glamorgan,0,Sophia Gardens
+8,JH Davey,8.0,5,1,0,160.0,HW Podmore,['JK Fuller'],run out,JH Davey,2016-07-15,Middlesex,Middlesex,0,County Ground
+8,JH Davey,23.0,19,3,0,121.05263157894737,notOut,notOut,notOut,notOut,2016-07-22,Somerset,Glamorgan,0,Sophia Gardens
+6,JH Davey,0.0,1,0,0,0.0,LA Dawson,['LD McManus'],stumped,JH Davey,2016-07-29,Somerset,Hampshire,0,The Rose Bowl
+5,L Gregory,22.0,17,1,1,129.41176470588235,DR Briggs,0,lbw,L Gregory,2016-06-01,Somerset,Sussex,0,County Ground
+4,L Gregory,37.0,22,4,1,168.1818181818182,notOut,notOut,notOut,notOut,2016-06-03,Essex,Somerset,0,County Ground
+4,L Gregory,21.0,18,3,0,116.66666666666667,SM Curran,['BT Foakes'],caught,L Gregory,2016-06-10,Surrey,Somerset,0,County Ground
+5,L Gregory,23.0,14,1,1,164.28571428571428,notOut,notOut,notOut,notOut,2016-06-17,Somerset,Gloucestershire,0,County Ground
+5,L Gregory,4.0,1,1,0,400.0,notOut,notOut,notOut,notOut,2016-06-19,Hampshire,Somerset,0,County Ground
+4,L Gregory,10.0,10,1,0,100.0,TS Roland-Jones,['BB McCullum'],caught,L Gregory,2016-06-23,Somerset,Middlesex,0,Lord's
+4,L Gregory,16.0,12,1,0,133.33333333333331,TMJ Smith,['GH Roderick'],stumped,L Gregory,2016-07-01,Gloucestershire,Gloucestershire,0,County Ground
+5,L Gregory,17.0,10,2,0,170.0,DI Stevens,0,bowled,L Gregory,2016-07-07,Kent,Kent,0,County Ground
+5,L Gregory,31.0,34,2,0,91.17647058823529,JW Dernbach,['TK Curran'],caught,L Gregory,2016-07-08,Somerset,Surrey,0,Kennington Oval
+6,L Gregory,1.0,3,0,0,33.33333333333333,TS Roland-Jones,0,bowled,L Gregory,2016-07-15,Middlesex,Middlesex,0,County Ground
+6,L Gregory,14.0,15,1,0,93.33333333333333,CA Ingram,['MA Wallace'],stumped,L Gregory,2016-07-22,Somerset,Glamorgan,0,Sophia Gardens
+3,MA Leask,8.0,4,0,1,200.0,MT Coles,['AJ Blake'],caught,MA Leask,2016-05-20,Somerset,Kent,0,St Lawrence Ground
+5,MA Leask,12.0,5,1,1,240.0,MD Taylor,['IA Cockbain'],caught,MA Leask,2016-07-01,Gloucestershire,Gloucestershire,0,County Ground
+4,MA Leask,10.0,10,1,0,100.0,FK Cowdrey,['SW Billings'],run out,MA Leask,2016-07-07,Kent,Kent,0,County Ground
+7,MA Leask,3.0,5,0,0,60.0,notOut,notOut,notOut,notOut,2016-07-08,Somerset,Surrey,0,Kennington Oval
+10,MTC Waller,3.0,7,0,0,42.857142857142854,notOut,notOut,notOut,notOut,2016-06-01,Somerset,Sussex,0,County Ground
+10,MTC Waller,11.0,9,1,0,122.22222222222223,notOut,notOut,notOut,notOut,2016-07-07,Kent,Kent,0,County Ground
+10,MTC Waller,1.0,4,0,0,25.0,notOut,notOut,notOut,notOut,2016-07-15,Middlesex,Middlesex,0,County Ground
+9,MTC Waller,4.0,6,0,0,66.66666666666666,GG Wagg,['SW Tait'],caught,MTC Waller,2016-07-22,Somerset,Glamorgan,0,Sophia Gardens
+9,MTC Waller,9.0,15,1,0,60.0,LA Dawson,['JJ Weatherley'],caught,MTC Waller,2016-07-29,Somerset,Hampshire,0,The Rose Bowl
+10,ORT Sale,1.0,3,0,0,33.33333333333333,BJ Taylor,0,bowled,ORT Sale,2016-07-29,Somerset,Hampshire,0,The Rose Bowl
+9,PA van Meekeren,1.0,2,0,0,50.0,JK Fuller,0,bowled,PA van Meekeren,2016-07-15,Middlesex,Middlesex,0,County Ground
+10,PA van Meekeren,1.0,2,0,0,50.0,MG Hogan,['T van der Gugten'],run out,PA van Meekeren,2016-07-22,Somerset,Glamorgan,0,Sophia Gardens
+2,PD Trego,57.0,31,4,4,183.8709677419355,FK Cowdrey,['JC Tredwell'],caught,PD Trego,2016-05-20,Somerset,Kent,0,St Lawrence Ground
+1,PD Trego,3.0,7,0,0,42.857142857142854,D Wiese,['LJ Wright'],caught,PD Trego,2016-06-01,Somerset,Sussex,0,County Ground
+2,PD Trego,34.0,17,5,1,200.0,Ashar Zaidi,['DW Lawrence'],caught,PD Trego,2016-06-03,Essex,Somerset,0,County Ground
+2,PD Trego,2.0,3,0,0,66.66666666666666,DJ Bravo,['BT Foakes'],caught,PD Trego,2016-06-10,Surrey,Somerset,0,County Ground
+2,PD Trego,15.0,7,0,2,214.28571428571428,TMJ Smith,0,caught and bowled,PD Trego,2016-06-17,Somerset,Gloucestershire,0,County Ground
+2,PD Trego,8.0,4,2,0,200.0,DJG Sammy,['JM Vince'],caught,PD Trego,2016-06-19,Hampshire,Somerset,0,County Ground
+2,PD Trego,14.0,7,3,0,200.0,NA Sowter,0,bowled,PD Trego,2016-06-23,Somerset,Middlesex,0,Lord's
+2,PD Trego,32.0,35,5,0,91.42857142857143,TMJ Smith,['BAC Howell'],caught,PD Trego,2016-07-01,Gloucestershire,Gloucestershire,0,County Ground
+3,PD Trego,63.0,36,8,3,175.0,FK Cowdrey,['TWM Latham'],caught,PD Trego,2016-07-07,Kent,Kent,0,County Ground
+2,PD Trego,9.0,6,2,0,150.0,JW Dernbach,0,bowled,PD Trego,2016-07-08,Somerset,Surrey,0,Kennington Oval
+2,PD Trego,3.0,4,0,0,75.0,NA Sowter,['NRT Gubbins'],caught,PD Trego,2016-07-15,Middlesex,Middlesex,0,County Ground
+2,PD Trego,9.0,9,1,0,100.0,SW Tait,0,bowled,PD Trego,2016-07-22,Somerset,Glamorgan,0,Sophia Gardens
+2,PD Trego,8.0,7,2,0,114.28571428571428,R McLaren,['GT Griffiths'],caught,PD Trego,2016-07-29,Somerset,Hampshire,0,The Rose Bowl
+4,RC Davies,5.0,3,1,0,166.66666666666669,FK Cowdrey,['JL Denly'],caught,RC Davies,2016-05-20,Somerset,Kent,0,St Lawrence Ground
+7,RC Davies,0.0,2,0,0,0.0,D Wiese,['CJ Jordan'],caught,RC Davies,2016-06-01,Somerset,Sussex,0,County Ground
+8,RC Davies,1.0,1,0,0,100.0,ME Claydon,['JL Denly'],run out,RC Davies,2016-07-07,Kent,Kent,0,County Ground
+7,RC Davies,3.0,4,0,0,75.0,HW Podmore,['JA Simpson'],caught,RC Davies,2016-07-15,Middlesex,Middlesex,0,County Ground
+7,RC Davies,0.0,2,0,0,0.0,CA Ingram,0,caught and bowled,RC Davies,2016-07-22,Somerset,Glamorgan,0,Sophia Gardens
+5,RC Davies,5.0,5,1,0,100.0,LA Dawson,0,bowled,RC Davies,2016-07-29,Somerset,Hampshire,0,The Rose Bowl
+6,RE van der Merwe,9.0,5,2,0,180.0,DA Griffiths,0,bowled,RE van der Merwe,2016-05-20,Somerset,Kent,0,St Lawrence Ground
+6,RE van der Merwe,59.0,32,3,5,184.375,TS Mills,['LRPL Taylor'],caught,RE van der Merwe,2016-06-01,Somerset,Sussex,0,County Ground
+5,RE van der Merwe,39.0,26,4,1,150.0,notOut,notOut,notOut,notOut,2016-06-10,Surrey,Somerset,0,County Ground
+6,RE van der Merwe,18.0,13,1,1,138.46153846153845,notOut,notOut,notOut,notOut,2016-06-17,Somerset,Gloucestershire,0,County Ground
+5,RE van der Merwe,17.0,12,1,1,141.66666666666669,notOut,notOut,notOut,notOut,2016-06-23,Somerset,Middlesex,0,Lord's
+6,RE van der Merwe,10.0,7,0,1,142.85714285714286,notOut,notOut,notOut,notOut,2016-07-01,Gloucestershire,Gloucestershire,0,County Ground
+6,RE van der Merwe,24.0,14,3,1,171.42857142857142,notOut,notOut,notOut,notOut,2016-07-07,Kent,Kent,0,County Ground
+4,RE van der Merwe,5.0,7,0,0,71.42857142857143,ZS Ansari,0,bowled,RE van der Merwe,2016-07-08,Somerset,Surrey,0,Kennington Oval
+5,RE van der Merwe,2.0,4,0,0,50.0,TS Roland-Jones,['EJG Morgan'],caught,RE van der Merwe,2016-07-15,Middlesex,Middlesex,0,County Ground
+5,RE van der Merwe,7.0,7,0,0,100.0,CA Ingram,0,bowled,RE van der Merwe,2016-07-22,Somerset,Glamorgan,0,Sophia Gardens
+4,TB Abell,7.0,10,1,0,70.0,LA Dawson,['TP Alsop'],caught,TB Abell,2016-07-29,Somerset,Hampshire,0,The Rose Bowl
+9,TD Groenewald,2.0,4,0,0,50.0,DA Griffiths,0,bowled,TD Groenewald,2016-07-07,Kent,Kent,0,County Ground
+4,TD Rouse,9.0,10,1,0,90.0,JK Fuller,0,bowled,TD Rouse,2016-07-15,Middlesex,Middlesex,0,County Ground
+8,Yasir Arafat,8.0,5,1,0,160.0,notOut,notOut,notOut,notOut,2016-05-20,Somerset,Kent,0,St Lawrence Ground
+9,Yasir Arafat,0.0,1,0,0,0.0,D Wiese,['MW Machan'],caught,Yasir Arafat,2016-06-01,Somerset,Sussex,0,County Ground

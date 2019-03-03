@@ -1,0 +1,425 @@
+,batsman,runs,balls,4s,6s,SR,bowler,fielders,kind,player_out,date,team2,winner,result,venue
+7,B Lee,8,7,1,0,114.28571428571428,Naved-ul-Hasan,0,bowled,B Lee,2011-12-21,Sydney Sixers,Hobart Hurricanes,0,Bellerive Oval
+8,B Lee,1,1,0,0,100.0,notOut,notOut,notOut,notOut,2011-12-27,Melbourne Stars,Sydney Sixers,0,Sydney Cricket Ground
+8,B Lee,6,6,0,0,100.0,notOut,notOut,notOut,notOut,2012-01-08,Sydney Sixers,Sydney Sixers,0,Stadium Australia
+9,B Lee,0,2,0,0,0.0,BM Edmondson,['L Ronchi'],run out,SNJ O'Keefe,2012-01-18,Perth Scorchers,Sydney Sixers,0,Sydney Cricket Ground
+10,B Lee,0,2,0,0,0.0,BM Edmondson,['SE Marsh'],caught,B Lee,2012-01-18,Perth Scorchers,Sydney Sixers,0,Sydney Cricket Ground
+8,B Lee,22,15,0,2,146.66666666666666,notOut,notOut,notOut,notOut,2012-12-16,Perth Scorchers,Perth Scorchers,0,Sydney Cricket Ground
+8,B Lee,2,3,0,0,66.66666666666666,notOut,notOut,notOut,notOut,2012-12-23,Sydney Sixers,Adelaide Strikers,0,Adelaide Oval
+5,B Lee,4,4,1,0,100.0,B Laughlin,['OA Shah'],caught,B Lee,2012-12-26,Hobart Hurricanes,Hobart Hurricanes,0,Sydney Cricket Ground
+7,B Lee,12,6,2,0,200.0,notOut,notOut,notOut,notOut,2012-12-30,Sydney Sixers,Sydney Sixers,0,Stadium Australia
+8,B Lee,0,4,0,0,0.0,DJ Hussey,['GJ Maxwell'],caught,B Lee,2013-12-29,Melbourne Stars,Melbourne Stars,0,Sydney Cricket Ground
+8,B Lee,0,2,0,0,0.0,CJ Gannon,['CA Lynn'],caught,B Lee,2014-01-02,Sydney Sixers,Sydney Sixers,0,"Brisbane Cricket Ground, Woolloongabba"
+7,B Lee,13,9,0,1,144.44444444444443,Yasir Arafat,0,bowled,B Lee,2014-01-10,Perth Scorchers,0,tie,Sydney Cricket Ground
+7,B Lee,0,1,0,0,0.0,notOut,notOut,notOut,notOut,2014-02-05,Perth Scorchers,Perth Scorchers,0,Sydney Cricket Ground
+11,B Lee,7,5,1,0,140.0,notOut,notOut,notOut,notOut,2014-12-29,Perth Scorchers,Perth Scorchers,0,Sydney Cricket Ground
+8,B Lee,7,4,1,0,175.0,KW Richardson,['A Zampa'],caught,B Lee,2015-01-14,Adelaide Strikers,Adelaide Strikers,0,Sydney Cricket Ground
+6,BJ Dwarshuis,13,11,2,0,118.18181818181819,AJ Tye,0,bowled,BJ Dwarshuis,2016-01-02,Sydney Sixers,Perth Scorchers,0,Western Australia Cricket Association Ground
+6,BJ Dwarshuis,13,8,0,1,162.5,BCJ Cutting,['JJ Peirson'],caught,BJ Dwarshuis,2016-01-10,Brisbane Heat,Brisbane Heat,0,Sydney Cricket Ground
+5,BJ Dwarshuis,13,7,1,1,185.71428571428572,Fawad Ahmed,['CD Hartley'],stumped,BJ Dwarshuis,2016-01-16,Sydney Thunder,Sydney Thunder,0,Sydney Cricket Ground
+8,BJ Dwarshuis,3,5,0,0,60.0,HP Kingston,0,bowled,BJ Dwarshuis,2016-12-23,Hobart Hurricanes,Hobart Hurricanes,0,Sydney Cricket Ground
+8,BJ Dwarshuis,9,14,0,0,64.28571428571429,B Stanlake,['CJ Jordan'],caught,BJ Dwarshuis,2016-12-31,Sydney Sixers,Adelaide Strikers,0,Adelaide Oval
+8,BJ Dwarshuis,0,2,0,0,0.0,notOut,notOut,notOut,notOut,2017-01-03,Sydney Sixers,Sydney Sixers,0,"Brisbane Cricket Ground, Woolloongabba"
+8,BJ Dwarshuis,19,25,0,0,76.0,notOut,notOut,notOut,notOut,2017-01-14,Sydney Thunder,Sydney Thunder,0,Sydney Cricket Ground
+8,BJ Dwarshuis,4,1,1,0,400.0,notOut,notOut,notOut,notOut,2017-01-21,Sydney Sixers,Sydney Sixers,0,Melbourne Cricket Ground
+8,BJ Dwarshuis,3,2,0,0,150.0,notOut,notOut,notOut,notOut,2017-01-25,Sydney Sixers,0,tie,"Brisbane Cricket Ground, Woolloongabba"
+8,BJ Dwarshuis,9,7,1,0,128.57142857142858,TT Bresnan,0,bowled,BJ Dwarshuis,2017-01-28,Sydney Sixers,Perth Scorchers,0,Western Australia Cricket Association Ground
+0,BJ Haddin,76,60,5,5,126.66666666666666,DT Christian,['ML Hayden'],caught,BJ Haddin,2011-12-16,Brisbane Heat,Sydney Sixers,0,Sydney Cricket Ground
+0,BJ Haddin,0,2,0,0,0.0,MA Beer,['L Ronchi'],caught,BJ Haddin,2012-01-18,Perth Scorchers,Sydney Sixers,0,Sydney Cricket Ground
+2,BJ Haddin,59,49,3,3,120.40816326530613,SA Abbott,0,bowled,BJ Haddin,2012-12-08,Sydney Thunder,Sydney Sixers,0,Sydney Cricket Ground
+2,BJ Haddin,10,8,1,0,125.0,MA Beer,['SE Marsh'],caught,BJ Haddin,2012-12-16,Perth Scorchers,Perth Scorchers,0,Sydney Cricket Ground
+2,BJ Haddin,22,30,1,0,73.33333333333333,MJ Johnston,['KA Pollard'],caught,BJ Haddin,2012-12-23,Sydney Sixers,Adelaide Strikers,0,Adelaide Oval
+1,BJ Haddin,22,17,4,0,129.41176470588235,MG Hogan,0,bowled,BJ Haddin,2012-12-26,Hobart Hurricanes,Hobart Hurricanes,0,Sydney Cricket Ground
+3,BJ Haddin,18,17,1,1,105.88235294117648,CH Gayle,['SJC Keen'],caught,BJ Haddin,2012-12-30,Sydney Sixers,Sydney Sixers,0,Stadium Australia
+0,BJ Haddin,16,11,2,1,145.45454545454547,AC McDermott,0,bowled,BJ Haddin,2013-01-07,Sydney Sixers,Sydney Sixers,0,"Brisbane Cricket Ground, Woolloongabba"
+1,BJ Haddin,72,45,8,2,160.0,DJG Sammy,"['GJ Bailey', 'DJG Sammy']",run out,MC Henriques,2015-12-20,Hobart Hurricanes,Sydney Sixers,0,Sydney Cricket Ground
+2,BJ Haddin,72,45,8,2,160.0,CJ Boyce,['DT Christian'],caught,BJ Haddin,2015-12-20,Hobart Hurricanes,Sydney Sixers,0,Sydney Cricket Ground
+1,BJ Haddin,0,1,0,0,0.0,CP Tremain,['MS Wade'],caught,BJ Haddin,2015-12-23,Sydney Sixers,Sydney Sixers,0,Docklands Stadium
+1,BJ Haddin,2,4,0,0,50.0,GJ Maxwell,['MA Beer'],caught,BJ Haddin,2015-12-27,Melbourne Stars,Melbourne Stars,0,Sydney Cricket Ground
+3,BJ Haddin,54,38,2,4,142.10526315789474,notOut,notOut,notOut,notOut,2015-12-31,Sydney Sixers,Adelaide Strikers,0,Adelaide Oval
+4,BJ Haddin,42,24,5,2,175.0,BCJ Cutting,['MJ Swepson'],caught,BJ Haddin,2016-01-10,Brisbane Heat,Brisbane Heat,0,Sydney Cricket Ground
+3,BJ Haddin,17,12,2,0,141.66666666666669,CJ Green,['CJ McKay'],caught,BJ Haddin,2016-01-16,Sydney Thunder,Sydney Thunder,0,Sydney Cricket Ground
+3,BJ Haddin,10,5,1,0,200.0,HP Kingston,['CA Rose'],caught,BJ Haddin,2016-12-23,Hobart Hurricanes,Hobart Hurricanes,0,Sydney Cricket Ground
+1,BJ Haddin,7,9,1,0,77.77777777777779,AJ Tye,['JA Richardson'],caught,BJ Haddin,2016-12-27,Perth Scorchers,Sydney Sixers,0,Sydney Cricket Ground
+3,BJ Haddin,1,6,0,0,16.666666666666664,B Stanlake,0,hit wicket,BJ Haddin,2016-12-31,Sydney Sixers,Adelaide Strikers,0,Adelaide Oval
+5,BJ Haddin,32,13,3,2,246.15384615384616,JD Wildermuth,['AJ Doolan (sub)'],caught,BJ Haddin,2017-01-03,Sydney Sixers,Sydney Sixers,0,"Brisbane Cricket Ground, Woolloongabba"
+4,BJ Haddin,31,23,3,0,134.7826086956522,notOut,notOut,notOut,notOut,2017-01-09,Melbourne Renegades,Sydney Sixers,0,Sydney Cricket Ground
+5,BJ Haddin,4,4,1,0,100.0,CR Brathwaite,['KR Patterson'],caught,BJ Haddin,2017-01-14,Sydney Thunder,Sydney Thunder,0,Sydney Cricket Ground
+5,BJ Haddin,10,11,1,0,90.9090909090909,MA Beer,['RJ Quiney'],caught,BJ Haddin,2017-01-21,Sydney Sixers,Sydney Sixers,0,Melbourne Cricket Ground
+5,BJ Haddin,7,7,0,0,100.0,MJ Swepson,"['S Badree', 'JJ Peirson']",run out,BJ Haddin,2017-01-25,Sydney Sixers,0,tie,"Brisbane Cricket Ground, Woolloongabba"
+4,BJ Haddin,38,25,4,2,152.0,JA Richardson,['M Klinger'],caught,BJ Haddin,2017-01-28,Sydney Sixers,Perth Scorchers,0,Western Australia Cricket Association Ground
+5,BJ Rohrer,29,19,2,0,152.63157894736844,CJ McKay,['DJ Hussey'],caught,BJ Rohrer,2011-12-27,Melbourne Stars,Sydney Sixers,0,Sydney Cricket Ground
+5,BJ Rohrer,2,2,0,0,100.0,SM Harwood,['DP Nannes'],caught,BJ Rohrer,2012-01-02,Sydney Sixers,Melbourne Renegades,0,Docklands Stadium
+4,BJ Rohrer,38,24,4,1,158.33333333333331,CH Gayle,"['LA Doran', 'BR Dunk']",run out,DJ Thornely,2012-01-08,Sydney Sixers,Sydney Sixers,0,Stadium Australia
+5,BJ Rohrer,38,24,4,1,158.33333333333331,SA Abbott,['SJ Coyte (2)'],caught,BJ Rohrer,2012-01-08,Sydney Sixers,Sydney Sixers,0,Stadium Australia
+3,BJ Rohrer,16,12,1,0,133.33333333333331,AC Thomas,['AC Blizzard'],caught,BJ Rohrer,2012-01-10,Sydney Sixers,Sydney Sixers,0,Adelaide Oval
+5,BJ Rohrer,12,12,0,0,100.0,notOut,notOut,notOut,notOut,2012-01-18,Perth Scorchers,Sydney Sixers,0,Sydney Cricket Ground
+4,BJ Rohrer,16,11,1,1,145.45454545454547,B Laughlin,"['XJ Doherty', 'TIF Triffitt']",run out,BJ Rohrer,2012-01-22,Sydney Sixers,Sydney Sixers,0,Bellerive Oval
+4,BJ Rohrer,3,2,0,0,150.0,notOut,notOut,notOut,notOut,2012-01-28,Sydney Sixers,Sydney Sixers,0,Western Australia Cricket Association Ground
+3,BMAJ Mendis,2,7,0,0,28.57142857142857,MA Beer,['SE Marsh'],run out,BMAJ Mendis,2012-12-16,Perth Scorchers,Perth Scorchers,0,Sydney Cricket Ground
+6,BMAJ Mendis,5,4,1,0,125.0,SW Tait,0,lbw,BMAJ Mendis,2012-12-23,Sydney Sixers,Adelaide Strikers,0,Adelaide Oval
+4,C Munro,1,7,0,0,14.285714285714285,Fawad Ahmed,0,bowled,C Munro,2017-01-14,Sydney Thunder,Sydney Thunder,0,Sydney Cricket Ground
+2,C Munro,3,5,0,0,60.0,BW Hilfenhaus,['RJ Quiney'],caught,C Munro,2017-01-21,Sydney Sixers,Sydney Sixers,0,Melbourne Cricket Ground
+2,C Munro,23,11,4,0,209.0909090909091,S Badree,['BB McCullum'],caught,C Munro,2017-01-25,Sydney Sixers,0,tie,"Brisbane Cricket Ground, Woolloongabba"
+9,CT Tremlett,8,7,1,0,114.28571428571428,notOut,notOut,notOut,notOut,2014-01-10,Perth Scorchers,0,tie,Sydney Cricket Ground
+1,DA Warner,0,2,0,0,0.0,CP Tremain,['RGL Carters'],caught,DA Warner,2012-12-08,Sydney Thunder,Sydney Sixers,0,Sydney Cricket Ground
+10,DE Bollinger,1,2,0,0,50.0,JP Behrendorff,0,bowled,DE Bollinger,2014-12-29,Perth Scorchers,Perth Scorchers,0,Sydney Cricket Ground
+8,DE Bollinger,4,4,0,0,100.0,notOut,notOut,notOut,notOut,2016-01-02,Sydney Sixers,Perth Scorchers,0,Western Australia Cricket Association Ground
+10,DE Bollinger,0,1,0,0,0.0,CJ McKay,['Fawad Ahmed'],caught,DE Bollinger,2016-01-16,Sydney Thunder,Sydney Thunder,0,Sydney Cricket Ground
+9,DE Bollinger,1,1,0,0,100.0,notOut,notOut,notOut,notOut,2016-12-23,Hobart Hurricanes,Hobart Hurricanes,0,Sydney Cricket Ground
+5,DJ Bravo,3,5,0,0,60.0,B Laughlin,['OA Shah'],caught,DJ Bravo,2011-12-21,Sydney Sixers,Hobart Hurricanes,0,Bellerive Oval
+1,DJ Bravo,51,41,4,3,124.39024390243902,SK Warne,['JP Faulkner'],caught,DJ Bravo,2011-12-27,Melbourne Stars,Sydney Sixers,0,Sydney Cricket Ground
+0,DJ Bravo,7,11,1,0,63.63636363636363,DP Nannes,0,bowled,DJ Bravo,2012-01-02,Sydney Sixers,Melbourne Renegades,0,Docklands Stadium
+6,DJ Thornely,4,4,0,0,100.0,Naved-ul-Hasan,0,bowled,DJ Thornely,2011-12-21,Sydney Sixers,Hobart Hurricanes,0,Bellerive Oval
+7,DJ Thornely,29,13,1,2,223.0769230769231,CJ McKay,"['MS Wade', 'CJ McKay']",run out,DJ Thornely,2011-12-27,Melbourne Stars,Sydney Sixers,0,Sydney Cricket Ground
+7,DJ Thornely,15,6,1,1,250.0,notOut,notOut,notOut,notOut,2012-01-02,Sydney Sixers,Melbourne Renegades,0,Docklands Stadium
+4,DJ Thornely,5,8,0,0,62.5,BG Drew,"['AC Thomas', 'AJ Crosthwaite']",run out,DJ Thornely,2012-01-10,Sydney Sixers,Sydney Sixers,0,Adelaide Oval
+6,DJ Thornely,19,8,1,2,237.5,NM Coulter-Nile,['SE Marsh'],caught,DJ Thornely,2012-01-18,Perth Scorchers,Sydney Sixers,0,Sydney Cricket Ground
+6,DJ Thornely,9,9,0,0,100.0,notOut,notOut,notOut,notOut,2012-01-22,Sydney Sixers,Sydney Sixers,0,Bellerive Oval
+5,DJ Thornely,5,14,0,0,35.714285714285715,GB Hogg,['TIF Triffitt'],stumped,DJ Thornely,2012-12-16,Perth Scorchers,Perth Scorchers,0,Sydney Cricket Ground
+7,DJ Thornely,4,4,0,0,100.0,notOut,notOut,notOut,notOut,2012-12-23,Sydney Sixers,Adelaide Strikers,0,Adelaide Oval
+1,DLR Smith,1,5,0,0,20.0,MA Beer,['HH Gibbs'],caught,DLR Smith,2012-12-16,Perth Scorchers,Perth Scorchers,0,Sydney Cricket Ground
+0,DLR Smith,0,9,0,0,0.0,BE Young,['CJ Ferguson'],caught,DLR Smith,2012-12-23,Sydney Sixers,Adelaide Strikers,0,Adelaide Oval
+6,DLR Smith,6,8,0,0,75.0,GJ Maxwell,['BJ Hodge'],caught,DLR Smith,2013-12-29,Melbourne Stars,Melbourne Stars,0,Sydney Cricket Ground
+6,DLR Smith,5,9,0,0,55.55555555555556,CJ Gannon,['CA Lynn'],caught,DLR Smith,2014-01-02,Sydney Sixers,Sydney Sixers,0,"Brisbane Cricket Ground, Woolloongabba"
+6,DLR Smith,12,13,1,0,92.3076923076923,GB Hogg,['AC Thomas'],caught,DLR Smith,2014-01-10,Perth Scorchers,0,tie,Sydney Cricket Ground
+7,DLR Smith,6,2,1,0,300.0,notOut,notOut,notOut,notOut,2014-01-15,Hobart Hurricanes,Sydney Sixers,0,Sydney Cricket Ground
+6,DLR Smith,0,1,0,0,0.0,NJ Rimmington,0,lbw,DLR Smith,2014-01-18,Sydney Sixers,Sydney Sixers,0,Docklands Stadium
+6,DLR Smith,4,2,1,0,200.0,PJ Cummins,0,bowled,DLR Smith,2014-02-05,Perth Scorchers,Perth Scorchers,0,Sydney Cricket Ground
+4,DP Hughes,17,13,0,2,130.76923076923077,XJ Doherty,['TD Paine'],stumped,DP Hughes,2012-12-26,Hobart Hurricanes,Hobart Hurricanes,0,Sydney Cricket Ground
+2,DP Hughes,51,37,4,2,137.83783783783784,notOut,notOut,notOut,notOut,2012-12-30,Sydney Sixers,Sydney Sixers,0,Stadium Australia
+5,DP Hughes,7,10,1,0,70.0,DT Christian,['BCJ Cutting'],caught,DP Hughes,2013-01-07,Sydney Sixers,Sydney Sixers,0,"Brisbane Cricket Ground, Woolloongabba"
+0,DP Hughes,54,51,5,1,105.88235294117648,notOut,notOut,notOut,notOut,2016-12-20,Sydney Sixers,Sydney Sixers,0,Sydney Showground Stadium
+0,DP Hughes,16,19,1,0,84.21052631578947,CJ Jordan,['BJ Hodge'],caught,DP Hughes,2016-12-31,Sydney Sixers,Adelaide Strikers,0,Adelaide Oval
+0,DP Hughes,85,56,7,4,151.78571428571428,BCJ Cutting,0,bowled,DP Hughes,2017-01-03,Sydney Sixers,Sydney Sixers,0,"Brisbane Cricket Ground, Woolloongabba"
+0,DP Hughes,41,31,6,1,132.25806451612902,SP Narine,['NLTC Perera'],caught,DP Hughes,2017-01-09,Melbourne Renegades,Sydney Sixers,0,Sydney Cricket Ground
+0,DP Hughes,20,19,2,1,105.26315789473684,SR Watson,0,lbw,DP Hughes,2017-01-14,Sydney Thunder,Sydney Thunder,0,Sydney Cricket Ground
+0,DP Hughes,34,34,4,0,100.0,EP Gulbis,0,lbw,DP Hughes,2017-01-21,Sydney Sixers,Sydney Sixers,0,Melbourne Cricket Ground
+0,DP Hughes,46,45,4,0,102.22222222222221,MT Steketee,['M Labuschagne'],caught,DP Hughes,2017-01-25,Sydney Sixers,0,tie,"Brisbane Cricket Ground, Woolloongabba"
+0,DP Hughes,8,10,0,1,80.0,AJ Turner,['TT Bresnan'],caught,DP Hughes,2017-01-28,Sydney Sixers,Perth Scorchers,0,Western Australia Cricket Association Ground
+3,EJM Cowan,1,2,0,0,50.0,notOut,notOut,notOut,notOut,2014-12-19,Melbourne Renegades,Sydney Sixers,0,Sydney Cricket Ground
+3,EJM Cowan,0,3,0,0,0.0,JK Lalor,['NM Hauritz'],caught,EJM Cowan,2015-01-22,Sydney Thunder,Sydney Sixers,0,Sydney Cricket Ground
+0,EJM Cowan,43,33,4,1,130.3030303030303,JM Holland,['TM Head'],caught,EJM Cowan,2015-12-31,Sydney Sixers,Adelaide Strikers,0,Adelaide Oval
+0,EJM Cowan,6,8,1,0,75.0,DJ Willey,0,bowled,EJM Cowan,2016-01-02,Sydney Sixers,Perth Scorchers,0,Western Australia Cricket Association Ground
+0,EJM Cowan,4,9,0,0,44.44444444444444,JR Hopes,['LMP Simmons'],caught,EJM Cowan,2016-01-10,Brisbane Heat,Brisbane Heat,0,Sydney Cricket Ground
+1,EJM Cowan,13,14,2,0,92.85714285714286,AD Russell,['CJ McKay'],caught,EJM Cowan,2016-01-16,Sydney Thunder,Sydney Thunder,0,Sydney Cricket Ground
+7,IA Moran,1,3,0,0,33.33333333333333,SJ Coyte (2),0,bowled,IA Moran,2012-01-08,Sydney Sixers,Sydney Sixers,0,Stadium Australia
+7,IA Moran,20,14,2,1,142.85714285714286,HWR Cartwright,['MJ North'],caught,IA Moran,2012-12-16,Perth Scorchers,Perth Scorchers,0,Sydney Cricket Ground
+6,J Botha,13,13,0,0,100.0,JM Mennie,['JW Wells'],caught,J Botha,2015-12-20,Hobart Hurricanes,Sydney Sixers,0,Sydney Cricket Ground
+5,J Botha,1,3,0,0,33.33333333333333,DJ Bravo,['AJ Finch'],run out,J Botha,2015-12-23,Sydney Sixers,Sydney Sixers,0,Docklands Stadium
+5,J Botha,5,12,0,0,41.66666666666667,BW Hilfenhaus,['LJ Wright'],caught,J Botha,2015-12-27,Melbourne Stars,Melbourne Stars,0,Sydney Cricket Ground
+6,J Botha,38,21,4,1,180.95238095238096,notOut,notOut,notOut,notOut,2015-12-31,Sydney Sixers,Adelaide Strikers,0,Adelaide Oval
+4,J Botha,7,8,1,0,87.5,JP Behrendorff,['CT Bancroft'],caught,J Botha,2016-01-02,Sydney Sixers,Perth Scorchers,0,Western Australia Cricket Association Ground
+7,J Botha,18,10,1,1,180.0,notOut,notOut,notOut,notOut,2016-01-10,Brisbane Heat,Brisbane Heat,0,Sydney Cricket Ground
+6,J Botha,4,3,0,0,133.33333333333331,Fawad Ahmed,['HM Nicholls'],caught,J Botha,2016-01-16,Sydney Thunder,Sydney Thunder,0,Sydney Cricket Ground
+5,J Botha,14,13,0,0,107.6923076923077,DJM Short,0,caught and bowled,J Botha,2016-12-23,Hobart Hurricanes,Hobart Hurricanes,0,Sydney Cricket Ground
+4,J Botha,30,19,2,1,157.89473684210526,notOut,notOut,notOut,notOut,2016-12-27,Perth Scorchers,Sydney Sixers,0,Sydney Cricket Ground
+6,J Botha,5,7,0,0,71.42857142857143,B Laughlin,['TM Head'],caught,J Botha,2016-12-31,Sydney Sixers,Adelaide Strikers,0,Adelaide Oval
+6,J Botha,13,11,1,0,118.18181818181819,MJ Swepson,['BCJ Cutting'],caught,J Botha,2017-01-03,Sydney Sixers,Sydney Sixers,0,"Brisbane Cricket Ground, Woolloongabba"
+7,J Botha,3,7,0,0,42.857142857142854,CR Brathwaite,0,bowled,J Botha,2017-01-14,Sydney Thunder,Sydney Thunder,0,Sydney Cricket Ground
+6,J Botha,25,14,3,0,178.57142857142858,SM Boland,0,caught and bowled,J Botha,2017-01-21,Sydney Sixers,Sydney Sixers,0,Melbourne Cricket Ground
+6,J Botha,16,12,3,0,133.33333333333331,BCJ Cutting,['JJ Peirson'],caught,J Botha,2017-01-25,Sydney Sixers,0,tie,"Brisbane Cricket Ground, Woolloongabba"
+6,J Botha,32,27,3,1,118.5185185185185,TT Bresnan,['JA Richardson'],caught,J Botha,2017-01-28,Sydney Sixers,Perth Scorchers,0,Western Australia Cricket Association Ground
+5,JC Silk,2,4,0,0,50.0,GJ Maxwell,0,bowled,JC Silk,2013-12-29,Melbourne Stars,Melbourne Stars,0,Sydney Cricket Ground
+5,JC Silk,6,10,0,0,60.0,CJ Gannon,0,bowled,JC Silk,2014-01-02,Sydney Sixers,Sydney Sixers,0,"Brisbane Cricket Ground, Woolloongabba"
+5,JC Silk,4,4,0,0,100.0,notOut,notOut,notOut,notOut,2014-01-05,Sydney Sixers,Sydney Sixers,0,Adelaide Oval
+5,JC Silk,23,25,2,0,92.0,AC Voges,0,caught and bowled,JC Silk,2014-01-10,Perth Scorchers,0,tie,Sydney Cricket Ground
+5,JC Silk,32,30,4,0,106.66666666666667,B Laughlin,['OA Shah'],caught,JC Silk,2014-01-15,Hobart Hurricanes,Sydney Sixers,0,Sydney Cricket Ground
+5,JC Silk,10,16,0,0,62.5,DJ Bravo,0,bowled,JC Silk,2014-01-18,Sydney Sixers,Sydney Sixers,0,Docklands Stadium
+4,JC Silk,31,23,2,0,134.7826086956522,notOut,notOut,notOut,notOut,2014-12-23,Sydney Sixers,Sydney Sixers,0,Bellerive Oval
+4,JC Silk,23,20,2,0,114.99999999999999,GS Sandhu,0,bowled,JC Silk,2014-12-27,Sydney Sixers,Sydney Sixers,0,Stadium Australia
+5,JC Silk,10,14,0,0,71.42857142857143,AJ Tye,0,lbw,JC Silk,2014-12-29,Perth Scorchers,Perth Scorchers,0,Sydney Cricket Ground
+4,JC Silk,37,34,0,1,108.8235294117647,notOut,notOut,notOut,notOut,2015-01-05,Sydney Sixers,0,tie,Melbourne Cricket Ground
+4,JC Silk,29,23,4,0,126.08695652173914,notOut,notOut,notOut,notOut,2015-01-11,Sydney Sixers,Sydney Sixers,0,"Brisbane Cricket Ground, Woolloongabba"
+4,JC Silk,67,36,7,3,186.11111111111111,B Laughlin,['B Laughlin'],run out,JC Silk,2015-01-14,Adelaide Strikers,Adelaide Strikers,0,Sydney Cricket Ground
+4,JC Silk,69,43,1,5,160.46511627906978,notOut,notOut,notOut,notOut,2015-01-22,Sydney Thunder,Sydney Sixers,0,Sydney Cricket Ground
+4,JC Silk,3,5,0,0,60.0,B Laughlin,0,lbw,JC Silk,2015-01-24,Sydney Sixers,Sydney Sixers,0,Adelaide Oval
+4,JC Silk,3,4,0,0,75.0,GB Hogg,0,bowled,JC Silk,2015-01-28,Sydney Sixers,Perth Scorchers,0,Manuka Oval
+5,JC Silk,41,29,0,2,141.3793103448276,notOut,notOut,notOut,notOut,2015-12-20,Hobart Hurricanes,Sydney Sixers,0,Sydney Cricket Ground
+4,JC Silk,14,9,0,1,155.55555555555557,NJ Rimmington,0,lbw,JC Silk,2015-12-23,Sydney Sixers,Sydney Sixers,0,Docklands Stadium
+4,JC Silk,35,30,1,1,116.66666666666667,BW Hilfenhaus,0,lbw,JC Silk,2015-12-27,Melbourne Stars,Melbourne Stars,0,Sydney Cricket Ground
+4,JC Silk,3,7,0,0,42.857142857142854,AU Rashid,['CJ Simmons'],caught,JC Silk,2015-12-31,Sydney Sixers,Adelaide Strikers,0,Adelaide Oval
+3,JC Silk,1,5,0,0,20.0,JS Paris,['CT Bancroft'],caught,JC Silk,2016-01-02,Sydney Sixers,Perth Scorchers,0,Western Australia Cricket Association Ground
+5,JC Silk,3,5,0,0,60.0,MJ Swepson,0,bowled,JC Silk,2016-01-10,Brisbane Heat,Brisbane Heat,0,Sydney Cricket Ground
+4,JC Silk,16,14,0,1,114.28571428571428,CJ Green,['HM Nicholls'],caught,JC Silk,2016-01-16,Sydney Thunder,Sydney Thunder,0,Sydney Cricket Ground
+1,JC Silk,7,7,1,0,100.0,CA Rose,['SCJ Broad'],caught,JC Silk,2016-12-23,Hobart Hurricanes,Hobart Hurricanes,0,Sydney Cricket Ground
+3,JC Silk,28,29,1,0,96.55172413793103,AJ Tye,0,bowled,JC Silk,2016-12-27,Perth Scorchers,Sydney Sixers,0,Sydney Cricket Ground
+5,JC Silk,6,7,0,0,85.71428571428571,notOut,notOut,notOut,notOut,2017-01-09,Melbourne Renegades,Sydney Sixers,0,Sydney Cricket Ground
+5,JC Silk,3,5,0,0,60.0,JA Richardson,['MG Johnson'],caught,JC Silk,2017-01-28,Sydney Sixers,Perth Scorchers,0,Western Australia Cricket Association Ground
+1,JJ Roy,27,19,4,1,142.10526315789474,AD Russell,['PJ Cummins'],caught,JJ Roy,2016-12-20,Sydney Sixers,Sydney Sixers,0,Sydney Showground Stadium
+0,JJ Roy,40,25,5,2,160.0,CJ Boyce,['TD Paine'],stumped,JJ Roy,2016-12-23,Hobart Hurricanes,Hobart Hurricanes,0,Sydney Cricket Ground
+1,JJ Roy,18,11,2,1,163.63636363636365,B Laughlin,['CJ Jordan'],caught,JJ Roy,2016-12-31,Sydney Sixers,Adelaide Strikers,0,Adelaide Oval
+1,JJ Roy,7,7,1,0,100.0,S Badree,0,lbw,JJ Roy,2017-01-03,Sydney Sixers,Sydney Sixers,0,"Brisbane Cricket Ground, Woolloongabba"
+8,JK Lalor,0,3,0,0,0.0,notOut,notOut,notOut,notOut,2012-12-26,Hobart Hurricanes,Hobart Hurricanes,0,Sydney Cricket Ground
+9,JK Lalor,5,8,0,0,62.5,notOut,notOut,notOut,notOut,2013-12-29,Melbourne Stars,Melbourne Stars,0,Sydney Cricket Ground
+9,JK Lalor,4,4,0,0,100.0,notOut,notOut,notOut,notOut,2014-01-02,Sydney Sixers,Sydney Sixers,0,"Brisbane Cricket Ground, Woolloongabba"
+9,JM Bird,1,2,0,0,50.0,notOut,notOut,notOut,notOut,2016-01-02,Sydney Sixers,Perth Scorchers,0,Western Australia Cricket Association Ground
+9,JM Bird,1,1,0,0,100.0,notOut,notOut,notOut,notOut,2016-01-10,Brisbane Heat,Brisbane Heat,0,Sydney Cricket Ground
+9,JM Bird,1,2,0,0,50.0,CJ McKay,['SR Watson'],caught,JM Bird,2016-01-16,Sydney Thunder,Sydney Thunder,0,Sydney Cricket Ground
+10,JM Bird,2,7,0,0,28.57142857142857,notOut,notOut,notOut,notOut,2017-01-14,Sydney Thunder,Sydney Thunder,0,Sydney Cricket Ground
+10,JM Bird,2,3,0,0,66.66666666666666,notOut,notOut,notOut,notOut,2017-01-28,Sydney Sixers,Perth Scorchers,0,Western Australia Cricket Association Ground
+10,JM Mennie,3,5,0,0,60.0,SW Tait,['GJ Bailey'],run out,DE Bollinger,2016-12-23,Hobart Hurricanes,Hobart Hurricanes,0,Sydney Cricket Ground
+8,JR Hazlewood,2,6,0,0,33.33333333333333,Naved-ul-Hasan,0,bowled,JR Hazlewood,2011-12-21,Sydney Sixers,Hobart Hurricanes,0,Bellerive Oval
+10,JR Hazlewood,2,5,0,0,40.0,notOut,notOut,notOut,notOut,2013-12-29,Melbourne Stars,Melbourne Stars,0,Sydney Cricket Ground
+10,JR Hazlewood,1,1,0,0,100.0,notOut,notOut,notOut,notOut,2014-01-10,Perth Scorchers,0,tie,Sydney Cricket Ground
+7,KR Patterson,4,2,1,0,200.0,B Laughlin,0,bowled,KR Patterson,2012-12-26,Hobart Hurricanes,Hobart Hurricanes,0,Sydney Cricket Ground
+8,LA Doran,1,1,0,0,100.0,notOut,notOut,notOut,notOut,2014-12-27,Sydney Sixers,Sydney Sixers,0,Stadium Australia
+9,LA Doran,1,3,0,0,33.33333333333333,AJ Turner,0,lbw,LA Doran,2014-12-29,Perth Scorchers,Perth Scorchers,0,Sydney Cricket Ground
+10,LW Feldman,12,10,0,1,120.0,notOut,notOut,notOut,notOut,2012-12-16,Perth Scorchers,Perth Scorchers,0,Sydney Cricket Ground
+9,MA Starc,8,8,1,0,100.0,notOut,notOut,notOut,notOut,2011-12-21,Sydney Sixers,Hobart Hurricanes,0,Bellerive Oval
+9,MA Starc,1,1,0,0,100.0,CJ McKay,"['LJ Wright', 'MS Wade']",run out,B Lee,2011-12-27,Melbourne Stars,Sydney Sixers,0,Sydney Cricket Ground
+11,MA Starc,1,1,0,0,100.0,notOut,notOut,notOut,notOut,2012-01-18,Perth Scorchers,Sydney Sixers,0,Sydney Cricket Ground
+7,MA Starc,3,3,0,0,100.0,notOut,notOut,notOut,notOut,2014-12-27,Sydney Sixers,Sydney Sixers,0,Stadium Australia
+8,MA Starc,0,1,0,0,0.0,AJ Turner,['AC Voges'],caught,MA Starc,2014-12-29,Perth Scorchers,Perth Scorchers,0,Sydney Cricket Ground
+4,MC Henriques,5,2,1,0,250.0,notOut,notOut,notOut,notOut,2011-12-16,Brisbane Heat,Sydney Sixers,0,Sydney Cricket Ground
+4,MC Henriques,22,18,1,0,122.22222222222223,Naved-ul-Hasan,['PA Jaques'],caught,MC Henriques,2011-12-21,Sydney Sixers,Hobart Hurricanes,0,Bellerive Oval
+4,MC Henriques,1,3,0,0,33.33333333333333,JP Faulkner,['LJ Wright'],caught,MC Henriques,2011-12-27,Melbourne Stars,Sydney Sixers,0,Sydney Cricket Ground
+4,MC Henriques,41,31,3,1,132.25806451612902,DP Nannes,['GA Manou'],caught,MC Henriques,2012-01-02,Sydney Sixers,Melbourne Renegades,0,Docklands Stadium
+1,MC Henriques,20,25,1,0,80.0,SA Abbott,['LR Butterworth'],caught,MC Henriques,2012-01-08,Sydney Sixers,Sydney Sixers,0,Stadium Australia
+1,MC Henriques,42,37,2,1,113.51351351351352,AC Thomas,0,bowled,MC Henriques,2012-01-10,Sydney Sixers,Sydney Sixers,0,Adelaide Oval
+3,MC Henriques,31,34,2,0,91.17647058823529,GB Hogg,['BM Edmondson'],caught,MC Henriques,2012-01-18,Perth Scorchers,Sydney Sixers,0,Sydney Cricket Ground
+0,MC Henriques,0,3,0,0,0.0,XJ Doherty,0,caught and bowled,MC Henriques,2012-01-22,Sydney Sixers,Sydney Sixers,0,Bellerive Oval
+0,MC Henriques,70,43,6,4,162.7906976744186,GB Hogg,['L Ronchi'],stumped,MC Henriques,2012-01-28,Sydney Sixers,Sydney Sixers,0,Western Australia Cricket Association Ground
+4,MC Henriques,4,1,1,0,400.0,notOut,notOut,notOut,notOut,2012-12-08,Sydney Thunder,Sydney Sixers,0,Sydney Cricket Ground
+0,MC Henriques,3,8,0,0,37.5,AC Thomas,['TIF Triffitt'],caught,MC Henriques,2012-12-16,Perth Scorchers,Perth Scorchers,0,Sydney Cricket Ground
+4,MC Henriques,32,27,2,2,118.5185185185185,KW Richardson,['J Botha'],run out,SPD Smith,2012-12-23,Sydney Sixers,Adelaide Strikers,0,Adelaide Oval
+5,MC Henriques,32,27,2,2,118.5185185185185,SW Tait,0,bowled,MC Henriques,2012-12-23,Sydney Sixers,Adelaide Strikers,0,Adelaide Oval
+2,MC Henriques,18,14,2,0,128.57142857142858,B Laughlin,['GJ Bailey'],caught,MC Henriques,2012-12-26,Hobart Hurricanes,Hobart Hurricanes,0,Sydney Cricket Ground
+5,MC Henriques,7,3,1,0,233.33333333333334,CH Gayle,0,bowled,MC Henriques,2012-12-30,Sydney Sixers,Sydney Sixers,0,Stadium Australia
+3,MC Henriques,12,17,1,0,70.58823529411765,BCJ Cutting,['PJ Forrest'],caught,MC Henriques,2013-01-07,Sydney Sixers,Sydney Sixers,0,"Brisbane Cricket Ground, Woolloongabba"
+5,MC Henriques,28,19,2,1,147.36842105263156,notOut,notOut,notOut,notOut,2013-12-21,Sydney Thunder,Sydney Sixers,0,Sydney Cricket Ground
+4,MC Henriques,17,15,1,0,113.33333333333333,GJ Maxwell,['JW Hastings'],caught,MC Henriques,2013-12-29,Melbourne Stars,Melbourne Stars,0,Sydney Cricket Ground
+2,MC Henriques,19,15,3,0,126.66666666666666,CJ Gannon,['BCJ Cutting'],caught,MC Henriques,2014-01-02,Sydney Sixers,Sydney Sixers,0,"Brisbane Cricket Ground, Woolloongabba"
+2,MC Henriques,26,19,5,0,136.8421052631579,Shakib Al Hasan,0,lbw,MC Henriques,2014-01-05,Sydney Sixers,Sydney Sixers,0,Adelaide Oval
+2,MC Henriques,0,5,0,0,0.0,JP Behrendorff,['SM Whiteman'],caught,MC Henriques,2014-01-10,Perth Scorchers,0,tie,Sydney Cricket Ground
+2,MC Henriques,31,21,2,2,147.61904761904762,BW Hilfenhaus,['CJ Boyce'],caught,MC Henriques,2014-01-15,Hobart Hurricanes,Sydney Sixers,0,Sydney Cricket Ground
+2,MC Henriques,55,40,7,1,137.5,M Muralitharan,['PM Nevill'],stumped,MC Henriques,2014-01-18,Sydney Sixers,Sydney Sixers,0,Docklands Stadium
+3,MC Henriques,27,31,2,0,87.09677419354838,notOut,notOut,notOut,notOut,2014-01-25,Sydney Sixers,Sydney Sixers,0,Stadium Australia
+2,MC Henriques,36,33,3,0,109.09090909090908,AD Russell,['DJ Bravo'],caught,MC Henriques,2014-12-19,Melbourne Renegades,Sydney Sixers,0,Sydney Cricket Ground
+3,MC Henriques,29,25,1,1,115.99999999999999,notOut,notOut,notOut,notOut,2014-12-23,Sydney Sixers,Sydney Sixers,0,Bellerive Oval
+3,MC Henriques,18,17,0,1,105.88235294117648,NM Hauritz,['AB McDonald'],caught,MC Henriques,2014-12-27,Sydney Sixers,Sydney Sixers,0,Stadium Australia
+3,MC Henriques,23,24,1,1,95.83333333333334,AJ Tye,['AJ Tye'],run out,MH Wessels,2014-12-29,Perth Scorchers,Perth Scorchers,0,Sydney Cricket Ground
+4,MC Henriques,23,24,1,1,95.83333333333334,Yasir Arafat,0,hit wicket,MC Henriques,2014-12-29,Perth Scorchers,Perth Scorchers,0,Sydney Cricket Ground
+3,MC Henriques,7,4,0,0,175.0,SM Boland,['TIF Triffitt'],caught,MC Henriques,2015-01-05,Sydney Sixers,0,tie,Melbourne Cricket Ground
+3,MC Henriques,18,16,2,0,112.5,JR Hopes,0,bowled,MC Henriques,2015-01-11,Sydney Sixers,Sydney Sixers,0,"Brisbane Cricket Ground, Woolloongabba"
+3,MC Henriques,10,13,0,0,76.92307692307693,SW Tait,['TP Ludeman'],caught,MC Henriques,2015-01-14,Adelaide Strikers,Adelaide Strikers,0,Sydney Cricket Ground
+3,MC Henriques,27,19,1,1,142.10526315789474,notOut,notOut,notOut,notOut,2015-01-24,Sydney Sixers,Sydney Sixers,0,Adelaide Oval
+3,MC Henriques,77,57,5,2,135.08771929824562,Yasir Arafat,"['AJ Turner', 'SM Whiteman']",run out,MC Henriques,2015-01-28,Sydney Sixers,Perth Scorchers,0,Manuka Oval
+4,MC Henriques,11,14,1,0,78.57142857142857,notOut,notOut,notOut,notOut,2015-12-20,Hobart Hurricanes,Sydney Sixers,0,Sydney Cricket Ground
+3,MC Henriques,62,38,4,2,163.1578947368421,CP Tremain,['TLW Cooper'],caught,MC Henriques,2015-12-23,Sydney Sixers,Sydney Sixers,0,Docklands Stadium
+3,MC Henriques,41,34,4,0,120.58823529411764,MA Beer,0,retired hurt,MC Henriques,2015-12-27,Melbourne Stars,Melbourne Stars,0,Sydney Cricket Ground
+2,MC Henriques,76,41,7,4,185.3658536585366,notOut,notOut,notOut,notOut,2016-12-20,Sydney Sixers,Sydney Sixers,0,Sydney Showground Stadium
+2,MC Henriques,0,1,0,0,0.0,CA Rose,0,caught and bowled,MC Henriques,2016-12-23,Hobart Hurricanes,Hobart Hurricanes,0,Sydney Cricket Ground
+2,MC Henriques,24,21,2,0,114.28571428571428,AJ Tye,0,lbw,MC Henriques,2016-12-27,Perth Scorchers,Sydney Sixers,0,Sydney Cricket Ground
+4,MC Henriques,5,7,0,0,71.42857142857143,LN O'Connor,['KA Pollard'],caught,MC Henriques,2016-12-31,Sydney Sixers,Adelaide Strikers,0,Adelaide Oval
+3,MC Henriques,10,11,0,0,90.9090909090909,ND Buchanan,['MT Steketee'],caught,MC Henriques,2017-01-03,Sydney Sixers,Sydney Sixers,0,"Brisbane Cricket Ground, Woolloongabba"
+3,MC Henriques,30,20,2,1,150.0,NLTC Perera,['CJ Ferguson'],caught,MC Henriques,2017-01-09,Melbourne Renegades,Sydney Sixers,0,Sydney Cricket Ground
+3,MC Henriques,13,13,1,0,100.0,Fawad Ahmed,['RJ Gibson'],caught,MC Henriques,2017-01-14,Sydney Thunder,Sydney Thunder,0,Sydney Cricket Ground
+3,MC Henriques,20,17,3,0,117.64705882352942,L Bowe,0,bowled,MC Henriques,2017-01-21,Sydney Sixers,Sydney Sixers,0,Melbourne Cricket Ground
+3,MC Henriques,64,35,5,3,182.85714285714286,MT Steketee,['JA Burns'],caught,MC Henriques,2017-01-25,Sydney Sixers,0,tie,"Brisbane Cricket Ground, Woolloongabba"
+3,MC Henriques,21,22,1,1,95.45454545454545,JA Richardson,['M Klinger'],caught,MC Henriques,2017-01-28,Sydney Sixers,Perth Scorchers,0,Western Australia Cricket Association Ground
+2,MH Wessels,22,18,2,0,122.22222222222223,JM Mennie,['BR Dunk'],caught,MH Wessels,2014-12-23,Sydney Sixers,Sydney Sixers,0,Bellerive Oval
+2,MH Wessels,50,34,5,2,147.05882352941177,NM Hauritz,['GS Sandhu'],caught,MH Wessels,2014-12-27,Sydney Sixers,Sydney Sixers,0,Stadium Australia
+2,MH Wessels,28,27,0,2,103.7037037037037,notOut,notOut,notOut,notOut,2014-12-29,Perth Scorchers,Perth Scorchers,0,Sydney Cricket Ground
+2,MH Wessels,6,6,1,0,100.0,JW Hastings,['GJ Maxwell'],caught,MH Wessels,2015-01-05,Sydney Sixers,0,tie,Melbourne Cricket Ground
+2,MH Wessels,28,20,6,0,140.0,JR Hopes,['JJ Peirson'],caught,MH Wessels,2015-01-11,Sydney Sixers,Sydney Sixers,0,"Brisbane Cricket Ground, Woolloongabba"
+2,MH Wessels,15,21,1,0,71.42857142857143,A Zampa,['RN ten Doeschate'],caught,MH Wessels,2015-01-14,Adelaide Strikers,Adelaide Strikers,0,Sydney Cricket Ground
+2,MH Wessels,30,31,3,0,96.7741935483871,AR Beadle,0,bowled,MH Wessels,2015-01-22,Sydney Thunder,Sydney Sixers,0,Sydney Cricket Ground
+0,MH Wessels,24,24,3,0,100.0,SW Tait,0,bowled,MH Wessels,2015-01-24,Sydney Sixers,Sydney Sixers,0,Adelaide Oval
+1,MH Wessels,2,4,0,0,50.0,JP Behrendorff,0,bowled,MH Wessels,2015-01-28,Sydney Sixers,Perth Scorchers,0,Manuka Oval
+2,MJ Cosgrove,6,7,1,0,85.71428571428571,CR Woakes,['DP Nannes'],caught,MJ Cosgrove,2013-12-21,Sydney Thunder,Sydney Sixers,0,Sydney Cricket Ground
+0,MJ Cosgrove,32,24,5,0,133.33333333333331,CP Tremain,['DP Nannes'],caught,MJ Cosgrove,2014-01-25,Sydney Sixers,Sydney Sixers,0,Stadium Australia
+5,MJ Cosgrove,0,1,0,0,0.0,PJ Cummins,['SM Whiteman'],caught,MJ Cosgrove,2014-02-05,Perth Scorchers,Perth Scorchers,0,Sydney Cricket Ground
+1,MJ Lumb,18,13,3,0,138.46153846153845,JR Hopes,['BB McCullum'],caught,MJ Lumb,2011-12-16,Brisbane Heat,Sydney Sixers,0,Sydney Cricket Ground
+1,MJ Lumb,3,9,0,0,33.33333333333333,JJ Krejza,0,bowled,MJ Lumb,2011-12-21,Sydney Sixers,Hobart Hurricanes,0,Bellerive Oval
+0,MJ Lumb,18,14,2,1,128.57142857142858,CJ McKay,['RJ Quiney'],caught,MJ Lumb,2011-12-27,Melbourne Stars,Sydney Sixers,0,Sydney Cricket Ground
+1,MJ Lumb,25,22,4,0,113.63636363636364,GJ Maxwell,0,bowled,MJ Lumb,2012-01-02,Sydney Sixers,Melbourne Renegades,0,Docklands Stadium
+0,MJ Lumb,15,14,1,1,107.14285714285714,LR Butterworth,['BR Dunk'],caught,MJ Lumb,2012-01-08,Sydney Sixers,Sydney Sixers,0,Stadium Australia
+0,MJ Lumb,8,9,1,0,88.88888888888889,AW O'Brien,"['BG Drew', 'AJ Crosthwaite']",run out,MJ Lumb,2012-01-10,Sydney Sixers,Sydney Sixers,0,Adelaide Oval
+2,MJ Lumb,3,4,0,0,75.0,NM Coulter-Nile,0,lbw,MJ Lumb,2012-01-18,Perth Scorchers,Sydney Sixers,0,Sydney Cricket Ground
+0,MJ Lumb,34,23,6,0,147.82608695652172,XJ Doherty,0,lbw,MJ Lumb,2012-12-26,Hobart Hurricanes,Hobart Hurricanes,0,Sydney Cricket Ground
+1,MJ Lumb,20,17,1,2,117.64705882352942,CP Tremain,['SA Abbott'],caught,MJ Lumb,2012-12-30,Sydney Sixers,Sydney Sixers,0,Stadium Australia
+1,MJ Lumb,61,55,5,1,110.9090909090909,notOut,notOut,notOut,notOut,2013-01-07,Sydney Sixers,Sydney Sixers,0,"Brisbane Cricket Ground, Woolloongabba"
+0,MJ Lumb,4,6,0,0,66.66666666666666,GS Sandhu,['DA Warner'],caught,MJ Lumb,2013-12-21,Sydney Thunder,Sydney Sixers,0,Sydney Cricket Ground
+0,MJ Lumb,29,20,4,1,145.0,JM Bird,0,bowled,MJ Lumb,2013-12-29,Melbourne Stars,Melbourne Stars,0,Sydney Cricket Ground
+1,MJ Lumb,56,43,6,1,130.2325581395349,BCJ Cutting,['JR Hopes'],caught,MJ Lumb,2014-01-02,Sydney Sixers,Sydney Sixers,0,"Brisbane Cricket Ground, Woolloongabba"
+0,MJ Lumb,54,42,1,5,128.57142857142858,Shakib Al Hasan,['PJ Hughes'],caught,MJ Lumb,2014-01-05,Sydney Sixers,Sydney Sixers,0,Adelaide Oval
+1,MJ Lumb,23,13,2,2,176.9230769230769,BW Hilfenhaus,['BR Dunk'],caught,MJ Lumb,2014-01-15,Hobart Hurricanes,Sydney Sixers,0,Sydney Cricket Ground
+1,MJ Lumb,18,17,2,0,105.88235294117648,NJ Rimmington,['BJ Rohrer'],caught,MJ Lumb,2014-01-18,Sydney Sixers,Sydney Sixers,0,Docklands Stadium
+1,MJ Lumb,2,6,0,0,33.33333333333333,DP Nannes,"['KR Patterson', 'DP Nannes']",run out,MJ Lumb,2014-01-25,Sydney Sixers,Sydney Sixers,0,Stadium Australia
+0,MJ Lumb,1,7,0,0,14.285714285714285,JP Behrendorff,['PJ Cummins'],caught,MJ Lumb,2014-02-05,Perth Scorchers,Perth Scorchers,0,Sydney Cricket Ground
+0,MJ Lumb,28,25,4,0,112.00000000000001,NJ Rimmington,0,lbw,MJ Lumb,2014-12-19,Melbourne Renegades,Sydney Sixers,0,Sydney Cricket Ground
+0,MJ Lumb,44,31,3,2,141.93548387096774,CJ Boyce,['EP Gulbis'],caught,MJ Lumb,2014-12-23,Sydney Sixers,Sydney Sixers,0,Bellerive Oval
+1,MJ Lumb,27,22,4,1,122.72727272727273,DP Nannes,['DP Hughes'],caught,MJ Lumb,2014-12-27,Sydney Sixers,Sydney Sixers,0,Stadium Australia
+0,MJ Lumb,8,11,0,0,72.72727272727273,MW Dixon,['AC Voges'],caught,MJ Lumb,2014-12-29,Perth Scorchers,Perth Scorchers,0,Sydney Cricket Ground
+1,MJ Lumb,80,63,6,3,126.98412698412697,SM Boland,['CL White'],caught,MJ Lumb,2015-01-05,Sydney Sixers,0,tie,Melbourne Cricket Ground
+1,MJ Lumb,25,20,2,1,125.0,DT Christian,['RM Duffield'],caught,MJ Lumb,2015-01-11,Sydney Sixers,Sydney Sixers,0,"Brisbane Cricket Ground, Woolloongabba"
+1,MJ Lumb,17,18,1,1,94.44444444444444,KW Richardson,['B Laughlin'],caught,MJ Lumb,2015-01-14,Adelaide Strikers,Adelaide Strikers,0,Sydney Cricket Ground
+1,MJ Lumb,1,6,0,0,16.666666666666664,JK Lalor,0,lbw,MJ Lumb,2015-01-22,Sydney Thunder,Sydney Sixers,0,Sydney Cricket Ground
+1,MJ Lumb,32,19,6,1,168.42105263157893,B Laughlin,"['TM Head', 'TP Ludeman']",run out,MJ Lumb,2015-01-24,Sydney Sixers,Sydney Sixers,0,Adelaide Oval
+0,MJ Lumb,3,8,0,0,37.5,NM Coulter-Nile,0,bowled,MJ Lumb,2015-01-28,Sydney Sixers,Perth Scorchers,0,Manuka Oval
+0,MJ Lumb,4,3,1,0,133.33333333333331,SW Tait,['JM Mennie'],caught,MJ Lumb,2015-12-20,Hobart Hurricanes,Sydney Sixers,0,Sydney Cricket Ground
+0,MJ Lumb,63,36,4,5,175.0,NJ Rimmington,['MS Wade'],caught,MJ Lumb,2015-12-23,Sydney Sixers,Sydney Sixers,0,Docklands Stadium
+0,MJ Lumb,15,12,1,1,125.0,MA Beer,0,lbw,MJ Lumb,2015-12-27,Melbourne Stars,Melbourne Stars,0,Sydney Cricket Ground
+1,MJ Lumb,31,24,2,2,129.16666666666669,HP Kingston,['AI Ross'],caught,MJ Lumb,2015-12-31,Sydney Sixers,Adelaide Strikers,0,Adelaide Oval
+1,MJ Lumb,47,46,4,1,102.17391304347827,JP Behrendorff,['JS Paris'],caught,MJ Lumb,2016-01-02,Sydney Sixers,Perth Scorchers,0,Western Australia Cricket Association Ground
+1,MJ Lumb,47,42,4,0,111.90476190476191,JS Floros,0,bowled,MJ Lumb,2016-01-10,Brisbane Heat,Brisbane Heat,0,Sydney Cricket Ground
+0,MJ Lumb,12,7,0,1,171.42857142857142,CJ McKay,['N McAndrew'],caught,MJ Lumb,2016-01-16,Sydney Thunder,Sydney Thunder,0,Sydney Cricket Ground
+1,MJ Lumb,31,23,4,0,134.7826086956522,NLTC Perera,['SP Narine'],caught,MJ Lumb,2017-01-09,Melbourne Renegades,Sydney Sixers,0,Sydney Cricket Ground
+1,MJ Lumb,11,11,2,0,100.0,CJ Green,0,bowled,MJ Lumb,2017-01-14,Sydney Thunder,Sydney Thunder,0,Sydney Cricket Ground
+1,MJ Lumb,6,10,0,0,60.0,SM Boland,0,bowled,MJ Lumb,2017-01-21,Sydney Sixers,Sydney Sixers,0,Melbourne Cricket Ground
+4,MJ Lumb,2,3,0,0,66.66666666666666,MJ Swepson,['JJ Peirson'],stumped,MJ Lumb,2017-01-25,Sydney Sixers,0,tie,"Brisbane Cricket Ground, Woolloongabba"
+1,MJ Lumb,5,6,1,0,83.33333333333334,MG Johnson,['SM Whiteman'],caught,MJ Lumb,2017-01-28,Sydney Sixers,Perth Scorchers,0,Western Australia Cricket Association Ground
+2,MJ North,23,19,2,0,121.05263157894737,JM Bird,"['MS Wade', 'GJ Maxwell']",run out,MJ North,2013-12-29,Melbourne Stars,Melbourne Stars,0,Sydney Cricket Ground
+3,MJ North,13,17,1,0,76.47058823529412,DL Vettori,['JR Hopes'],caught,MJ North,2014-01-02,Sydney Sixers,Sydney Sixers,0,"Brisbane Cricket Ground, Woolloongabba"
+3,MJ North,38,31,1,2,122.58064516129032,KW Richardson,['NJ Reardon'],caught,MJ North,2014-01-05,Sydney Sixers,Sydney Sixers,0,Adelaide Oval
+4,MJ North,0,1,0,0,0.0,JP Behrendorff,['SM Whiteman'],caught,MJ North,2014-01-10,Perth Scorchers,0,tie,Sydney Cricket Ground
+4,MJ North,6,9,1,0,66.66666666666666,CJ Boyce,['OA Shah'],caught,MJ North,2014-01-15,Hobart Hurricanes,Sydney Sixers,0,Sydney Cricket Ground
+4,MJ North,30,21,2,1,142.85714285714286,notOut,notOut,notOut,notOut,2014-01-18,Sydney Sixers,Sydney Sixers,0,Docklands Stadium
+2,NCR Larkin,15,15,3,0,100.0,MJ Swepson,['JJ Peirson'],caught,NCR Larkin,2016-01-10,Brisbane Heat,Brisbane Heat,0,Sydney Cricket Ground
+2,NJ Maddinson,28,32,1,0,87.5,AC McDermott,0,bowled,NJ Maddinson,2011-12-16,Brisbane Heat,Sydney Sixers,0,Sydney Cricket Ground
+3,NJ Maddinson,33,27,4,0,122.22222222222223,JJ Krejza,0,lbw,NJ Maddinson,2011-12-21,Sydney Sixers,Hobart Hurricanes,0,Bellerive Oval
+2,NJ Maddinson,24,17,1,2,141.1764705882353,DJ Hussey,0,lbw,NJ Maddinson,2011-12-27,Melbourne Stars,Sydney Sixers,0,Sydney Cricket Ground
+2,NJ Maddinson,29,21,5,0,138.0952380952381,Shahid Afridi,['GA Manou'],stumped,NJ Maddinson,2012-01-02,Sydney Sixers,Melbourne Renegades,0,Docklands Stadium
+2,NJ Maddinson,3,8,0,0,37.5,FH Edwards,['LR Butterworth'],caught,NJ Maddinson,2012-01-08,Sydney Sixers,Sydney Sixers,0,Stadium Australia
+2,NJ Maddinson,31,22,1,2,140.9090909090909,DR Salpietro,['BG Drew'],caught,NJ Maddinson,2012-01-10,Sydney Sixers,Sydney Sixers,0,Adelaide Oval
+1,NJ Maddinson,49,32,3,3,153.125,GB Hogg,['BM Edmondson'],caught,NJ Maddinson,2012-01-18,Perth Scorchers,Sydney Sixers,0,Sydney Cricket Ground
+1,NJ Maddinson,68,51,8,0,133.33333333333331,B Laughlin,['MJ Johnston'],caught,NJ Maddinson,2012-01-22,Sydney Sixers,Sydney Sixers,0,Bellerive Oval
+2,NJ Maddinson,10,14,1,0,71.42857142857143,BM Edmondson,['MJ North'],caught,NJ Maddinson,2012-01-28,Sydney Sixers,Sydney Sixers,0,Western Australia Cricket Association Ground
+0,NJ Maddinson,39,30,7,1,130.0,CP Tremain,0,bowled,NJ Maddinson,2012-12-08,Sydney Thunder,Sydney Sixers,0,Sydney Cricket Ground
+0,NJ Maddinson,7,13,1,0,53.84615384615385,DP Nannes,['CH Gayle'],caught,NJ Maddinson,2012-12-30,Sydney Sixers,Sydney Sixers,0,Stadium Australia
+2,NJ Maddinson,17,14,4,0,121.42857142857142,DT Christian,['AC McDermott'],caught,NJ Maddinson,2013-01-07,Sydney Sixers,Sydney Sixers,0,"Brisbane Cricket Ground, Woolloongabba"
+1,NJ Maddinson,61,41,6,4,148.78048780487805,BS Dean,['DA Warner'],caught,NJ Maddinson,2013-12-21,Sydney Thunder,Sydney Sixers,0,Sydney Cricket Ground
+1,NJ Maddinson,18,19,3,0,94.73684210526315,JW Hastings,['MS Wade'],caught,NJ Maddinson,2013-12-29,Melbourne Stars,Melbourne Stars,0,Sydney Cricket Ground
+0,NJ Maddinson,9,7,0,1,128.57142857142858,MT Steketee,['CA Lynn'],caught,NJ Maddinson,2014-01-02,Sydney Sixers,Sydney Sixers,0,"Brisbane Cricket Ground, Woolloongabba"
+1,NJ Maddinson,0,3,0,0,0.0,SW Tait,['MG Neser'],caught,NJ Maddinson,2014-01-05,Sydney Sixers,Sydney Sixers,0,Adelaide Oval
+1,NJ Maddinson,8,7,2,0,114.28571428571428,Yasir Arafat,['AC Voges'],caught,NJ Maddinson,2014-01-10,Perth Scorchers,0,tie,Sydney Cricket Ground
+0,NJ Maddinson,17,13,2,1,130.76923076923077,Shoaib Malik,['BW Hilfenhaus'],caught,NJ Maddinson,2014-01-15,Hobart Hurricanes,Sydney Sixers,0,Sydney Cricket Ground
+0,NJ Maddinson,3,3,0,0,100.0,AW O'Brien,['PM Nevill'],stumped,NJ Maddinson,2014-01-18,Sydney Sixers,Sydney Sixers,0,Docklands Stadium
+2,NJ Maddinson,59,58,9,0,101.72413793103448,notOut,notOut,notOut,notOut,2014-01-25,Sydney Sixers,Sydney Sixers,0,Stadium Australia
+1,NJ Maddinson,36,16,5,1,225.0,PJ Cummins,['SM Whiteman'],run out,SA Abbott,2014-02-05,Perth Scorchers,Perth Scorchers,0,Sydney Cricket Ground
+2,NJ Maddinson,36,16,5,1,225.0,NM Coulter-Nile,"['HWR Cartwright (sub)', 'SM Whiteman']",run out,NJ Maddinson,2014-02-05,Perth Scorchers,Perth Scorchers,0,Sydney Cricket Ground
+1,NJ Maddinson,84,55,4,6,152.72727272727275,notOut,notOut,notOut,notOut,2014-12-19,Melbourne Renegades,Sydney Sixers,0,Sydney Cricket Ground
+1,NJ Maddinson,29,12,5,1,241.66666666666666,XJ Doherty,['BR Dunk'],caught,NJ Maddinson,2014-12-23,Sydney Sixers,Sydney Sixers,0,Bellerive Oval
+0,NJ Maddinson,12,11,0,1,109.09090909090908,DP Nannes,['PJ Cummins'],caught,NJ Maddinson,2014-12-27,Sydney Sixers,Sydney Sixers,0,Stadium Australia
+1,NJ Maddinson,2,9,0,0,22.22222222222222,MW Dixon,['AC Agar'],caught,NJ Maddinson,2014-12-29,Perth Scorchers,Perth Scorchers,0,Sydney Cricket Ground
+0,NJ Maddinson,5,3,1,0,166.66666666666669,JM Bird,0,caught and bowled,NJ Maddinson,2015-01-05,Sydney Sixers,0,tie,Melbourne Cricket Ground
+0,NJ Maddinson,15,8,2,1,187.5,CJ Gannon,['BCJ Cutting'],caught,NJ Maddinson,2015-01-11,Sydney Sixers,Sydney Sixers,0,"Brisbane Cricket Ground, Woolloongabba"
+0,NJ Maddinson,18,14,2,1,128.57142857142858,B Laughlin,['TM Head'],caught,NJ Maddinson,2015-01-14,Adelaide Strikers,Adelaide Strikers,0,Sydney Cricket Ground
+0,NJ Maddinson,15,14,1,1,107.14285714285714,JK Lalor,0,bowled,NJ Maddinson,2015-01-22,Sydney Thunder,Sydney Sixers,0,Sydney Cricket Ground
+2,NJ Maddinson,85,50,7,5,170.0,KW Richardson,0,bowled,NJ Maddinson,2015-01-24,Sydney Sixers,Sydney Sixers,0,Adelaide Oval
+2,NJ Maddinson,19,22,2,0,86.36363636363636,Yasir Arafat,0,bowled,NJ Maddinson,2015-01-28,Sydney Sixers,Perth Scorchers,0,Manuka Oval
+3,NJ Maddinson,21,12,3,1,175.0,CJ Boyce,['KC Sangakkara'],caught,NJ Maddinson,2015-12-20,Hobart Hurricanes,Sydney Sixers,0,Sydney Cricket Ground
+2,NJ Maddinson,17,18,1,1,94.44444444444444,NJ Rimmington,['TLW Cooper'],caught,NJ Maddinson,2015-12-23,Sydney Sixers,Sydney Sixers,0,Docklands Stadium
+2,NJ Maddinson,25,21,0,2,119.04761904761905,A Zampa,0,bowled,NJ Maddinson,2015-12-27,Melbourne Stars,Melbourne Stars,0,Sydney Cricket Ground
+2,NJ Maddinson,0,1,0,0,0.0,AU Rashid,0,lbw,NJ Maddinson,2015-12-31,Sydney Sixers,Adelaide Strikers,0,Adelaide Oval
+2,NJ Maddinson,1,4,0,0,25.0,DJ Willey,['SE Marsh'],caught,NJ Maddinson,2016-01-02,Sydney Sixers,Perth Scorchers,0,Western Australia Cricket Association Ground
+2,NJ Maddinson,70,40,4,5,175.0,Fawad Ahmed,['HM Nicholls'],caught,NJ Maddinson,2016-01-16,Sydney Thunder,Sydney Thunder,0,Sydney Cricket Ground
+2,NJ Maddinson,2,9,0,0,22.22222222222222,TM Head,['J Weatherald'],caught,NJ Maddinson,2016-12-31,Sydney Sixers,Adelaide Strikers,0,Adelaide Oval
+2,NJ Maddinson,24,16,3,1,150.0,BCJ Cutting,0,caught and bowled,NJ Maddinson,2017-01-03,Sydney Sixers,Sydney Sixers,0,"Brisbane Cricket Ground, Woolloongabba"
+2,NJ Maddinson,26,17,1,1,152.94117647058823,SP Narine,['PM Nevill'],stumped,NJ Maddinson,2017-01-09,Melbourne Renegades,Sydney Sixers,0,Sydney Cricket Ground
+2,NJ Maddinson,7,10,0,0,70.0,Fawad Ahmed,['CJ Green'],caught,NJ Maddinson,2017-01-14,Sydney Thunder,Sydney Thunder,0,Sydney Cricket Ground
+4,NJ Maddinson,14,13,0,1,107.6923076923077,SM Boland,['CJ Gannon (sub)'],caught,NJ Maddinson,2017-01-21,Sydney Sixers,Sydney Sixers,0,Melbourne Cricket Ground
+1,NJ Maddinson,1,3,0,0,33.33333333333333,JA Burns,0,bowled,NJ Maddinson,2017-01-25,Sydney Sixers,0,tie,"Brisbane Cricket Ground, Woolloongabba"
+2,NJ Maddinson,1,2,0,0,50.0,MG Johnson,"['JA Richardson', 'SM Whiteman']",run out,NJ Maddinson,2017-01-28,Sydney Sixers,Perth Scorchers,0,Western Australia Cricket Association Ground
+6,NL McCullum,20,21,1,1,95.23809523809523,notOut,notOut,notOut,notOut,2012-01-10,Sydney Sixers,Sydney Sixers,0,Adelaide Oval
+7,NL McCullum,2,3,0,0,66.66666666666666,BM Edmondson,0,bowled,NL McCullum,2012-01-18,Perth Scorchers,Sydney Sixers,0,Sydney Cricket Ground
+7,NL McCullum,1,2,0,0,50.0,notOut,notOut,notOut,notOut,2012-01-22,Sydney Sixers,Sydney Sixers,0,Bellerive Oval
+8,NM Lyon,0,2,0,0,0.0,Yasir Arafat,0,bowled,NM Lyon,2014-01-10,Perth Scorchers,0,tie,Sydney Cricket Ground
+9,NM Lyon,4,4,0,0,100.0,B Laughlin,['TP Ludeman'],run out,DE Bollinger,2015-01-14,Adelaide Strikers,Adelaide Strikers,0,Sydney Cricket Ground
+9,NM Lyon,0,1,0,0,0.0,notOut,notOut,notOut,notOut,2015-12-20,Hobart Hurricanes,Sydney Sixers,0,Sydney Cricket Ground
+8,NM Lyon,7,4,1,0,175.0,JK Lalor,['JA Burns'],caught,NM Lyon,2016-01-10,Brisbane Heat,Brisbane Heat,0,Sydney Cricket Ground
+8,NM Lyon,0,1,0,0,0.0,CJ Green,0,bowled,NM Lyon,2016-01-16,Sydney Thunder,Sydney Thunder,0,Sydney Cricket Ground
+9,NM Lyon,9,12,0,0,75.0,CR Brathwaite,['KR Patterson'],caught,NM Lyon,2017-01-14,Sydney Thunder,Sydney Thunder,0,Sydney Cricket Ground
+9,NM Lyon,0,1,0,0,0.0,notOut,notOut,notOut,notOut,2017-01-25,Sydney Sixers,0,tie,"Brisbane Cricket Ground, Woolloongabba"
+9,NM Lyon,9,7,1,0,128.57142857142858,notOut,notOut,notOut,notOut,2017-01-28,Sydney Sixers,Perth Scorchers,0,Western Australia Cricket Association Ground
+0,PM Nevill,3,4,0,0,75.0,BW Hilfenhaus,0,bowled,PM Nevill,2011-12-21,Sydney Sixers,Hobart Hurricanes,0,Bellerive Oval
+6,PM Nevill,1,3,0,0,33.33333333333333,DJ Hussey,0,caught and bowled,PM Nevill,2011-12-27,Melbourne Stars,Sydney Sixers,0,Sydney Cricket Ground
+6,PM Nevill,10,6,0,1,166.66666666666669,notOut,notOut,notOut,notOut,2012-01-02,Sydney Sixers,Melbourne Renegades,0,Docklands Stadium
+6,PM Nevill,24,16,1,1,150.0,notOut,notOut,notOut,notOut,2012-01-08,Sydney Sixers,Sydney Sixers,0,Stadium Australia
+7,PM Nevill,7,6,1,0,116.66666666666667,AC Thomas,['AJ Crosthwaite'],run out,NL McCullum,2012-01-10,Sydney Sixers,Sydney Sixers,0,Adelaide Oval
+5,PM Nevill,14,11,1,0,127.27272727272727,Naved-ul-Hasan,0,bowled,PM Nevill,2012-01-22,Sydney Sixers,Sydney Sixers,0,Bellerive Oval
+5,RGL Carters,21,15,1,1,140.0,GS Sandhu,0,bowled,RGL Carters,2014-12-27,Sydney Sixers,Sydney Sixers,0,Stadium Australia
+6,RGL Carters,8,9,0,0,88.88888888888889,Yasir Arafat,['AC Voges'],caught,RGL Carters,2014-12-29,Perth Scorchers,Perth Scorchers,0,Sydney Cricket Ground
+5,RGL Carters,7,8,1,0,87.5,JP Faulkner,0,bowled,RGL Carters,2015-01-05,Sydney Sixers,0,tie,Melbourne Cricket Ground
+5,RGL Carters,30,21,3,1,142.85714285714286,notOut,notOut,notOut,notOut,2015-01-11,Sydney Sixers,Sydney Sixers,0,"Brisbane Cricket Ground, Woolloongabba"
+5,RGL Carters,1,5,0,0,20.0,SW Tait,0,lbw,RGL Carters,2015-01-14,Adelaide Strikers,Adelaide Strikers,0,Sydney Cricket Ground
+5,RGL Carters,2,3,0,0,66.66666666666666,JK Lalor,0,bowled,RGL Carters,2015-01-22,Sydney Thunder,Sydney Sixers,0,Sydney Cricket Ground
+5,RGL Carters,8,5,1,0,160.0,notOut,notOut,notOut,notOut,2015-01-24,Sydney Sixers,Sydney Sixers,0,Adelaide Oval
+5,RGL Carters,35,27,4,0,129.62962962962962,notOut,notOut,notOut,notOut,2015-01-28,Sydney Sixers,Perth Scorchers,0,Manuka Oval
+5,RGL Carters,0,3,0,0,0.0,AU Rashid,['CJ Simmons'],caught,RGL Carters,2015-12-31,Sydney Sixers,Adelaide Strikers,0,Adelaide Oval
+5,RGL Carters,27,29,2,0,93.10344827586206,AJ Tye,['JS Paris'],caught,RGL Carters,2016-01-02,Sydney Sixers,Perth Scorchers,0,Western Australia Cricket Association Ground
+5,RGL Carters,1,1,0,0,100.0,notOut,notOut,notOut,notOut,2016-12-27,Perth Scorchers,Sydney Sixers,0,Sydney Cricket Ground
+4,RS Bopara,27,19,3,0,142.10526315789474,notOut,notOut,notOut,notOut,2013-12-21,Sydney Thunder,Sydney Sixers,0,Sydney Cricket Ground
+3,RS Bopara,5,10,0,0,50.0,CJ McKay,['JP Faulkner'],caught,RS Bopara,2013-12-29,Melbourne Stars,Melbourne Stars,0,Sydney Cricket Ground
+4,RS Bopara,13,11,0,1,118.18181818181819,BCJ Cutting,['C Kieswetter'],caught,RS Bopara,2014-01-02,Sydney Sixers,Sydney Sixers,0,"Brisbane Cricket Ground, Woolloongabba"
+4,RS Bopara,23,20,2,0,114.99999999999999,notOut,notOut,notOut,notOut,2014-01-05,Sydney Sixers,Sydney Sixers,0,Adelaide Oval
+3,RS Bopara,0,1,0,0,0.0,JP Behrendorff,['GB Hogg'],caught,RS Bopara,2014-02-05,Perth Scorchers,Perth Scorchers,0,Sydney Cricket Ground
+4,SA Abbott,1,3,0,0,33.33333333333333,notOut,notOut,notOut,notOut,2014-02-05,Perth Scorchers,Perth Scorchers,0,Sydney Cricket Ground
+6,SA Abbott,2,3,0,0,66.66666666666666,PJ Cummins,['GS Sandhu'],caught,SA Abbott,2014-12-27,Sydney Sixers,Sydney Sixers,0,Stadium Australia
+7,SA Abbott,5,4,1,0,125.0,AJ Tye,['AC Agar'],caught,SA Abbott,2014-12-29,Perth Scorchers,Perth Scorchers,0,Sydney Cricket Ground
+6,SA Abbott,3,4,0,0,75.0,JW Hastings,['GJ Maxwell'],caught,SA Abbott,2015-01-05,Sydney Sixers,0,tie,Melbourne Cricket Ground
+6,SA Abbott,2,4,0,0,50.0,J Botha,['KW Richardson'],caught,SA Abbott,2015-01-14,Adelaide Strikers,Adelaide Strikers,0,Sydney Cricket Ground
+6,SA Abbott,21,19,1,1,110.5263157894737,CP Tremain,['DP Hughes'],caught,SA Abbott,2015-01-22,Sydney Thunder,Sydney Sixers,0,Sydney Cricket Ground
+7,SA Abbott,6,4,0,0,150.0,SW Tait,0,bowled,SA Abbott,2015-12-20,Hobart Hurricanes,Sydney Sixers,0,Sydney Cricket Ground
+7,SA Abbott,3,3,0,0,100.0,notOut,notOut,notOut,notOut,2015-12-23,Sydney Sixers,Sydney Sixers,0,Docklands Stadium
+6,SA Abbott,7,7,0,0,100.0,SM Boland,['LJ Wright'],caught,SA Abbott,2015-12-27,Melbourne Stars,Melbourne Stars,0,Sydney Cricket Ground
+7,SA Abbott,1,5,0,0,20.0,DJ Willey,['AC Agar'],caught,SA Abbott,2016-01-02,Sydney Sixers,Perth Scorchers,0,Western Australia Cricket Association Ground
+3,SA Abbott,1,6,0,0,16.666666666666664,JR Hopes,"['MJ Swepson', 'JJ Peirson', 'JR Hopes']",run out,SA Abbott,2016-01-10,Brisbane Heat,Brisbane Heat,0,Sydney Cricket Ground
+7,SA Abbott,7,7,0,0,100.0,notOut,notOut,notOut,notOut,2016-01-16,Sydney Thunder,Sydney Thunder,0,Sydney Cricket Ground
+7,SA Abbott,0,2,0,0,0.0,SW Tait,['TD Paine'],caught,SA Abbott,2016-12-23,Hobart Hurricanes,Hobart Hurricanes,0,Sydney Cricket Ground
+7,SA Abbott,2,4,0,0,50.0,LN O'Connor,0,caught and bowled,SA Abbott,2016-12-31,Sydney Sixers,Adelaide Strikers,0,Adelaide Oval
+7,SA Abbott,7,2,0,1,350.0,notOut,notOut,notOut,notOut,2017-01-03,Sydney Sixers,Sydney Sixers,0,"Brisbane Cricket Ground, Woolloongabba"
+6,SA Abbott,4,8,0,0,50.0,Fawad Ahmed,['CR Brathwaite'],caught,SA Abbott,2017-01-14,Sydney Thunder,Sydney Thunder,0,Sydney Cricket Ground
+7,SA Abbott,33,19,3,2,173.6842105263158,notOut,notOut,notOut,notOut,2017-01-21,Sydney Sixers,Sydney Sixers,0,Melbourne Cricket Ground
+7,SA Abbott,2,3,0,0,66.66666666666666,JD Wildermuth,['M Labuschagne'],caught,SA Abbott,2017-01-25,Sydney Sixers,0,tie,"Brisbane Cricket Ground, Woolloongabba"
+7,SA Abbott,5,11,0,0,45.45454545454545,TT Bresnan,['AC Agar'],caught,SA Abbott,2017-01-28,Sydney Sixers,Perth Scorchers,0,Western Australia Cricket Association Ground
+10,SCG MacGill,6,5,1,0,120.0,notOut,notOut,notOut,notOut,2011-12-21,Sydney Sixers,Hobart Hurricanes,0,Bellerive Oval
+8,SNJ O'Keefe,0,1,0,0,0.0,AC Thomas,0,bowled,SNJ O'Keefe,2012-01-10,Sydney Sixers,Sydney Sixers,0,Adelaide Oval
+8,SNJ O'Keefe,0,2,0,0,0.0,BM Edmondson,['L Ronchi'],run out,BJ Rohrer,2012-01-18,Perth Scorchers,Sydney Sixers,0,Sydney Cricket Ground
+2,SNJ O'Keefe,30,24,5,0,125.0,JJ Krejza,['OA Shah'],caught,SNJ O'Keefe,2012-01-22,Sydney Sixers,Sydney Sixers,0,Bellerive Oval
+1,SNJ O'Keefe,48,49,3,2,97.95918367346938,BM Edmondson,['NJ Rimmington'],caught,SNJ O'Keefe,2012-01-28,Sydney Sixers,Sydney Sixers,0,Western Australia Cricket Association Ground
+6,SNJ O'Keefe,29,35,3,0,82.85714285714286,HWR Cartwright,0,bowled,SNJ O'Keefe,2012-12-16,Perth Scorchers,Perth Scorchers,0,Sydney Cricket Ground
+1,SNJ O'Keefe,4,5,1,0,80.0,SW Tait,['J Botha'],run out,SNJ O'Keefe,2012-12-23,Sydney Sixers,Adelaide Strikers,0,Adelaide Oval
+6,SNJ O'Keefe,9,5,2,0,180.0,DE Bollinger,['RT Ponting'],caught,SNJ O'Keefe,2012-12-26,Hobart Hurricanes,Hobart Hurricanes,0,Sydney Cricket Ground
+6,SNJ O'Keefe,3,9,0,0,33.33333333333333,DP Nannes,0,bowled,SNJ O'Keefe,2012-12-30,Sydney Sixers,Sydney Sixers,0,Stadium Australia
+6,SNJ O'Keefe,1,1,0,0,100.0,notOut,notOut,notOut,notOut,2013-01-07,Sydney Sixers,Sydney Sixers,0,"Brisbane Cricket Ground, Woolloongabba"
+7,SNJ O'Keefe,9,11,0,0,81.81818181818183,JP Faulkner,['MS Wade'],caught,SNJ O'Keefe,2013-12-29,Melbourne Stars,Melbourne Stars,0,Sydney Cricket Ground
+7,SNJ O'Keefe,7,8,0,0,87.5,notOut,notOut,notOut,notOut,2014-01-02,Sydney Sixers,Sydney Sixers,0,"Brisbane Cricket Ground, Woolloongabba"
+0,SNJ O'Keefe,10,6,2,0,166.66666666666669,JP Behrendorff,0,bowled,SNJ O'Keefe,2014-01-10,Perth Scorchers,0,tie,Sydney Cricket Ground
+6,SNJ O'Keefe,6,4,1,0,150.0,notOut,notOut,notOut,notOut,2014-01-15,Hobart Hurricanes,Sydney Sixers,0,Sydney Cricket Ground
+7,SNJ O'Keefe,5,3,0,0,166.66666666666669,notOut,notOut,notOut,notOut,2014-01-18,Sydney Sixers,Sydney Sixers,0,Docklands Stadium
+7,SNJ O'Keefe,5,5,0,0,100.0,J Botha,0,bowled,SNJ O'Keefe,2015-01-14,Adelaide Strikers,Adelaide Strikers,0,Sydney Cricket Ground
+7,SNJ O'Keefe,9,3,2,0,300.0,notOut,notOut,notOut,notOut,2015-01-22,Sydney Thunder,Sydney Sixers,0,Sydney Cricket Ground
+8,SNJ O'Keefe,6,4,0,0,150.0,DT Christian,['TD Paine'],run out,JC Silk,2015-12-20,Hobart Hurricanes,Sydney Sixers,0,Sydney Cricket Ground
+6,SNJ O'Keefe,2,3,0,0,66.66666666666666,NJ Rimmington,['AJ Finch'],caught,SNJ O'Keefe,2015-12-23,Sydney Sixers,Sydney Sixers,0,Docklands Stadium
+8,SNJ O'Keefe,2,1,0,0,200.0,notOut,notOut,notOut,notOut,2015-12-27,Melbourne Stars,Melbourne Stars,0,Sydney Cricket Ground
+6,SNJ O'Keefe,13,7,1,1,185.71428571428572,SW Tait,0,lbw,SNJ O'Keefe,2016-12-23,Hobart Hurricanes,Hobart Hurricanes,0,Sydney Cricket Ground
+9,SP Narine,5,4,1,0,125.0,AC Thomas,['SE Marsh'],caught,SP Narine,2012-12-16,Perth Scorchers,Perth Scorchers,0,Sydney Cricket Ground
+9,SP Narine,6,6,0,1,100.0,notOut,notOut,notOut,notOut,2012-12-26,Hobart Hurricanes,Hobart Hurricanes,0,Sydney Cricket Ground
+3,SPD Smith,11,7,1,0,157.14285714285714,notOut,notOut,notOut,notOut,2011-12-16,Brisbane Heat,Sydney Sixers,0,Sydney Cricket Ground
+2,SPD Smith,28,29,4,0,96.55172413793103,XJ Doherty,['B Laughlin'],caught,SPD Smith,2011-12-21,Sydney Sixers,Hobart Hurricanes,0,Bellerive Oval
+3,SPD Smith,7,11,0,0,63.63636363636363,CP Simpson,0,lbw,SPD Smith,2011-12-27,Melbourne Stars,Sydney Sixers,0,Sydney Cricket Ground
+3,SPD Smith,25,23,0,1,108.69565217391303,SM Harwood,0,bowled,SPD Smith,2012-01-02,Sydney Sixers,Melbourne Renegades,0,Docklands Stadium
+3,SPD Smith,3,4,0,0,75.0,CH Gayle,['UT Khawaja'],caught,SPD Smith,2012-01-08,Sydney Sixers,Sydney Sixers,0,Stadium Australia
+5,SPD Smith,8,9,0,0,88.88888888888889,BG Drew,['DR Salpietro'],caught,SPD Smith,2012-01-10,Sydney Sixers,Sydney Sixers,0,Adelaide Oval
+4,SPD Smith,51,25,4,3,204.0,NM Coulter-Nile,0,bowled,SPD Smith,2012-01-18,Perth Scorchers,Sydney Sixers,0,Sydney Cricket Ground
+3,SPD Smith,12,9,0,1,133.33333333333331,B Laughlin,0,bowled,SPD Smith,2012-01-22,Sydney Sixers,Sydney Sixers,0,Bellerive Oval
+3,SPD Smith,21,11,4,0,190.9090909090909,notOut,notOut,notOut,notOut,2012-01-28,Sydney Sixers,Sydney Sixers,0,Western Australia Cricket Association Ground
+3,SPD Smith,41,32,5,0,128.125,notOut,notOut,notOut,notOut,2012-12-08,Sydney Thunder,Sydney Sixers,0,Sydney Cricket Ground
+4,SPD Smith,0,2,0,0,0.0,NM Coulter-Nile,['TIF Triffitt'],caught,SPD Smith,2012-12-16,Perth Scorchers,Perth Scorchers,0,Sydney Cricket Ground
+3,SPD Smith,58,43,5,1,134.88372093023256,notOut,notOut,notOut,notOut,2012-12-23,Sydney Sixers,Adelaide Strikers,0,Adelaide Oval
+3,SPD Smith,34,35,2,0,97.14285714285714,B Laughlin,0,bowled,SPD Smith,2012-12-26,Hobart Hurricanes,Hobart Hurricanes,0,Sydney Cricket Ground
+4,SPD Smith,14,15,0,1,93.33333333333333,DP Nannes,['RGL Carters'],caught,SPD Smith,2012-12-30,Sydney Sixers,Sydney Sixers,0,Stadium Australia
+4,SPD Smith,9,8,1,0,112.5,BCJ Cutting,['PJ Forrest'],caught,SPD Smith,2013-01-07,Sydney Sixers,Sydney Sixers,0,"Brisbane Cricket Ground, Woolloongabba"
+3,SPD Smith,22,27,2,0,81.48148148148148,CS Sandri,0,caught and bowled,SPD Smith,2013-12-21,Sydney Thunder,Sydney Sixers,0,Sydney Cricket Ground
+3,SPD Smith,65,49,6,1,132.6530612244898,Yasir Arafat,['AC Voges'],caught,SPD Smith,2014-01-10,Perth Scorchers,0,tie,Sydney Cricket Ground
+3,SPD Smith,52,32,3,2,162.5,DE Bollinger,['EP Gulbis'],caught,SPD Smith,2014-01-15,Hobart Hurricanes,Sydney Sixers,0,Sydney Cricket Ground
+3,SPD Smith,25,22,0,1,113.63636363636364,AW O'Brien,0,caught and bowled,SPD Smith,2014-01-18,Sydney Sixers,Sydney Sixers,0,Docklands Stadium
+4,SW Billings,42,33,3,0,127.27272727272727,SW Tait,0,bowled,SW Billings,2016-12-23,Hobart Hurricanes,Hobart Hurricanes,0,Sydney Cricket Ground
+0,SW Billings,40,30,7,0,133.33333333333331,MR Marsh,['JA Richardson'],caught,SW Billings,2016-12-27,Perth Scorchers,Sydney Sixers,0,Sydney Cricket Ground
+5,SW Billings,40,30,2,2,133.33333333333331,CJ Jordan,0,caught and bowled,SW Billings,2016-12-31,Sydney Sixers,Adelaide Strikers,0,Adelaide Oval
+4,SW Billings,5,5,0,0,100.0,MJ Swepson,0,bowled,SW Billings,2017-01-03,Sydney Sixers,Sydney Sixers,0,"Brisbane Cricket Ground, Woolloongabba"
+8,TL Lawford,6,4,1,0,150.0,notOut,notOut,notOut,notOut,2015-12-23,Sydney Sixers,Sydney Sixers,0,Docklands Stadium
+7,TL Lawford,3,2,0,0,150.0,notOut,notOut,notOut,notOut,2015-12-27,Melbourne Stars,Melbourne Stars,0,Sydney Cricket Ground
+9,WER Somerville,3,5,0,0,60.0,B Stanlake,['BJ Hodge'],caught,WER Somerville,2016-12-31,Sydney Sixers,Adelaide Strikers,0,Adelaide Oval

@@ -1,0 +1,88 @@
+bowler,overs,runs,maidens,wicket,econrate,date,team2,winner,result,venue
+A Lyth,2,17,0,0,8.5,2016-05-27,Leicestershire,Leicestershire,0,Headingley
+A Lyth,1,2,0,1,2.0,2016-06-24,Yorkshire,Durham,0,Riverside Ground
+A Lyth,1,4,0,0,4.0,2016-07-01,Lancashire,Yorkshire,0,Headingley
+A Lyth,1,4,0,0,4.0,2016-07-08,Warwickshire,Yorkshire,0,Headingley
+A Lyth,1,5,0,1,5.0,2016-07-15,Yorkshire,Nottinghamshire,0,Trent Bridge
+AU Rashid,4,33,0,0,8.25,2016-05-27,Leicestershire,Leicestershire,0,Headingley
+AU Rashid,4,39,0,1,9.75,2016-06-02,Yorkshire,Worcestershire,0,"County Ground, New Road"
+AU Rashid,2,29,0,0,14.5,2016-06-03,Yorkshire,Lancashire,0,Old Trafford
+AU Rashid,4,30,0,2,7.5,2016-07-08,Warwickshire,Yorkshire,0,Headingley
+AU Rashid,4,20,0,3,5.0,2016-07-10,Yorkshire,Yorkshire,0,County Ground
+AU Rashid,4,23,0,1,5.75,2016-07-15,Yorkshire,Nottinghamshire,0,Trent Bridge
+AU Rashid,4,36,0,3,9.0,2016-07-22,Northamptonshire,Yorkshire,0,Headingley
+AU Rashid,4,28,0,1,7.0,2016-07-29,Yorkshire,Yorkshire,0,County Ground
+AU Rashid,3,26,0,4,8.666666666666666,2016-08-11,Yorkshire,Yorkshire,0,Sophia Gardens
+AU Rashid,2,22,0,1,11.0,2016-08-20,Yorkshire,Durham,0,Edgbaston
+Azeem Rafiq,4,33,0,2,8.25,2016-06-19,Derbyshire,Yorkshire,0,Headingley
+Azeem Rafiq,4,22,0,1,5.5,2016-06-24,Yorkshire,Durham,0,Riverside Ground
+Azeem Rafiq,4,20,0,1,5.0,2016-07-01,Lancashire,Yorkshire,0,Headingley
+Azeem Rafiq,4,21,0,1,5.25,2016-07-08,Warwickshire,Yorkshire,0,Headingley
+Azeem Rafiq,4,28,0,2,7.0,2016-07-10,Yorkshire,Yorkshire,0,County Ground
+Azeem Rafiq,4,21,0,1,5.25,2016-07-15,Yorkshire,Nottinghamshire,0,Trent Bridge
+Azeem Rafiq,4,27,0,2,6.75,2016-07-20,Durham,Yorkshire,0,Headingley
+Azeem Rafiq,2,21,1,2,10.5,2016-07-22,Northamptonshire,Yorkshire,0,Headingley
+Azeem Rafiq,4,37,0,1,9.25,2016-07-29,Yorkshire,Yorkshire,0,County Ground
+Azeem Rafiq,1,13,0,1,13.0,2016-08-11,Yorkshire,Yorkshire,0,Sophia Gardens
+Azeem Rafiq,4,34,0,2,8.5,2016-08-20,Yorkshire,Durham,0,Edgbaston
+BO Coad,2,34,0,1,17.0,2016-05-27,Leicestershire,Leicestershire,0,Headingley
+BO Coad,3,30,0,0,10.0,2016-06-02,Yorkshire,Worcestershire,0,"County Ground, New Road"
+BO Coad,3,36,0,1,12.0,2016-06-03,Yorkshire,Lancashire,0,Old Trafford
+DJ Willey,4,29,0,2,7.25,2016-06-19,Derbyshire,Yorkshire,0,Headingley
+DJ Willey,4,28,0,3,7.0,2016-07-08,Warwickshire,Yorkshire,0,Headingley
+DJ Willey,4,33,0,2,8.25,2016-07-10,Yorkshire,Yorkshire,0,County Ground
+DJ Willey,4,39,0,1,9.75,2016-07-20,Durham,Yorkshire,0,Headingley
+DJ Willey,2,17,0,0,8.5,2016-07-22,Northamptonshire,Yorkshire,0,Headingley
+DJ Willey,4,32,0,2,8.0,2016-07-29,Yorkshire,Yorkshire,0,County Ground
+DJ Willey,2,11,0,1,5.5,2016-08-11,Yorkshire,Yorkshire,0,Sophia Gardens
+DJ Willey,4,25,0,0,6.25,2016-08-20,Yorkshire,Durham,0,Edgbaston
+J Shaw,1,10,0,0,10.0,2016-06-24,Yorkshire,Durham,0,Riverside Ground
+JC Wainman,3,27,0,1,9.0,2016-05-27,Leicestershire,Leicestershire,0,Headingley
+JC Wainman,2,22,0,0,11.0,2016-06-02,Yorkshire,Worcestershire,0,"County Ground, New Road"
+JE Root,2,25,0,0,12.5,2016-06-03,Yorkshire,Lancashire,0,Old Trafford
+JE Root,2,20,0,0,10.0,2016-08-20,Yorkshire,Durham,0,Edgbaston
+K Carver,3,17,0,1,5.666666666666667,2016-06-19,Derbyshire,Yorkshire,0,Headingley
+K Carver,2,11,0,0,5.5,2016-06-24,Yorkshire,Durham,0,Riverside Ground
+K Carver,3,34,0,2,11.333333333333334,2016-07-01,Lancashire,Yorkshire,0,Headingley
+K Carver,4,40,0,3,10.0,2016-07-20,Durham,Yorkshire,0,Headingley
+LE Plunkett,4,23,0,2,5.75,2016-05-27,Leicestershire,Leicestershire,0,Headingley
+LE Plunkett,4,29,0,2,7.25,2016-06-02,Yorkshire,Worcestershire,0,"County Ground, New Road"
+LE Plunkett,4,39,0,1,9.75,2016-06-03,Yorkshire,Lancashire,0,Old Trafford
+LE Plunkett,2,13,0,1,6.5,2016-06-19,Derbyshire,Yorkshire,0,Headingley
+LE Plunkett,3,37,0,0,12.333333333333334,2016-07-08,Warwickshire,Yorkshire,0,Headingley
+LE Plunkett,3,35,0,0,11.666666666666666,2016-07-10,Yorkshire,Yorkshire,0,County Ground
+LE Plunkett,2,31,0,1,15.5,2016-07-15,Yorkshire,Nottinghamshire,0,Trent Bridge
+LE Plunkett,4,13,0,1,3.25,2016-07-20,Durham,Yorkshire,0,Headingley
+LE Plunkett,4,32,0,2,8.0,2016-07-22,Northamptonshire,Yorkshire,0,Headingley
+LE Plunkett,3,37,0,0,12.333333333333334,2016-07-29,Yorkshire,Yorkshire,0,County Ground
+LE Plunkett,3,19,0,1,6.333333333333333,2016-08-11,Yorkshire,Yorkshire,0,Sophia Gardens
+LE Plunkett,4,22,0,2,5.5,2016-08-20,Yorkshire,Durham,0,Edgbaston
+MJ Waite,2,6,0,1,3.0,2016-08-11,Yorkshire,Yorkshire,0,Sophia Gardens
+SA Patterson,4,35,0,2,8.75,2016-06-03,Yorkshire,Lancashire,0,Old Trafford
+SA Patterson,4,29,0,0,7.25,2016-06-19,Derbyshire,Yorkshire,0,Headingley
+SA Patterson,3,23,0,3,7.666666666666667,2016-07-01,Lancashire,Yorkshire,0,Headingley
+SA Patterson,4,30,0,2,7.5,2016-07-15,Yorkshire,Nottinghamshire,0,Trent Bridge
+TM Head,0,4,0,0,inf,2016-07-20,Durham,Yorkshire,0,Headingley
+TT Bresnan,4,28,1,2,7.0,2016-05-27,Leicestershire,Leicestershire,0,Headingley
+TT Bresnan,4,29,0,0,7.25,2016-06-02,Yorkshire,Worcestershire,0,"County Ground, New Road"
+TT Bresnan,4,24,0,3,6.0,2016-06-03,Yorkshire,Lancashire,0,Old Trafford
+TT Bresnan,3,22,0,3,7.333333333333333,2016-06-19,Derbyshire,Yorkshire,0,Headingley
+TT Bresnan,2,23,0,1,11.5,2016-06-24,Yorkshire,Durham,0,Riverside Ground
+TT Bresnan,4,30,0,2,7.5,2016-07-01,Lancashire,Yorkshire,0,Headingley
+TT Bresnan,4,31,0,4,7.75,2016-07-08,Warwickshire,Yorkshire,0,Headingley
+TT Bresnan,3,28,0,1,9.333333333333334,2016-07-10,Yorkshire,Yorkshire,0,County Ground
+TT Bresnan,3,34,0,0,11.333333333333334,2016-07-15,Yorkshire,Nottinghamshire,0,Trent Bridge
+TT Bresnan,1,17,0,0,17.0,2016-07-20,Durham,Yorkshire,0,Headingley
+TT Bresnan,2,30,0,1,15.0,2016-07-22,Northamptonshire,Yorkshire,0,Headingley
+TT Bresnan,4,15,1,3,3.75,2016-07-29,Yorkshire,Yorkshire,0,County Ground
+TT Bresnan,2,13,0,2,6.5,2016-08-11,Yorkshire,Yorkshire,0,Sophia Gardens
+TT Bresnan,4,29,0,1,7.25,2016-08-20,Yorkshire,Durham,0,Edgbaston
+WMH Rhodes,1,11,0,1,11.0,2016-05-27,Leicestershire,Leicestershire,0,Headingley
+WMH Rhodes,2,24,0,0,12.0,2016-06-02,Yorkshire,Worcestershire,0,"County Ground, New Road"
+WMH Rhodes,1,15,0,0,15.0,2016-06-03,Yorkshire,Lancashire,0,Old Trafford
+WMH Rhodes,2,18,0,2,9.0,2016-07-01,Lancashire,Yorkshire,0,Headingley
+WMH Rhodes,2,16,0,0,8.0,2016-07-10,Yorkshire,Yorkshire,0,County Ground
+WMH Rhodes,1,11,0,1,11.0,2016-07-15,Yorkshire,Nottinghamshire,0,Trent Bridge
+WMH Rhodes,3,32,0,1,10.666666666666666,2016-07-20,Durham,Yorkshire,0,Headingley
+WMH Rhodes,1,3,0,1,3.0,2016-07-22,Northamptonshire,Yorkshire,0,Headingley
+WMH Rhodes,1,13,0,0,13.0,2016-07-29,Yorkshire,Yorkshire,0,County Ground

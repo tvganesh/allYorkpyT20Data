@@ -1,0 +1,292 @@
+,batsman,runs,balls,4s,6s,SR,bowler,fielders,kind,player_out,date,team2,winner,result,venue
+6,AF Buurman,0.0,2,0,0,0.0,Hamid Hassan,0,bowled,AF Buurman,2010-02-12,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+7,AF Buurman,0.0,2,0,0,0.0,AC Botha,"[""NJ O'Brien""]",caught,AF Buurman,2010-02-13,Netherlands,Ireland,0,Dubai International Cricket Stadium
+0,AN Kervezee,1.0,4,0,0,25.0,JM Anderson,['SCJ Broad'],caught,AN Kervezee,2009-06-05,Netherlands,Netherlands,0,Lord's
+1,AN Kervezee,21.0,29,1,0,72.41379310344827,Saeed Ajmal,['Kamran Akmal'],stumped,AN Kervezee,2009-06-09,Pakistan,Pakistan,0,Lord's
+0,AN Kervezee,39.0,31,6,0,125.80645161290323,JM Davison,['A Bagai'],stumped,AN Kervezee,2010-02-09,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+0,AN Kervezee,39.0,33,5,0,118.18181818181819,Mohammad Nabi,0,bowled,AN Kervezee,2010-02-12,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+0,AN Kervezee,2.0,4,0,0,50.0,PC Connell,0,bowled,AN Kervezee,2010-02-13,Netherlands,Ireland,0,Dubai International Cricket Stadium
+3,AN Kervezee,29.0,33,0,0,87.87878787878788,Junaid Siddiqui,['NR Kumar'],run out,PW Borren,2012-03-13,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+4,AN Kervezee,29.0,33,0,0,87.87878787878788,HS Baidwan,0,bowled,AN Kervezee,2012-03-13,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+3,AN Kervezee,58.0,44,1,3,131.8181818181818,notOut,notOut,notOut,notOut,2012-03-14,Netherlands,Afghanistan,0,Dubai International Cricket Stadium
+2,AN Kervezee,56.0,48,3,1,116.66666666666667,GH Dockrell,"['PR Stirling', 'GH Dockrell']",run out,W Barresi,2012-03-23,Netherlands,Ireland,0,Dubai International Cricket Stadium
+3,AN Kervezee,56.0,48,3,1,116.66666666666667,GH Dockrell,0,caught and bowled,AN Kervezee,2012-03-23,Netherlands,Ireland,0,Dubai International Cricket Stadium
+11,Ahsan Malik,4.0,1,1,0,400.0,notOut,notOut,notOut,notOut,2012-07-26,Bangladesh,Netherlands,0,Sportpark Westvliet
+11,Ahsan Malik,3.0,5,0,0,60.0,notOut,notOut,notOut,notOut,2013-04-20,Netherlands,Kenya,0,Wanderers Cricket Ground
+9,Ahsan Malik,0.0,2,0,0,0.0,BAW Mendis,0,lbw,Ahsan Malik,2014-03-24,Sri Lanka,Sri Lanka,0,Zahur Ahmed Chowdhury Stadium
+11,Ahsan Malik,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2014-03-27,South Africa,South Africa,0,Zahur Ahmed Chowdhury Stadium
+10,Ahsan Malik,2.0,4,0,0,50.0,notOut,notOut,notOut,notOut,2015-07-09,Netherlands,Afghanistan,0,"Grange Cricket Club Ground, Raeburn Place"
+10,Ahsan Malik,3.0,3,0,0,100.0,notOut,notOut,notOut,notOut,2017-01-17,Scotland,Scotland,0,Sheikh Zayed Stadium
+11,Ahsan Malik,11.0,9,0,1,122.22222222222223,notOut,notOut,notOut,notOut,2017-01-18,Netherlands,Hong Kong,0,Dubai International Cricket Stadium
+2,B Zuiderent,12.0,16,1,0,75.0,AU Rashid,['JS Foster'],stumped,B Zuiderent,2009-06-05,Netherlands,Netherlands,0,Lord's
+2,B Zuiderent,13.0,15,2,0,86.66666666666667,Shahid Afridi,0,bowled,B Zuiderent,2009-06-09,Pakistan,Pakistan,0,Lord's
+2,B Zuiderent,43.0,44,2,1,97.72727272727273,notOut,notOut,notOut,notOut,2010-02-09,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+3,B Zuiderent,2.0,3,0,0,66.66666666666666,Samiullah Shenwari,0,lbw,B Zuiderent,2010-02-12,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+3,B Zuiderent,15.0,25,1,0,60.0,DT Johnston,0,lbw,B Zuiderent,2010-02-13,Netherlands,Ireland,0,Dubai International Cricket Stadium
+4,BN Cooper,1.0,3,0,0,33.33333333333333,RML Taylor,0,lbw,BN Cooper,2013-11-22,Scotland,Scotland,0,ICC Academy
+4,BN Cooper,0.0,2,0,0,0.0,SO Tikolo,0,lbw,BN Cooper,2013-11-23,Netherlands,Netherlands,0,ICC Academy
+2,BN Cooper,40.0,28,5,0,142.85714285714286,RM Haq,['MH Cross'],stumped,BN Cooper,2013-11-28,Scotland,Netherlands,0,Sheikh Zayed Stadium
+6,BN Cooper,6.0,6,1,0,100.0,notOut,notOut,notOut,notOut,2014-03-17,United Arab Emirates,Netherlands,0,Sylhet Stadium
+5,BN Cooper,20.0,26,1,0,76.92307692307693,N M'shangwe,['T Panyangara'],caught,BN Cooper,2014-03-19,Zimbabwe,Zimbabwe,0,Sylhet Stadium
+5,BN Cooper,9.0,5,0,1,180.0,notOut,notOut,notOut,notOut,2014-03-21,Netherlands,Netherlands,0,Sylhet Stadium
+5,BN Cooper,8.0,10,1,0,80.0,BAW Mendis,['NLTC Perera'],run out,BN Cooper,2014-03-24,Sri Lanka,Sri Lanka,0,Zahur Ahmed Chowdhury Stadium
+5,BN Cooper,5.0,6,0,0,83.33333333333334,DW Steyn,['Q de Kock'],caught,BN Cooper,2014-03-27,South Africa,South Africa,0,Zahur Ahmed Chowdhury Stadium
+5,BN Cooper,1.0,6,0,0,16.666666666666664,notOut,notOut,notOut,notOut,2014-03-29,New Zealand,New Zealand,0,Zahur Ahmed Chowdhury Stadium
+5,BN Cooper,0.0,2,0,0,0.0,notOut,notOut,notOut,notOut,2014-03-31,Netherlands,Netherlands,0,Zahur Ahmed Chowdhury Stadium
+2,BN Cooper,66.0,47,4,3,140.4255319148936,Karan KC,['S Vesawkar'],caught,BN Cooper,2015-07-01,Nepal,Netherlands,0,VRA Ground
+2,BN Cooper,8.0,7,0,1,114.28571428571428,Sagar Pun,['P Khadka'],caught,BN Cooper,2015-07-02,Nepal,Netherlands,0,Hazelaarweg
+2,BN Cooper,36.0,23,1,3,156.52173913043478,Sharafuddin Ashraf,['Dawlat Zadran'],caught,BN Cooper,2015-07-09,Netherlands,Afghanistan,0,"Grange Cricket Club Ground, Raeburn Place"
+2,BN Cooper,12.0,16,0,0,75.0,AC Evans,['MH Cross'],caught,BN Cooper,2015-07-11,Netherlands,Netherlands,0,"Grange Cricket Club Ground, Raeburn Place"
+2,BN Cooper,50.0,39,3,3,128.2051282051282,notOut,notOut,notOut,notOut,2015-07-12,United Arab Emirates,Netherlands,0,"Grange Cricket Club Ground, Raeburn Place"
+2,BN Cooper,43.0,40,6,1,107.5,KJ O'Brien,['GH Dockrell'],caught,BN Cooper,2015-07-25,Netherlands,Netherlands,0,"The Village, Malahide"
+2,BN Cooper,20.0,15,3,0,133.33333333333331,Shakib Al Hasan,0,bowled,BN Cooper,2016-03-09,Netherlands,Bangladesh,0,Himachal Pradesh Cricket Association Stadium
+1,BN Cooper,0.0,1,0,0,0.0,Bilal Khan,['Sultan Ahmed'],caught,BN Cooper,2017-01-15,Oman,Netherlands,0,Sheikh Zayed Stadium
+0,BN Cooper,24.0,19,3,1,126.3157894736842,JH Davey,['SM Sharif'],caught,BN Cooper,2017-01-17,Scotland,Scotland,0,Sheikh Zayed Stadium
+2,BN Cooper,22.0,19,3,1,115.78947368421053,Ehsan Nawaz,"['Shahid Wasif', 'Ehsan Nawaz']",run out,PW Borren,2017-01-18,Netherlands,Hong Kong,0,Dubai International Cricket Stadium
+3,BN Cooper,22.0,19,3,1,115.78947368421053,Ehsan Khan,0,bowled,BN Cooper,2017-01-18,Netherlands,Hong Kong,0,Dubai International Cricket Stadium
+0,DJ Reekers,2.0,3,0,0,66.66666666666666,JAR Blain,['NS Poonia'],caught,DJ Reekers,2008-08-04,Scotland,Netherlands,0,"Civil Service Cricket Club, Stormont"
+1,DJ Reekers,20.0,13,1,2,153.84615384615387,SCJ Broad,['OA Shah'],caught,DJ Reekers,2009-06-05,Netherlands,Netherlands,0,Lord's
+0,DJ Reekers,13.0,6,3,0,216.66666666666666,Mohammad Amir,['Sohail Tanvir'],caught,DJ Reekers,2009-06-09,Pakistan,Pakistan,0,Lord's
+5,DLS van Bunge,0.0,2,0,0,0.0,JD Nel,['RR Watson'],caught,DLS van Bunge,2008-08-04,Scotland,Netherlands,0,"Civil Service Cricket Club, Stormont"
+6,DLS van Bunge,8.0,8,1,0,100.0,JM Anderson,['LJ Wright'],caught,DLS van Bunge,2009-06-05,Netherlands,Netherlands,0,Lord's
+6,DLS van Bunge,0.0,2,0,0,0.0,Shahid Afridi,['Kamran Akmal'],stumped,DLS van Bunge,2009-06-09,Pakistan,Pakistan,0,Lord's
+2,DLS van Bunge,24.0,23,0,1,104.34782608695652,Mohammad Nabi,['Mirwais Ashraf'],caught,DLS van Bunge,2010-02-12,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+5,DLS van Bunge,2.0,3,0,0,66.66666666666666,GH Dockrell,"[""NJ O'Brien""]",stumped,DLS van Bunge,2010-02-13,Netherlands,Ireland,0,Dubai International Cricket Stadium
+6,DLS van Bunge,4.0,7,0,0,57.14285714285714,notOut,notOut,notOut,notOut,2013-04-19,Netherlands,Kenya,0,Wanderers Cricket Ground
+3,DLS van Bunge,19.0,12,0,2,158.33333333333331,SO Ngoche,0,bowled,DLS van Bunge,2013-04-20,Netherlands,Kenya,0,Wanderers Cricket Ground
+4,DLS van Bunge,7.0,9,1,0,77.77777777777779,notOut,notOut,notOut,notOut,2013-11-15,Netherlands,Netherlands,0,Sharjah Cricket Stadium
+9,DP Nannes,6.0,7,0,0,85.71428571428571,Saeed Ajmal,['Kamran Akmal'],stumped,DP Nannes,2009-06-09,Pakistan,Pakistan,0,Lord's
+7,E Schiferli,5.0,7,0,0,71.42857142857143,notOut,notOut,notOut,notOut,2009-06-05,Netherlands,Netherlands,0,Lord's
+7,E Schiferli,2.0,8,0,0,25.0,Shahid Afridi,['Saeed Ajmal'],caught,E Schiferli,2009-06-09,Pakistan,Pakistan,0,Lord's
+1,ES Szwarczynski,30.0,40,2,0,75.0,JAR Blain,['CJO Smith'],caught,ES Szwarczynski,2008-08-04,Scotland,Netherlands,0,"Civil Service Cricket Club, Stormont"
+1,ES Szwarczynski,25.0,18,5,0,138.88888888888889,U Bhatti,['Khurram Chohan'],caught,ES Szwarczynski,2010-02-09,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+1,ES Szwarczynski,21.0,24,0,1,87.5,Mohammad Nabi,0,caught and bowled,ES Szwarczynski,2010-02-12,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+2,ES Szwarczynski,17.0,20,2,0,85.0,DT Johnston,0,bowled,ES Szwarczynski,2010-02-13,Netherlands,Ireland,0,Dubai International Cricket Stadium
+3,ES Szwarczynski,1.0,4,0,0,25.0,Shakib Al Hasan,['Ziaur Rahman'],caught,ES Szwarczynski,2012-07-25,Bangladesh,Bangladesh,0,Sportpark Westvliet
+6,ES Szwarczynski,2.0,3,0,0,66.66666666666666,notOut,notOut,notOut,notOut,2012-07-26,Bangladesh,Netherlands,0,Sportpark Westvliet
+1,ES Szwarczynski,24.0,24,4,0,100.0,Mohammad Nabi,0,bowled,ES Szwarczynski,2013-11-15,Netherlands,Netherlands,0,Sharjah Cricket Stadium
+3,ES Szwarczynski,7.0,7,0,0,100.0,RM Haq,['MH Cross'],stumped,ES Szwarczynski,2013-11-22,Scotland,Scotland,0,ICC Academy
+6,ES Szwarczynski,14.0,20,0,0,70.0,notOut,notOut,notOut,notOut,2013-11-23,Netherlands,Netherlands,0,ICC Academy
+8,J Smits,11.0,19,0,0,57.89473684210527,notOut,notOut,notOut,notOut,2009-06-09,Pakistan,Pakistan,0,Lord's
+3,LV van Beek,1.0,3,0,0,33.33333333333333,KJ O'Brien,['WTS Porterfield'],caught,LV van Beek,2014-03-21,Netherlands,Netherlands,0,Sylhet Stadium
+7,LV van Beek,1.0,4,0,0,25.0,SL Malinga,0,bowled,LV van Beek,2014-03-24,Sri Lanka,Sri Lanka,0,Zahur Ahmed Chowdhury Stadium
+9,LV van Beek,1.0,5,0,0,20.0,notOut,notOut,notOut,notOut,2014-03-27,South Africa,South Africa,0,Zahur Ahmed Chowdhury Stadium
+8,LV van Beek,4.0,3,0,0,133.33333333333331,notOut,notOut,notOut,notOut,2016-03-09,Netherlands,Bangladesh,0,Himachal Pradesh Cricket Association Stadium
+8,MBS Jonkman,1.0,8,0,0,12.5,GH Dockrell,"[""KJ O'Brien""]",caught,MBS Jonkman,2010-02-13,Netherlands,Ireland,0,Dubai International Cricket Stadium
+6,MJG Rippon,17.0,16,0,1,106.25,T Mishra,['CO Obuya'],run out,Mudassar Bukhari,2013-04-20,Netherlands,Kenya,0,Wanderers Cricket Ground
+7,MJG Rippon,17.0,16,0,1,106.25,SO Ngoche,['T Mishra'],caught,MJG Rippon,2013-04-20,Netherlands,Kenya,0,Wanderers Cricket Ground
+7,MJG Rippon,10.0,11,0,0,90.9090909090909,notOut,notOut,notOut,notOut,2013-11-22,Scotland,Scotland,0,ICC Academy
+7,MJG Rippon,5.0,9,0,0,55.55555555555556,TM Odoyo,['CO Obuya'],caught,MJG Rippon,2013-11-23,Netherlands,Netherlands,0,ICC Academy
+7,MJG Rippon,17.0,16,2,0,106.25,Dawlat Zadran,['Asghar Stanikzai'],caught,MJG Rippon,2015-07-09,Netherlands,Afghanistan,0,"Grange Cricket Club Ground, Raeburn Place"
+3,MJG Rippon,40.0,38,3,0,105.26315789473684,Kaleemullah,['Aqib Ilyas'],caught,MJG Rippon,2017-01-15,Oman,Netherlands,0,Sheikh Zayed Stadium
+1,MJG Rippon,42.0,40,5,0,105.0,CD de Lange,0,bowled,MJG Rippon,2017-01-17,Scotland,Scotland,0,Sheikh Zayed Stadium
+1,MJG Rippon,0.0,1,0,0,0.0,Nadeem Ahmed,0,lbw,MJG Rippon,2017-01-18,Netherlands,Hong Kong,0,Dubai International Cricket Stadium
+6,MP O'Dowd,3.0,6,0,0,50.0,Karan KC,['G Malla'],caught,MP O'Dowd,2015-07-02,Nepal,Netherlands,0,Hazelaarweg
+5,MP O'Dowd,17.0,12,1,1,141.66666666666669,KJ O'Brien,['GH Dockrell'],caught,MP O'Dowd,2015-07-25,Netherlands,Netherlands,0,"The Village, Malahide"
+6,MP O'Dowd,6.0,7,0,0,85.71428571428571,notOut,notOut,notOut,notOut,2016-02-03,Netherlands,Netherlands,0,ICC Academy
+6,MP O'Dowd,9.0,6,0,1,150.0,notOut,notOut,notOut,notOut,2017-01-15,Oman,Netherlands,0,Sheikh Zayed Stadium
+6,MP O'Dowd,12.0,11,0,0,109.09090909090908,JH Davey,['CS MacLeod'],caught,MP O'Dowd,2017-01-17,Scotland,Scotland,0,Sheikh Zayed Stadium
+6,MP O'Dowd,13.0,15,0,0,86.66666666666667,Nadeem Ahmed,0,bowled,MP O'Dowd,2017-01-18,Netherlands,Hong Kong,0,Dubai International Cricket Stadium
+1,MR Swart,3.0,4,0,0,75.0,Junaid Siddiqui,0,bowled,MR Swart,2012-03-13,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+1,MR Swart,22.0,16,3,0,137.5,Samiullah Shenwari,0,lbw,MR Swart,2012-03-14,Netherlands,Afghanistan,0,Dubai International Cricket Stadium
+1,MR Swart,3.0,7,0,0,42.857142857142854,WB Rankin,0,bowled,MR Swart,2012-03-23,Netherlands,Ireland,0,Dubai International Cricket Stadium
+0,MR Swart,57.0,43,4,2,132.5581395348837,Shakib Al Hasan,['Nasir Hossain'],caught,MR Swart,2012-07-25,Bangladesh,Bangladesh,0,Sportpark Westvliet
+1,MR Swart,61.0,50,4,2,122.0,Elias Sunny,['Mushfiqur Rahim'],run out,ES Szwarczynski,2012-07-26,Bangladesh,Netherlands,0,Sportpark Westvliet
+2,MR Swart,61.0,50,4,2,122.0,Mahmudullah,['Mushfiqur Rahim'],stumped,MR Swart,2012-07-26,Bangladesh,Netherlands,0,Sportpark Westvliet
+1,MR Swart,89.0,58,6,5,153.44827586206898,NN Odhiambo,['CO Obuya'],run out,MR Swart,2013-04-19,Netherlands,Kenya,0,Wanderers Cricket Ground
+2,MR Swart,27.0,14,3,2,192.85714285714286,SO Ngoche,0,lbw,MR Swart,2013-04-20,Netherlands,Kenya,0,Wanderers Cricket Ground
+1,MR Swart,22.0,28,1,0,78.57142857142857,RM Haq,['RML Taylor'],caught,MR Swart,2013-11-22,Scotland,Scotland,0,ICC Academy
+2,MR Swart,44.0,38,4,0,115.78947368421053,TM Odoyo,0,lbw,MR Swart,2013-11-23,Netherlands,Netherlands,0,ICC Academy
+3,MR Swart,30.0,28,1,1,107.14285714285714,notOut,notOut,notOut,notOut,2013-11-28,Scotland,Netherlands,0,Sheikh Zayed Stadium
+1,MR Swart,26.0,16,3,1,162.5,Kamran Shazad,['Amjad Javed'],caught,MR Swart,2014-03-17,United Arab Emirates,Netherlands,0,Sylhet Stadium
+0,MR Swart,3.0,8,0,0,37.5,TL Chatara,['TL Chatara'],run out,MR Swart,2014-03-19,Zimbabwe,Zimbabwe,0,Sylhet Stadium
+1,MR Swart,0.0,4,0,0,0.0,AD Mathews,['KC Sangakkara'],caught,MR Swart,2014-03-24,Sri Lanka,Sri Lanka,0,Zahur Ahmed Chowdhury Stadium
+1,MR Swart,8.0,12,1,0,66.66666666666666,DW Steyn,['F du Plessis'],caught,MR Swart,2014-03-27,South Africa,South Africa,0,Zahur Ahmed Chowdhury Stadium
+1,MR Swart,26.0,26,3,0,100.0,NL McCullum,['L Ronchi'],stumped,MR Swart,2014-03-29,New Zealand,New Zealand,0,Zahur Ahmed Chowdhury Stadium
+0,MR Swart,13.0,16,2,0,81.25,SCJ Broad,['SD Parry'],caught,MR Swart,2014-03-31,Netherlands,Netherlands,0,Zahur Ahmed Chowdhury Stadium
+0,MR Swart,76.0,60,8,1,126.66666666666666,notOut,notOut,notOut,notOut,2015-07-01,Nepal,Netherlands,0,VRA Ground
+1,MR Swart,18.0,25,1,0,72.0,Mirwais Ashraf,"['Nawroz Mangal', 'Mirwais Ashraf']",run out,MR Swart,2015-07-09,Netherlands,Afghanistan,0,"Grange Cricket Club Ground, Raeburn Place"
+4,MR Swart,2.0,3,0,0,66.66666666666666,MRJ Watt,['PL Mommsen'],caught,MR Swart,2015-07-11,Netherlands,Netherlands,0,"Grange Cricket Club Ground, Raeburn Place"
+3,MR Swart,19.0,29,1,0,65.51724137931035,Fayyaz Ahmed,0,bowled,MR Swart,2015-07-12,United Arab Emirates,Netherlands,0,"Grange Cricket Club Ground, Raeburn Place"
+3,MR Swart,21.0,20,2,0,105.0,KJ O'Brien,['SW Poynter'],caught,MR Swart,2015-07-25,Netherlands,Netherlands,0,"The Village, Malahide"
+0,MR Swart,9.0,8,2,0,112.5,Mohammad Naveed,['Qadeer Ahmed'],caught,MR Swart,2016-02-03,Netherlands,Netherlands,0,ICC Academy
+3,Mudassar Bukhari,9.0,7,2,0,128.57142857142858,RD Berrington,['RR Watson'],caught,Mudassar Bukhari,2008-08-04,Scotland,Netherlands,0,"Civil Service Cricket Club, Stormont"
+7,Mudassar Bukhari,3.0,4,0,0,75.0,notOut,notOut,notOut,notOut,2010-02-12,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+1,Mudassar Bukhari,0.0,2,0,0,0.0,PC Connell,0,lbw,Mudassar Bukhari,2010-02-13,Netherlands,Ireland,0,Dubai International Cricket Stadium
+7,Mudassar Bukhari,28.0,15,1,1,186.66666666666666,notOut,notOut,notOut,notOut,2012-03-13,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+6,Mudassar Bukhari,10.0,9,2,0,111.11111111111111,Izatullah Dawlatzai,['Nawroz Mangal'],caught,Mudassar Bukhari,2012-03-14,Netherlands,Afghanistan,0,Dubai International Cricket Stadium
+7,Mudassar Bukhari,5.0,3,1,0,166.66666666666669,KJ O'Brien,['GC Wilson'],caught,Mudassar Bukhari,2012-03-23,Netherlands,Ireland,0,Dubai International Cricket Stadium
+6,Mudassar Bukhari,12.0,15,1,0,80.0,Abdur Razzak,['Junaid Siddique'],caught,Mudassar Bukhari,2012-07-25,Bangladesh,Bangladesh,0,Sportpark Westvliet
+7,Mudassar Bukhari,7.0,4,0,1,175.0,Shafiul Islam,['Jahurul Islam'],caught,Mudassar Bukhari,2012-07-26,Bangladesh,Netherlands,0,Sportpark Westvliet
+3,Mudassar Bukhari,4.0,6,0,0,66.66666666666666,RG Aga,0,bowled,Mudassar Bukhari,2013-04-19,Netherlands,Kenya,0,Wanderers Cricket Ground
+8,Mudassar Bukhari,3.0,7,0,0,42.857142857142854,notOut,notOut,notOut,notOut,2013-04-20,Netherlands,Kenya,0,Wanderers Cricket Ground
+6,Mudassar Bukhari,2.0,4,0,0,50.0,RM Haq,['MH Cross'],caught,Mudassar Bukhari,2013-11-22,Scotland,Scotland,0,ICC Academy
+5,Mudassar Bukhari,10.0,12,1,0,83.33333333333334,TM Odoyo,['HA Varaiya'],caught,Mudassar Bukhari,2013-11-23,Netherlands,Netherlands,0,ICC Academy
+6,Mudassar Bukhari,14.0,16,0,0,87.5,notOut,notOut,notOut,notOut,2014-03-19,Zimbabwe,Zimbabwe,0,Sylhet Stadium
+6,Mudassar Bukhari,4.0,8,0,0,50.0,SL Malinga,0,bowled,Mudassar Bukhari,2014-03-24,Sri Lanka,Sri Lanka,0,Zahur Ahmed Chowdhury Stadium
+6,Mudassar Bukhari,11.0,12,1,0,91.66666666666666,LL Tsotsobe,"['DA Miller', 'Q de Kock']",run out,LV van Beek,2014-03-27,South Africa,South Africa,0,Zahur Ahmed Chowdhury Stadium
+7,Mudassar Bukhari,11.0,12,1,0,91.66666666666666,LL Tsotsobe,['DA Miller'],caught,Mudassar Bukhari,2014-03-27,South Africa,South Africa,0,Zahur Ahmed Chowdhury Stadium
+6,Mudassar Bukhari,1.0,2,0,0,50.0,notOut,notOut,notOut,notOut,2014-03-31,Netherlands,Netherlands,0,Zahur Ahmed Chowdhury Stadium
+4,Mudassar Bukhari,1.0,2,0,0,50.0,Sompal Kami,0,bowled,Mudassar Bukhari,2015-07-01,Nepal,Netherlands,0,VRA Ground
+8,Mudassar Bukhari,1.0,3,0,0,33.33333333333333,Hamid Hassan,0,bowled,Mudassar Bukhari,2015-07-09,Netherlands,Afghanistan,0,"Grange Cricket Club Ground, Raeburn Place"
+6,Mudassar Bukhari,4.0,3,0,0,133.33333333333331,notOut,notOut,notOut,notOut,2015-07-11,Netherlands,Netherlands,0,"Grange Cricket Club Ground, Raeburn Place"
+7,Mudassar Bukhari,0.0,1,0,0,0.0,notOut,notOut,notOut,notOut,2016-02-03,Netherlands,Netherlands,0,ICC Academy
+7,Mudassar Bukhari,14.0,6,1,1,233.33333333333334,Taskin Ahmed,"['Mushfiqur Rahim', 'Soumya Sarkar']",run out,Mudassar Bukhari,2016-03-09,Netherlands,Bangladesh,0,Himachal Pradesh Cricket Association Stadium
+10,PA van Meekeren,3.0,7,0,0,42.857142857142854,RG Aga,0,lbw,PA van Meekeren,2013-04-20,Netherlands,Kenya,0,Wanderers Cricket Ground
+10,PA van Meekeren,18.0,11,0,2,163.63636363636365,Ehsan Khan,['Nizakat Khan'],caught,PA van Meekeren,2017-01-18,Netherlands,Hong Kong,0,Dubai International Cricket Stadium
+10,PM Seelaar,1.0,2,0,0,50.0,Umar Gul,0,bowled,PM Seelaar,2009-06-09,Pakistan,Pakistan,0,Lord's
+9,PM Seelaar,1.0,4,0,0,25.0,GH Dockrell,"[""KJ O'Brien""]",caught,PM Seelaar,2010-02-13,Netherlands,Ireland,0,Dubai International Cricket Stadium
+8,PM Seelaar,9.0,5,0,1,180.0,notOut,notOut,notOut,notOut,2012-07-25,Bangladesh,Bangladesh,0,Sportpark Westvliet
+9,PM Seelaar,3.0,3,0,0,100.0,notOut,notOut,notOut,notOut,2012-07-26,Bangladesh,Netherlands,0,Sportpark Westvliet
+9,PM Seelaar,2.0,10,0,0,20.0,SO Ngoche,['E Otieno'],caught,PM Seelaar,2013-04-20,Netherlands,Kenya,0,Wanderers Cricket Ground
+8,PM Seelaar,3.0,3,0,0,100.0,BAW Mendis,['AD Mathews'],caught,PM Seelaar,2014-03-24,Sri Lanka,Sri Lanka,0,Zahur Ahmed Chowdhury Stadium
+8,PM Seelaar,2.0,4,0,0,50.0,Imran Tahir,['JP Duminy'],caught,PM Seelaar,2014-03-27,South Africa,South Africa,0,Zahur Ahmed Chowdhury Stadium
+5,PM Seelaar,6.0,8,0,0,75.0,notOut,notOut,notOut,notOut,2015-07-02,Nepal,Netherlands,0,Hazelaarweg
+6,PM Seelaar,6.0,6,0,0,100.0,Sharafuddin Ashraf,['Mohammad Shahzad'],stumped,PM Seelaar,2015-07-09,Netherlands,Afghanistan,0,"Grange Cricket Club Ground, Raeburn Place"
+7,PM Seelaar,6.0,4,0,0,150.0,notOut,notOut,notOut,notOut,2015-07-11,Netherlands,Netherlands,0,"Grange Cricket Club Ground, Raeburn Place"
+4,PM Seelaar,8.0,9,1,0,88.88888888888889,Rohan Mustafa,"['Ahmed Raza', 'SP Patil']",run out,W Barresi,2016-02-03,Netherlands,Netherlands,0,ICC Academy
+5,PM Seelaar,8.0,9,1,0,88.88888888888889,Rohan Mustafa,['Farhan Ahmed'],caught,PM Seelaar,2016-02-03,Netherlands,Netherlands,0,ICC Academy
+6,PM Seelaar,7.0,8,1,0,87.5,notOut,notOut,notOut,notOut,2016-03-09,Netherlands,Bangladesh,0,Himachal Pradesh Cricket Association Stadium
+7,PM Seelaar,12.0,12,2,0,100.0,JH Davey,['SM Sharif'],caught,PM Seelaar,2017-01-17,Scotland,Scotland,0,Sheikh Zayed Stadium
+7,PM Seelaar,1.0,2,0,0,50.0,Anshuman Rath,0,bowled,PM Seelaar,2017-01-18,Netherlands,Hong Kong,0,Dubai International Cricket Stadium
+6,PW Borren,16.0,12,3,0,133.33333333333331,notOut,notOut,notOut,notOut,2008-08-04,Scotland,Netherlands,0,"Civil Service Cricket Club, Stormont"
+4,PW Borren,30.0,27,1,1,111.11111111111111,JM Anderson,['OA Shah'],caught,PW Borren,2009-06-05,Netherlands,Netherlands,0,Lord's
+3,PW Borren,2.0,4,0,0,50.0,Saeed Ajmal,['Salman Butt'],caught,PW Borren,2009-06-09,Pakistan,Pakistan,0,Lord's
+3,PW Borren,12.0,12,0,0,100.0,JM Davison,"['A Bagai', 'S Dhaniram']",run out,PW Borren,2010-02-09,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+5,PW Borren,1.0,5,0,0,20.0,Hamid Hassan,['Raees Ahmadzai'],run out,PW Borren,2010-02-12,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+6,PW Borren,8.0,9,0,0,88.88888888888889,GH Dockrell,['GC Wilson'],caught,PW Borren,2010-02-13,Netherlands,Ireland,0,Dubai International Cricket Stadium
+6,PW Borren,11.0,9,1,0,122.22222222222223,notOut,notOut,notOut,notOut,2012-03-13,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+5,PW Borren,5.0,8,0,0,62.5,Izatullah Dawlatzai,['Mohammad Shahzad'],caught,PW Borren,2012-03-14,Netherlands,Afghanistan,0,Dubai International Cricket Stadium
+6,PW Borren,7.0,9,0,0,77.77777777777779,PR Stirling,['WB Rankin'],caught,PW Borren,2012-03-23,Netherlands,Ireland,0,Dubai International Cricket Stadium
+4,PW Borren,12.0,16,2,0,75.0,Abdur Razzak,['Mushfiqur Rahim'],run out,PW Borren,2012-07-25,Bangladesh,Bangladesh,0,Sportpark Westvliet
+4,PW Borren,16.0,16,1,1,100.0,Shakib Al Hasan,['Abdur Razzak'],caught,PW Borren,2012-07-26,Bangladesh,Netherlands,0,Sportpark Westvliet
+3,PW Borren,38.0,16,2,4,237.5,notOut,notOut,notOut,notOut,2013-11-15,Netherlands,Netherlands,0,Sharjah Cricket Stadium
+5,PW Borren,12.0,9,1,0,133.33333333333331,SM Sharif,['G Goudie'],caught,PW Borren,2013-11-22,Scotland,Scotland,0,ICC Academy
+3,PW Borren,6.0,7,0,0,85.71428571428571,SO Tikolo,['MA Ouma'],stumped,PW Borren,2013-11-23,Netherlands,Netherlands,0,ICC Academy
+5,PW Borren,3.0,8,0,0,37.5,Kamran Shazad,['EHSN Silva'],caught,PW Borren,2014-03-17,United Arab Emirates,Netherlands,0,Sylhet Stadium
+3,PW Borren,8.0,7,2,0,114.28571428571428,P Utseya,['E Chigumbura'],caught,PW Borren,2014-03-19,Zimbabwe,Zimbabwe,0,Sylhet Stadium
+0,PW Borren,31.0,15,4,2,206.66666666666669,KJ O'Brien,['GH Dockrell'],caught,PW Borren,2014-03-21,Netherlands,Netherlands,0,Sylhet Stadium
+3,PW Borren,0.0,7,0,0,0.0,AD Mathews,0,lbw,PW Borren,2014-03-24,Sri Lanka,Sri Lanka,0,Zahur Ahmed Chowdhury Stadium
+3,PW Borren,13.0,10,1,1,130.0,Imran Tahir,0,lbw,PW Borren,2014-03-27,South Africa,South Africa,0,Zahur Ahmed Chowdhury Stadium
+3,PW Borren,49.0,36,7,1,136.11111111111111,KD Mills,['KS Williamson'],caught,PW Borren,2014-03-29,New Zealand,New Zealand,0,Zahur Ahmed Chowdhury Stadium
+4,PW Borren,7.0,11,1,0,63.63636363636363,SCJ Broad,['SD Parry'],caught,PW Borren,2014-03-31,Netherlands,Netherlands,0,Zahur Ahmed Chowdhury Stadium
+4,PW Borren,19.0,9,2,1,211.11111111111111,B Regmi,['S Vesawkar'],caught,PW Borren,2015-07-02,Nepal,Netherlands,0,Hazelaarweg
+4,PW Borren,10.0,10,0,1,100.0,Sharafuddin Ashraf,['Mohammad Shahzad'],stumped,PW Borren,2015-07-09,Netherlands,Afghanistan,0,"Grange Cricket Club Ground, Raeburn Place"
+3,PW Borren,57.0,28,6,3,203.57142857142856,AC Evans,['JH Davey'],caught,PW Borren,2015-07-11,Netherlands,Netherlands,0,"Grange Cricket Club Ground, Raeburn Place"
+4,PW Borren,23.0,10,3,1,229.99999999999997,notOut,notOut,notOut,notOut,2015-07-12,United Arab Emirates,Netherlands,0,"Grange Cricket Club Ground, Raeburn Place"
+4,PW Borren,36.0,25,4,1,144.0,notOut,notOut,notOut,notOut,2015-07-25,Netherlands,Netherlands,0,"The Village, Malahide"
+3,PW Borren,43.0,29,4,1,148.27586206896552,Rohan Mustafa,0,bowled,PW Borren,2016-02-03,Netherlands,Netherlands,0,ICC Academy
+3,PW Borren,30.0,28,3,0,107.14285714285714,Shakib Al Hasan,['Nasir Hossain'],caught,PW Borren,2016-03-09,Netherlands,Bangladesh,0,Himachal Pradesh Cricket Association Stadium
+4,PW Borren,14.0,9,3,0,155.55555555555557,WB Rankin,"['GC Wilson', ""NJ O'Brien""]",run out,PW Borren,2016-03-13,Netherlands,Netherlands,0,Himachal Pradesh Cricket Association Stadium
+5,PW Borren,5.0,6,0,0,83.33333333333334,Mohammad Nadeem,['Sultan Ahmed'],caught,PW Borren,2017-01-15,Oman,Netherlands,0,Sheikh Zayed Stadium
+4,PW Borren,15.0,10,2,0,150.0,SM Sharif,0,bowled,PW Borren,2017-01-17,Scotland,Scotland,0,Sheikh Zayed Stadium
+0,PW Borren,0.0,3,0,0,0.0,notOut,notOut,notOut,notOut,2017-01-18,Netherlands,Hong Kong,0,Dubai International Cricket Stadium
+5,RE van der Merwe,1.0,2,0,0,50.0,Mohammad Nabi,['Najibullah Zadran'],caught,RE van der Merwe,2015-07-09,Netherlands,Afghanistan,0,"Grange Cricket Club Ground, Raeburn Place"
+5,RE van der Merwe,24.0,18,0,2,133.33333333333331,AC Evans,0,bowled,RE van der Merwe,2015-07-11,Netherlands,Netherlands,0,"Grange Cricket Club Ground, Raeburn Place"
+5,RE van der Merwe,1.0,3,0,0,33.33333333333333,Mashrafe Mortaza,['Mushfiqur Rahim'],caught,RE van der Merwe,2016-03-09,Netherlands,Bangladesh,0,Himachal Pradesh Cricket Association Stadium
+2,RE van der Merwe,2.0,2,0,0,100.0,GH Dockrell,['TJ Murtagh'],caught,RE van der Merwe,2016-03-13,Netherlands,Netherlands,0,Himachal Pradesh Cricket Association Stadium
+4,RE van der Merwe,35.0,15,6,0,233.33333333333334,notOut,notOut,notOut,notOut,2017-01-15,Oman,Netherlands,0,Sheikh Zayed Stadium
+5,RE van der Merwe,6.0,7,0,0,85.71428571428571,BTJ Wheal,0,lbw,RE van der Merwe,2017-01-17,Scotland,Scotland,0,Sheikh Zayed Stadium
+5,RE van der Merwe,8.0,8,1,0,100.0,Aizaz Khan,['Babar Hayat'],caught,RE van der Merwe,2017-01-18,Netherlands,Hong Kong,0,Dubai International Cricket Stadium
+0,RI Ahmed,13.0,16,0,0,81.25,Karan KC,0,caught and bowled,RI Ahmed,2015-07-02,Nepal,Netherlands,0,Hazelaarweg
+4,RN ten Doeschate,24.0,18,1,1,133.33333333333331,notOut,notOut,notOut,notOut,2008-08-04,Scotland,Netherlands,0,"Civil Service Cricket Club, Stormont"
+5,RN ten Doeschate,22.0,17,2,0,129.41176470588235,notOut,notOut,notOut,notOut,2009-06-05,Netherlands,Netherlands,0,Lord's
+4,RN ten Doeschate,14.0,11,0,1,127.27272727272727,Shoaib Malik,['Kamran Akmal'],stumped,RN ten Doeschate,2009-06-09,Pakistan,Pakistan,0,Lord's
+4,RN ten Doeschate,17.0,15,1,0,113.33333333333333,HS Baidwan,['A Bagai'],caught,RN ten Doeschate,2010-02-09,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+4,RN ten Doeschate,24.0,24,2,0,100.0,notOut,notOut,notOut,notOut,2010-02-12,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+4,RN ten Doeschate,32.0,20,1,2,160.0,AC Botha,['PC Connell'],caught,RN ten Doeschate,2010-02-13,Netherlands,Ireland,0,Dubai International Cricket Stadium
+0,SJ Myburgh,16.0,22,3,0,72.72727272727273,Rizwan Cheema,['HS Baidwan'],caught,SJ Myburgh,2012-03-13,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+0,SJ Myburgh,19.0,19,3,0,100.0,Karim Sadiq,0,bowled,SJ Myburgh,2012-03-14,Netherlands,Afghanistan,0,Dubai International Cricket Stadium
+0,SJ Myburgh,2.0,12,0,0,16.666666666666664,DT Johnston,['WTS Porterfield'],caught,SJ Myburgh,2012-03-23,Netherlands,Ireland,0,Dubai International Cricket Stadium
+0,SJ Myburgh,41.0,32,4,1,128.125,RG Aga,0,bowled,SJ Myburgh,2013-04-19,Netherlands,Kenya,0,Wanderers Cricket Ground
+2,SJ Myburgh,21.0,28,1,1,75.0,Mohammad Nabi,['Najibullah Zadran'],caught,SJ Myburgh,2013-11-15,Netherlands,Netherlands,0,Sharjah Cricket Stadium
+0,SJ Myburgh,18.0,10,3,0,180.0,NM Carter,0,bowled,SJ Myburgh,2013-11-22,Scotland,Scotland,0,ICC Academy
+0,SJ Myburgh,0.0,2,0,0,0.0,NN Odhiambo,['RR Patel'],caught,SJ Myburgh,2013-11-23,Netherlands,Netherlands,0,ICC Academy
+0,SJ Myburgh,0.0,4,0,0,0.0,NM Carter,0,bowled,SJ Myburgh,2013-11-28,Scotland,Netherlands,0,Sheikh Zayed Stadium
+0,SJ Myburgh,55.0,36,7,2,152.77777777777777,notOut,notOut,notOut,notOut,2014-03-17,United Arab Emirates,Netherlands,0,Sylhet Stadium
+1,SJ Myburgh,0.0,1,0,0,0.0,P Utseya,0,lbw,SJ Myburgh,2014-03-19,Zimbabwe,Zimbabwe,0,Sylhet Stadium
+1,SJ Myburgh,63.0,23,4,7,273.9130434782609,GH Dockrell,['EC Joyce'],caught,SJ Myburgh,2014-03-21,Netherlands,Netherlands,0,Sylhet Stadium
+0,SJ Myburgh,0.0,3,0,0,0.0,KMDN Kulasekara,['SL Malinga'],caught,SJ Myburgh,2014-03-24,Sri Lanka,Sri Lanka,0,Zahur Ahmed Chowdhury Stadium
+0,SJ Myburgh,51.0,29,8,2,175.86206896551724,JP Duminy,0,bowled,SJ Myburgh,2014-03-27,South Africa,South Africa,0,Zahur Ahmed Chowdhury Stadium
+0,SJ Myburgh,16.0,24,1,1,66.66666666666666,TA Boult,['MJ Guptill'],caught,SJ Myburgh,2014-03-29,New Zealand,New Zealand,0,Zahur Ahmed Chowdhury Stadium
+1,SJ Myburgh,39.0,31,6,1,125.80645161290323,RS Bopara,['AD Hales'],caught,SJ Myburgh,2014-03-31,Netherlands,Netherlands,0,Zahur Ahmed Chowdhury Stadium
+1,SJ Myburgh,71.0,57,5,2,124.56140350877195,B Regmi,"['P Khadka', 'SP Khakurel']",run out,PM Seelaar,2015-07-02,Nepal,Netherlands,0,Hazelaarweg
+0,SJ Myburgh,13.0,10,1,1,130.0,Dawlat Zadran,['Asghar Stanikzai'],caught,SJ Myburgh,2015-07-09,Netherlands,Afghanistan,0,"Grange Cricket Club Ground, Raeburn Place"
+0,SJ Myburgh,6.0,9,0,0,66.66666666666666,AC Evans,0,bowled,SJ Myburgh,2015-07-11,Netherlands,Netherlands,0,"Grange Cricket Club Ground, Raeburn Place"
+1,SJ Myburgh,10.0,10,2,0,100.0,AM Guruge,['Mohammad Tauqir'],caught,SJ Myburgh,2015-07-12,United Arab Emirates,Netherlands,0,"Grange Cricket Club Ground, Raeburn Place"
+0,SJ Myburgh,1.0,3,0,0,33.33333333333333,CA Young,0,bowled,SJ Myburgh,2015-07-25,Netherlands,Netherlands,0,"The Village, Malahide"
+1,SJ Myburgh,35.0,26,6,0,134.6153846153846,Mohammad Shahzad (2),['Ahmed Raza'],caught,SJ Myburgh,2016-02-03,Netherlands,Netherlands,0,ICC Academy
+0,SJ Myburgh,29.0,29,5,0,100.0,Nasir Hossain,0,bowled,SJ Myburgh,2016-03-09,Netherlands,Bangladesh,0,Himachal Pradesh Cricket Association Stadium
+0,SJ Myburgh,27.0,18,5,0,150.0,WB Rankin,"[""NJ O'Brien"", 'WB Rankin']",run out,SJ Myburgh,2016-03-13,Netherlands,Netherlands,0,Himachal Pradesh Cricket Association Stadium
+0,SJ Myburgh,4.0,3,1,0,133.33333333333331,Bilal Khan,0,bowled,SJ Myburgh,2017-01-15,Oman,Netherlands,0,Sheikh Zayed Stadium
+10,T van der Gugten,12.0,8,0,1,150.0,Abdur Razzak,0,lbw,T van der Gugten,2012-07-26,Bangladesh,Netherlands,0,Sportpark Westvliet
+10,T van der Gugten,8.0,12,0,0,66.66666666666666,BE Hendricks,['Q de Kock'],caught,T van der Gugten,2014-03-27,South Africa,South Africa,0,Zahur Ahmed Chowdhury Stadium
+7,T van der Gugten,12.0,5,1,1,240.0,notOut,notOut,notOut,notOut,2015-07-02,Nepal,Netherlands,0,Hazelaarweg
+9,T van der Gugten,2.0,4,0,0,50.0,Dawlat Zadran,['Shafiqullah'],caught,T van der Gugten,2015-07-09,Netherlands,Afghanistan,0,"Grange Cricket Club Ground, Raeburn Place"
+8,T van der Gugten,7.0,8,0,0,87.5,SM Sharif,"['RD Berrington', 'SM Sharif']",run out,Ahsan Malik,2017-01-17,Scotland,Scotland,0,Sheikh Zayed Stadium
+9,T van der Gugten,7.0,8,0,0,87.5,SM Sharif,"['RD Berrington', 'SM Sharif']",run out,PA van Meekeren,2017-01-17,Scotland,Scotland,0,Sheikh Zayed Stadium
+9,T van der Gugten,4.0,7,0,0,57.14285714285714,Anshuman Rath,['Shahid Wasif'],caught,T van der Gugten,2017-01-18,Netherlands,Hong Kong,0,Dubai International Cricket Stadium
+7,TGJ Gruijters,21.0,16,2,0,131.25,notOut,notOut,notOut,notOut,2012-07-25,Bangladesh,Bangladesh,0,Sportpark Westvliet
+8,TGJ Gruijters,3.0,5,0,0,60.0,Shafiul Islam,0,bowled,TGJ Gruijters,2012-07-26,Bangladesh,Netherlands,0,Sportpark Westvliet
+4,TGJ Gruijters,5.0,12,0,0,41.66666666666667,HA Varaiya,['RR Patel'],caught,TGJ Gruijters,2013-04-20,Netherlands,Kenya,0,Wanderers Cricket Ground
+8,TGJ Gruijters,11.0,8,1,0,137.5,notOut,notOut,notOut,notOut,2013-11-23,Netherlands,Netherlands,0,ICC Academy
+2,TLW Cooper,29.0,27,3,0,107.40740740740742,HS Baidwan,0,bowled,TLW Cooper,2012-03-13,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+2,TLW Cooper,7.0,12,0,0,58.333333333333336,Karim Sadiq,['Samiullah Shenwari'],run out,TLW Cooper,2012-03-14,Netherlands,Afghanistan,0,Dubai International Cricket Stadium
+4,TLW Cooper,26.0,24,2,1,108.33333333333333,KJ O'Brien,0,lbw,TLW Cooper,2012-03-23,Netherlands,Ireland,0,Dubai International Cricket Stadium
+2,TLW Cooper,1.0,3,0,0,33.33333333333333,Mashrafe Mortaza,['Shakib Al Hasan'],caught,TLW Cooper,2012-07-25,Bangladesh,Bangladesh,0,Sportpark Westvliet
+3,TLW Cooper,0.0,3,0,0,0.0,Shakib Al Hasan,0,bowled,TLW Cooper,2012-07-26,Bangladesh,Netherlands,0,Sportpark Westvliet
+2,TLW Cooper,25.0,14,3,1,178.57142857142858,RG Aga,['MA Ouma'],caught,TLW Cooper,2013-04-19,Netherlands,Kenya,0,Wanderers Cricket Ground
+1,TLW Cooper,10.0,7,2,0,142.85714285714286,NN Odhiambo,['MA Ouma'],caught,TLW Cooper,2013-04-20,Netherlands,Kenya,0,Wanderers Cricket Ground
+4,TLW Cooper,34.0,26,4,1,130.76923076923077,notOut,notOut,notOut,notOut,2014-03-17,United Arab Emirates,Netherlands,0,Sylhet Stadium
+4,TLW Cooper,72.0,60,9,1,120.0,notOut,notOut,notOut,notOut,2014-03-19,Zimbabwe,Zimbabwe,0,Sylhet Stadium
+4,TLW Cooper,45.0,15,1,6,300.0,TJ Murtagh,"[""KJ O'Brien""]",caught,TLW Cooper,2014-03-21,Netherlands,Netherlands,0,Sylhet Stadium
+4,TLW Cooper,16.0,18,2,0,88.88888888888889,BAW Mendis,0,lbw,TLW Cooper,2014-03-24,Sri Lanka,Sri Lanka,0,Zahur Ahmed Chowdhury Stadium
+4,TLW Cooper,16.0,14,2,0,114.28571428571428,Imran Tahir,0,bowled,TLW Cooper,2014-03-27,South Africa,South Africa,0,Zahur Ahmed Chowdhury Stadium
+4,TLW Cooper,40.0,23,4,2,173.91304347826087,notOut,notOut,notOut,notOut,2014-03-29,New Zealand,New Zealand,0,Zahur Ahmed Chowdhury Stadium
+3,TLW Cooper,8.0,15,0,0,53.333333333333336,SCJ Broad,['CJ Jordan'],caught,TLW Cooper,2014-03-31,Netherlands,Netherlands,0,Zahur Ahmed Chowdhury Stadium
+4,TLW Cooper,15.0,18,2,0,83.33333333333334,Al-Amin Hossain,['Arafat Sunny'],caught,TLW Cooper,2016-03-09,Netherlands,Bangladesh,0,Himachal Pradesh Cricket Association Stadium
+1,TLW Cooper,0.0,2,0,0,0.0,GH Dockrell,['WB Rankin'],caught,TLW Cooper,2016-03-13,Netherlands,Netherlands,0,Himachal Pradesh Cricket Association Stadium
+2,TN de Grooth,24.0,29,3,0,82.75862068965517,RD Berrington,['CJO Smith'],caught,TN de Grooth,2008-08-04,Scotland,Netherlands,0,"Civil Service Cricket Club, Stormont"
+3,TN de Grooth,49.0,30,6,1,163.33333333333334,PD Collingwood,['RWT Key'],caught,TN de Grooth,2009-06-05,Netherlands,Netherlands,0,Lord's
+5,TN de Grooth,4.0,7,0,0,57.14285714285714,Shahid Afridi,0,bowled,TN de Grooth,2009-06-09,Pakistan,Pakistan,0,Lord's
+8,TN de Grooth,8.0,9,0,0,88.88888888888889,notOut,notOut,notOut,notOut,2012-03-13,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+7,TN de Grooth,3.0,4,0,0,75.0,notOut,notOut,notOut,notOut,2012-03-14,Netherlands,Afghanistan,0,Dubai International Cricket Stadium
+8,TN de Grooth,2.0,3,0,0,66.66666666666666,notOut,notOut,notOut,notOut,2012-03-23,Netherlands,Ireland,0,Dubai International Cricket Stadium
+5,TN de Grooth,22.0,18,2,0,122.22222222222223,Mahmudullah,['Abdur Razzak'],caught,TN de Grooth,2012-07-25,Bangladesh,Bangladesh,0,Sportpark Westvliet
+5,TN de Grooth,7.0,10,1,0,70.0,Elias Sunny,0,bowled,TN de Grooth,2012-07-26,Bangladesh,Netherlands,0,Sportpark Westvliet
+4,TN de Grooth,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2013-04-19,Netherlands,Kenya,0,Wanderers Cricket Ground
+5,TN de Grooth,19.0,24,2,0,79.16666666666666,JO Ngoche,['RG Aga'],caught,TN de Grooth,2013-04-20,Netherlands,Kenya,0,Wanderers Cricket Ground
+1,TP Visee,4.0,11,0,0,36.36363636363637,A Karn,['G Malla'],caught,TP Visee,2015-07-01,Nepal,Netherlands,0,VRA Ground
+2,TP Visee,0.0,2,0,0,0.0,JH Davey,0,lbw,TP Visee,2017-01-17,Scotland,Scotland,0,Sheikh Zayed Stadium
+8,TP Visee,0.0,1,0,0,0.0,Anshuman Rath,0,lbw,TP Visee,2017-01-18,Netherlands,Hong Kong,0,Dubai International Cricket Stadium
+5,W Barresi,3.0,7,0,0,42.857142857142854,HS Baidwan,['Zahid Hussain'],caught,W Barresi,2012-03-13,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+4,W Barresi,14.0,13,1,0,107.6923076923077,Izatullah Dawlatzai,0,bowled,W Barresi,2012-03-14,Netherlands,Afghanistan,0,Dubai International Cricket Stadium
+5,W Barresi,6.0,16,0,0,37.5,notOut,notOut,notOut,notOut,2012-03-23,Netherlands,Ireland,0,Dubai International Cricket Stadium
+1,W Barresi,0.0,2,0,0,0.0,Mashrafe Mortaza,0,bowled,W Barresi,2012-07-25,Bangladesh,Bangladesh,0,Sportpark Westvliet
+0,W Barresi,13.0,18,2,0,72.22222222222221,Abdur Razzak,0,bowled,W Barresi,2012-07-26,Bangladesh,Netherlands,0,Sportpark Westvliet
+5,W Barresi,3.0,6,0,0,50.0,RG Aga,['RG Aga'],run out,TN de Grooth,2013-04-19,Netherlands,Kenya,0,Wanderers Cricket Ground
+0,W Barresi,0.0,1,0,0,0.0,NN Odhiambo,0,caught and bowled,W Barresi,2013-04-20,Netherlands,Kenya,0,Wanderers Cricket Ground
+0,W Barresi,0.0,1,0,0,0.0,Shapoor Zadran,0,bowled,W Barresi,2013-11-15,Netherlands,Netherlands,0,Sharjah Cricket Stadium
+2,W Barresi,70.0,51,6,1,137.2549019607843,notOut,notOut,notOut,notOut,2013-11-22,Scotland,Scotland,0,ICC Academy
+1,W Barresi,28.0,27,2,0,103.7037037037037,RG Aga,['NN Odhiambo'],caught,W Barresi,2013-11-23,Netherlands,Netherlands,0,ICC Academy
+1,W Barresi,75.0,47,8,1,159.5744680851064,notOut,notOut,notOut,notOut,2013-11-28,Scotland,Netherlands,0,Sheikh Zayed Stadium
+2,W Barresi,24.0,21,1,1,114.28571428571428,Amjad Javed,['SP Patil'],run out,SJ Myburgh,2014-03-17,United Arab Emirates,Netherlands,0,Sylhet Stadium
+3,W Barresi,24.0,21,1,1,114.28571428571428,EHSN Silva,0,bowled,W Barresi,2014-03-17,United Arab Emirates,Netherlands,0,Sylhet Stadium
+2,W Barresi,12.0,6,3,0,200.0,T Panyangara,0,bowled,W Barresi,2014-03-19,Zimbabwe,Zimbabwe,0,Sylhet Stadium
+2,W Barresi,40.0,22,3,3,181.8181818181818,notOut,notOut,notOut,notOut,2014-03-21,Netherlands,Netherlands,0,Sylhet Stadium
+2,W Barresi,1.0,4,0,0,25.0,AD Mathews,['LD Chandimal'],caught,W Barresi,2014-03-24,Sri Lanka,Sri Lanka,0,Zahur Ahmed Chowdhury Stadium
+2,W Barresi,14.0,10,1,1,140.0,Imran Tahir,0,lbw,W Barresi,2014-03-27,South Africa,South Africa,0,Zahur Ahmed Chowdhury Stadium
+2,W Barresi,4.0,8,0,0,50.0,MJ McClenaghan,['L Ronchi'],caught,W Barresi,2014-03-29,New Zealand,New Zealand,0,Zahur Ahmed Chowdhury Stadium
+2,W Barresi,48.0,48,2,2,100.0,CJ Jordan,0,bowled,W Barresi,2014-03-31,Netherlands,Netherlands,0,Zahur Ahmed Chowdhury Stadium
+3,W Barresi,12.0,3,0,2,400.0,Sompal Kami,0,bowled,W Barresi,2015-07-01,Nepal,Netherlands,0,VRA Ground
+3,W Barresi,14.0,13,1,0,107.6923076923077,SP Gauchan,['SP Khakurel'],stumped,W Barresi,2015-07-02,Nepal,Netherlands,0,Hazelaarweg
+3,W Barresi,18.0,19,2,0,94.73684210526315,Mohammad Nabi,['Mohammad Shahzad'],caught,W Barresi,2015-07-09,Netherlands,Afghanistan,0,"Grange Cricket Club Ground, Raeburn Place"
+1,W Barresi,75.0,42,7,5,178.57142857142858,AC Evans,0,bowled,W Barresi,2015-07-11,Netherlands,Netherlands,0,"Grange Cricket Club Ground, Raeburn Place"
+0,W Barresi,18.0,16,3,0,112.5,Mohammad Naveed,['Fayyaz Ahmed'],caught,W Barresi,2015-07-12,United Arab Emirates,Netherlands,0,"Grange Cricket Club Ground, Raeburn Place"
+1,W Barresi,9.0,11,2,0,81.81818181818183,AR Cusack,['AR McBrine (sub)'],caught,W Barresi,2015-07-25,Netherlands,Netherlands,0,"The Village, Malahide"
+2,W Barresi,48.0,45,2,2,106.66666666666667,notOut,notOut,notOut,notOut,2016-02-03,Netherlands,Netherlands,0,ICC Academy
+1,W Barresi,9.0,11,1,0,81.81818181818183,Al-Amin Hossain,['Sabbir Rahman'],caught,W Barresi,2016-03-09,Netherlands,Bangladesh,0,Himachal Pradesh Cricket Association Stadium
+3,W Barresi,8.0,6,0,1,133.33333333333331,GH Dockrell,"[""NJ O'Brien""]",stumped,W Barresi,2016-03-13,Netherlands,Netherlands,0,Himachal Pradesh Cricket Association Stadium
+2,W Barresi,48.0,51,5,1,94.11764705882352,Mohammad Nadeem,0,bowled,W Barresi,2017-01-15,Oman,Netherlands,0,Sheikh Zayed Stadium
+3,W Barresi,6.0,11,0,0,54.54545454545454,CD de Lange,['CS MacLeod'],caught,W Barresi,2017-01-17,Scotland,Scotland,0,Sheikh Zayed Stadium
+4,W Barresi,12.0,17,0,0,70.58823529411765,Ehsan Nawaz,['Anshuman Rath'],caught,W Barresi,2017-01-18,Netherlands,Hong Kong,0,Dubai International Cricket Stadium

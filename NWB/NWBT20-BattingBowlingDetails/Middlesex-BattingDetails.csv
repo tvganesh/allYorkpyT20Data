@@ -1,0 +1,116 @@
+,batsman,runs,balls,4s,6s,SR,bowler,fielders,kind,player_out,date,team2,winner,result,venue
+3,AC Voges,23,19,3,0,121.05263157894737,LA Dawson,['AJA Wheater'],caught,AC Voges,2016-05-27,Hampshire,Middlesex,0,Uxbridge Cricket Club Ground
+4,AC Voges,52,40,4,0,130.0,AJ Tye,['IA Cockbain'],run out,JK Fuller,2016-06-02,Gloucestershire,Gloucestershire,0,Merchant Taylors' School Ground
+1,BB McCullum,6,5,0,1,120.0,GL van Buuren,0,caught and bowled,BB McCullum,2016-06-02,Gloucestershire,Gloucestershire,0,Merchant Taylors' School Ground
+1,BB McCullum,16,9,2,1,177.77777777777777,GR Napier,['CJ Taylor'],caught,BB McCullum,2016-06-10,Middlesex,Middlesex,0,County Ground
+0,BB McCullum,16,11,1,1,145.45454545454547,R Rampaul,0,bowled,BB McCullum,2016-06-17,Middlesex,Surrey,0,Kennington Oval
+0,BB McCullum,7,8,1,0,87.5,L Gregory,['RC Davies'],caught,BB McCullum,2016-06-23,Somerset,Middlesex,0,Lord's
+0,BB McCullum,87,58,4,5,150.0,JC Tredwell,['FK Cowdrey'],run out,JEC Franklin,2016-06-24,Middlesex,Middlesex,0,St Lawrence Ground
+1,DJ Malan,93,50,10,5,186.0,GM Andrew,['TL Best'],caught,DJ Malan,2016-05-27,Hampshire,Middlesex,0,Uxbridge Cricket Club Ground
+0,DJ Malan,2,3,0,0,66.66666666666666,LC Norwell,['M Klinger'],caught,DJ Malan,2016-06-02,Gloucestershire,Gloucestershire,0,Merchant Taylors' School Ground
+0,DJ Malan,34,31,5,0,109.6774193548387,DW Lawrence,['JD Ryder'],caught,DJ Malan,2016-06-10,Middlesex,Middlesex,0,County Ground
+1,DJ Malan,11,15,1,0,73.33333333333333,SM Curran,['DJ Bravo'],caught,DJ Malan,2016-06-17,Middlesex,Surrey,0,Kennington Oval
+1,DJ Malan,53,30,2,4,176.66666666666666,notOut,notOut,notOut,notOut,2016-06-23,Somerset,Middlesex,0,Lord's
+1,DJ Malan,60,35,8,3,171.42857142857142,DI Stevens,['JC Tredwell'],caught,DJ Malan,2016-06-24,Middlesex,Middlesex,0,St Lawrence Ground
+0,DJ Malan,11,7,1,1,157.14285714285714,TS Mills,['Craig Cachopa'],caught,DJ Malan,2016-07-01,Middlesex,Sussex,0,County Ground
+1,DJ Malan,1,3,0,0,33.33333333333333,SW Tait,0,bowled,DJ Malan,2016-07-08,Glamorgan,Glamorgan,0,Old Deer Park
+1,DJ Malan,24,17,5,0,141.1764705882353,JH Davey,['TD Rouse'],caught,DJ Malan,2016-07-15,Middlesex,Middlesex,0,County Ground
+1,DJ Malan,11,12,2,0,91.66666666666666,R McLaren,0,caught and bowled,DJ Malan,2016-07-22,Middlesex,Middlesex,0,The Rose Bowl
+1,DJ Malan,68,52,3,2,130.76923076923077,notOut,notOut,notOut,notOut,2016-07-28,Essex,Essex,0,Lord's
+1,DJ Malan,0,2,0,0,0.0,RK Kleinveldt,0,bowled,DJ Malan,2016-08-09,Middlesex,Northamptonshire,0,County Ground
+3,EJG Morgan,13,17,0,1,76.47058823529412,BAC Howell,['IA Cockbain'],caught,EJG Morgan,2016-06-02,Gloucestershire,Gloucestershire,0,Merchant Taylors' School Ground
+3,EJG Morgan,59,42,5,2,140.47619047619045,DW Lawrence,['CJ Taylor'],run out,RF Higgins,2016-06-10,Middlesex,Middlesex,0,County Ground
+3,EJG Morgan,3,4,0,0,75.0,GJ Batty,['RJ Burns'],caught,EJG Morgan,2016-06-17,Middlesex,Surrey,0,Kennington Oval
+2,EJG Morgan,58,49,5,2,118.36734693877551,GG Wagg,['AHT Donald'],caught,EJG Morgan,2016-07-08,Glamorgan,Glamorgan,0,Old Deer Park
+2,EJG Morgan,43,44,2,2,97.72727272727273,MTC Waller,['L Gregory'],caught,EJG Morgan,2016-07-15,Middlesex,Middlesex,0,County Ground
+2,EJG Morgan,42,24,6,1,175.0,DP Sibley,['AJ Finch'],caught,EJG Morgan,2016-07-21,Surrey,Middlesex,0,Lord's
+2,EJG Morgan,2,5,0,0,40.0,GT Griffiths,['LA Dawson'],caught,EJG Morgan,2016-07-22,Middlesex,Middlesex,0,The Rose Bowl
+3,GJ Bailey,16,19,1,0,84.21052631578947,WAT Beer,0,bowled,GJ Bailey,2016-07-01,Middlesex,Sussex,0,County Ground
+3,GJ Bailey,3,11,0,0,27.27272727272727,CAJ Meschede,0,lbw,GJ Bailey,2016-07-08,Glamorgan,Glamorgan,0,Old Deer Park
+3,GJ Bailey,21,25,2,0,84.0,JH Davey,['RE van der Merwe'],caught,GJ Bailey,2016-07-15,Middlesex,Middlesex,0,County Ground
+3,GJ Bailey,55,45,7,0,122.22222222222223,JW Dernbach,0,bowled,GJ Bailey,2016-07-21,Surrey,Middlesex,0,Lord's
+3,GJ Bailey,76,50,10,0,152.0,BTJ Wheal,['LA Dawson'],caught,GJ Bailey,2016-07-22,Middlesex,Middlesex,0,The Rose Bowl
+3,GJ Bailey,7,5,1,0,140.0,RN ten Doeschate,['T Westley'],caught,GJ Bailey,2016-07-28,Essex,Essex,0,Lord's
+3,GJ Bailey,1,7,0,0,14.285714285714285,BAC Howell,0,lbw,GJ Bailey,2016-07-29,Middlesex,Gloucestershire,0,County Ground
+3,GJ Bailey,46,46,5,1,100.0,RJ Gleeson,['RE Levi'],caught,GJ Bailey,2016-08-09,Middlesex,Northamptonshire,0,County Ground
+8,HW Podmore,1,1,0,0,100.0,AJ Tye,['HJH Marshall'],run out,HW Podmore,2016-06-02,Gloucestershire,Gloucestershire,0,Merchant Taylors' School Ground
+9,HW Podmore,2,4,0,0,50.0,KMDN Kulasekara,['Craig Cachopa'],caught,HW Podmore,2016-07-01,Middlesex,Sussex,0,County Ground
+4,JA Simpson,15,11,0,1,136.36363636363635,Shahid Afridi,0,caught and bowled,JA Simpson,2016-05-27,Hampshire,Middlesex,0,Uxbridge Cricket Club Ground
+5,JA Simpson,2,3,0,0,66.66666666666666,TMJ Smith,['LC Norwell'],caught,JA Simpson,2016-06-02,Gloucestershire,Gloucestershire,0,Merchant Taylors' School Ground
+6,JA Simpson,1,3,0,0,33.33333333333333,MR Quinn,['RS Bopara'],caught,JA Simpson,2016-06-10,Middlesex,Middlesex,0,County Ground
+4,JA Simpson,11,5,0,1,220.00000000000003,GJ Batty,['RJ Burns'],caught,JA Simpson,2016-06-17,Middlesex,Surrey,0,Kennington Oval
+4,JA Simpson,26,14,2,2,185.71428571428572,notOut,notOut,notOut,notOut,2016-06-23,Somerset,Middlesex,0,Lord's
+5,JA Simpson,2,4,0,0,50.0,DI Stevens,['AJ Blake'],caught,JA Simpson,2016-06-24,Middlesex,Middlesex,0,St Lawrence Ground
+2,JA Simpson,6,7,1,0,85.71428571428571,KMDN Kulasekara,0,bowled,JA Simpson,2016-07-01,Middlesex,Sussex,0,County Ground
+4,JA Simpson,5,4,1,0,125.0,T van der Gugten,['CA Ingram'],caught,JA Simpson,2016-07-08,Glamorgan,Glamorgan,0,Old Deer Park
+4,JA Simpson,23,19,2,1,121.05263157894737,notOut,notOut,notOut,notOut,2016-07-15,Middlesex,Middlesex,0,County Ground
+4,JA Simpson,43,26,5,1,165.3846153846154,Azhar Mahmood,0,bowled,JA Simpson,2016-07-21,Surrey,Middlesex,0,Lord's
+4,JA Simpson,54,35,4,3,154.2857142857143,BTJ Wheal,['JJ Weatherley'],caught,JA Simpson,2016-07-22,Middlesex,Middlesex,0,The Rose Bowl
+4,JA Simpson,7,6,1,0,116.66666666666667,GR Napier,['T Westley'],caught,JA Simpson,2016-07-28,Essex,Essex,0,Lord's
+5,JA Simpson,40,34,2,2,117.64705882352942,notOut,notOut,notOut,notOut,2016-07-29,Middlesex,Gloucestershire,0,County Ground
+4,JA Simpson,8,6,1,0,133.33333333333331,S Prasanna,['BM Duckett'],caught,JA Simpson,2016-08-09,Middlesex,Northamptonshire,0,County Ground
+5,JEC Franklin,22,16,2,0,137.5,notOut,notOut,notOut,notOut,2016-05-27,Hampshire,Middlesex,0,Uxbridge Cricket Club Ground
+6,JEC Franklin,0,1,0,0,0.0,AJ Tye,['CDJ Dent'],caught,JEC Franklin,2016-06-02,Gloucestershire,Gloucestershire,0,Merchant Taylors' School Ground
+7,JEC Franklin,10,11,1,0,90.9090909090909,GR Napier,0,bowled,JEC Franklin,2016-06-10,Middlesex,Middlesex,0,County Ground
+6,JEC Franklin,39,31,1,2,125.80645161290323,R Rampaul,['TK Curran'],caught,JEC Franklin,2016-06-17,Middlesex,Surrey,0,Kennington Oval
+3,JEC Franklin,0,2,0,0,0.0,RE van der Merwe,0,bowled,JEC Franklin,2016-06-23,Somerset,Middlesex,0,Lord's
+3,JEC Franklin,1,1,0,0,100.0,notOut,notOut,notOut,notOut,2016-06-24,Middlesex,Middlesex,0,St Lawrence Ground
+4,JEC Franklin,5,6,0,0,83.33333333333334,WAT Beer,['KMDN Kulasekara'],caught,JEC Franklin,2016-07-01,Middlesex,Sussex,0,County Ground
+5,JEC Franklin,0,2,0,0,0.0,T van der Gugten,['CA Ingram'],caught,JEC Franklin,2016-07-08,Glamorgan,Glamorgan,0,Old Deer Park
+5,JEC Franklin,0,3,0,0,0.0,L Gregory,['JH Davey'],caught,JEC Franklin,2016-07-15,Middlesex,Middlesex,0,County Ground
+5,JEC Franklin,2,4,0,0,50.0,notOut,notOut,notOut,notOut,2016-07-21,Surrey,Middlesex,0,Lord's
+5,JEC Franklin,1,2,0,0,50.0,R McLaren,0,bowled,JEC Franklin,2016-07-22,Middlesex,Middlesex,0,The Rose Bowl
+2,JEC Franklin,10,11,1,0,90.9090909090909,RN ten Doeschate,['GR Napier'],caught,JEC Franklin,2016-07-28,Essex,Essex,0,Lord's
+2,JEC Franklin,5,9,0,0,55.55555555555556,BAC Howell,['P Mustard'],stumped,JEC Franklin,2016-07-29,Middlesex,Gloucestershire,0,County Ground
+5,JEC Franklin,21,16,1,0,131.25,notOut,notOut,notOut,notOut,2016-08-09,Middlesex,Northamptonshire,0,County Ground
+4,JK Fuller,8,3,0,1,266.66666666666663,DW Lawrence,['GR Napier'],caught,JK Fuller,2016-06-10,Middlesex,Middlesex,0,County Ground
+8,JK Fuller,14,7,1,1,200.0,DJ Bravo,['ZS Ansari'],caught,JK Fuller,2016-06-17,Middlesex,Surrey,0,Kennington Oval
+4,JK Fuller,1,2,0,0,50.0,DI Stevens,0,bowled,JK Fuller,2016-06-24,Middlesex,Middlesex,0,St Lawrence Ground
+10,JK Fuller,3,4,0,0,75.0,notOut,notOut,notOut,notOut,2016-07-01,Middlesex,Sussex,0,County Ground
+9,JK Fuller,1,1,0,0,100.0,notOut,notOut,notOut,notOut,2016-07-08,Glamorgan,Glamorgan,0,Old Deer Park
+8,MJ McClenaghan,4,2,1,0,200.0,GR Napier,0,bowled,MJ McClenaghan,2016-06-10,Middlesex,Middlesex,0,County Ground
+9,MJ McClenaghan,1,3,0,0,33.33333333333333,DJ Bravo,['SM Curran'],run out,ST Finn,2016-06-17,Middlesex,Surrey,0,Kennington Oval
+9,NA Sowter,2,3,0,0,66.66666666666666,notOut,notOut,notOut,notOut,2016-06-10,Middlesex,Middlesex,0,County Ground
+7,NA Sowter,4,6,0,0,66.66666666666666,A Shahzad,0,bowled,NA Sowter,2016-07-01,Middlesex,Sussex,0,County Ground
+2,NRT Gubbins,0,1,0,0,0.0,GM Andrew,['WR Smith'],caught,NRT Gubbins,2016-05-27,Hampshire,Middlesex,0,Uxbridge Cricket Club Ground
+2,NRT Gubbins,10,21,0,0,47.61904761904761,ZS Ansari,0,bowled,NRT Gubbins,2016-06-17,Middlesex,Surrey,0,Kennington Oval
+6,NRT Gubbins,11,6,0,1,183.33333333333331,MD Hunn,['SA Northeast'],caught,NRT Gubbins,2016-06-24,Middlesex,Middlesex,0,St Lawrence Ground
+5,NRT Gubbins,32,21,4,0,152.38095238095238,DR Briggs,['PD Salt'],caught,NRT Gubbins,2016-07-01,Middlesex,Sussex,0,County Ground
+0,NRT Gubbins,13,13,2,0,100.0,RE van der Merwe,['L Gregory'],caught,NRT Gubbins,2016-07-15,Middlesex,Middlesex,0,County Ground
+1,NRT Gubbins,4,4,1,0,100.0,JW Dernbach,['JJ Roy'],caught,NRT Gubbins,2016-07-21,Surrey,Middlesex,0,Lord's
+0,NRT Gubbins,13,18,0,0,72.22222222222221,DW Lawrence,['RS Bopara'],caught,NRT Gubbins,2016-07-28,Essex,Essex,0,Lord's
+1,NRT Gubbins,29,15,1,3,193.33333333333334,AJ Tye,['P Mustard'],caught,NRT Gubbins,2016-07-29,Middlesex,Gloucestershire,0,County Ground
+2,NRT Gubbins,7,5,1,0,140.0,RJ Gleeson,0,bowled,NRT Gubbins,2016-08-09,Middlesex,Northamptonshire,0,County Ground
+7,OP Rayner,13,13,1,0,100.0,R Rampaul,['JJ Roy'],caught,OP Rayner,2016-06-17,Middlesex,Surrey,0,Kennington Oval
+8,OP Rayner,0,1,0,0,0.0,MG Hogan,0,bowled,OP Rayner,2016-07-08,Glamorgan,Glamorgan,0,Old Deer Park
+8,OP Rayner,2,2,0,0,100.0,notOut,notOut,notOut,notOut,2016-08-09,Middlesex,Northamptonshire,0,County Ground
+0,PR Stirling,14,12,3,0,116.66666666666667,R McLaren,['GM Andrew'],caught,PR Stirling,2016-05-27,Hampshire,Middlesex,0,Uxbridge Cricket Club Ground
+2,PR Stirling,60,44,5,3,136.36363636363635,BAC Howell,['GH Roderick'],caught,PR Stirling,2016-06-02,Gloucestershire,Gloucestershire,0,Merchant Taylors' School Ground
+2,PR Stirling,30,16,2,3,187.5,Wahab Riaz,0,bowled,PR Stirling,2016-06-10,Middlesex,Middlesex,0,County Ground
+2,PR Stirling,1,4,0,0,25.0,MTC Waller,['J Overton'],caught,PR Stirling,2016-06-23,Somerset,Middlesex,0,Lord's
+2,PR Stirling,12,8,2,0,150.0,DI Stevens,['JC Tredwell'],caught,PR Stirling,2016-06-24,Middlesex,Middlesex,0,St Lawrence Ground
+1,PR Stirling,52,24,8,2,216.66666666666666,DR Briggs,['Craig Cachopa'],caught,PR Stirling,2016-07-01,Middlesex,Sussex,0,County Ground
+0,PR Stirling,10,6,2,0,166.66666666666669,SW Tait,['MA Wallace'],caught,PR Stirling,2016-07-08,Glamorgan,Glamorgan,0,Old Deer Park
+0,PR Stirling,34,17,6,1,200.0,JW Dernbach,['CH Morris'],caught,PR Stirling,2016-07-21,Surrey,Middlesex,0,Lord's
+0,PR Stirling,18,15,1,1,120.0,BTJ Wheal,0,bowled,PR Stirling,2016-07-22,Middlesex,Middlesex,0,The Rose Bowl
+0,PR Stirling,35,31,2,2,112.90322580645163,S Prasanna,['GG White'],caught,PR Stirling,2016-08-09,Middlesex,Northamptonshire,0,County Ground
+6,RF Higgins,3,4,0,0,75.0,Shahid Afridi,['AJA Wheater'],stumped,RF Higgins,2016-05-27,Hampshire,Middlesex,0,Uxbridge Cricket Club Ground
+5,RF Higgins,3,4,0,0,75.0,notOut,notOut,notOut,notOut,2016-06-10,Middlesex,Middlesex,0,County Ground
+7,RF Higgins,17,10,3,0,170.0,notOut,notOut,notOut,notOut,2016-06-24,Middlesex,Middlesex,0,St Lawrence Ground
+6,RF Higgins,4,5,0,0,80.0,DR Briggs,0,caught and bowled,RF Higgins,2016-07-01,Middlesex,Sussex,0,County Ground
+6,RF Higgins,57,41,5,2,139.02439024390242,notOut,notOut,notOut,notOut,2016-07-08,Glamorgan,Glamorgan,0,Old Deer Park
+6,RF Higgins,4,2,1,0,200.0,notOut,notOut,notOut,notOut,2016-07-15,Middlesex,Middlesex,0,County Ground
+6,RF Higgins,5,3,1,0,166.66666666666669,notOut,notOut,notOut,notOut,2016-07-21,Surrey,Middlesex,0,Lord's
+5,RF Higgins,0,1,0,0,0.0,GR Napier,0,bowled,RF Higgins,2016-07-28,Essex,Essex,0,Lord's
+4,RF Higgins,24,22,1,1,109.09090909090908,AJ Tye,0,bowled,RF Higgins,2016-07-29,Middlesex,Gloucestershire,0,County Ground
+7,RF Higgins,4,10,1,0,40.0,RK Kleinveldt,0,caught and bowled,RF Higgins,2016-08-09,Middlesex,Northamptonshire,0,County Ground
+0,SS Eskinazi,29,29,3,0,100.0,BAC Howell,['LC Norwell'],caught,SS Eskinazi,2016-07-29,Middlesex,Gloucestershire,0,County Ground
+7,TS Roland-Jones,14,10,1,0,140.0,notOut,notOut,notOut,notOut,2016-05-27,Hampshire,Middlesex,0,Uxbridge Cricket Club Ground
+7,TS Roland-Jones,17,9,1,1,188.88888888888889,AJ Tye,['LC Norwell'],caught,TS Roland-Jones,2016-06-02,Gloucestershire,Gloucestershire,0,Merchant Taylors' School Ground
+5,TS Roland-Jones,16,11,1,1,145.45454545454547,ZS Ansari,0,lbw,TS Roland-Jones,2016-06-17,Middlesex,Surrey,0,Kennington Oval
+8,TS Roland-Jones,5,6,0,0,83.33333333333334,TS Mills,['MW Machan'],caught,TS Roland-Jones,2016-07-01,Middlesex,Sussex,0,County Ground
+7,TS Roland-Jones,2,3,0,0,66.66666666666666,MG Hogan,['JA Rudolph'],caught,TS Roland-Jones,2016-07-08,Glamorgan,Glamorgan,0,Old Deer Park
+6,TS Roland-Jones,6,5,1,0,120.0,notOut,notOut,notOut,notOut,2016-07-22,Middlesex,Middlesex,0,The Rose Bowl
+6,TS Roland-Jones,13,7,2,0,185.71428571428572,notOut,notOut,notOut,notOut,2016-07-28,Essex,Essex,0,Lord's
+6,TS Roland-Jones,18,10,1,1,180.0,notOut,notOut,notOut,notOut,2016-07-29,Middlesex,Gloucestershire,0,County Ground
+6,TS Roland-Jones,2,4,0,0,50.0,RK Kleinveldt,['JJ Cobb'],caught,TS Roland-Jones,2016-08-09,Middlesex,Northamptonshire,0,County Ground

@@ -1,0 +1,223 @@
+,batsman,runs,balls,4s,6s,SR,bowler,fielders,kind,player_out,date,team2,winner,result,venue
+11,AM Guruge,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2014-03-17,United Arab Emirates,Netherlands,0,Sylhet Stadium
+10,AM Guruge,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2014-03-21,Zimbabwe,Zimbabwe,0,Sylhet Stadium
+11,AM Guruge,1.0,6,0,0,16.666666666666664,SM Sharif,['RD Berrington'],run out,AM Guruge,2015-07-09,United Arab Emirates,Scotland,0,"Grange Cricket Club Ground, Raeburn Place"
+5,Abdul Shakoor,1.0,3,0,0,33.33333333333333,MA Leask,['HG Munsey'],caught,Abdul Shakoor,2015-07-09,United Arab Emirates,Scotland,0,"Grange Cricket Club Ground, Raeburn Place"
+4,Abdul Shakoor,20.0,19,2,0,105.26315789473684,notOut,notOut,notOut,notOut,2015-07-10,United Arab Emirates,Afghanistan,0,"Grange Cricket Club Ground, Raeburn Place"
+4,Abdul Shakoor,7.0,12,0,0,58.333333333333336,RE van der Merwe,0,bowled,Abdul Shakoor,2015-07-12,United Arab Emirates,Netherlands,0,"Grange Cricket Club Ground, Raeburn Place"
+5,Adnan Mufti,7.0,7,0,0,100.0,notOut,notOut,notOut,notOut,2017-04-14,Papua New Guinea,United Arab Emirates,0,Sheikh Zayed Stadium
+7,Ahmed Raza,0.0,4,0,0,0.0,SC Williams,"[""N M'shangwe""]",caught,Ahmed Raza,2014-03-21,Zimbabwe,Zimbabwe,0,Sylhet Stadium
+8,Ahmed Raza,8.0,15,0,1,53.333333333333336,MJG Rippon,['Sikander Zulfiqar'],caught,Ahmed Raza,2016-02-03,Netherlands,Netherlands,0,ICC Academy
+9,Ahmed Raza,9.0,8,0,0,112.5,notOut,notOut,notOut,notOut,2016-02-25,United Arab Emirates,Sri Lanka,0,Shere Bangla National Stadium
+9,Ahmed Raza,5.0,14,0,0,35.714285714285715,Shakib Al Hasan,['Nurul Hasan'],stumped,Ahmed Raza,2016-02-26,United Arab Emirates,Bangladesh,0,Shere Bangla National Stadium
+9,Ahmed Raza,0.0,1,0,0,0.0,B Kumar,['MS Dhoni'],run out,Shaiman Anwar,2016-03-03,United Arab Emirates,India,0,Shere Bangla National Stadium
+9,Ahmed Raza,4.0,7,0,0,57.14285714285714,notOut,notOut,notOut,notOut,2016-12-18,Afghanistan,Afghanistan,0,ICC Academy
+8,Ahmed Raza,3.0,2,0,0,150.0,notOut,notOut,notOut,notOut,2017-01-16,Afghanistan,Afghanistan,0,Sheikh Zayed Stadium
+7,Ahmed Raza,12.0,24,0,0,50.0,J Mulder,['GH Dockrell'],caught,Ahmed Raza,2017-01-18,Ireland,Ireland,0,Dubai International Cricket Stadium
+0,Amjad Ali,5.0,7,1,0,71.42857142857143,T van der Gugten,0,bowled,Amjad Ali,2014-03-17,United Arab Emirates,Netherlands,0,Sylhet Stadium
+0,Amjad Ali,20.0,19,4,0,105.26315789473684,PR Stirling,['GH Dockrell'],caught,Amjad Ali,2014-03-19,United Arab Emirates,Ireland,0,Sylhet Stadium
+5,Amjad Ali,1.0,4,0,0,25.0,SC Williams,0,lbw,Amjad Ali,2014-03-21,Zimbabwe,Zimbabwe,0,Sylhet Stadium
+1,Amjad Ali,14.0,23,1,0,60.86956521739131,MRJ Watt,['HG Munsey'],caught,Amjad Ali,2015-07-09,United Arab Emirates,Scotland,0,"Grange Cricket Club Ground, Raeburn Place"
+4,Amjad Ali,2.0,2,0,0,100.0,notOut,notOut,notOut,notOut,2015-11-22,Oman,United Arab Emirates,0,Sheikh Zayed Stadium
+0,Amjad Gul,24.0,22,3,1,109.09090909090908,AV Lalcheta,0,bowled,Amjad Gul,2015-11-22,Oman,United Arab Emirates,0,Sheikh Zayed Stadium
+5,Amjad Gul,2.0,4,0,0,50.0,Fareed Ahmad,['Karim Janat'],caught,Amjad Gul,2016-12-14,Afghanistan,Afghanistan,0,ICC Academy
+6,Amjad Gul,2.0,6,0,0,33.33333333333333,Fareed Ahmad,['Mohammad Nabi'],caught,Amjad Gul,2016-12-18,Afghanistan,Afghanistan,0,ICC Academy
+6,Amjad Javed,2.0,2,0,0,100.0,Ahsan Malik,['PM Seelaar'],caught,Amjad Javed,2014-03-17,United Arab Emirates,Netherlands,0,Sylhet Stadium
+5,Amjad Javed,19.0,21,3,0,90.47619047619048,KJ O'Brien,['EC Joyce'],caught,Amjad Javed,2014-03-19,United Arab Emirates,Ireland,0,Sylhet Stadium
+6,Amjad Javed,8.0,10,0,0,80.0,Sikandar Raza,['T Panyangara'],caught,Amjad Javed,2014-03-21,Zimbabwe,Zimbabwe,0,Sylhet Stadium
+8,Amjad Javed,9.0,16,0,0,56.25,MRJ Watt,['MH Cross'],caught,Amjad Javed,2015-07-09,United Arab Emirates,Scotland,0,"Grange Cricket Club Ground, Raeburn Place"
+5,Amjad Javed,14.0,8,3,0,175.0,Dawlat Zadran,0,bowled,Amjad Javed,2015-07-10,United Arab Emirates,Afghanistan,0,"Grange Cricket Club Ground, Raeburn Place"
+4,Amjad Javed,76.0,43,5,5,176.74418604651163,SM Sharif,['MA Leask'],caught,Amjad Javed,2016-02-04,Scotland,United Arab Emirates,0,ICC Academy
+5,Amjad Javed,3.0,9,0,0,33.33333333333333,KJ O'Brien,0,bowled,Amjad Javed,2016-02-14,Ireland,Ireland,0,Sheikh Zayed Stadium
+7,Amjad Javed,19.0,13,0,2,146.15384615384613,WB Rankin,0,caught and bowled,Amjad Javed,2016-02-16,Ireland,United Arab Emirates,0,Sheikh Zayed Stadium
+3,Amjad Javed,4.0,5,0,0,80.0,Rashid Khan,0,lbw,Amjad Javed,2016-02-19,United Arab Emirates,United Arab Emirates,0,Khan Shaheb Osman Ali Stadium
+5,Amjad Javed,6.0,1,0,1,600.0,notOut,notOut,notOut,notOut,2016-02-21,United Arab Emirates,United Arab Emirates,0,Khan Shaheb Osman Ali Stadium
+5,Amjad Javed,8.0,13,1,0,61.53846153846154,Aamir Kaleem,['Sufyan Mehmood'],caught,Amjad Javed,2016-02-22,United Arab Emirates,United Arab Emirates,0,Shere Bangla National Stadium
+7,Amjad Javed,13.0,19,0,0,68.42105263157895,KMDN Kulasekara,['CK Kapugedera'],caught,Amjad Javed,2016-02-25,United Arab Emirates,Sri Lanka,0,Shere Bangla National Stadium
+6,Amjad Javed,3.0,10,0,0,30.0,Mahmudullah,0,hit wicket,Amjad Javed,2016-02-26,United Arab Emirates,Bangladesh,0,Shere Bangla National Stadium
+6,Amjad Javed,27.0,18,3,2,150.0,notOut,notOut,notOut,notOut,2016-02-29,United Arab Emirates,Pakistan,0,Shere Bangla National Stadium
+5,Amjad Javed,0.0,1,0,0,0.0,Harbhajan Singh,['P Negi'],caught,Amjad Javed,2016-03-03,United Arab Emirates,India,0,Shere Bangla National Stadium
+6,Amjad Javed,6.0,6,1,0,100.0,Fareed Ahmad,0,bowled,Amjad Javed,2016-12-14,Afghanistan,Afghanistan,0,ICC Academy
+6,Amjad Javed,7.0,7,1,0,100.0,Dawlat Zadran,['Samiullah Shenwari'],caught,Amjad Javed,2017-01-16,Afghanistan,Afghanistan,0,Sheikh Zayed Stadium
+6,Amjad Javed,47.0,50,0,5,94.0,notOut,notOut,notOut,notOut,2017-01-18,Ireland,Ireland,0,Dubai International Cricket Stadium
+9,EHSN Silva,3.0,6,0,0,50.0,notOut,notOut,notOut,notOut,2014-03-17,United Arab Emirates,Netherlands,0,Sylhet Stadium
+8,EHSN Silva,13.0,17,1,0,76.47058823529412,notOut,notOut,notOut,notOut,2014-03-21,Zimbabwe,Zimbabwe,0,Sylhet Stadium
+5,Fahad Tariq,0.0,1,0,0,0.0,Mudassar Bukhari,['W Barresi'],caught,Fahad Tariq,2016-02-03,Netherlands,Netherlands,0,ICC Academy
+7,Fahad Tariq,16.0,18,1,1,88.88888888888889,TJ Murtagh,"[""NJ O'Brien""]",caught,Fahad Tariq,2016-02-14,Ireland,Ireland,0,Sheikh Zayed Stadium
+7,Fahad Tariq,0.0,2,0,0,0.0,Shakib Al Hasan,['Nurul Hasan'],stumped,Fahad Tariq,2016-02-26,United Arab Emirates,Bangladesh,0,Shere Bangla National Stadium
+7,Fahad Tariq,3.0,5,0,0,60.0,P Negi,"['P Negi', 'MS Dhoni']",run out,Fahad Tariq,2016-03-03,United Arab Emirates,India,0,Shere Bangla National Stadium
+1,Faizan Asif,6.0,4,0,1,150.0,MR Swart,['Ahsan Malik'],caught,Faizan Asif,2014-03-17,United Arab Emirates,Netherlands,0,Sylhet Stadium
+1,Faizan Asif,11.0,17,1,0,64.70588235294117,TJ Murtagh,"['TJ Murtagh', 'GC Wilson']",run out,Faizan Asif,2014-03-19,United Arab Emirates,Ireland,0,Sylhet Stadium
+1,Faizan Asif,1.0,3,0,0,33.33333333333333,TL Chatara,['Sikandar Raza'],run out,Faizan Asif,2014-03-21,Zimbabwe,Zimbabwe,0,Sylhet Stadium
+0,Faizan Asif,17.0,11,2,0,154.54545454545453,AC Evans,['CS MacLeod'],caught,Faizan Asif,2015-07-09,United Arab Emirates,Scotland,0,"Grange Cricket Club Ground, Raeburn Place"
+0,Faizan Asif,28.0,20,4,1,140.0,Mirwais Ashraf,['Najibullah Zadran'],caught,Faizan Asif,2015-07-10,United Arab Emirates,Afghanistan,0,"Grange Cricket Club Ground, Raeburn Place"
+0,Faizan Asif,17.0,14,2,1,121.42857142857142,Ahsan Malik,['T van der Gugten'],caught,Faizan Asif,2015-07-12,United Arab Emirates,Netherlands,0,"Grange Cricket Club Ground, Raeburn Place"
+9,Farhan Ahmed,4.0,8,0,0,50.0,MJG Rippon,0,lbw,Farhan Ahmed,2016-02-03,Netherlands,Netherlands,0,ICC Academy
+5,Fayyaz Ahmed,11.0,12,2,0,91.66666666666666,RE van der Merwe,['MR Swart'],caught,Fayyaz Ahmed,2015-07-12,United Arab Emirates,Netherlands,0,"Grange Cricket Club Ground, Raeburn Place"
+7,Ghulam Shabber,2.0,3,0,0,66.66666666666666,Rashid Khan,['Najibullah Zadran'],caught,Ghulam Shabber,2016-12-18,Afghanistan,Afghanistan,0,ICC Academy
+3,Ghulam Shabber,20.0,22,2,0,90.9090909090909,Dawlat Zadran,['Mohammad Shahzad'],caught,Ghulam Shabber,2017-01-16,Afghanistan,Afghanistan,0,Sheikh Zayed Stadium
+2,Ghulam Shabber,9.0,7,2,0,128.57142857142858,WB Rankin,['GH Dockrell'],caught,Ghulam Shabber,2017-01-18,Ireland,Ireland,0,Dubai International Cricket Stadium
+6,Ghulam Shabber,9.0,7,0,1,128.57142857142858,notOut,notOut,notOut,notOut,2017-04-12,Papua New Guinea,United Arab Emirates,0,Sheikh Zayed Stadium
+6,Ghulam Shabber,10.0,5,0,1,200.0,notOut,notOut,notOut,notOut,2017-04-14,Papua New Guinea,United Arab Emirates,0,Sheikh Zayed Stadium
+0,Hafiz Qaleem,2.0,4,0,0,50.0,Mudassar Bukhari,['MJG Rippon'],caught,Hafiz Qaleem,2016-02-03,Netherlands,Netherlands,0,ICC Academy
+10,Kamran Shazad,0.0,2,0,0,0.0,Ahsan Malik,['LV van Beek'],caught,Kamran Shazad,2014-03-17,United Arab Emirates,Netherlands,0,Sylhet Stadium
+9,Kamran Shazad,21.0,16,1,2,131.25,TL Chatara,0,bowled,Kamran Shazad,2014-03-21,Zimbabwe,Zimbabwe,0,Sylhet Stadium
+3,Khurram Khan,31.0,27,4,0,114.81481481481481,TLW Cooper,0,bowled,Khurram Khan,2014-03-17,United Arab Emirates,Netherlands,0,Sylhet Stadium
+2,Khurram Khan,16.0,21,1,0,76.19047619047619,TJ Murtagh,['EC Joyce'],caught,Khurram Khan,2014-03-19,United Arab Emirates,Ireland,0,Sylhet Stadium
+2,Khurram Khan,26.0,29,3,1,89.65517241379311,SC Williams,['E Chigumbura'],caught,Khurram Khan,2014-03-21,Zimbabwe,Zimbabwe,0,Sylhet Stadium
+1,L Sreekumar,0.0,1,0,0,0.0,N Vanua,0,lbw,L Sreekumar,2017-04-14,Papua New Guinea,United Arab Emirates,0,Sheikh Zayed Stadium
+10,Mohammad Naveed,19.0,17,1,1,111.76470588235294,notOut,notOut,notOut,notOut,2015-07-09,United Arab Emirates,Scotland,0,"Grange Cricket Club Ground, Raeburn Place"
+6,Mohammad Naveed,10.0,5,1,1,200.0,Hamid Hassan,['Mohammad Nabi'],caught,Mohammad Naveed,2015-07-10,United Arab Emirates,Afghanistan,0,"Grange Cricket Club Ground, Raeburn Place"
+6,Mohammad Naveed,9.0,10,1,0,90.0,Ahsan Malik,['PW Borren'],caught,Mohammad Naveed,2015-07-12,United Arab Emirates,Netherlands,0,"Grange Cricket Club Ground, Raeburn Place"
+7,Mohammad Naveed,1.0,7,0,0,14.285714285714285,Mudassar Bukhari,"[""MP O'Dowd""]",caught,Mohammad Naveed,2016-02-03,Netherlands,Netherlands,0,ICC Academy
+7,Mohammad Naveed,0.0,1,0,0,0.0,SM Sharif,['JH Davey'],caught,Mohammad Naveed,2016-02-04,Scotland,United Arab Emirates,0,ICC Academy
+8,Mohammad Naveed,12.0,15,0,1,80.0,MC Sorensen,['PR Stirling'],caught,Mohammad Naveed,2016-02-14,Ireland,Ireland,0,Sheikh Zayed Stadium
+9,Mohammad Naveed,3.0,3,0,0,100.0,notOut,notOut,notOut,notOut,2016-02-16,Ireland,United Arab Emirates,0,Sheikh Zayed Stadium
+6,Mohammad Naveed,5.0,2,1,0,250.0,notOut,notOut,notOut,notOut,2016-02-22,United Arab Emirates,United Arab Emirates,0,Shere Bangla National Stadium
+8,Mohammad Naveed,10.0,10,1,0,100.0,SL Malinga,['AD Mathews'],caught,Mohammad Naveed,2016-02-25,United Arab Emirates,Sri Lanka,0,Shere Bangla National Stadium
+10,Mohammad Naveed,8.0,7,2,0,114.28571428571428,notOut,notOut,notOut,notOut,2016-02-26,United Arab Emirates,Bangladesh,0,Shere Bangla National Stadium
+7,Mohammad Naveed,10.0,5,1,1,200.0,notOut,notOut,notOut,notOut,2016-02-29,United Arab Emirates,Pakistan,0,Shere Bangla National Stadium
+8,Mohammad Naveed,5.0,7,0,0,71.42857142857143,B Kumar,['P Negi'],caught,Mohammad Naveed,2016-03-03,United Arab Emirates,India,0,Shere Bangla National Stadium
+8,Mohammad Naveed,0.0,1,0,0,0.0,notOut,notOut,notOut,notOut,2016-12-14,Afghanistan,Afghanistan,0,ICC Academy
+8,Mohammad Naveed,0.0,2,0,0,0.0,Rashid Khan,0,bowled,Mohammad Naveed,2016-12-18,Afghanistan,Afghanistan,0,ICC Academy
+7,Mohammad Naveed,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2017-01-16,Afghanistan,Afghanistan,0,Sheikh Zayed Stadium
+8,Mohammad Naveed,25.0,11,4,1,227.27272727272728,notOut,notOut,notOut,notOut,2017-01-18,Ireland,Ireland,0,Dubai International Cricket Stadium
+1,Mohammad Naveed,15.0,10,1,1,150.0,WT Gavera,['JNT Vare'],caught,Mohammad Naveed,2017-04-12,Papua New Guinea,United Arab Emirates,0,Sheikh Zayed Stadium
+2,Mohammad Shahzad (2),14.0,10,1,1,140.0,SM Sharif,['HG Munsey'],caught,Mohammad Shahzad (2),2015-07-09,United Arab Emirates,Scotland,0,"Grange Cricket Club Ground, Raeburn Place"
+1,Mohammad Shahzad (2),43.0,28,3,3,153.57142857142858,Mirwais Ashraf,['Dawlat Zadran'],caught,Mohammad Shahzad (2),2015-07-10,United Arab Emirates,Afghanistan,0,"Grange Cricket Club Ground, Raeburn Place"
+1,Mohammad Shahzad (2),13.0,10,2,0,130.0,T van der Gugten,0,bowled,Mohammad Shahzad (2),2015-07-12,United Arab Emirates,Netherlands,0,"Grange Cricket Club Ground, Raeburn Place"
+3,Mohammad Shahzad (2),11.0,13,0,1,84.61538461538461,notOut,notOut,notOut,notOut,2015-11-22,Oman,United Arab Emirates,0,Sheikh Zayed Stadium
+1,Mohammad Shahzad (2),4.0,5,1,0,80.0,MR Swart,['Sikander Zulfiqar'],caught,Mohammad Shahzad (2),2016-02-03,Netherlands,Netherlands,0,ICC Academy
+1,Mohammad Shahzad (2),16.0,24,3,0,66.66666666666666,AC Evans,0,bowled,Mohammad Shahzad (2),2016-02-04,Scotland,United Arab Emirates,0,ICC Academy
+1,Mohammad Shahzad (2),0.0,1,0,0,0.0,TJ Murtagh,0,bowled,Mohammad Shahzad (2),2016-02-14,Ireland,Ireland,0,Sheikh Zayed Stadium
+2,Mohammad Shahzad (2),22.0,17,1,1,129.41176470588235,notOut,notOut,notOut,notOut,2016-02-16,Ireland,United Arab Emirates,0,Sheikh Zayed Stadium
+5,Mohammad Shahzad (2),25.0,16,0,2,156.25,notOut,notOut,notOut,notOut,2016-02-19,United Arab Emirates,United Arab Emirates,0,Khan Shaheb Osman Ali Stadium
+2,Mohammad Shahzad (2),52.0,39,4,1,133.33333333333331,Aizaz Khan,0,bowled,Mohammad Shahzad (2),2016-02-21,United Arab Emirates,United Arab Emirates,0,Khan Shaheb Osman Ali Stadium
+2,Mohammad Shahzad (2),34.0,31,4,0,109.6774193548387,Aamir Kaleem,0,bowled,Mohammad Shahzad (2),2016-02-22,United Arab Emirates,United Arab Emirates,0,Shere Bangla National Stadium
+1,Mohammad Shahzad (2),1.0,3,0,0,33.33333333333333,SL Malinga,0,bowled,Mohammad Shahzad (2),2016-02-25,United Arab Emirates,Sri Lanka,0,Shere Bangla National Stadium
+2,Mohammad Shahzad (2),12.0,12,1,1,100.0,Mustafizur Rahman,0,caught and bowled,Mohammad Shahzad (2),2016-02-26,United Arab Emirates,Bangladesh,0,Shere Bangla National Stadium
+3,Mohammad Shahzad (2),5.0,4,1,0,125.0,Mohammad Irfan,['Sarfraz Ahmed'],caught,Mohammad Shahzad (2),2016-02-29,United Arab Emirates,Pakistan,0,Shere Bangla National Stadium
+2,Mohammad Shahzad (2),0.0,4,0,0,0.0,JJ Bumrah,['SK Raina'],caught,Mohammad Shahzad (2),2016-03-03,United Arab Emirates,India,0,Shere Bangla National Stadium
+2,Mohammad Shahzad (2),2.0,6,0,0,33.33333333333333,Karim Janat,['Mohammad Nabi'],caught,Mohammad Shahzad (2),2016-12-14,Afghanistan,Afghanistan,0,ICC Academy
+1,Mohammad Shahzad (2),8.0,6,0,1,133.33333333333331,Fareed Ahmad,['Asghar Stanikzai'],caught,Mohammad Shahzad (2),2016-12-16,Afghanistan,Afghanistan,0,Dubai International Cricket Stadium
+1,Mohammad Shahzad (2),1.0,3,0,0,33.33333333333333,Mohammad Nabi,['Karim Janat'],caught,Mohammad Shahzad (2),2016-12-18,Afghanistan,Afghanistan,0,ICC Academy
+1,Mohammad Shahzad (2),13.0,6,3,0,216.66666666666666,Fareed Ahmad,0,lbw,Mohammad Shahzad (2),2017-01-16,Afghanistan,Afghanistan,0,Sheikh Zayed Stadium
+3,Mohammad Shahzad (2),5.0,6,1,0,83.33333333333334,KJ O'Brien,0,bowled,Mohammad Shahzad (2),2017-01-18,Ireland,Ireland,0,Dubai International Cricket Stadium
+9,Mohammad Tauqir,4.0,4,1,0,100.0,MRJ Watt,['MH Cross'],caught,Mohammad Tauqir,2015-07-09,United Arab Emirates,Scotland,0,"Grange Cricket Club Ground, Raeburn Place"
+8,Mohammad Tauqir,0.0,2,0,0,0.0,notOut,notOut,notOut,notOut,2015-07-12,United Arab Emirates,Netherlands,0,"Grange Cricket Club Ground, Raeburn Place"
+4,Mohammad Usman,49.0,45,4,3,108.88888888888889,notOut,notOut,notOut,notOut,2016-02-03,Netherlands,Netherlands,0,ICC Academy
+3,Mohammad Usman,9.0,18,0,0,50.0,MA Leask,['MH Cross'],caught,Mohammad Usman,2016-02-04,Scotland,United Arab Emirates,0,ICC Academy
+1,Mohammed Qasim,10.0,13,1,0,76.92307692307693,Karim Janat,['Mohammad Nabi'],caught,Mohammed Qasim,2016-12-14,Afghanistan,Afghanistan,0,ICC Academy
+5,Mohammed Qasim,13.0,18,1,0,72.22222222222221,notOut,notOut,notOut,notOut,2017-04-12,Papua New Guinea,United Arab Emirates,0,Sheikh Zayed Stadium
+1,Muhammad Kaleem,6.0,8,0,0,75.0,WB Rankin,['TJ Murtagh'],caught,Muhammad Kaleem,2016-02-16,Ireland,United Arab Emirates,0,Sheikh Zayed Stadium
+1,Muhammad Kaleem,25.0,19,3,1,131.57894736842107,Rashid Khan,0,bowled,Muhammad Kaleem,2016-02-19,United Arab Emirates,United Arab Emirates,0,Khan Shaheb Osman Ali Stadium
+1,Muhammad Kaleem,4.0,8,1,0,50.0,Nadeem Ahmed,['Babar Hayat'],caught,Muhammad Kaleem,2016-02-21,United Arab Emirates,United Arab Emirates,0,Khan Shaheb Osman Ali Stadium
+1,Muhammad Kaleem,50.0,41,5,2,121.95121951219512,Sufyan Mehmood,['Jatinder Singh'],caught,Muhammad Kaleem,2016-02-22,United Arab Emirates,United Arab Emirates,0,Shere Bangla National Stadium
+2,Muhammad Kaleem,7.0,11,1,0,63.63636363636363,KMDN Kulasekara,['AD Mathews'],caught,Muhammad Kaleem,2016-02-25,United Arab Emirates,Sri Lanka,0,Shere Bangla National Stadium
+1,Muhammad Kaleem,0.0,5,0,0,0.0,Al-Amin Hossain,['Mashrafe Mortaza'],caught,Muhammad Kaleem,2016-02-26,United Arab Emirates,Bangladesh,0,Shere Bangla National Stadium
+1,Muhammad Kaleem,1.0,12,0,0,8.333333333333332,Mohammad Amir,0,bowled,Muhammad Kaleem,2016-02-29,United Arab Emirates,Pakistan,0,Shere Bangla National Stadium
+6,Muhammad Kaleem,2.0,11,0,0,18.181818181818183,Yuvraj Singh,['HH Pandya'],caught,Muhammad Kaleem,2016-03-03,United Arab Emirates,India,0,Shere Bangla National Stadium
+3,Muhammad Usman,7.0,10,1,0,70.0,WB Rankin,0,bowled,Muhammad Usman,2016-02-14,Ireland,Ireland,0,Sheikh Zayed Stadium
+6,Muhammad Usman,7.0,7,1,0,100.0,MC Sorensen,['SR Thompson'],caught,Muhammad Usman,2016-02-16,Ireland,United Arab Emirates,0,Sheikh Zayed Stadium
+3,Muhammad Usman,41.0,40,6,0,102.49999999999999,MS Chapman,['Nizakat Khan'],caught,Muhammad Usman,2016-02-21,United Arab Emirates,United Arab Emirates,0,Khan Shaheb Osman Ali Stadium
+4,Muhammad Usman,46.0,22,6,2,209.0909090909091,Aamir Kaleem,['Jatinder Singh'],caught,Muhammad Usman,2016-02-22,United Arab Emirates,United Arab Emirates,0,Shere Bangla National Stadium
+3,Muhammad Usman,6.0,10,1,0,60.0,KMDN Kulasekara,['CK Kapugedera'],caught,Muhammad Usman,2016-02-25,United Arab Emirates,Sri Lanka,0,Shere Bangla National Stadium
+4,Muhammad Usman,30.0,31,2,2,96.7741935483871,Taskin Ahmed,0,bowled,Muhammad Usman,2016-02-26,United Arab Emirates,Bangladesh,0,Shere Bangla National Stadium
+5,Muhammad Usman,21.0,18,2,1,116.66666666666667,Mohammad Amir,0,bowled,Muhammad Usman,2016-02-29,United Arab Emirates,Pakistan,0,Shere Bangla National Stadium
+4,Muhammad Usman,9.0,12,1,0,75.0,P Negi,['Harbhajan Singh'],caught,Muhammad Usman,2016-03-03,United Arab Emirates,India,0,Shere Bangla National Stadium
+7,Muhammad Usman,18.0,8,0,2,225.0,notOut,notOut,notOut,notOut,2016-12-14,Afghanistan,Afghanistan,0,ICC Academy
+3,Muhammad Usman,15.0,15,0,1,100.0,Amir Hamza,['Usman Ghani'],caught,Muhammad Usman,2016-12-16,Afghanistan,Afghanistan,0,Dubai International Cricket Stadium
+4,Muhammad Usman,0.0,3,0,0,0.0,Rashid Khan,0,bowled,Muhammad Usman,2016-12-18,Afghanistan,Afghanistan,0,ICC Academy
+5,Muhammad Usman,5.0,10,0,0,50.0,Rashid Khan,0,bowled,Muhammad Usman,2017-01-16,Afghanistan,Afghanistan,0,Sheikh Zayed Stadium
+5,Muhammad Usman,24.0,22,3,0,109.09090909090908,J Mulder,['SW Poynter'],caught,Muhammad Usman,2017-01-18,Ireland,Ireland,0,Dubai International Cricket Stadium
+4,Muhammad Usman,14.0,19,2,0,73.68421052631578,JB Reva,0,bowled,Muhammad Usman,2017-04-12,Papua New Guinea,United Arab Emirates,0,Sheikh Zayed Stadium
+4,Muhammad Usman,58.0,50,7,0,115.99999999999999,N Vanua,0,caught and bowled,Muhammad Usman,2017-04-14,Papua New Guinea,United Arab Emirates,0,Sheikh Zayed Stadium
+10,Muhammed Shanil,1.0,3,0,0,33.33333333333333,notOut,notOut,notOut,notOut,2016-12-18,Afghanistan,Afghanistan,0,ICC Academy
+10,Qadeer Ahmed,0.0,4,0,0,0.0,MJG Rippon,['PW Borren'],caught,Qadeer Ahmed,2016-02-03,Netherlands,Netherlands,0,ICC Academy
+10,Qadeer Ahmed,5.0,3,1,0,166.66666666666669,notOut,notOut,notOut,notOut,2016-02-14,Ireland,Ireland,0,Sheikh Zayed Stadium
+10,Qadeer Ahmed,2.0,4,0,0,50.0,notOut,notOut,notOut,notOut,2016-02-25,United Arab Emirates,Sri Lanka,0,Shere Bangla National Stadium
+10,Qadeer Ahmed,0.0,1,0,0,0.0,notOut,notOut,notOut,notOut,2016-03-03,United Arab Emirates,India,0,Shere Bangla National Stadium
+4,Rameez Shahzad,49.0,32,6,2,153.125,Rashid Khan,['Mohammad Shahzad'],stumped,Rameez Shahzad,2016-12-14,Afghanistan,Afghanistan,0,ICC Academy
+4,Rameez Shahzad,47.0,20,5,3,235.0,notOut,notOut,notOut,notOut,2016-12-16,Afghanistan,Afghanistan,0,Dubai International Cricket Stadium
+5,Rameez Shahzad,15.0,17,1,0,88.23529411764706,notOut,notOut,notOut,notOut,2016-12-18,Afghanistan,Afghanistan,0,ICC Academy
+4,Rameez Shahzad,3.0,5,0,0,60.0,Rashid Khan,['Mohammad Shahzad'],stumped,Rameez Shahzad,2017-01-16,Afghanistan,Afghanistan,0,Sheikh Zayed Stadium
+4,Rameez Shahzad,0.0,1,0,0,0.0,WB Rankin,['WTS Porterfield'],caught,Rameez Shahzad,2017-01-18,Ireland,Ireland,0,Dubai International Cricket Stadium
+3,Rameez Shahzad,6.0,7,1,0,85.71428571428571,WT Gavera,['JNT Vare'],caught,Rameez Shahzad,2017-04-12,Papua New Guinea,United Arab Emirates,0,Sheikh Zayed Stadium
+3,Rameez Shahzad,47.0,48,2,0,97.91666666666666,A Vala,0,bowled,Rameez Shahzad,2017-04-14,Papua New Guinea,United Arab Emirates,0,Sheikh Zayed Stadium
+5,Rohan Mustafa,20.0,14,2,0,142.85714285714286,T van der Gugten,['PW Borren'],run out,Rohan Mustafa,2014-03-17,United Arab Emirates,Netherlands,0,Sylhet Stadium
+6,Rohan Mustafa,13.0,13,0,0,100.0,notOut,notOut,notOut,notOut,2014-03-19,United Arab Emirates,Ireland,0,Sylhet Stadium
+4,Rohan Mustafa,4.0,8,0,0,50.0,SC Williams,"['TL Chatara', 'BRM Taylor']",run out,Rohan Mustafa,2014-03-21,Zimbabwe,Zimbabwe,0,Sylhet Stadium
+1,Rohan Mustafa,41.0,31,4,2,132.25806451612902,Zeeshan Maqsood,['Bilal Khan'],caught,Rohan Mustafa,2015-11-22,Oman,United Arab Emirates,0,Sheikh Zayed Stadium
+6,Rohan Mustafa,1.0,6,0,0,16.666666666666664,PW Borren,['SJ Myburgh'],caught,Rohan Mustafa,2016-02-03,Netherlands,Netherlands,0,ICC Academy
+6,Rohan Mustafa,12.0,11,1,0,109.09090909090908,SM Sharif,['SM Sharif'],run out,Rohan Mustafa,2016-02-04,Scotland,United Arab Emirates,0,ICC Academy
+0,Rohan Mustafa,7.0,8,1,0,87.5,CA Young,['AR McBrine'],caught,Rohan Mustafa,2016-02-14,Ireland,Ireland,0,Sheikh Zayed Stadium
+0,Rohan Mustafa,20.0,25,2,1,80.0,MC Sorensen,['A Balbirnie'],run out,Rohan Mustafa,2016-02-16,Ireland,United Arab Emirates,0,Sheikh Zayed Stadium
+0,Rohan Mustafa,77.0,50,7,4,154.0,Amir Hamza,['Shapoor Zadran'],caught,Rohan Mustafa,2016-02-19,United Arab Emirates,United Arab Emirates,0,Khan Shaheb Osman Ali Stadium
+0,Rohan Mustafa,10.0,6,1,1,166.66666666666669,Tanwir Afzal,['Anshuman Rath'],caught,Rohan Mustafa,2016-02-21,United Arab Emirates,United Arab Emirates,0,Khan Shaheb Osman Ali Stadium
+0,Rohan Mustafa,5.0,7,1,0,71.42857142857143,Sufyan Mehmood,['Aaqib Sulehri'],run out,Rohan Mustafa,2016-02-22,United Arab Emirates,United Arab Emirates,0,Shere Bangla National Stadium
+0,Rohan Mustafa,0.0,1,0,0,0.0,SL Malinga,0,lbw,Rohan Mustafa,2016-02-25,United Arab Emirates,Sri Lanka,0,Shere Bangla National Stadium
+0,Rohan Mustafa,18.0,18,2,1,100.0,Mashrafe Mortaza,['Mustafizur Rahman'],caught,Rohan Mustafa,2016-02-26,United Arab Emirates,Bangladesh,0,Shere Bangla National Stadium
+0,Rohan Mustafa,1.0,6,0,0,16.666666666666664,Mohammad Sami,['Shahid Afridi'],caught,Rohan Mustafa,2016-02-29,United Arab Emirates,Pakistan,0,Shere Bangla National Stadium
+0,Rohan Mustafa,11.0,23,2,0,47.82608695652174,HH Pandya,['V Kohli'],caught,Rohan Mustafa,2016-03-03,United Arab Emirates,India,0,Shere Bangla National Stadium
+0,Rohan Mustafa,25.0,23,3,1,108.69565217391303,Karim Janat,['Fareed Ahmad'],caught,Rohan Mustafa,2016-12-14,Afghanistan,Afghanistan,0,ICC Academy
+0,Rohan Mustafa,43.0,32,5,1,134.375,Rashid Khan,0,lbw,Rohan Mustafa,2016-12-16,Afghanistan,Afghanistan,0,Dubai International Cricket Stadium
+0,Rohan Mustafa,58.0,37,5,3,156.75675675675674,Mohammad Nabi,0,caught and bowled,Rohan Mustafa,2016-12-18,Afghanistan,Afghanistan,0,ICC Academy
+0,Rohan Mustafa,29.0,22,4,1,131.8181818181818,Dawlat Zadran,['Karim Janat'],caught,Rohan Mustafa,2017-01-16,Afghanistan,Afghanistan,0,Sheikh Zayed Stadium
+0,Rohan Mustafa,0.0,1,0,0,0.0,WB Rankin,0,lbw,Rohan Mustafa,2017-01-18,Ireland,Ireland,0,Dubai International Cricket Stadium
+0,Rohan Mustafa,9.0,7,2,0,128.57142857142858,N Vanua,['JNT Vare'],caught,Rohan Mustafa,2017-04-12,Papua New Guinea,United Arab Emirates,0,Sheikh Zayed Stadium
+0,Rohan Mustafa,3.0,5,0,0,60.0,N Vanua,['S Bau'],caught,Rohan Mustafa,2017-04-14,Papua New Guinea,United Arab Emirates,0,Sheikh Zayed Stadium
+2,SP Patil,23.0,30,2,0,76.66666666666667,TLW Cooper,0,bowled,SP Patil,2014-03-17,United Arab Emirates,Netherlands,0,Sylhet Stadium
+3,SP Patil,0.0,3,0,0,0.0,PR Stirling,['WTS Porterfield'],caught,SP Patil,2014-03-19,United Arab Emirates,Ireland,0,Sylhet Stadium
+3,SP Patil,30.0,26,5,0,115.38461538461537,Sikandar Raza,0,lbw,SP Patil,2014-03-21,Zimbabwe,Zimbabwe,0,Sylhet Stadium
+4,SP Patil,3.0,7,0,0,42.857142857142854,notOut,notOut,notOut,notOut,2015-07-09,United Arab Emirates,Scotland,0,"Grange Cricket Club Ground, Raeburn Place"
+3,SP Patil,8.0,15,0,0,53.333333333333336,Mirwais Ashraf,"['Mirwais Ashraf', 'Mohammad Shahzad']",run out,SP Patil,2015-07-10,United Arab Emirates,Afghanistan,0,"Grange Cricket Club Ground, Raeburn Place"
+3,SP Patil,34.0,34,3,0,100.0,MJG Rippon,0,bowled,SP Patil,2015-07-12,United Arab Emirates,Netherlands,0,"Grange Cricket Club Ground, Raeburn Place"
+3,SP Patil,0.0,6,0,0,0.0,PA van Meekeren,0,lbw,SP Patil,2016-02-03,Netherlands,Netherlands,0,ICC Academy
+0,SP Patil,6.0,6,1,0,100.0,SM Sharif,['PL Mommsen'],caught,SP Patil,2016-02-04,Scotland,United Arab Emirates,0,ICC Academy
+4,SP Patil,14.0,12,1,1,116.66666666666667,WB Rankin,['MC Sorensen'],caught,SP Patil,2016-02-14,Ireland,Ireland,0,Sheikh Zayed Stadium
+4,SP Patil,31.0,40,1,1,77.5,WB Rankin,['GH Dockrell'],run out,Mohammad Shahzad (2),2016-02-16,Ireland,United Arab Emirates,0,Sheikh Zayed Stadium
+5,SP Patil,31.0,40,1,1,77.5,MC Sorensen,['SW Poynter'],caught,SP Patil,2016-02-16,Ireland,United Arab Emirates,0,Sheikh Zayed Stadium
+4,SP Patil,37.0,38,3,2,97.36842105263158,SL Malinga,0,caught and bowled,SP Patil,2016-02-25,United Arab Emirates,Sri Lanka,0,Shere Bangla National Stadium
+5,SP Patil,0.0,1,0,0,0.0,Mustafizur Rahman,['Mashrafe Mortaza'],caught,SP Patil,2016-02-26,United Arab Emirates,Bangladesh,0,Shere Bangla National Stadium
+1,SP Patil,1.0,9,0,0,11.11111111111111,B Kumar,0,caught and bowled,SP Patil,2016-03-03,United Arab Emirates,India,0,Shere Bangla National Stadium
+5,Saqlain Haider,7.0,9,0,0,77.77777777777779,SM Sharif,['KJ Coetzer'],caught,Saqlain Haider,2016-02-04,Scotland,United Arab Emirates,0,ICC Academy
+6,Saqlain Haider,4.0,13,0,0,30.76923076923077,KJ O'Brien,['PR Stirling'],caught,Saqlain Haider,2016-02-14,Ireland,Ireland,0,Sheikh Zayed Stadium
+6,Saqlain Haider,1.0,10,0,0,10.0,HMRKB Herath,['LD Chandimal'],caught,Saqlain Haider,2016-02-25,United Arab Emirates,Sri Lanka,0,Shere Bangla National Stadium
+8,Saqlain Haider,2.0,4,0,0,50.0,Mahmudullah,['Mashrafe Mortaza'],caught,Saqlain Haider,2016-02-26,United Arab Emirates,Bangladesh,0,Shere Bangla National Stadium
+4,Shaiman Anwar,32.0,19,4,1,168.42105263157893,T van der Gugten,0,bowled,Shaiman Anwar,2014-03-17,United Arab Emirates,Netherlands,0,Sylhet Stadium
+4,Shaiman Anwar,30.0,29,0,2,103.44827586206897,KJ O'Brien,0,caught and bowled,Shaiman Anwar,2014-03-19,United Arab Emirates,Ireland,0,Sylhet Stadium
+0,Shaiman Anwar,6.0,6,1,0,100.0,TL Chatara,['BRM Taylor'],caught,Shaiman Anwar,2014-03-21,Zimbabwe,Zimbabwe,0,Sylhet Stadium
+3,Shaiman Anwar,9.0,7,0,1,128.57142857142858,MA Leask,['JH Davey'],caught,Shaiman Anwar,2015-07-09,United Arab Emirates,Scotland,0,"Grange Cricket Club Ground, Raeburn Place"
+2,Shaiman Anwar,35.0,26,1,3,134.6153846153846,Hamid Hassan,['Dawlat Zadran'],caught,Shaiman Anwar,2015-07-10,United Arab Emirates,Afghanistan,0,"Grange Cricket Club Ground, Raeburn Place"
+2,Shaiman Anwar,15.0,21,1,0,71.42857142857143,MJG Rippon,['Ahsan Malik'],caught,Shaiman Anwar,2015-07-12,United Arab Emirates,Netherlands,0,"Grange Cricket Club Ground, Raeburn Place"
+2,Shaiman Anwar,54.0,43,4,1,125.5813953488372,RJ Ranpura,['Bilal Khan'],caught,Shaiman Anwar,2015-11-22,Oman,United Arab Emirates,0,Sheikh Zayed Stadium
+2,Shaiman Anwar,0.0,2,0,0,0.0,Mudassar Bukhari,['W Barresi'],caught,Shaiman Anwar,2016-02-03,Netherlands,Netherlands,0,ICC Academy
+2,Shaiman Anwar,15.0,12,1,1,125.0,MA Leask,['PL Mommsen'],caught,Shaiman Anwar,2016-02-04,Scotland,United Arab Emirates,0,ICC Academy
+2,Shaiman Anwar,24.0,28,1,1,85.71428571428571,KJ O'Brien,['AR McBrine'],caught,Shaiman Anwar,2016-02-14,Ireland,Ireland,0,Sheikh Zayed Stadium
+3,Shaiman Anwar,12.0,8,1,1,150.0,WB Rankin,['WTS Porterfield'],caught,Shaiman Anwar,2016-02-16,Ireland,United Arab Emirates,0,Sheikh Zayed Stadium
+2,Shaiman Anwar,11.0,10,1,0,110.00000000000001,Rashid Khan,['Dawlat Zadran'],caught,Shaiman Anwar,2016-02-19,United Arab Emirates,United Arab Emirates,0,Khan Shaheb Osman Ali Stadium
+4,Shaiman Anwar,25.0,19,2,1,131.57894736842107,notOut,notOut,notOut,notOut,2016-02-21,United Arab Emirates,United Arab Emirates,0,Khan Shaheb Osman Ali Stadium
+3,Shaiman Anwar,12.0,7,2,0,171.42857142857142,Aamir Kaleem,['Sultan Ahmed'],caught,Shaiman Anwar,2016-02-22,United Arab Emirates,United Arab Emirates,0,Shere Bangla National Stadium
+5,Shaiman Anwar,13.0,15,2,0,86.66666666666667,HMRKB Herath,['LD Chandimal'],caught,Shaiman Anwar,2016-02-25,United Arab Emirates,Sri Lanka,0,Shere Bangla National Stadium
+3,Shaiman Anwar,1.0,5,0,0,20.0,Mashrafe Mortaza,['Mahmudullah'],caught,Shaiman Anwar,2016-02-26,United Arab Emirates,Bangladesh,0,Shere Bangla National Stadium
+2,Shaiman Anwar,46.0,44,5,2,104.54545454545455,Mohammad Irfan,['Sarfraz Ahmed'],caught,Shaiman Anwar,2016-02-29,United Arab Emirates,Pakistan,0,Shere Bangla National Stadium
+3,Shaiman Anwar,43.0,51,3,1,84.31372549019608,notOut,notOut,notOut,notOut,2016-03-03,United Arab Emirates,India,0,Shere Bangla National Stadium
+3,Shaiman Anwar,34.0,27,2,3,125.92592592592592,Rashid Khan,['Najibullah Zadran'],caught,Shaiman Anwar,2016-12-14,Afghanistan,Afghanistan,0,ICC Academy
+2,Shaiman Anwar,60.0,50,4,3,120.0,Fareed Ahmad,['Rashid Khan'],caught,Shaiman Anwar,2016-12-16,Afghanistan,Afghanistan,0,Dubai International Cricket Stadium
+2,Shaiman Anwar,56.0,45,2,1,124.44444444444444,Amir Hamza,['Amir Hamza'],run out,Rameez Shahzad,2016-12-18,Afghanistan,Afghanistan,0,ICC Academy
+3,Shaiman Anwar,56.0,45,2,1,124.44444444444444,Mohammad Nabi,['Karim Janat'],caught,Shaiman Anwar,2016-12-18,Afghanistan,Afghanistan,0,ICC Academy
+2,Shaiman Anwar,52.0,54,7,0,96.29629629629629,Dawlat Zadran,0,bowled,Shaiman Anwar,2017-01-16,Afghanistan,Afghanistan,0,Sheikh Zayed Stadium
+1,Shaiman Anwar,5.0,5,1,0,100.0,CA Young,['PR Stirling'],caught,Shaiman Anwar,2017-01-18,Ireland,Ireland,0,Dubai International Cricket Stadium
+2,Shaiman Anwar,39.0,25,4,1,156.0,JB Reva,0,bowled,Shaiman Anwar,2017-04-12,Papua New Guinea,United Arab Emirates,0,Sheikh Zayed Stadium
+2,Shaiman Anwar,1.0,3,0,0,33.33333333333333,CA Soper,['A Vala'],caught,Shaiman Anwar,2017-04-14,Papua New Guinea,United Arab Emirates,0,Sheikh Zayed Stadium
+6,Umair Ali,13.0,10,1,1,130.0,AC Evans,['CS MacLeod'],run out,SP Patil,2015-07-09,United Arab Emirates,Scotland,0,"Grange Cricket Club Ground, Raeburn Place"
+7,Umair Ali,13.0,10,1,1,130.0,MA Leask,['CS MacLeod'],caught,Umair Ali,2015-07-09,United Arab Emirates,Scotland,0,"Grange Cricket Club Ground, Raeburn Place"
+7,Umair Ali,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2015-07-10,United Arab Emirates,Afghanistan,0,"Grange Cricket Club Ground, Raeburn Place"
+7,Umair Ali,8.0,7,1,0,114.28571428571428,notOut,notOut,notOut,notOut,2015-07-12,United Arab Emirates,Netherlands,0,"Grange Cricket Club Ground, Raeburn Place"
+8,Usman Mushtaq,4.0,6,0,0,66.66666666666666,notOut,notOut,notOut,notOut,2016-02-16,Ireland,United Arab Emirates,0,Sheikh Zayed Stadium
+4,Usman Mushtaq,23.0,20,3,0,114.99999999999999,notOut,notOut,notOut,notOut,2016-02-19,United Arab Emirates,United Arab Emirates,0,Khan Shaheb Osman Ali Stadium
+4,Usman Mushtaq,9.0,19,1,0,47.368421052631575,Shahid Afridi,['Mohammad Nawaz (3)'],caught,Usman Mushtaq,2016-02-29,United Arab Emirates,Pakistan,0,Shere Bangla National Stadium
+7,V Shetty,10.0,13,1,0,76.92307692307693,LV van Beek,['TLW Cooper'],run out,EHSN Silva,2014-03-17,United Arab Emirates,Netherlands,0,Sylhet Stadium
+8,V Shetty,10.0,13,1,0,76.92307692307693,Ahsan Malik,0,caught and bowled,V Shetty,2014-03-17,United Arab Emirates,Netherlands,0,Sylhet Stadium
+7,V Shetty,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2014-03-19,United Arab Emirates,Ireland,0,Sylhet Stadium
+9,Zaheer Maqsood,2.0,5,0,0,40.0,CA Young,0,lbw,Zaheer Maqsood,2016-02-14,Ireland,Ireland,0,Sheikh Zayed Stadium

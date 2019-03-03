@@ -1,0 +1,356 @@
+,batsman,runs,balls,4s,6s,SR,bowler,fielders,kind,player_out,date,team2,winner,result,venue
+1,AC Blizzard,48,31,5,1,154.83870967741936,LW Feldman,0,bowled,AC Blizzard,2012-12-26,Hobart Hurricanes,Hobart Hurricanes,0,Sydney Cricket Ground
+8,AC Blizzard,6,6,0,0,100.0,notOut,notOut,notOut,notOut,2014-01-07,Hobart Hurricanes,Perth Scorchers,0,Western Australia Cricket Association Ground
+3,AC Blizzard,15,15,2,0,100.0,GS Sandhu,['JS Floros'],caught,AC Blizzard,2014-01-11,Sydney Thunder,Hobart Hurricanes,0,Bellerive Oval
+5,AC Blizzard,28,24,2,1,116.66666666666667,notOut,notOut,notOut,notOut,2014-01-21,Hobart Hurricanes,Melbourne Stars,0,Melbourne Cricket Ground
+7,AC Blizzard,2,2,0,0,100.0,notOut,notOut,notOut,notOut,2014-01-23,Brisbane Heat,Hobart Hurricanes,0,Bellerive Oval
+1,AD Hales,0,2,0,0,0.0,JM Bird,['TIF Triffitt'],caught,AD Hales,2014-12-20,Hobart Hurricanes,Hobart Hurricanes,0,Melbourne Cricket Ground
+1,AD Hales,1,4,0,0,25.0,B Lee,['RGL Carters'],caught,AD Hales,2014-12-23,Sydney Sixers,Sydney Sixers,0,Bellerive Oval
+2,AD Hales,29,24,1,1,120.83333333333333,J Botha,['TP Ludeman'],stumped,AD Hales,2014-12-31,Hobart Hurricanes,Adelaide Strikers,0,Adelaide Oval
+2,AD Hales,34,23,2,1,147.82608695652172,A Flintoff,['DT Christian'],caught,AD Hales,2015-01-02,Brisbane Heat,Hobart Hurricanes,0,Bellerive Oval
+2,AD Hales,7,7,1,0,100.0,NJ Rimmington,0,bowled,AD Hales,2015-01-07,Melbourne Renegades,Melbourne Renegades,0,Bellerive Oval
+6,AD Mascarenhas,8,14,0,0,57.14285714285714,JW Hastings,['JM Muirhead'],caught,AD Mascarenhas,2014-01-21,Hobart Hurricanes,Melbourne Stars,0,Melbourne Cricket Ground
+7,AD Mascarenhas,16,13,0,1,123.07692307692308,AC Thomas,['SM Katich'],caught,AD Mascarenhas,2014-02-07,Hobart Hurricanes,Perth Scorchers,0,Western Australia Cricket Association Ground
+10,B Laughlin,0,1,0,0,0.0,NJ Rimmington,0,bowled,B Laughlin,2011-12-18,Hobart Hurricanes,Hobart Hurricanes,0,Western Australia Cricket Association Ground
+10,B Laughlin,4,7,0,0,57.14285714285714,notOut,notOut,notOut,notOut,2012-01-09,Melbourne Stars,Melbourne Stars,0,Bellerive Oval
+7,B Laughlin,2,5,0,0,40.0,SL Malinga,0,bowled,B Laughlin,2012-12-15,Hobart Hurricanes,Melbourne Stars,0,Melbourne Cricket Ground
+7,B Laughlin,10,14,1,0,71.42857142857143,MN Samuels,['DJ Pattinson'],caught,B Laughlin,2012-12-19,Hobart Hurricanes,Melbourne Renegades,0,Docklands Stadium
+7,B Laughlin,4,5,0,0,80.0,CJ Gannon,['NM Hauritz'],caught,B Laughlin,2013-12-28,Hobart Hurricanes,Hobart Hurricanes,0,"Brisbane Cricket Ground, Woolloongabba"
+7,B Laughlin,9,14,0,0,64.28571428571429,JL Pattinson,['TLW Cooper'],caught,B Laughlin,2014-01-01,Melbourne Renegades,Melbourne Renegades,0,Bellerive Oval
+7,B Laughlin,1,3,0,0,33.33333333333333,NM Coulter-Nile,0,lbw,B Laughlin,2014-01-07,Hobart Hurricanes,Perth Scorchers,0,Western Australia Cricket Association Ground
+6,B Laughlin,2,2,0,0,100.0,notOut,notOut,notOut,notOut,2014-01-15,Hobart Hurricanes,Sydney Sixers,0,Sydney Cricket Ground
+7,B Laughlin,1,3,0,0,33.33333333333333,SM Boland,['DJ Hussey'],caught,B Laughlin,2014-01-21,Hobart Hurricanes,Melbourne Stars,0,Melbourne Cricket Ground
+6,BJ Webster,67,43,6,1,155.8139534883721,notOut,notOut,notOut,notOut,2017-01-06,Hobart Hurricanes,Adelaide Strikers,0,Adelaide Oval
+6,BJ Webster,1,2,0,0,50.0,notOut,notOut,notOut,notOut,2017-01-08,Sydney Thunder,Sydney Thunder,0,Bellerive Oval
+6,BJ Webster,0,2,0,0,0.0,SP Narine,['TLW Cooper'],caught,BJ Webster,2017-01-12,Hobart Hurricanes,Hobart Hurricanes,0,Docklands Stadium
+6,BJ Webster,8,10,1,0,80.0,TT Bresnan,0,caught and bowled,BJ Webster,2017-01-21,Perth Scorchers,Perth Scorchers,0,Bellerive Oval
+1,BR Dunk,67,33,5,4,203.03030303030303,DL Vettori,0,bowled,BR Dunk,2013-12-28,Hobart Hurricanes,Hobart Hurricanes,0,"Brisbane Cricket Ground, Woolloongabba"
+0,BR Dunk,1,6,0,0,16.666666666666664,MG Gale,['NJ Rimmington'],caught,BR Dunk,2014-01-01,Melbourne Renegades,Melbourne Renegades,0,Bellerive Oval
+0,BR Dunk,28,29,3,0,96.55172413793103,MR Marsh,['SE Marsh'],caught,BR Dunk,2014-01-07,Hobart Hurricanes,Perth Scorchers,0,Western Australia Cricket Association Ground
+1,BR Dunk,96,54,8,5,177.77777777777777,GS Sandhu,['UT Khawaja'],caught,BR Dunk,2014-01-11,Sydney Thunder,Hobart Hurricanes,0,Bellerive Oval
+0,BR Dunk,39,37,4,1,105.40540540540539,NM Lyon,['DLR Smith'],stumped,BR Dunk,2014-01-15,Hobart Hurricanes,Sydney Sixers,0,Sydney Cricket Ground
+2,BR Dunk,30,31,3,0,96.7741935483871,SM Boland,['SM Boland'],run out,Shoaib Malik,2014-01-21,Hobart Hurricanes,Melbourne Stars,0,Melbourne Cricket Ground
+3,BR Dunk,30,31,3,0,96.7741935483871,MP Stoinis,['LJ Wright'],caught,BR Dunk,2014-01-21,Hobart Hurricanes,Melbourne Stars,0,Melbourne Cricket Ground
+0,BR Dunk,87,55,6,3,158.1818181818182,CJ Gannon,['CA Lynn'],caught,BR Dunk,2014-01-23,Brisbane Heat,Hobart Hurricanes,0,Bellerive Oval
+0,BR Dunk,30,20,3,1,150.0,JW Hastings,['LJ Wright'],caught,BR Dunk,2014-02-04,Hobart Hurricanes,Hobart Hurricanes,0,Melbourne Cricket Ground
+0,BR Dunk,17,14,1,1,121.42857142857142,JP Behrendorff,['PJ Cummins'],caught,BR Dunk,2014-02-07,Hobart Hurricanes,Perth Scorchers,0,Western Australia Cricket Association Ground
+0,BR Dunk,43,42,2,0,102.38095238095238,JP Faulkner,['GJ Maxwell'],caught,BR Dunk,2014-12-20,Hobart Hurricanes,Hobart Hurricanes,0,Melbourne Cricket Ground
+0,BR Dunk,23,18,3,0,127.77777777777777,MC Henriques,['B Lee'],caught,BR Dunk,2014-12-23,Sydney Sixers,Sydney Sixers,0,Bellerive Oval
+0,BR Dunk,0,2,0,0,0.0,KW Richardson,['KA Pollard'],caught,BR Dunk,2014-12-31,Hobart Hurricanes,Adelaide Strikers,0,Adelaide Oval
+0,BR Dunk,67,41,8,2,163.41463414634146,JS Floros,['BCJ Cutting'],caught,BR Dunk,2015-01-02,Brisbane Heat,Hobart Hurricanes,0,Bellerive Oval
+0,BR Dunk,17,18,3,0,94.44444444444444,PM Siddle,0,bowled,BR Dunk,2015-01-07,Melbourne Renegades,Melbourne Renegades,0,Bellerive Oval
+0,BR Dunk,1,3,0,0,33.33333333333333,JP Behrendorff,0,bowled,BR Dunk,2015-01-11,Perth Scorchers,Perth Scorchers,0,Bellerive Oval
+0,BR Dunk,2,8,0,0,25.0,MT Steketee,['JJ Peirson'],caught,BR Dunk,2015-01-15,Hobart Hurricanes,Brisbane Heat,0,"Brisbane Cricket Ground, Woolloongabba"
+3,BR Dunk,1,4,0,0,25.0,DE Bollinger,0,bowled,BR Dunk,2015-12-20,Hobart Hurricanes,Sydney Sixers,0,Sydney Cricket Ground
+0,BR Dunk,5,7,0,0,71.42857142857143,JK Lalor,['PJ Forrest'],run out,BR Dunk,2015-12-22,Brisbane Heat,Hobart Hurricanes,0,Bellerive Oval
+0,BR Dunk,27,24,3,1,112.5,S Badree,['LMP Simmons'],caught,BR Dunk,2015-12-29,Hobart Hurricanes,Hobart Hurricanes,0,"Brisbane Cricket Ground, Woolloongabba"
+1,BR Dunk,15,10,2,0,150.0,CJ McKay,['AD Russell'],caught,BR Dunk,2016-01-01,Sydney Thunder,Hobart Hurricanes,0,Bellerive Oval
+1,BR Dunk,37,39,2,1,94.87179487179486,CJ Gannon,['AJ Finch'],caught,BR Dunk,2016-01-04,Melbourne Renegades,Melbourne Renegades,0,Bellerive Oval
+1,BR Dunk,11,6,1,0,183.33333333333331,notOut,notOut,notOut,notOut,2016-01-06,Hobart Hurricanes,Melbourne Stars,0,Melbourne Cricket Ground
+0,BR Dunk,9,8,1,0,112.5,DJ Willey,['AC Voges'],caught,BR Dunk,2016-01-10,Perth Scorchers,Perth Scorchers,0,Bellerive Oval
+2,BR Dunk,8,8,1,0,100.0,GA West,['JM Holland'],caught,BR Dunk,2016-01-13,Hobart Hurricanes,Adelaide Strikers,0,Adelaide Oval
+1,BR McDermott,31,22,4,1,140.9090909090909,Fawad Ahmed,"['JS Lenton', 'Fawad Ahmed']",run out,BR McDermott,2017-01-08,Sydney Thunder,Sydney Thunder,0,Bellerive Oval
+2,BR McDermott,114,52,8,9,219.23076923076925,SP Narine,0,lbw,BR McDermott,2017-01-12,Hobart Hurricanes,Hobart Hurricanes,0,Docklands Stadium
+2,BR McDermott,10,10,0,1,100.0,MG Johnson,['AJ Tye'],caught,BR McDermott,2017-01-21,Perth Scorchers,Perth Scorchers,0,Bellerive Oval
+9,BW Hilfenhaus,0,1,0,0,0.0,NJ Rimmington,['L Ronchi'],run out,XJ Doherty,2011-12-18,Hobart Hurricanes,Hobart Hurricanes,0,Western Australia Cricket Association Ground
+8,BW Hilfenhaus,10,2,1,1,500.0,notOut,notOut,notOut,notOut,2013-12-28,Hobart Hurricanes,Hobart Hurricanes,0,"Brisbane Cricket Ground, Woolloongabba"
+8,BW Hilfenhaus,2,4,0,0,50.0,JL Pattinson,['TLW Cooper'],caught,BW Hilfenhaus,2014-01-01,Melbourne Renegades,Melbourne Renegades,0,Bellerive Oval
+9,BW Hilfenhaus,0,2,0,0,0.0,notOut,notOut,notOut,notOut,2014-01-07,Hobart Hurricanes,Perth Scorchers,0,Western Australia Cricket Association Ground
+8,BW Hilfenhaus,3,3,0,0,100.0,B Lee,['DLR Smith'],run out,B Laughlin,2014-01-15,Hobart Hurricanes,Sydney Sixers,0,Sydney Cricket Ground
+8,BW Hilfenhaus,0,1,0,0,0.0,SM Boland,['MP Stoinis'],caught,BW Hilfenhaus,2014-01-21,Hobart Hurricanes,Melbourne Stars,0,Melbourne Cricket Ground
+6,BW Hilfenhaus,13,14,1,0,92.85714285714286,notOut,notOut,notOut,notOut,2014-02-07,Hobart Hurricanes,Perth Scorchers,0,Western Australia Cricket Association Ground
+8,BW Hilfenhaus,5,9,0,0,55.55555555555556,B Laughlin,['KW Richardson'],caught,BW Hilfenhaus,2014-12-31,Hobart Hurricanes,Adelaide Strikers,0,Adelaide Oval
+8,BW Hilfenhaus,11,7,0,1,157.14285714285714,NP Winter,0,bowled,BW Hilfenhaus,2015-01-07,Melbourne Renegades,Melbourne Renegades,0,Bellerive Oval
+7,BW Hilfenhaus,4,3,0,0,133.33333333333331,Yasir Arafat,0,bowled,BW Hilfenhaus,2015-01-11,Perth Scorchers,Perth Scorchers,0,Bellerive Oval
+8,BW Hilfenhaus,38,31,1,2,122.58064516129032,notOut,notOut,notOut,notOut,2015-01-15,Hobart Hurricanes,Brisbane Heat,0,"Brisbane Cricket Ground, Woolloongabba"
+8,CA Rose,8,10,0,0,80.0,notOut,notOut,notOut,notOut,2016-01-06,Hobart Hurricanes,Melbourne Stars,0,Melbourne Cricket Ground
+8,CA Rose,3,5,0,0,60.0,B Laughlin,['JS Lehmann'],caught,CA Rose,2016-01-13,Hobart Hurricanes,Adelaide Strikers,0,Adelaide Oval
+9,CA Rose,17,14,2,0,121.42857142857142,BCJ Cutting,"['BB McCullum', 'BCJ Cutting']",run out,SCJ Broad,2016-12-30,Hobart Hurricanes,Brisbane Heat,0,"Brisbane Cricket Ground, Woolloongabba"
+9,CA Rose,1,1,0,0,100.0,notOut,notOut,notOut,notOut,2017-01-06,Hobart Hurricanes,Adelaide Strikers,0,Adelaide Oval
+8,CA Rose,8,3,0,1,266.66666666666663,PJ Cummins,"['Fawad Ahmed', 'JS Lenton']",run out,CA Rose,2017-01-08,Sydney Thunder,Sydney Thunder,0,Bellerive Oval
+7,CA Rose,29,18,3,1,161.11111111111111,notOut,notOut,notOut,notOut,2017-01-21,Perth Scorchers,Perth Scorchers,0,Bellerive Oval
+9,CJ Boyce,0,1,0,0,0.0,notOut,notOut,notOut,notOut,2014-01-15,Hobart Hurricanes,Sydney Sixers,0,Sydney Cricket Ground
+9,CJ Boyce,8,6,1,0,133.33333333333331,JM Bird,['DJ Hussey'],caught,CJ Boyce,2014-01-21,Hobart Hurricanes,Melbourne Stars,0,Melbourne Cricket Ground
+8,CJ Boyce,1,3,0,0,33.33333333333333,notOut,notOut,notOut,notOut,2014-02-07,Hobart Hurricanes,Perth Scorchers,0,Western Australia Cricket Association Ground
+7,CJ Boyce,15,11,0,2,136.36363636363635,Shakib Al Hasan,['PM Siddle'],caught,CJ Boyce,2015-01-07,Melbourne Renegades,Melbourne Renegades,0,Bellerive Oval
+8,CJ Boyce,0,2,0,0,0.0,notOut,notOut,notOut,notOut,2015-01-11,Perth Scorchers,Perth Scorchers,0,Bellerive Oval
+9,CJ Boyce,24,10,3,1,240.0,notOut,notOut,notOut,notOut,2015-01-15,Hobart Hurricanes,Brisbane Heat,0,"Brisbane Cricket Ground, Woolloongabba"
+9,CJ Boyce,4,10,0,0,40.0,SNJ O'Keefe,['MC Henriques'],caught,CJ Boyce,2015-12-20,Hobart Hurricanes,Sydney Sixers,0,Sydney Cricket Ground
+9,CJ Boyce,1,2,0,0,50.0,SM Boland,0,bowled,CJ Boyce,2016-01-06,Hobart Hurricanes,Melbourne Stars,0,Melbourne Cricket Ground
+9,CJ Boyce,5,3,1,0,166.66666666666669,MG Neser,0,bowled,CJ Boyce,2016-01-13,Hobart Hurricanes,Adelaide Strikers,0,Adelaide Oval
+6,CJ Boyce,5,5,1,0,100.0,notOut,notOut,notOut,notOut,2016-12-23,Hobart Hurricanes,Hobart Hurricanes,0,Sydney Cricket Ground
+8,CJ Boyce,9,12,1,0,75.0,BCJ Cutting,['CA Lynn'],caught,CJ Boyce,2016-12-30,Hobart Hurricanes,Brisbane Heat,0,"Brisbane Cricket Ground, Woolloongabba"
+8,CJ Boyce,12,8,0,1,150.0,CJ Jordan,0,bowled,CJ Boyce,2017-01-06,Hobart Hurricanes,Adelaide Strikers,0,Adelaide Oval
+7,CJ Boyce,0,1,0,0,0.0,PJ Cummins,0,bowled,CJ Boyce,2017-01-08,Sydney Thunder,Sydney Thunder,0,Bellerive Oval
+8,CJ Boyce,1,1,0,0,100.0,NLTC Perera,['SP Narine'],run out,CJ Boyce,2017-01-12,Hobart Hurricanes,Hobart Hurricanes,0,Docklands Stadium
+10,DE Bollinger,6,5,0,0,120.0,notOut,notOut,notOut,notOut,2012-12-19,Hobart Hurricanes,Melbourne Renegades,0,Docklands Stadium
+5,DJG Sammy,38,14,4,3,271.42857142857144,notOut,notOut,notOut,notOut,2014-12-20,Hobart Hurricanes,Hobart Hurricanes,0,Melbourne Cricket Ground
+5,DJG Sammy,2,3,0,0,66.66666666666666,MC Henriques,['NJ Maddinson'],caught,DJG Sammy,2014-12-23,Sydney Sixers,Sydney Sixers,0,Bellerive Oval
+6,DJG Sammy,1,4,0,0,25.0,SW Tait,0,bowled,DJG Sammy,2014-12-31,Hobart Hurricanes,Adelaide Strikers,0,Adelaide Oval
+5,DJG Sammy,1,1,0,0,100.0,notOut,notOut,notOut,notOut,2015-01-02,Brisbane Heat,Hobart Hurricanes,0,Bellerive Oval
+6,DJG Sammy,2,6,0,0,33.33333333333333,SA Abbott,['NJ Maddinson'],caught,DJG Sammy,2015-12-20,Hobart Hurricanes,Sydney Sixers,0,Sydney Cricket Ground
+5,DJG Sammy,7,15,0,0,46.666666666666664,notOut,notOut,notOut,notOut,2015-12-29,Hobart Hurricanes,Hobart Hurricanes,0,"Brisbane Cricket Ground, Woolloongabba"
+6,DJG Sammy,18,10,0,1,180.0,CJ McKay,['CJ Green'],caught,DJG Sammy,2016-01-01,Sydney Thunder,Hobart Hurricanes,0,Bellerive Oval
+6,DJG Sammy,9,6,1,0,150.0,notOut,notOut,notOut,notOut,2016-01-04,Melbourne Renegades,Melbourne Renegades,0,Bellerive Oval
+7,DJG Sammy,17,14,1,0,121.42857142857142,JW Hastings,0,bowled,DJG Sammy,2016-01-06,Hobart Hurricanes,Melbourne Stars,0,Melbourne Cricket Ground
+6,DJG Sammy,28,12,2,2,233.33333333333334,AJ Tye,"['CT Bancroft', 'AJ Tye']",run out,JW Wells,2016-01-10,Perth Scorchers,Perth Scorchers,0,Bellerive Oval
+1,DJM Short,61,30,8,3,203.33333333333331,DE Bollinger,['JJ Roy'],caught,DJM Short,2016-12-23,Hobart Hurricanes,Hobart Hurricanes,0,Sydney Cricket Ground
+1,DJM Short,1,2,0,0,50.0,BW Hilfenhaus,0,bowled,DJM Short,2016-12-26,Melbourne Stars,Melbourne Stars,0,Bellerive Oval
+0,DJM Short,18,12,2,1,150.0,MT Steketee,0,bowled,DJM Short,2016-12-30,Hobart Hurricanes,Brisbane Heat,0,"Brisbane Cricket Ground, Woolloongabba"
+1,DJM Short,60,39,7,3,153.84615384615387,B Stanlake,['BR Dunk'],caught,DJM Short,2017-01-02,Adelaide Strikers,Hobart Hurricanes,0,Bellerive Oval
+1,DJM Short,4,3,1,0,133.33333333333331,TM Head,['J Weatherald'],caught,DJM Short,2017-01-06,Hobart Hurricanes,Adelaide Strikers,0,Adelaide Oval
+2,DJM Short,0,1,0,0,0.0,PJ Cummins,['JS Lenton'],caught,DJM Short,2017-01-08,Sydney Thunder,Sydney Thunder,0,Bellerive Oval
+0,DJM Short,18,11,1,1,163.63636363636365,TLW Cooper,0,bowled,DJM Short,2017-01-12,Hobart Hurricanes,Hobart Hurricanes,0,Docklands Stadium
+1,DJM Short,36,24,4,1,150.0,TT Bresnan,0,bowled,DJM Short,2017-01-21,Perth Scorchers,Perth Scorchers,0,Bellerive Oval
+5,DP Michael,0,1,0,0,0.0,BJ Dwarshuis,0,bowled,DP Michael,2016-12-23,Hobart Hurricanes,Hobart Hurricanes,0,Sydney Cricket Ground
+2,DP Michael,0,1,0,0,0.0,BW Hilfenhaus,0,bowled,DP Michael,2016-12-26,Melbourne Stars,Melbourne Stars,0,Bellerive Oval
+4,DT Christian,4,6,0,0,66.66666666666666,JM Bird,"['NJ Maddinson', 'BJ Haddin']",run out,DT Christian,2015-12-20,Hobart Hurricanes,Sydney Sixers,0,Sydney Cricket Ground
+4,DT Christian,5,5,0,0,100.0,notOut,notOut,notOut,notOut,2015-12-22,Brisbane Heat,Hobart Hurricanes,0,Bellerive Oval
+4,DT Christian,56,27,3,4,207.4074074074074,notOut,notOut,notOut,notOut,2015-12-29,Hobart Hurricanes,Hobart Hurricanes,0,"Brisbane Cricket Ground, Woolloongabba"
+4,DT Christian,5,4,1,0,125.0,Fawad Ahmed,['AD Russell'],caught,DT Christian,2016-01-01,Sydney Thunder,Hobart Hurricanes,0,Bellerive Oval
+4,DT Christian,58,41,4,3,141.46341463414635,XJ Doherty,['TLW Cooper'],caught,DT Christian,2016-01-04,Melbourne Renegades,Melbourne Renegades,0,Bellerive Oval
+5,DT Christian,4,11,0,0,36.36363636363637,SM Boland,['LJ Wright'],run out,DT Christian,2016-01-06,Hobart Hurricanes,Melbourne Stars,0,Melbourne Cricket Ground
+3,DT Christian,26,22,1,1,118.18181818181819,GB Hogg,0,bowled,DT Christian,2016-01-10,Perth Scorchers,Perth Scorchers,0,Bellerive Oval
+5,DT Christian,8,12,1,0,66.66666666666666,AU Rashid,0,lbw,DT Christian,2016-01-13,Hobart Hurricanes,Adelaide Strikers,0,Adelaide Oval
+4,DT Christian,20,12,0,2,166.66666666666669,SA Abbott,0,bowled,DT Christian,2016-12-23,Hobart Hurricanes,Hobart Hurricanes,0,Sydney Cricket Ground
+5,DT Christian,1,2,0,0,50.0,notOut,notOut,notOut,notOut,2016-12-26,Melbourne Stars,Melbourne Stars,0,Bellerive Oval
+4,DT Christian,33,25,2,1,132.0,BCJ Cutting,"['AI Ross', 'JJ Peirson']",run out,GJ Bailey,2016-12-30,Hobart Hurricanes,Brisbane Heat,0,"Brisbane Cricket Ground, Woolloongabba"
+5,DT Christian,33,25,2,1,132.0,JD Wildermuth,['AI Ross'],caught,DT Christian,2016-12-30,Hobart Hurricanes,Brisbane Heat,0,"Brisbane Cricket Ground, Woolloongabba"
+4,DT Christian,0,1,0,0,0.0,B Stanlake,0,caught and bowled,DT Christian,2017-01-06,Hobart Hurricanes,Adelaide Strikers,0,Adelaide Oval
+4,DT Christian,16,16,1,0,100.0,CR Brathwaite,['RJ Gibson'],caught,DT Christian,2017-01-08,Sydney Thunder,Sydney Thunder,0,Bellerive Oval
+4,DT Christian,12,6,1,1,200.0,GB Hogg,0,lbw,DT Christian,2017-01-12,Hobart Hurricanes,Hobart Hurricanes,0,Docklands Stadium
+4,DT Christian,5,9,0,0,55.55555555555556,AC Voges,['AC Agar'],caught,DT Christian,2017-01-21,Perth Scorchers,Perth Scorchers,0,Bellerive Oval
+6,EP Gulbis,6,4,1,0,150.0,SL Malinga,0,bowled,EP Gulbis,2012-12-15,Hobart Hurricanes,Melbourne Stars,0,Melbourne Cricket Ground
+5,EP Gulbis,22,15,1,1,146.66666666666666,CJ Gannon,['AC McDermott'],caught,EP Gulbis,2013-12-28,Hobart Hurricanes,Hobart Hurricanes,0,"Brisbane Cricket Ground, Woolloongabba"
+6,EP Gulbis,16,14,1,0,114.28571428571428,NJ Rimmington,"[""AW O'Brien""]",caught,EP Gulbis,2014-01-01,Melbourne Renegades,Melbourne Renegades,0,Bellerive Oval
+5,EP Gulbis,7,8,0,0,87.5,JR Hazlewood,0,bowled,EP Gulbis,2014-01-15,Hobart Hurricanes,Sydney Sixers,0,Sydney Cricket Ground
+5,EP Gulbis,22,12,4,0,183.33333333333331,RJ Harris,['MT Steketee'],run out,AC Blizzard,2014-01-23,Brisbane Heat,Hobart Hurricanes,0,Bellerive Oval
+6,EP Gulbis,22,12,4,0,183.33333333333331,RJ Harris,['DL Vettori'],caught,EP Gulbis,2014-01-23,Brisbane Heat,Hobart Hurricanes,0,Bellerive Oval
+5,EP Gulbis,6,6,1,0,100.0,AC Thomas,['SM Katich'],caught,EP Gulbis,2014-02-07,Hobart Hurricanes,Perth Scorchers,0,Western Australia Cricket Association Ground
+6,EP Gulbis,14,5,1,1,280.0,notOut,notOut,notOut,notOut,2014-12-20,Hobart Hurricanes,Hobart Hurricanes,0,Melbourne Cricket Ground
+6,EP Gulbis,15,11,0,1,136.36363636363635,B Lee,['JC Silk'],run out,JM Mennie,2014-12-23,Sydney Sixers,Sydney Sixers,0,Bellerive Oval
+7,EP Gulbis,15,11,0,1,136.36363636363635,B Lee,['BJ Dwarshuis'],caught,EP Gulbis,2014-12-23,Sydney Sixers,Sydney Sixers,0,Bellerive Oval
+4,EP Gulbis,2,3,0,0,66.66666666666666,SW Tait,['TP Ludeman'],caught,EP Gulbis,2014-12-31,Hobart Hurricanes,Adelaide Strikers,0,Adelaide Oval
+3,EP Gulbis,3,4,0,0,75.0,DT Christian,['JR Hopes'],caught,EP Gulbis,2015-01-15,Hobart Hurricanes,Brisbane Heat,0,"Brisbane Cricket Ground, Woolloongabba"
+4,GJ Bailey,28,27,2,0,103.7037037037037,CL White,['JP Faulkner'],caught,GJ Bailey,2012-12-15,Hobart Hurricanes,Melbourne Stars,0,Melbourne Cricket Ground
+4,GJ Bailey,2,3,0,0,66.66666666666666,AW O'Brien,0,caught and bowled,GJ Bailey,2012-12-19,Hobart Hurricanes,Melbourne Renegades,0,Docklands Stadium
+3,GJ Bailey,32,27,3,0,118.5185185185185,notOut,notOut,notOut,notOut,2014-02-04,Hobart Hurricanes,Hobart Hurricanes,0,Melbourne Cricket Ground
+3,GJ Bailey,58,33,6,2,175.75757575757575,PJ Cummins,['AC Thomas'],caught,GJ Bailey,2014-02-07,Hobart Hurricanes,Perth Scorchers,0,Western Australia Cricket Association Ground
+3,GJ Bailey,2,6,0,0,33.33333333333333,JW Hastings,['KP Pietersen'],caught,GJ Bailey,2014-12-20,Hobart Hurricanes,Hobart Hurricanes,0,Melbourne Cricket Ground
+3,GJ Bailey,71,46,6,3,154.34782608695653,B Lee,['JC Silk'],caught,GJ Bailey,2014-12-23,Sydney Sixers,Sydney Sixers,0,Bellerive Oval
+3,GJ Bailey,12,14,0,0,85.71428571428571,A Zampa,['KW Richardson'],caught,GJ Bailey,2014-12-31,Hobart Hurricanes,Adelaide Strikers,0,Adelaide Oval
+4,GJ Bailey,28,13,3,1,215.3846153846154,notOut,notOut,notOut,notOut,2015-01-02,Brisbane Heat,Hobart Hurricanes,0,Bellerive Oval
+3,GJ Bailey,20,25,1,0,80.0,Fawad Ahmed,['TLW Cooper'],caught,GJ Bailey,2015-01-07,Melbourne Renegades,Melbourne Renegades,0,Bellerive Oval
+4,GJ Bailey,6,10,0,0,60.0,GB Hogg,['JP Behrendorff'],caught,GJ Bailey,2015-01-11,Perth Scorchers,Perth Scorchers,0,Bellerive Oval
+2,GJ Bailey,62,47,8,1,131.91489361702128,notOut,notOut,notOut,notOut,2015-12-20,Hobart Hurricanes,Sydney Sixers,0,Sydney Cricket Ground
+3,GJ Bailey,40,21,5,1,190.47619047619045,AL Fekete,['LMP Simmons'],caught,GJ Bailey,2015-12-22,Brisbane Heat,Hobart Hurricanes,0,Bellerive Oval
+3,GJ Bailey,27,21,2,0,128.57142857142858,MT Steketee,['LW Feldman'],caught,GJ Bailey,2015-12-29,Hobart Hurricanes,Hobart Hurricanes,0,"Brisbane Cricket Ground, Woolloongabba"
+3,GJ Bailey,56,29,6,2,193.10344827586206,notOut,notOut,notOut,notOut,2016-01-01,Sydney Thunder,Hobart Hurricanes,0,Bellerive Oval
+3,GJ Bailey,0,4,0,0,0.0,CJ Gannon,['AJ Finch'],caught,GJ Bailey,2016-01-04,Melbourne Renegades,Melbourne Renegades,0,Bellerive Oval
+3,GJ Bailey,55,40,3,2,137.5,GJ Maxwell,"['JW Hastings', 'GJ Maxwell']",run out,BR Dunk,2016-01-06,Hobart Hurricanes,Melbourne Stars,0,Melbourne Cricket Ground
+4,GJ Bailey,55,40,3,2,137.5,A Zampa,0,bowled,GJ Bailey,2016-01-06,Hobart Hurricanes,Melbourne Stars,0,Melbourne Cricket Ground
+3,GJ Bailey,14,10,0,1,140.0,J Botha,['SW Billings'],caught,GJ Bailey,2016-12-23,Hobart Hurricanes,Hobart Hurricanes,0,Sydney Cricket Ground
+4,GJ Bailey,74,47,4,4,157.4468085106383,notOut,notOut,notOut,notOut,2016-12-26,Melbourne Stars,Melbourne Stars,0,Bellerive Oval
+3,GJ Bailey,13,11,1,0,118.18181818181819,notOut,notOut,notOut,notOut,2016-12-30,Hobart Hurricanes,Brisbane Heat,0,"Brisbane Cricket Ground, Woolloongabba"
+3,GJ Bailey,6,6,0,0,100.0,notOut,notOut,notOut,notOut,2017-01-02,Adelaide Strikers,Hobart Hurricanes,0,Bellerive Oval
+3,GJ Bailey,2,4,0,0,50.0,CJ Jordan,['TM Head'],caught,GJ Bailey,2017-01-06,Hobart Hurricanes,Adelaide Strikers,0,Adelaide Oval
+3,GJ Bailey,69,55,7,1,125.45454545454547,SR Watson,"['PJ Cummins', 'SR Watson']",run out,BJ Webster,2017-01-08,Sydney Thunder,Sydney Thunder,0,Bellerive Oval
+3,GJ Bailey,59,42,3,2,140.47619047619045,SP Narine,['MS Harris'],caught,GJ Bailey,2017-01-12,Hobart Hurricanes,Hobart Hurricanes,0,Docklands Stadium
+3,GJ Bailey,10,13,0,0,76.92307692307693,AC Agar,['TT Bresnan'],caught,GJ Bailey,2017-01-21,Perth Scorchers,Perth Scorchers,0,Bellerive Oval
+7,HP Kingston,12,6,1,0,200.0,notOut,notOut,notOut,notOut,2016-12-23,Hobart Hurricanes,Hobart Hurricanes,0,Sydney Cricket Ground
+7,HP Kingston,17,10,0,2,170.0,MJ Swepson,0,lbw,HP Kingston,2016-12-30,Hobart Hurricanes,Brisbane Heat,0,"Brisbane Cricket Ground, Woolloongabba"
+7,HP Kingston,0,2,0,0,0.0,B Laughlin,['TD Andrews'],caught,HP Kingston,2017-01-06,Hobart Hurricanes,Adelaide Strikers,0,Adelaide Oval
+6,JJ Krejza,1,2,0,0,50.0,MA Beer,0,lbw,JJ Krejza,2011-12-18,Hobart Hurricanes,Hobart Hurricanes,0,Western Australia Cricket Association Ground
+7,JJ Krejza,2,3,0,0,66.66666666666666,B Lee,['SPD Smith'],caught,JJ Krejza,2012-01-22,Sydney Sixers,Sydney Sixers,0,Bellerive Oval
+6,JJ Krejza,5,7,0,0,71.42857142857143,NJ Rimmington,0,lbw,JJ Krejza,2012-12-19,Hobart Hurricanes,Melbourne Renegades,0,Docklands Stadium
+10,JK Reed,8,3,0,1,266.66666666666663,notOut,notOut,notOut,notOut,2015-01-07,Melbourne Renegades,Melbourne Renegades,0,Bellerive Oval
+7,JM Mennie,3,6,0,0,50.0,SW Tait,0,lbw,JM Mennie,2014-12-31,Hobart Hurricanes,Adelaide Strikers,0,Adelaide Oval
+7,JM Mennie,4,9,0,0,44.44444444444444,NM Lyon,['JM Bird'],caught,JM Mennie,2015-12-20,Hobart Hurricanes,Sydney Sixers,0,Sydney Cricket Ground
+0,JW Wells,17,18,1,0,94.44444444444444,DJ Thornely,0,bowled,JW Wells,2011-12-21,Sydney Sixers,Hobart Hurricanes,0,Bellerive Oval
+0,JW Wells,31,28,3,1,110.71428571428572,J Botha,['AC Blizzard'],caught,JW Wells,2011-12-28,Hobart Hurricanes,Hobart Hurricanes,0,Adelaide Oval
+0,JW Wells,29,37,4,0,78.37837837837837,FH Edwards,['SA Abbott'],caught,JW Wells,2012-01-01,Sydney Thunder,Hobart Hurricanes,0,Bellerive Oval
+8,JW Wells,17,12,2,0,141.66666666666669,notOut,notOut,notOut,notOut,2012-01-09,Melbourne Stars,Melbourne Stars,0,Bellerive Oval
+0,JW Wells,72,62,7,1,116.12903225806453,BG McDonald,['WD Sheridan'],caught,JW Wells,2012-01-18,Melbourne Renegades,Hobart Hurricanes,0,Bellerive Oval
+0,JW Wells,11,12,2,0,91.66666666666666,B Lee,['SPD Smith'],caught,JW Wells,2012-01-22,Sydney Sixers,Sydney Sixers,0,Bellerive Oval
+1,JW Wells,38,34,5,0,111.76470588235294,BCJ Cutting,['JR Hopes'],caught,JW Wells,2012-12-09,Hobart Hurricanes,Hobart Hurricanes,0,"Brisbane Cricket Ground, Woolloongabba"
+4,JW Wells,36,20,5,0,180.0,notOut,notOut,notOut,notOut,2013-12-28,Hobart Hurricanes,Hobart Hurricanes,0,"Brisbane Cricket Ground, Woolloongabba"
+4,JW Wells,17,13,3,0,130.76923076923077,NJ Rimmington,['MW Hill'],caught,JW Wells,2014-01-01,Melbourne Renegades,Melbourne Renegades,0,Bellerive Oval
+6,JW Wells,1,5,0,0,20.0,Yasir Arafat,0,bowled,JW Wells,2014-01-07,Hobart Hurricanes,Perth Scorchers,0,Western Australia Cricket Association Ground
+6,JW Wells,3,4,0,0,75.0,notOut,notOut,notOut,notOut,2014-01-11,Sydney Thunder,Hobart Hurricanes,0,Bellerive Oval
+2,JW Wells,9,9,0,0,100.0,SNJ O'Keefe,0,lbw,JW Wells,2014-01-15,Hobart Hurricanes,Sydney Sixers,0,Sydney Cricket Ground
+1,JW Wells,19,19,3,0,100.0,JW Hastings,['JM Muirhead'],caught,JW Wells,2014-01-21,Hobart Hurricanes,Melbourne Stars,0,Melbourne Cricket Ground
+2,JW Wells,12,12,1,0,100.0,CJ Gannon,['JA Burns'],caught,JW Wells,2014-01-23,Brisbane Heat,Hobart Hurricanes,0,Bellerive Oval
+2,JW Wells,24,23,2,0,104.34782608695652,GB Hogg,['SM Whiteman'],stumped,JW Wells,2014-02-07,Hobart Hurricanes,Perth Scorchers,0,Western Australia Cricket Association Ground
+4,JW Wells,68,44,4,1,154.54545454545453,JW Hastings,['GJ Maxwell'],caught,JW Wells,2014-12-20,Hobart Hurricanes,Hobart Hurricanes,0,Melbourne Cricket Ground
+4,JW Wells,3,7,0,0,42.857142857142854,LA Doran,0,bowled,JW Wells,2014-12-23,Sydney Sixers,Sydney Sixers,0,Bellerive Oval
+5,JW Wells,58,37,5,2,156.75675675675674,notOut,notOut,notOut,notOut,2014-12-31,Hobart Hurricanes,Adelaide Strikers,0,Adelaide Oval
+4,JW Wells,8,9,1,0,88.88888888888889,PM Siddle,0,lbw,JW Wells,2015-01-07,Melbourne Renegades,Melbourne Renegades,0,Bellerive Oval
+5,JW Wells,18,19,0,0,94.73684210526315,notOut,notOut,notOut,notOut,2015-01-11,Perth Scorchers,Perth Scorchers,0,Bellerive Oval
+6,JW Wells,6,11,1,0,54.54545454545454,BCJ Cutting,['A Flintoff'],caught,JW Wells,2015-01-15,Hobart Hurricanes,Brisbane Heat,0,"Brisbane Cricket Ground, Woolloongabba"
+5,JW Wells,1,2,0,0,50.0,SNJ O'Keefe,['MC Henriques'],caught,JW Wells,2015-12-20,Hobart Hurricanes,Sydney Sixers,0,Sydney Cricket Ground
+5,JW Wells,27,28,4,0,96.42857142857143,JH Kallis,['CD Hartley'],caught,JW Wells,2016-01-01,Sydney Thunder,Hobart Hurricanes,0,Bellerive Oval
+5,JW Wells,26,19,3,1,136.8421052631579,notOut,notOut,notOut,notOut,2016-01-04,Melbourne Renegades,Melbourne Renegades,0,Bellerive Oval
+6,JW Wells,22,29,0,0,75.86206896551724,A Zampa,['PSP Handscomb'],stumped,JW Wells,2016-01-06,Hobart Hurricanes,Melbourne Stars,0,Melbourne Cricket Ground
+5,JW Wells,20,11,4,0,181.8181818181818,notOut,notOut,notOut,notOut,2016-01-10,Perth Scorchers,Perth Scorchers,0,Bellerive Oval
+6,JW Wells,20,13,3,0,153.84615384615387,AU Rashid,0,bowled,JW Wells,2016-01-13,Hobart Hurricanes,Adelaide Strikers,0,Adelaide Oval
+6,JW Wells,28,26,0,1,107.6923076923077,JD Wildermuth,['CA Lynn'],caught,JW Wells,2016-12-30,Hobart Hurricanes,Brisbane Heat,0,"Brisbane Cricket Ground, Woolloongabba"
+5,JW Wells,55,38,2,3,144.73684210526315,B Laughlin,['B Stanlake'],caught,JW Wells,2017-01-06,Hobart Hurricanes,Adelaide Strikers,0,Adelaide Oval
+5,JW Wells,26,18,3,0,144.44444444444443,CR Brathwaite,['CJ McKay'],caught,JW Wells,2017-01-08,Sydney Thunder,Sydney Thunder,0,Bellerive Oval
+5,JW Wells,0,1,0,0,0.0,GB Hogg,0,bowled,JW Wells,2017-01-12,Hobart Hurricanes,Hobart Hurricanes,0,Docklands Stadium
+5,JW Wells,28,25,3,0,112.00000000000001,notOut,notOut,notOut,notOut,2017-01-21,Perth Scorchers,Perth Scorchers,0,Bellerive Oval
+1,KC Sangakkara,0,1,0,0,0.0,NM Lyon,['DE Bollinger'],caught,KC Sangakkara,2015-12-20,Hobart Hurricanes,Sydney Sixers,0,Sydney Cricket Ground
+2,KC Sangakkara,43,31,5,0,138.70967741935485,BCJ Cutting,['LMP Simmons'],caught,KC Sangakkara,2015-12-22,Brisbane Heat,Hobart Hurricanes,0,Bellerive Oval
+2,KC Sangakkara,32,22,1,2,145.45454545454547,LW Feldman,0,bowled,KC Sangakkara,2015-12-29,Hobart Hurricanes,Hobart Hurricanes,0,"Brisbane Cricket Ground, Woolloongabba"
+2,KC Sangakkara,16,15,1,0,106.66666666666667,CJ McKay,['CD Hartley'],caught,KC Sangakkara,2016-01-01,Sydney Thunder,Hobart Hurricanes,0,Bellerive Oval
+2,KC Sangakkara,3,8,0,0,37.5,CP Tremain,['XJ Doherty'],caught,KC Sangakkara,2016-01-04,Melbourne Renegades,Melbourne Renegades,0,Bellerive Oval
+2,KC Sangakkara,1,4,0,0,25.0,MA Beer,['PSP Handscomb'],caught,KC Sangakkara,2016-01-06,Hobart Hurricanes,Melbourne Stars,0,Melbourne Cricket Ground
+2,KC Sangakkara,6,6,1,0,100.0,AC Agar,['CT Bancroft'],stumped,KC Sangakkara,2016-01-10,Perth Scorchers,Perth Scorchers,0,Bellerive Oval
+0,KC Sangakkara,4,6,0,0,66.66666666666666,MG Neser,['BJ Hodge'],caught,KC Sangakkara,2016-01-13,Hobart Hurricanes,Adelaide Strikers,0,Adelaide Oval
+2,KC Sangakkara,16,12,1,0,133.33333333333331,SNJ O'Keefe,['JM Mennie'],caught,KC Sangakkara,2016-12-23,Hobart Hurricanes,Hobart Hurricanes,0,Sydney Cricket Ground
+3,KC Sangakkara,15,9,2,0,166.66666666666669,GJ Maxwell,['JP Faulkner'],caught,KC Sangakkara,2016-12-26,Melbourne Stars,Melbourne Stars,0,Bellerive Oval
+2,KC Sangakkara,12,9,2,0,133.33333333333331,S Badree,0,lbw,KC Sangakkara,2016-12-30,Hobart Hurricanes,Brisbane Heat,0,"Brisbane Cricket Ground, Woolloongabba"
+2,KC Sangakkara,22,20,1,1,110.00000000000001,notOut,notOut,notOut,notOut,2017-01-02,Adelaide Strikers,Hobart Hurricanes,0,Bellerive Oval
+2,KC Sangakkara,3,7,0,0,42.857142857142854,B Stanlake,"[""LN O'Connor""]",caught,KC Sangakkara,2017-01-06,Hobart Hurricanes,Adelaide Strikers,0,Adelaide Oval
+7,MG Hogan,2,2,0,0,100.0,SK Warne,['DJ Hussey'],caught,MG Hogan,2012-01-09,Melbourne Stars,Melbourne Stars,0,Bellerive Oval
+8,MG Hogan,3,4,0,0,75.0,notOut,notOut,notOut,notOut,2012-01-22,Sydney Sixers,Sydney Sixers,0,Bellerive Oval
+8,MG Hogan,5,5,0,0,100.0,notOut,notOut,notOut,notOut,2012-12-15,Hobart Hurricanes,Melbourne Stars,0,Melbourne Cricket Ground
+8,MG Hogan,3,7,0,0,42.857142857142854,NJ Rimmington,['MN Samuels'],caught,MG Hogan,2012-12-19,Hobart Hurricanes,Melbourne Renegades,0,Docklands Stadium
+1,MJ Cosgrove,2,5,0,0,40.0,DP Nannes,0,bowled,MJ Cosgrove,2012-01-18,Melbourne Renegades,Hobart Hurricanes,0,Bellerive Oval
+5,MJ Johnston,13,5,0,1,260.0,notOut,notOut,notOut,notOut,2011-12-28,Hobart Hurricanes,Hobart Hurricanes,0,Adelaide Oval
+6,MJ Johnston,6,3,0,1,200.0,notOut,notOut,notOut,notOut,2012-01-01,Sydney Thunder,Hobart Hurricanes,0,Bellerive Oval
+5,MJ Johnston,3,6,0,0,50.0,JP Faulkner,['MS Wade'],caught,MJ Johnston,2012-01-09,Melbourne Stars,Melbourne Stars,0,Bellerive Oval
+5,MJ Johnston,6,7,0,0,85.71428571428571,SPD Smith,['DJ Thornely'],caught,MJ Johnston,2012-01-22,Sydney Sixers,Sydney Sixers,0,Bellerive Oval
+2,MW Hill,64,55,5,1,116.36363636363636,AJ Tye,['CT Bancroft (sub)'],caught,MW Hill,2015-01-11,Perth Scorchers,Perth Scorchers,0,Bellerive Oval
+2,MW Hill,26,19,4,0,136.8421052631579,DT Christian,['SD Parry'],caught,MW Hill,2015-01-15,Hobart Hurricanes,Brisbane Heat,0,"Brisbane Cricket Ground, Woolloongabba"
+4,MW Hill,23,15,0,2,153.33333333333334,AJ Tye,['DJ Willey'],caught,MW Hill,2016-01-10,Perth Scorchers,Perth Scorchers,0,Bellerive Oval
+3,MW Hill,32,22,2,2,145.45454545454547,B Laughlin,"['MG Neser', 'B Laughlin']",run out,TD Paine,2016-01-13,Hobart Hurricanes,Adelaide Strikers,0,Adelaide Oval
+4,MW Hill,32,22,2,2,145.45454545454547,GA West,['JM Holland'],caught,MW Hill,2016-01-13,Hobart Hurricanes,Adelaide Strikers,0,Adelaide Oval
+7,Naved-ul-Hasan,4,4,1,0,100.0,GB Hogg,['HH Gibbs'],caught,Naved-ul-Hasan,2011-12-18,Hobart Hurricanes,Hobart Hurricanes,0,Western Australia Cricket Association Ground
+6,Naved-ul-Hasan,1,3,0,0,33.33333333333333,SK Warne,['GJ Bailey'],caught,Naved-ul-Hasan,2012-01-09,Melbourne Stars,Melbourne Stars,0,Bellerive Oval
+6,Naved-ul-Hasan,30,15,2,2,200.0,notOut,notOut,notOut,notOut,2012-01-22,Sydney Sixers,Sydney Sixers,0,Bellerive Oval
+3,OA Shah,24,19,2,0,126.3157894736842,MA Beer,"['PD Collingwood', 'L Ronchi']",run out,OA Shah,2011-12-18,Hobart Hurricanes,Hobart Hurricanes,0,Western Australia Cricket Association Ground
+3,OA Shah,8,6,1,0,133.33333333333331,notOut,notOut,notOut,notOut,2011-12-21,Sydney Sixers,Hobart Hurricanes,0,Bellerive Oval
+3,OA Shah,36,19,2,3,189.4736842105263,notOut,notOut,notOut,notOut,2011-12-28,Hobart Hurricanes,Hobart Hurricanes,0,Adelaide Oval
+3,OA Shah,41,34,5,0,120.58823529411764,notOut,notOut,notOut,notOut,2012-01-01,Sydney Thunder,Hobart Hurricanes,0,Bellerive Oval
+3,OA Shah,55,38,3,2,144.73684210526315,JP Faulkner,['SK Warne'],caught,OA Shah,2012-01-09,Melbourne Stars,Melbourne Stars,0,Bellerive Oval
+3,OA Shah,49,32,5,1,153.125,notOut,notOut,notOut,notOut,2012-01-18,Melbourne Renegades,Hobart Hurricanes,0,Bellerive Oval
+3,OA Shah,0,3,0,0,0.0,NL McCullum,0,bowled,OA Shah,2012-01-22,Sydney Sixers,Sydney Sixers,0,Bellerive Oval
+3,OA Shah,36,23,3,2,156.52173913043478,notOut,notOut,notOut,notOut,2012-12-09,Hobart Hurricanes,Hobart Hurricanes,0,"Brisbane Cricket Ground, Woolloongabba"
+3,OA Shah,1,3,0,0,33.33333333333333,JP Faulkner,0,lbw,OA Shah,2012-12-15,Hobart Hurricanes,Melbourne Stars,0,Melbourne Cricket Ground
+3,OA Shah,14,31,0,0,45.16129032258064,MN Samuels,0,bowled,OA Shah,2012-12-19,Hobart Hurricanes,Melbourne Renegades,0,Docklands Stadium
+4,OA Shah,13,12,2,0,108.33333333333333,notOut,notOut,notOut,notOut,2012-12-26,Hobart Hurricanes,Hobart Hurricanes,0,Sydney Cricket Ground
+3,OA Shah,6,10,0,0,60.0,DL Vettori,['CA Lynn'],caught,OA Shah,2013-12-28,Hobart Hurricanes,Hobart Hurricanes,0,"Brisbane Cricket Ground, Woolloongabba"
+3,OA Shah,0,1,0,0,0.0,JL Pattinson,['AJ Finch'],caught,OA Shah,2014-01-01,Melbourne Renegades,Melbourne Renegades,0,Bellerive Oval
+5,OA Shah,32,27,3,1,118.5185185185185,NM Coulter-Nile,0,lbw,OA Shah,2014-01-07,Hobart Hurricanes,Perth Scorchers,0,Western Australia Cricket Association Ground
+4,OA Shah,3,7,0,0,42.857142857142854,AJ Tye,['GS Sandhu'],caught,OA Shah,2014-01-11,Sydney Thunder,Hobart Hurricanes,0,Bellerive Oval
+4,OA Shah,11,10,1,0,110.00000000000001,MJ North,"[""SNJ O'Keefe""]",caught,OA Shah,2014-01-15,Hobart Hurricanes,Sydney Sixers,0,Sydney Cricket Ground
+0,PA Jaques,18,20,2,0,90.0,BM Edmondson,['MEK Hussey'],caught,PA Jaques,2011-12-18,Hobart Hurricanes,Hobart Hurricanes,0,Western Australia Cricket Association Ground
+1,PA Jaques,73,57,6,1,128.0701754385965,MA Starc,['MC Henriques'],caught,PA Jaques,2011-12-21,Sydney Sixers,Hobart Hurricanes,0,Bellerive Oval
+1,PA Jaques,41,42,2,0,97.61904761904762,BE McGain,['M Klinger'],caught,PA Jaques,2011-12-28,Hobart Hurricanes,Hobart Hurricanes,0,Adelaide Oval
+1,PA Jaques,0,1,0,0,0.0,FH Edwards,0,bowled,PA Jaques,2012-01-01,Sydney Thunder,Hobart Hurricanes,0,Bellerive Oval
+0,PA Jaques,0,2,0,0,0.0,DJ Hussey,['GJ Bailey'],caught,PA Jaques,2012-01-09,Melbourne Stars,Melbourne Stars,0,Bellerive Oval
+4,PA Jaques,12,7,1,0,171.42857142857142,notOut,notOut,notOut,notOut,2012-01-18,Melbourne Renegades,Hobart Hurricanes,0,Bellerive Oval
+1,PA Jaques,63,48,6,1,131.25,SPD Smith,0,bowled,PA Jaques,2012-01-22,Sydney Sixers,Sydney Sixers,0,Bellerive Oval
+5,RJG Lockyear,4,6,0,0,66.66666666666666,MA Beer,"['PD Collingwood', 'L Ronchi']",run out,RJG Lockyear,2011-12-18,Hobart Hurricanes,Hobart Hurricanes,0,Western Australia Cricket Association Ground
+5,RJG Lockyear,3,6,0,0,50.0,LR Butterworth,['BR Dunk'],caught,RJG Lockyear,2012-01-01,Sydney Thunder,Hobart Hurricanes,0,Bellerive Oval
+1,RJG Lockyear,23,18,2,1,127.77777777777777,JP Faulkner,['RJ Quiney'],caught,RJG Lockyear,2012-01-09,Melbourne Stars,Melbourne Stars,0,Bellerive Oval
+1,RT Ponting,17,19,2,0,89.47368421052632,BM Edmondson,['MEK Hussey'],caught,RT Ponting,2011-12-18,Hobart Hurricanes,Hobart Hurricanes,0,Western Australia Cricket Association Ground
+0,RT Ponting,8,6,1,0,133.33333333333331,CJ McKay,['JP Faulkner'],caught,RT Ponting,2012-12-15,Hobart Hurricanes,Melbourne Stars,0,Melbourne Cricket Ground
+1,RT Ponting,25,25,2,1,100.0,M Muralitharan,0,bowled,RT Ponting,2012-12-19,Hobart Hurricanes,Melbourne Renegades,0,Docklands Stadium
+2,RT Ponting,63,52,2,3,121.15384615384615,notOut,notOut,notOut,notOut,2012-12-26,Hobart Hurricanes,Hobart Hurricanes,0,Sydney Cricket Ground
+7,S Milenko,11,10,2,0,110.00000000000001,B Laughlin,['GA West'],caught,S Milenko,2016-01-13,Hobart Hurricanes,Adelaide Strikers,0,Adelaide Oval
+5,SB Styris,24,17,2,0,141.1764705882353,JP Faulkner,['RJ Quiney'],caught,SB Styris,2012-12-15,Hobart Hurricanes,Melbourne Stars,0,Melbourne Cricket Ground
+5,SB Styris,1,3,0,0,33.33333333333333,M Muralitharan,0,lbw,SB Styris,2012-12-19,Hobart Hurricanes,Melbourne Renegades,0,Docklands Stadium
+10,SCJ Broad,3,4,0,0,75.0,notOut,notOut,notOut,notOut,2016-12-30,Hobart Hurricanes,Brisbane Heat,0,"Brisbane Cricket Ground, Woolloongabba"
+9,SCJ Broad,11,5,2,0,220.00000000000003,notOut,notOut,notOut,notOut,2017-01-12,Hobart Hurricanes,Hobart Hurricanes,0,Docklands Stadium
+8,SL Rainbird,1,3,0,0,33.33333333333333,NM Lyon,['JM Bird'],caught,SL Rainbird,2015-12-20,Hobart Hurricanes,Sydney Sixers,0,Sydney Cricket Ground
+10,SL Rainbird,0,1,0,0,0.0,SM Boland,0,bowled,SL Rainbird,2016-01-06,Hobart Hurricanes,Melbourne Stars,0,Melbourne Cricket Ground
+11,SL Rainbird,0,1,0,0,0.0,MG Neser,['JR Dean'],caught,SL Rainbird,2016-01-13,Hobart Hurricanes,Adelaide Strikers,0,Adelaide Oval
+7,SL Rainbird,1,1,0,0,100.0,notOut,notOut,notOut,notOut,2017-01-12,Hobart Hurricanes,Hobart Hurricanes,0,Docklands Stadium
+10,SW Tait,5,5,0,0,100.0,NM Lyon,['SA Abbott'],caught,SW Tait,2015-12-20,Hobart Hurricanes,Sydney Sixers,0,Sydney Cricket Ground
+11,SW Tait,0,1,0,0,0.0,SM Boland,['DJ Hussey'],run out,SW Tait,2016-01-06,Hobart Hurricanes,Melbourne Stars,0,Melbourne Cricket Ground
+10,SW Tait,1,1,0,0,100.0,notOut,notOut,notOut,notOut,2016-01-13,Hobart Hurricanes,Adelaide Strikers,0,Adelaide Oval
+0,Shoaib Malik,19,16,2,1,118.75,DT Christian,['AC McDermott'],caught,Shoaib Malik,2013-12-28,Hobart Hurricanes,Hobart Hurricanes,0,"Brisbane Cricket Ground, Woolloongabba"
+1,Shoaib Malik,1,5,0,0,20.0,JL Pattinson,['PM Nevill'],caught,Shoaib Malik,2014-01-01,Melbourne Renegades,Melbourne Renegades,0,Bellerive Oval
+3,Shoaib Malik,26,30,2,0,86.66666666666667,MR Marsh,['JP Behrendorff'],run out,TR Birt,2014-01-07,Hobart Hurricanes,Perth Scorchers,0,Western Australia Cricket Association Ground
+4,Shoaib Malik,26,30,2,0,86.66666666666667,Yasir Arafat,['JP Behrendorff'],caught,Shoaib Malik,2014-01-07,Hobart Hurricanes,Perth Scorchers,0,Western Australia Cricket Association Ground
+5,Shoaib Malik,12,8,1,0,150.0,notOut,notOut,notOut,notOut,2014-01-11,Sydney Thunder,Hobart Hurricanes,0,Bellerive Oval
+7,Shoaib Malik,0,2,0,0,0.0,B Lee,['SPD Smith'],caught,Shoaib Malik,2014-01-15,Hobart Hurricanes,Sydney Sixers,0,Sydney Cricket Ground
+3,Shoaib Malik,14,8,1,1,175.0,RJ Harris,['JA Burns'],caught,Shoaib Malik,2014-01-23,Brisbane Heat,Hobart Hurricanes,0,Bellerive Oval
+2,Shoaib Malik,3,9,0,0,33.33333333333333,JM Muirhead,['LJ Wright'],caught,Shoaib Malik,2014-02-04,Hobart Hurricanes,Hobart Hurricanes,0,Melbourne Cricket Ground
+3,Shoaib Malik,8,13,0,0,61.53846153846154,AC Agar,['AJ Turner'],caught,Shoaib Malik,2015-01-11,Perth Scorchers,Perth Scorchers,0,Bellerive Oval
+5,Shoaib Malik,42,23,2,2,182.6086956521739,JR Hopes,['SD Parry'],caught,Shoaib Malik,2015-01-15,Hobart Hurricanes,Brisbane Heat,0,"Brisbane Cricket Ground, Woolloongabba"
+9,T van der Gugten,9,9,0,0,100.0,notOut,notOut,notOut,notOut,2014-12-31,Hobart Hurricanes,Adelaide Strikers,0,Adelaide Oval
+0,TD Paine,28,19,4,1,147.36842105263156,JR Hopes,['CJ Gannon'],caught,TD Paine,2012-12-09,Hobart Hurricanes,Hobart Hurricanes,0,"Brisbane Cricket Ground, Woolloongabba"
+1,TD Paine,46,47,2,1,97.87234042553192,CJ McKay,['GJ Maxwell'],caught,TD Paine,2012-12-15,Hobart Hurricanes,Melbourne Stars,0,Melbourne Cricket Ground
+0,TD Paine,7,11,0,0,63.63636363636363,NJ Rimmington,['PM Nevill'],caught,TD Paine,2012-12-19,Hobart Hurricanes,Melbourne Renegades,0,Docklands Stadium
+0,TD Paine,9,10,2,0,90.0,B Lee,['KR Patterson'],caught,TD Paine,2012-12-26,Hobart Hurricanes,Hobart Hurricanes,0,Sydney Cricket Ground
+6,TD Paine,5,3,1,0,166.66666666666669,AC McDermott,['DT Christian'],caught,TD Paine,2013-12-28,Hobart Hurricanes,Hobart Hurricanes,0,"Brisbane Cricket Ground, Woolloongabba"
+5,TD Paine,31,28,2,0,110.71428571428572,M Muralitharan,['JC Buttler'],caught,TD Paine,2014-01-01,Melbourne Renegades,Melbourne Renegades,0,Bellerive Oval
+1,TD Paine,9,11,1,0,81.81818181818183,NM Coulter-Nile,['SM Katich'],caught,TD Paine,2014-01-07,Hobart Hurricanes,Perth Scorchers,0,Western Australia Cricket Association Ground
+0,TD Paine,14,14,1,0,100.0,BAW Mendis,['DP Hughes'],caught,TD Paine,2014-01-11,Sydney Thunder,Hobart Hurricanes,0,Bellerive Oval
+1,TD Paine,57,30,6,2,190.0,NM Lyon,['DLR Smith'],stumped,TD Paine,2014-01-15,Hobart Hurricanes,Sydney Sixers,0,Sydney Cricket Ground
+0,TD Paine,0,1,0,0,0.0,DJ Hussey,['LJ Wright'],caught,TD Paine,2014-01-21,Hobart Hurricanes,Melbourne Stars,0,Melbourne Cricket Ground
+1,TD Paine,47,29,4,2,162.06896551724137,JR Hopes,['CA Lynn'],caught,TD Paine,2014-01-23,Brisbane Heat,Hobart Hurricanes,0,Bellerive Oval
+1,TD Paine,65,53,8,0,122.64150943396226,JW Hastings,['SL Malinga'],run out,TD Paine,2014-02-04,Hobart Hurricanes,Hobart Hurricanes,0,Melbourne Cricket Ground
+1,TD Paine,7,10,0,0,70.0,JP Behrendorff,0,bowled,TD Paine,2014-02-07,Hobart Hurricanes,Perth Scorchers,0,Western Australia Cricket Association Ground
+2,TD Paine,19,12,3,0,158.33333333333331,JW Hastings,['TIF Triffitt'],caught,TD Paine,2014-12-20,Hobart Hurricanes,Hobart Hurricanes,0,Melbourne Cricket Ground
+2,TD Paine,36,27,6,0,133.33333333333331,DE Bollinger,['RGL Carters'],caught,TD Paine,2014-12-23,Sydney Sixers,Sydney Sixers,0,Bellerive Oval
+1,TD Paine,12,14,1,0,85.71428571428571,B Laughlin,['JR Dean'],caught,TD Paine,2014-12-31,Hobart Hurricanes,Adelaide Strikers,0,Adelaide Oval
+1,TD Paine,55,29,6,3,189.6551724137931,JS Floros,['DL Vettori'],caught,TD Paine,2015-01-02,Brisbane Heat,Hobart Hurricanes,0,Bellerive Oval
+1,TD Paine,3,7,0,0,42.857142857142854,NP Winter,0,bowled,TD Paine,2015-01-07,Melbourne Renegades,Melbourne Renegades,0,Bellerive Oval
+1,TD Paine,19,15,4,0,126.66666666666666,JP Behrendorff,['SM Whiteman'],caught,TD Paine,2015-01-11,Perth Scorchers,Perth Scorchers,0,Bellerive Oval
+1,TD Paine,5,8,0,0,62.5,MT Steketee,['DT Christian'],caught,TD Paine,2015-01-15,Hobart Hurricanes,Brisbane Heat,0,"Brisbane Cricket Ground, Woolloongabba"
+0,TD Paine,0,4,0,0,0.0,NM Lyon,['MC Henriques'],caught,TD Paine,2015-12-20,Hobart Hurricanes,Sydney Sixers,0,Sydney Cricket Ground
+1,TD Paine,87,58,6,4,150.0,notOut,notOut,notOut,notOut,2015-12-22,Brisbane Heat,Hobart Hurricanes,0,Bellerive Oval
+1,TD Paine,25,23,3,0,108.69565217391303,S Badree,['JJ Peirson'],stumped,TD Paine,2015-12-29,Hobart Hurricanes,Hobart Hurricanes,0,"Brisbane Cricket Ground, Woolloongabba"
+0,TD Paine,23,26,2,0,88.46153846153845,CJ McKay,['CD Hartley'],caught,TD Paine,2016-01-01,Sydney Thunder,Hobart Hurricanes,0,Bellerive Oval
+0,TD Paine,2,6,0,0,33.33333333333333,XJ Doherty,0,bowled,TD Paine,2016-01-04,Melbourne Renegades,Melbourne Renegades,0,Bellerive Oval
+0,TD Paine,0,5,0,0,0.0,GJ Maxwell,['JP Faulkner'],caught,TD Paine,2016-01-06,Hobart Hurricanes,Melbourne Stars,0,Melbourne Cricket Ground
+1,TD Paine,57,48,4,2,118.75,AC Agar,0,bowled,TD Paine,2016-01-10,Perth Scorchers,Perth Scorchers,0,Bellerive Oval
+1,TD Paine,45,40,3,2,112.5,notOut,notOut,notOut,notOut,2016-01-13,Hobart Hurricanes,Adelaide Strikers,0,Adelaide Oval
+0,TD Paine,63,47,7,2,134.04255319148936,SA Abbott,['JJ Roy'],caught,TD Paine,2016-12-23,Hobart Hurricanes,Hobart Hurricanes,0,Sydney Cricket Ground
+0,TD Paine,91,61,11,1,149.18032786885246,BW Hilfenhaus,['GJ Maxwell'],caught,TD Paine,2016-12-26,Melbourne Stars,Melbourne Stars,0,Bellerive Oval
+1,TD Paine,9,5,0,1,180.0,MT Steketee,['AI Ross'],caught,TD Paine,2016-12-30,Hobart Hurricanes,Brisbane Heat,0,"Brisbane Cricket Ground, Woolloongabba"
+0,TD Paine,41,44,3,1,93.18181818181817,TM Head,0,bowled,TD Paine,2017-01-02,Adelaide Strikers,Hobart Hurricanes,0,Bellerive Oval
+0,TD Paine,14,15,2,0,93.33333333333333,CJ Jordan,['BR Dunk'],caught,TD Paine,2017-01-06,Hobart Hurricanes,Adelaide Strikers,0,Adelaide Oval
+0,TD Paine,4,5,1,0,80.0,CJ McKay,['KR Patterson'],caught,TD Paine,2017-01-08,Sydney Thunder,Sydney Thunder,0,Bellerive Oval
+1,TD Paine,0,1,0,0,0.0,TLW Cooper,['NLTC Perera'],caught,TD Paine,2017-01-12,Hobart Hurricanes,Hobart Hurricanes,0,Docklands Stadium
+0,TD Paine,5,11,1,0,45.45454545454545,MG Johnson,['SM Whiteman'],caught,TD Paine,2017-01-21,Perth Scorchers,Perth Scorchers,0,Bellerive Oval
+4,TIF Triffitt,20,15,1,1,133.33333333333331,BM Edmondson,0,bowled,TIF Triffitt,2011-12-18,Hobart Hurricanes,Hobart Hurricanes,0,Western Australia Cricket Association Ground
+4,TIF Triffitt,1,2,0,0,50.0,AW O'Brien,['KW Richardson'],caught,TIF Triffitt,2011-12-28,Hobart Hurricanes,Hobart Hurricanes,0,Adelaide Oval
+4,TIF Triffitt,18,17,0,1,105.88235294117648,SJ Coyte (2),['CH Gayle'],caught,TIF Triffitt,2012-01-01,Sydney Thunder,Hobart Hurricanes,0,Bellerive Oval
+4,TIF Triffitt,21,11,3,1,190.9090909090909,JP Faulkner,['MS Wade'],caught,TIF Triffitt,2012-01-09,Melbourne Stars,Melbourne Stars,0,Bellerive Oval
+4,TIF Triffitt,16,14,1,1,114.28571428571428,IA Moran,"[""SNJ O'Keefe""]",caught,TIF Triffitt,2012-01-22,Sydney Sixers,Sydney Sixers,0,Bellerive Oval
+2,TR Birt,40,32,4,1,125.0,BM Edmondson,['NJ Rimmington'],caught,TR Birt,2011-12-18,Hobart Hurricanes,Hobart Hurricanes,0,Western Australia Cricket Association Ground
+2,TR Birt,65,41,4,3,158.53658536585365,MA Starc,['PM Nevill'],caught,TR Birt,2011-12-21,Sydney Sixers,Hobart Hurricanes,0,Bellerive Oval
+2,TR Birt,44,26,3,3,169.23076923076923,J Botha,['TLW Cooper'],caught,TR Birt,2011-12-28,Hobart Hurricanes,Hobart Hurricanes,0,Adelaide Oval
+2,TR Birt,35,20,5,1,175.0,SJ Coyte (2),0,lbw,TR Birt,2012-01-01,Sydney Thunder,Hobart Hurricanes,0,Bellerive Oval
+2,TR Birt,51,23,3,5,221.73913043478262,CJ McKay,0,bowled,TR Birt,2012-01-09,Melbourne Stars,Melbourne Stars,0,Bellerive Oval
+2,TR Birt,25,16,0,3,156.25,Shahid Afridi,0,lbw,TR Birt,2012-01-18,Melbourne Renegades,Hobart Hurricanes,0,Bellerive Oval
+2,TR Birt,11,15,0,0,73.33333333333333,SCG MacGill,['PM Nevill'],stumped,TR Birt,2012-01-22,Sydney Sixers,Sydney Sixers,0,Bellerive Oval
+2,TR Birt,57,43,5,2,132.5581395348837,notOut,notOut,notOut,notOut,2012-12-09,Hobart Hurricanes,Hobart Hurricanes,0,"Brisbane Cricket Ground, Woolloongabba"
+2,TR Birt,3,5,0,0,60.0,CJ McKay,['PSP Handscomb'],caught,TR Birt,2012-12-15,Hobart Hurricanes,Melbourne Stars,0,Melbourne Cricket Ground
+2,TR Birt,5,8,0,0,62.5,MN Samuels,['DJ Harris'],caught,TR Birt,2012-12-19,Hobart Hurricanes,Melbourne Renegades,0,Docklands Stadium
+3,TR Birt,18,18,0,2,100.0,LW Feldman,0,bowled,TR Birt,2012-12-26,Hobart Hurricanes,Hobart Hurricanes,0,Sydney Cricket Ground
+2,TR Birt,27,20,3,1,135.0,BCJ Cutting,['C Kieswetter'],caught,TR Birt,2013-12-28,Hobart Hurricanes,Hobart Hurricanes,0,"Brisbane Cricket Ground, Woolloongabba"
+2,TR Birt,21,14,3,1,150.0,M Muralitharan,"[""AW O'Brien""]",caught,TR Birt,2014-01-01,Melbourne Renegades,Melbourne Renegades,0,Bellerive Oval
+2,TR Birt,22,16,1,2,137.5,notOut,notOut,notOut,notOut,2014-01-07,Hobart Hurricanes,Perth Scorchers,0,Western Australia Cricket Association Ground
+2,TR Birt,22,19,1,1,115.78947368421053,GS Sandhu,['BAW Mendis'],caught,TR Birt,2014-01-11,Sydney Thunder,Hobart Hurricanes,0,Bellerive Oval
+3,TR Birt,33,21,4,1,157.14285714285714,JR Hazlewood,['SPD Smith'],caught,TR Birt,2014-01-15,Hobart Hurricanes,Sydney Sixers,0,Sydney Cricket Ground
+4,TR Birt,31,23,2,2,134.7826086956522,MP Stoinis,['SM Boland'],caught,TR Birt,2014-01-21,Hobart Hurricanes,Melbourne Stars,0,Melbourne Cricket Ground
+4,TR Birt,11,7,2,0,157.14285714285714,CJ Gannon,['MT Steketee'],caught,TR Birt,2014-01-23,Brisbane Heat,Hobart Hurricanes,0,Bellerive Oval
+4,TR Birt,8,3,2,0,266.66666666666663,notOut,notOut,notOut,notOut,2014-02-04,Hobart Hurricanes,Hobart Hurricanes,0,Melbourne Cricket Ground
+4,TR Birt,2,6,0,0,33.33333333333333,GB Hogg,['AC Voges'],caught,TR Birt,2014-02-07,Hobart Hurricanes,Perth Scorchers,0,Western Australia Cricket Association Ground
+3,TR Birt,11,15,0,0,73.33333333333333,RM Duffield,['DT Christian'],caught,TR Birt,2015-01-02,Brisbane Heat,Hobart Hurricanes,0,Bellerive Oval
+6,TR Birt,14,9,2,0,155.55555555555557,Fawad Ahmed,0,bowled,TR Birt,2015-01-07,Melbourne Renegades,Melbourne Renegades,0,Bellerive Oval
+4,TR Birt,16,8,2,1,200.0,SD Parry,['JJ Peirson'],stumped,TR Birt,2015-01-15,Hobart Hurricanes,Brisbane Heat,0,"Brisbane Cricket Ground, Woolloongabba"
+5,TT Bresnan,13,15,2,0,86.66666666666667,Shakib Al Hasan,0,bowled,TT Bresnan,2015-01-07,Melbourne Renegades,Melbourne Renegades,0,Bellerive Oval
+6,TT Bresnan,0,1,0,0,0.0,Yasir Arafat,0,lbw,TT Bresnan,2015-01-11,Perth Scorchers,Perth Scorchers,0,Bellerive Oval
+7,TT Bresnan,2,5,0,0,40.0,A Flintoff,['JJ Peirson'],run out,TT Bresnan,2015-01-15,Hobart Hurricanes,Brisbane Heat,0,"Brisbane Cricket Ground, Woolloongabba"
+8,XJ Doherty,2,5,0,0,40.0,notOut,notOut,notOut,notOut,2011-12-18,Hobart Hurricanes,Hobart Hurricanes,0,Western Australia Cricket Association Ground
+9,XJ Doherty,0,1,0,0,0.0,DJ Hussey,['CL White'],caught,XJ Doherty,2012-01-09,Melbourne Stars,Melbourne Stars,0,Bellerive Oval
+9,XJ Doherty,4,3,0,0,133.33333333333331,notOut,notOut,notOut,notOut,2012-12-15,Hobart Hurricanes,Melbourne Stars,0,Melbourne Cricket Ground
+9,XJ Doherty,10,10,0,0,100.0,notOut,notOut,notOut,notOut,2012-12-19,Hobart Hurricanes,Melbourne Renegades,0,Docklands Stadium
+9,XJ Doherty,8,4,1,0,200.0,NJ Rimmington,['NJ Rimmington'],run out,DE Bollinger,2014-01-01,Melbourne Renegades,Melbourne Renegades,0,Bellerive Oval
+9,XJ Doherty,7,8,0,0,87.5,NP Winter,['Shakib Al Hasan'],caught,XJ Doherty,2015-01-07,Melbourne Renegades,Melbourne Renegades,0,Bellerive Oval

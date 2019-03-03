@@ -1,0 +1,736 @@
+,batsman,runs,balls,4s,6s,SR,bowler,fielders,kind,player_out,date,team2,winner,result,venue
+8,A Das,0.0,1,0,0,0.0,notOut,notOut,notOut,notOut,2012-06-26,India,England,0,St Lawrence Ground
+11,A Das,2.0,1,0,0,200.0,A Brindle,['DN Wyatt'],run out,E Bisht,2012-06-28,India,England,0,County Ground
+10,A Das,1.0,2,0,0,50.0,notOut,notOut,notOut,notOut,2012-09-27,India,Australia,0,Galle International Stadium
+8,A Das,1.0,2,0,0,50.0,Sana Mir,['Nida Dar'],caught,A Das,2012-10-31,Pakistan,India,0,Guanggong International Cricket Stadium
+7,A Das,1.0,6,0,0,16.666666666666664,KDU Prabodhani,0,bowled,A Das,2014-03-24,Sri Lanka,Sri Lanka,0,Sylhet Stadium
+6,A Das,2.0,2,0,0,100.0,notOut,notOut,notOut,notOut,2014-03-30,India,India,0,Sylhet Stadium
+8,A Nehra,22.0,14,1,2,157.14285714285714,CRD Fernando,['CRD Fernando'],run out,A Nehra,2009-12-09,Sri Lanka,Sri Lanka,0,"Vidarbha Cricket Association Stadium, Jamtha"
+10,A Nehra,0.0,1,0,0,0.0,SW Tait,0,bowled,A Nehra,2010-05-07,India,Australia,0,"Kensington Oval, Bridgetown"
+10,A Nehra,0.0,2,0,0,0.0,DJ Bravo,['SJ Benn'],caught,A Nehra,2010-05-09,India,West Indies,0,"Kensington Oval, Bridgetown"
+9,A Nehra,6.0,19,0,0,31.57894736842105,PVD Chameera,['TAM Siriwardana'],caught,A Nehra,2016-02-09,Sri Lanka,Sri Lanka,0,Maharashtra Cricket Association Stadium
+9,A Nehra,0.0,6,0,0,0.0,AF Milne,0,bowled,A Nehra,2016-03-15,New Zealand,New Zealand,0,"Vidarbha Cricket Association Stadium, Jamtha"
+5,A Sharma,24.0,27,2,1,88.88888888888889,AE Satterthwaite,['AL Watkins'],caught,A Sharma,2009-06-18,New Zealand,New Zealand,0,Trent Bridge
+6,A Sharma,17.0,11,0,1,154.54545454545453,notOut,notOut,notOut,notOut,2010-05-13,India,Australia,0,"Beausejour Stadium, Gros Islet"
+4,A Sharma,11.0,11,1,0,100.0,DN Wyatt,0,bowled,A Sharma,2011-06-26,India,England,0,County Ground
+0,A Sharma,9.0,13,0,0,69.23076923076923,KH Brunt,0,lbw,A Sharma,2012-06-26,India,England,0,St Lawrence Ground
+0,A Sharma,0.0,6,0,0,0.0,KH Brunt,['SJ Taylor'],caught,A Sharma,2012-06-28,India,England,0,County Ground
+0,A Sharma,11.0,15,2,0,73.33333333333333,JL Hunter,['JE Cameron'],caught,A Sharma,2012-09-27,India,Australia,0,Galle International Stadium
+0,A Sharma,2.0,9,0,0,22.22222222222222,KH Brunt,['SJ Taylor'],caught,A Sharma,2012-09-29,India,England,0,Galle International Stadium
+6,A Sharma,7.0,11,0,0,63.63636363636363,Bismah Maroof,0,bowled,A Sharma,2012-10-01,Pakistan,Pakistan,0,Galle International Stadium
+4,A Sharma,2.0,8,0,0,25.0,Mariam Hasan,0,lbw,A Sharma,2012-10-31,Pakistan,India,0,Guanggong International Cricket Stadium
+0,AA Deshpande,5.0,16,0,0,31.25,KH Brunt,['HL Colvin'],caught,AA Deshpande,2011-06-26,India,England,0,County Ground
+8,AA Patil,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2012-10-01,Pakistan,Pakistan,0,Galle International Stadium
+1,AA Patil,13.0,27,1,0,48.148148148148145,Mariam Hasan,['Marina Iqbal'],caught,AA Patil,2012-10-28,Pakistan,India,0,Guanggong International Cricket Stadium
+1,AA Patil,0.0,1,0,0,0.0,Sadia Yousuf,['Sana Mir'],caught,AA Patil,2012-10-31,Pakistan,India,0,Guanggong International Cricket Stadium
+5,AA Patil,1.0,2,0,0,50.0,Fahima Khatun,0,lbw,AA Patil,2016-03-15,Bangladesh,India,0,M Chinnaswamy Stadium
+6,AA Patil,3.0,5,0,0,60.0,Anam Amin,"['Asmavia Iqbal', 'Sidra Nawaz']",run out,AA Patil,2016-03-19,Pakistan,Pakistan,0,Feroz Shah Kotla
+8,AA Patil,13.0,13,1,0,100.0,notOut,notOut,notOut,notOut,2016-03-22,England,England,0,Himachal Pradesh Cricket Association Stadium
+4,AA Patil,26.0,28,1,0,92.85714285714286,SL Quintyne,0,lbw,AA Patil,2016-03-27,West Indies,West Indies,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+8,AB Agarkar,14.0,9,2,0,155.55555555555557,notOut,notOut,notOut,notOut,2007-09-14,Pakistan,0,0,Kingsmead
+8,AB Agarkar,1.0,2,0,0,50.0,MR Gillespie,['L Vincent'],run out,AB Agarkar,2007-09-16,New Zealand,New Zealand,0,New Wanderers Stadium
+7,AB Dinda,19.0,20,1,0,95.0,TM Dilshan,0,bowled,AB Dinda,2009-12-09,Sri Lanka,Sri Lanka,0,"Vidarbha Cricket Association Stadium, Jamtha"
+10,AB Dinda,3.0,4,0,0,75.0,notOut,notOut,notOut,notOut,2012-12-25,Pakistan,Pakistan,0,M Chinnaswamy Stadium
+1,AM Rahane,61.0,39,8,0,156.4102564102564,SCJ Broad,['JW Dernbach'],caught,AM Rahane,2011-08-31,India,England,0,Old Trafford
+1,AM Rahane,0.0,3,0,0,0.0,ST Finn,['C Kieswetter'],caught,AM Rahane,2011-10-29,England,England,0,Eden Gardens
+1,AM Rahane,21.0,25,0,1,84.0,BMAJ Mendis,0,caught and bowled,AM Rahane,2012-08-07,India,India,0,Pallekele International Cricket Stadium
+1,AM Rahane,19.0,14,0,2,135.71428571428572,TT Bresnan,['SR Patel'],caught,AM Rahane,2012-12-20,England,India,0,Subrata Roy Sahara Stadium
+1,AM Rahane,3.0,5,0,0,60.0,JW Dernbach,['JE Root'],caught,AM Rahane,2012-12-22,England,England,0,Wankhede Stadium
+1,AM Rahane,42.0,31,5,1,135.48387096774192,Shahid Afridi,['Umar Akmal'],caught,AM Rahane,2012-12-25,Pakistan,Pakistan,0,M Chinnaswamy Stadium
+1,AM Rahane,28.0,26,4,0,107.6923076923077,Umar Gul,0,caught and bowled,AM Rahane,2012-12-28,Pakistan,India,0,"Sardar Patel Stadium, Motera"
+1,AM Rahane,19.0,17,2,0,111.76470588235294,DE Bollinger,['BJ Haddin'],caught,AM Rahane,2014-03-30,India,India,0,Shere Bangla National Stadium
+1,AM Rahane,32.0,35,2,1,91.42857142857143,WD Parnell,['AB de Villiers'],caught,AM Rahane,2014-04-04,South Africa,India,0,Shere Bangla National Stadium
+1,AM Rahane,3.0,8,0,0,37.5,AD Mathews,0,bowled,AM Rahane,2014-04-06,Sri Lanka,Sri Lanka,0,Shere Bangla National Stadium
+0,AM Rahane,8.0,5,0,1,160.0,MM Ali,0,bowled,AM Rahane,2014-09-07,India,England,0,Edgbaston
+0,AM Rahane,33.0,36,2,0,91.66666666666666,AG Cremer,['H Masakadza'],caught,AM Rahane,2015-07-17,India,India,0,Harare Sports Club
+0,AM Rahane,4.0,3,1,0,133.33333333333331,P Utseya,"['CJ Chibhabha', 'CK Coventry']",run out,AM Rahane,2015-07-19,India,Zimbabwe,0,Harare Sports Club
+1,AM Rahane,4.0,5,1,0,80.0,CAK Rajitha,['LD Chandimal'],caught,AM Rahane,2016-02-09,Sri Lanka,Sri Lanka,0,Maharashtra Cricket Association Stadium
+2,AM Rahane,25.0,22,3,0,113.63636363636364,SMSM Senanayake,['TM Dilshan'],caught,AM Rahane,2016-02-12,Sri Lanka,India,0,JSCA International Stadium Complex
+2,AM Rahane,22.0,24,1,0,91.66666666666666,notOut,notOut,notOut,notOut,2016-02-14,Sri Lanka,India,0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+2,AM Rahane,0.0,2,0,0,0.0,Mohammad Amir,0,lbw,AM Rahane,2016-02-27,Pakistan,India,0,Shere Bangla National Stadium
+1,AM Rahane,40.0,36,2,0,111.11111111111111,AD Russell,['DJ Bravo'],caught,AM Rahane,2016-03-31,West Indies,West Indies,0,Wankhede Stadium
+1,AM Rahane,7.0,7,1,0,100.0,AD Russell,['DJ Bravo'],caught,AM Rahane,2016-08-27,West Indies,West Indies,0,Central Broward Regional Park Stadium Turf Ground
+8,AR Patel,13.0,15,1,0,86.66666666666667,T Muzarabani,['SC Williams'],caught,AR Patel,2015-07-19,India,Zimbabwe,0,Harare Sports Club
+6,AR Patel,2.0,3,0,0,66.66666666666666,notOut,notOut,notOut,notOut,2015-10-02,South Africa,South Africa,0,Himachal Pradesh Cricket Association Stadium
+6,AR Patel,9.0,12,0,0,75.0,JA Morkel,['F du Plessis'],caught,AR Patel,2015-10-05,South Africa,South Africa,0,Barabati Stadium
+6,AR Patel,18.0,9,1,2,200.0,N Madziva,['WP Masakadza (sub)'],caught,AR Patel,2016-06-18,India,Zimbabwe,0,Harare Sports Club
+6,AR Patel,20.0,11,0,1,181.8181818181818,notOut,notOut,notOut,notOut,2016-06-22,India,India,0,Harare Sports Club
+6,AT Rayudu,3.0,6,0,0,50.0,notOut,notOut,notOut,notOut,2014-09-07,India,England,0,Edgbaston
+5,AT Rayudu,0.0,1,0,0,0.0,CH Morris,"['HM Amla', 'CH Morris']",run out,AT Rayudu,2015-10-02,South Africa,South Africa,0,Himachal Pradesh Cricket Association Stadium
+4,AT Rayudu,0.0,2,0,0,0.0,K Rabada,0,bowled,AT Rayudu,2015-10-05,South Africa,South Africa,0,Barabati Stadium
+1,AT Rayudu,19.0,16,4,0,118.75,CJ Chibhabha,0,bowled,AT Rayudu,2016-06-18,India,Zimbabwe,0,Harare Sports Club
+2,AT Rayudu,20.0,26,1,0,76.92307692307693,AG Cremer,['E Chigumbura'],caught,AT Rayudu,2016-06-22,India,India,0,Harare Sports Club
+1,Anjum Chopra,15.0,24,1,0,62.5,KL Pulford,['SW Bates'],caught,Anjum Chopra,2009-06-18,New Zealand,New Zealand,0,Trent Bridge
+11,B Kumar,6.0,6,0,0,100.0,notOut,notOut,notOut,notOut,2012-12-25,Pakistan,Pakistan,0,M Chinnaswamy Stadium
+8,B Kumar,0.0,1,0,0,0.0,notOut,notOut,notOut,notOut,2014-03-30,India,India,0,Shere Bangla National Stadium
+9,B Kumar,9.0,6,0,0,150.0,CB Mpofu,"['CK Coventry', 'CB Mpofu']",run out,B Kumar,2015-07-19,India,Zimbabwe,0,Harare Sports Club
+9,B Kumar,0.0,2,0,0,0.0,JA Morkel,0,bowled,B Kumar,2015-10-05,South Africa,South Africa,0,Barabati Stadium
+2,D Mongia,38.0,45,4,1,84.44444444444444,CK Langeveldt,"['CK Langeveldt', 'AG Prince (sub)']",run out,V Sehwag,2006-12-01,India,India,0,New Wanderers Stadium
+3,D Mongia,38.0,45,4,1,84.44444444444444,RJ Peterson,['CK Langeveldt'],caught,D Mongia,2006-12-01,India,India,0,New Wanderers Stadium
+7,DP David,1.0,2,0,0,50.0,D Hazell,['A Brindle'],caught,DP David,2011-06-26,India,England,0,County Ground
+7,DS Kulkarni,1.0,2,0,0,50.0,notOut,notOut,notOut,notOut,2016-06-22,India,India,0,Harare Sports Club
+10,E Bisht,3.0,2,0,0,150.0,notOut,notOut,notOut,notOut,2012-06-28,India,England,0,County Ground
+7,E Bisht,1.0,2,0,0,50.0,DJS Dottin,0,bowled,E Bisht,2016-03-27,West Indies,West Indies,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+0,G Gambhir,0.0,3,0,0,0.0,Mohammad Asif,0,caught and bowled,G Gambhir,2007-09-14,Pakistan,0,0,Kingsmead
+0,G Gambhir,51.0,34,5,2,150.0,DL Vettori,['BB McCullum'],caught,G Gambhir,2007-09-16,New Zealand,New Zealand,0,New Wanderers Stadium
+0,G Gambhir,58.0,44,7,1,131.8181818181818,DL Maddy,['SCJ Broad'],caught,G Gambhir,2007-09-19,India,India,0,Kingsmead
+0,G Gambhir,19.0,21,3,0,90.47619047619048,SM Pollock,['GC Smith'],caught,G Gambhir,2007-09-20,India,India,0,Kingsmead
+0,G Gambhir,24.0,25,4,0,96.0,MG Johnson,['BJ Hodge'],caught,G Gambhir,2007-09-22,India,India,0,Kingsmead
+0,G Gambhir,75.0,56,8,2,133.92857142857142,Umar Gul,['Mohammad Asif'],caught,G Gambhir,2007-09-24,Pakistan,India,0,New Wanderers Stadium
+0,G Gambhir,63.0,57,8,1,110.5263157894737,BW Hilfenhaus,['RT Ponting'],caught,G Gambhir,2007-10-20,Australia,India,0,Brabourne Stadium
+0,G Gambhir,9.0,8,1,0,112.5,NW Bracken,['JR Hopes'],caught,G Gambhir,2008-02-01,India,Australia,0,Melbourne Cricket Ground
+0,G Gambhir,13.0,6,3,0,216.66666666666666,SL Malinga,['CK Kapugedera'],run out,V Sehwag,2009-02-10,India,India,0,R Premadasa Stadium
+1,G Gambhir,13.0,6,3,0,216.66666666666666,T Thushara,['K Weeraratne'],caught,G Gambhir,2009-02-10,India,India,0,R Premadasa Stadium
+0,G Gambhir,6.0,7,1,0,85.71428571428571,IE O'Brien,0,bowled,G Gambhir,2009-02-25,India,New Zealand,0,AMI Stadium
+0,G Gambhir,10.0,14,0,1,71.42857142857143,IG Butler,['BB McCullum'],caught,G Gambhir,2009-02-27,India,New Zealand,0,Westpac Stadium
+0,G Gambhir,50.0,47,4,0,106.38297872340425,Naeem Islam,['Shakib Al Hasan'],caught,G Gambhir,2009-06-06,India,India,0,Trent Bridge
+0,G Gambhir,37.0,32,3,1,115.625,RM West,['WB Rankin'],caught,G Gambhir,2009-06-10,Ireland,India,0,Trent Bridge
+0,G Gambhir,14.0,14,2,0,100.0,DJ Bravo,['LMP Simmons'],caught,G Gambhir,2009-06-12,West Indies,West Indies,0,Lord's
+0,G Gambhir,26.0,26,4,0,100.0,AD Mascarenhas,['SCJ Broad'],caught,G Gambhir,2009-06-14,India,England,0,Lord's
+0,G Gambhir,21.0,19,3,0,110.5263157894737,J Botha,['JP Duminy'],caught,G Gambhir,2009-06-16,South Africa,South Africa,0,Trent Bridge
+0,G Gambhir,55.0,27,11,0,203.70370370370372,AD Mathews,0,bowled,G Gambhir,2009-12-09,Sri Lanka,Sri Lanka,0,"Vidarbha Cricket Association Stadium, Jamtha"
+0,G Gambhir,21.0,18,1,0,116.66666666666667,KMDN Kulasekara,"['CU Jayasinghe', 'KMDN Kulasekara', 'KC Sangakkara']",run out,G Gambhir,2009-12-12,Sri Lanka,India,0,"Punjab Cricket Association Stadium, Mohali"
+0,G Gambhir,4.0,6,0,0,66.66666666666666,Dawlat Ahmadzai,['Mohammad Nabi'],caught,G Gambhir,2010-05-01,India,India,0,"Beausejour Stadium, Gros Islet"
+1,G Gambhir,9.0,10,2,0,90.0,DP Nannes,['MEK Hussey'],caught,G Gambhir,2010-05-07,India,Australia,0,"Kensington Oval, Bridgetown"
+1,G Gambhir,15.0,14,3,0,107.14285714285714,KAJ Roach,['D Ramdin'],caught,G Gambhir,2010-05-09,India,West Indies,0,"Kensington Oval, Bridgetown"
+1,G Gambhir,41.0,34,3,0,120.58823529411764,SL Malinga,['KC Sangakkara'],caught,G Gambhir,2010-05-11,Sri Lanka,Sri Lanka,0,"Beausejour Stadium, Gros Islet"
+0,G Gambhir,20.0,15,3,0,133.33333333333331,DJ Hussey,['MR Marsh'],caught,G Gambhir,2012-02-01,India,Australia,0,Stadium Australia
+0,G Gambhir,56.0,62,4,0,90.32258064516128,notOut,notOut,notOut,notOut,2012-02-03,India,India,0,Melbourne Cricket Ground
+0,G Gambhir,6.0,8,1,0,75.0,RMS Eranga,0,bowled,G Gambhir,2012-08-07,India,India,0,Pallekele International Cricket Stadium
+0,G Gambhir,3.0,6,0,0,50.0,KD Mills,0,caught and bowled,G Gambhir,2012-09-11,New Zealand,New Zealand,0,"MA Chidambaram Stadium, Chepauk"
+0,G Gambhir,10.0,9,1,0,111.11111111111111,Shapoor Zadran,0,bowled,G Gambhir,2012-09-19,India,India,0,R Premadasa Stadium
+0,G Gambhir,45.0,40,5,0,112.5,ST Finn,['C Kieswetter'],caught,G Gambhir,2012-09-23,India,India,0,R Premadasa Stadium
+0,G Gambhir,17.0,12,3,0,141.66666666666669,notOut,notOut,notOut,notOut,2012-09-28,India,Australia,0,R Premadasa Stadium
+0,G Gambhir,0.0,3,0,0,0.0,Raza Hasan,0,caught and bowled,G Gambhir,2012-09-30,Pakistan,India,0,R Premadasa Stadium
+0,G Gambhir,8.0,12,1,0,66.66666666666666,M Morkel,0,bowled,G Gambhir,2012-10-02,South Africa,India,0,R Premadasa Stadium
+0,G Gambhir,16.0,19,3,0,84.21052631578947,TT Bresnan,['AD Hales'],caught,G Gambhir,2012-12-20,England,India,0,Subrata Roy Sahara Stadium
+0,G Gambhir,17.0,29,1,0,58.620689655172406,LJ Wright,['TT Bresnan'],caught,G Gambhir,2012-12-22,England,England,0,Wankhede Stadium
+0,G Gambhir,43.0,41,2,1,104.8780487804878,Shahid Afridi,"['Sohail Tanvir', 'Kamran Akmal']",run out,G Gambhir,2012-12-25,Pakistan,Pakistan,0,M Chinnaswamy Stadium
+0,G Gambhir,21.0,11,4,0,190.9090909090909,Umar Gul,0,lbw,G Gambhir,2012-12-28,Pakistan,India,0,"Sardar Patel Stadium, Motera"
+10,G Sultana,2.0,2,0,0,100.0,notOut,notOut,notOut,notOut,2009-06-18,New Zealand,New Zealand,0,Trent Bridge
+12,G Sultana,1.0,1,0,0,100.0,A Brindle,['HL Colvin'],run out,A Das,2012-06-28,India,England,0,County Ground
+10,G Sultana,3.0,3,0,0,100.0,notOut,notOut,notOut,notOut,2014-03-24,Sri Lanka,Sri Lanka,0,Sylhet Stadium
+3,H Kaur,0.0,1,0,0,0.0,SEA Ruck,0,bowled,H Kaur,2009-06-18,New Zealand,New Zealand,0,Trent Bridge
+4,H Kaur,24.0,27,2,0,88.88888888888889,notOut,notOut,notOut,notOut,2010-05-13,India,Australia,0,"Beausejour Stadium, Gros Islet"
+3,H Kaur,3.0,5,0,0,60.0,HL Colvin,['SC Taylor'],caught,H Kaur,2011-06-26,India,England,0,County Ground
+3,H Kaur,15.0,24,0,0,62.5,HL Colvin,0,caught and bowled,H Kaur,2012-06-26,India,England,0,St Lawrence Ground
+3,H Kaur,34.0,39,1,1,87.17948717948718,HL Colvin,['A Brindle'],run out,PG Raut,2012-06-28,India,England,0,County Ground
+4,H Kaur,34.0,39,1,1,87.17948717948718,DN Wyatt,['CM Edwards'],run out,S Naik,2012-06-28,India,England,0,County Ground
+5,H Kaur,34.0,39,1,1,87.17948717948718,KH Brunt,0,bowled,H Kaur,2012-06-28,India,England,0,County Ground
+3,H Kaur,18.0,25,2,0,72.0,JL Jonassen,['JL Jonassen'],run out,M Raj,2012-09-27,India,Australia,0,Galle International Stadium
+4,H Kaur,18.0,25,2,0,72.0,LC Sthalekar,['AJ Healy'],caught,H Kaur,2012-09-27,India,Australia,0,Galle International Stadium
+3,H Kaur,3.0,3,0,0,100.0,A Brindle,['HL Colvin'],caught,H Kaur,2012-09-29,India,England,0,Galle International Stadium
+3,H Kaur,5.0,7,1,0,71.42857142857143,Nida Dar,['Batool Fatima'],caught,H Kaur,2012-10-01,Pakistan,Pakistan,0,Galle International Stadium
+3,H Kaur,12.0,19,0,0,63.1578947368421,notOut,notOut,notOut,notOut,2012-10-28,Pakistan,India,0,Guanggong International Cricket Stadium
+3,H Kaur,20.0,33,0,0,60.60606060606061,Sana Mir,0,bowled,H Kaur,2012-10-31,Pakistan,India,0,Guanggong International Cricket Stadium
+4,H Kaur,17.0,18,1,0,94.44444444444444,HAM Samuddika,['LE Kaushalya'],caught,H Kaur,2014-03-24,Sri Lanka,Sri Lanka,0,Sylhet Stadium
+5,H Kaur,0.0,3,0,0,0.0,JL Gunn,0,caught and bowled,H Kaur,2014-03-26,India,England,0,Sylhet Stadium
+1,H Kaur,77.0,61,12,1,126.22950819672131,Jahanara Alam,['Fargana Hoque'],caught,H Kaur,2014-03-30,India,India,0,Sylhet Stadium
+3,H Kaur,40.0,31,3,2,129.03225806451613,Rumana Ahmed,['Nahida Akter'],caught,H Kaur,2016-03-15,Bangladesh,India,0,M Chinnaswamy Stadium
+3,H Kaur,16.0,32,2,0,50.0,Sadia Yousuf,['Sidra Ameen'],caught,H Kaur,2016-03-19,Pakistan,Pakistan,0,Feroz Shah Kotla
+4,H Kaur,26.0,25,3,0,104.0,JL Gunn,['SJ Taylor'],run out,AA Patil,2016-03-22,England,England,0,Himachal Pradesh Cricket Association Stadium
+5,H Kaur,26.0,25,3,0,104.0,JL Gunn,"['NR Sciver', 'SJ Taylor']",run out,H Kaur,2016-03-22,England,England,0,Himachal Pradesh Cricket Association Stadium
+3,H Kaur,7.0,20,0,0,35.0,ASS Fletcher,['Kyshona A Knight'],caught,H Kaur,2016-03-27,West Indies,West Indies,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+4,H Kaur,5.0,12,0,0,41.66666666666667,Anam Amin,0,bowled,H Kaur,2016-12-04,Pakistan,India,0,Asian Institute of Technology Ground
+6,HH Pandya,2.0,7,0,0,28.57142857142857,MD Shanaka,0,lbw,HH Pandya,2016-02-09,Sri Lanka,Sri Lanka,0,Maharashtra Cricket Association Stadium
+4,HH Pandya,27.0,14,1,2,192.85714285714286,NLTC Perera,['MD Gunathilaka'],caught,HH Pandya,2016-02-12,Sri Lanka,India,0,JSCA International Stadium Complex
+5,HH Pandya,31.0,19,4,1,163.1578947368421,Al-Amin Hossain,['Mahmudullah'],caught,HH Pandya,2016-02-24,India,India,0,Shere Bangla National Stadium
+5,HH Pandya,0.0,2,0,0,0.0,Mohammad Sami,['Mohammad Hafeez'],caught,HH Pandya,2016-02-27,Pakistan,India,0,Shere Bangla National Stadium
+5,HH Pandya,2.0,4,0,0,50.0,HMRKB Herath,0,bowled,HH Pandya,2016-03-01,Sri Lanka,India,0,Shere Bangla National Stadium
+6,HH Pandya,1.0,7,0,0,14.285714285714285,MJ Santner,0,lbw,HH Pandya,2016-03-15,New Zealand,New Zealand,0,"Vidarbha Cricket Association Stadium, Jamtha"
+4,HH Pandya,15.0,7,2,1,214.28571428571428,Al-Amin Hossain,['Soumya Sarkar'],caught,HH Pandya,2016-03-23,Bangladesh,India,0,M Chinnaswamy Stadium
+6,HH Pandya,9.0,14,0,0,64.28571428571429,TS Mills,['SW Billings'],caught,HH Pandya,2017-01-26,England,England,0,Green Park
+7,HH Pandya,2.0,4,0,0,50.0,CJ Jordan,['CJ Jordan'],run out,HH Pandya,2017-01-29,England,India,0,"Vidarbha Cricket Association Stadium, Jamtha"
+6,HH Pandya,11.0,4,0,1,275.0,CJ Jordan,"['BA Stokes', 'JC Buttler']",run out,HH Pandya,2017-02-01,England,India,0,M Chinnaswamy Stadium
+7,Harbhajan Singh,1.0,4,0,0,25.0,Shahid Afridi,0,bowled,Harbhajan Singh,2007-09-14,Pakistan,0,0,Kingsmead
+9,Harbhajan Singh,7.0,6,1,0,116.66666666666667,SE Bond,['DL Vettori'],caught,Harbhajan Singh,2007-09-16,New Zealand,New Zealand,0,New Wanderers Stadium
+8,Harbhajan Singh,1.0,3,0,0,33.33333333333333,AC Voges,['MJ Clarke'],caught,Harbhajan Singh,2008-02-01,India,Australia,0,Melbourne Cricket Ground
+8,Harbhajan Singh,21.0,22,2,0,95.45454545454545,TG Southee,0,bowled,Harbhajan Singh,2009-02-25,India,New Zealand,0,AMI Stadium
+7,Harbhajan Singh,13.0,4,3,0,325.0,notOut,notOut,notOut,notOut,2009-06-12,West Indies,West Indies,0,Lord's
+7,Harbhajan Singh,14.0,16,1,1,87.5,J Botha,['AB de Villiers'],caught,Harbhajan Singh,2009-06-16,South Africa,South Africa,0,Trent Bridge
+8,Harbhajan Singh,13.0,12,1,1,108.33333333333333,SR Watson,['DJ Hussey'],caught,Harbhajan Singh,2010-05-07,India,Australia,0,"Kensington Oval, Bridgetown"
+7,Harbhajan Singh,14.0,14,1,1,100.0,KAJ Roach,['DJ Bravo'],run out,MS Dhoni,2010-05-09,India,West Indies,0,"Kensington Oval, Bridgetown"
+8,Harbhajan Singh,14.0,14,1,1,100.0,KAJ Roach,['DJ Bravo'],caught,Harbhajan Singh,2010-05-09,India,West Indies,0,"Kensington Oval, Bridgetown"
+7,Harbhajan Singh,15.0,7,1,1,214.28571428571428,notOut,notOut,notOut,notOut,2011-06-04,India,India,0,"Queen's Park Oval, Port of Spain"
+9,Harbhajan Singh,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2012-09-28,India,Australia,0,R Premadasa Stadium
+6,Harbhajan Singh,8.0,4,1,0,200.0,notOut,notOut,notOut,notOut,2015-07-17,India,India,0,Harare Sports Club
+7,Harbhajan Singh,0.0,1,0,0,0.0,Imran Tahir,0,bowled,Harbhajan Singh,2015-10-05,South Africa,South Africa,0,Barabati Stadium
+10,I Sharma,3.0,6,0,0,50.0,notOut,notOut,notOut,notOut,2008-02-01,India,Australia,0,Melbourne Cricket Ground
+10,I Sharma,5.0,2,1,0,250.0,notOut,notOut,notOut,notOut,2009-12-09,Sri Lanka,Sri Lanka,0,"Vidarbha Cricket Association Stadium, Jamtha"
+9,I Sharma,0.0,1,0,0,0.0,Umar Gul,0,bowled,I Sharma,2012-12-25,Pakistan,Pakistan,0,M Chinnaswamy Stadium
+6,IK Pathan,20.0,15,0,2,133.33333333333331,Shahid Afridi,0,bowled,IK Pathan,2007-09-14,Pakistan,0,0,Kingsmead
+7,IK Pathan,11.0,10,2,0,110.00000000000001,DL Vettori,0,bowled,IK Pathan,2007-09-16,New Zealand,New Zealand,0,New Wanderers Stadium
+6,IK Pathan,0.0,1,0,0,0.0,notOut,notOut,notOut,notOut,2007-09-20,India,India,0,Kingsmead
+6,IK Pathan,0.0,1,0,0,0.0,notOut,notOut,notOut,notOut,2007-09-22,India,India,0,Kingsmead
+6,IK Pathan,3.0,3,0,0,100.0,notOut,notOut,notOut,notOut,2007-09-24,Pakistan,India,0,New Wanderers Stadium
+6,IK Pathan,26.0,30,0,0,86.66666666666667,NW Bracken,['AC Gilchrist'],caught,IK Pathan,2008-02-01,India,Australia,0,Melbourne Cricket Ground
+9,IK Pathan,33.0,16,2,2,206.25,notOut,notOut,notOut,notOut,2009-02-10,India,India,0,R Premadasa Stadium
+7,IK Pathan,12.0,14,1,0,85.71428571428571,JD Ryder,['NL McCullum'],caught,IK Pathan,2009-02-25,India,New Zealand,0,AMI Stadium
+7,IK Pathan,15.0,10,0,1,150.0,notOut,notOut,notOut,notOut,2009-02-27,India,New Zealand,0,Westpac Stadium
+6,IK Pathan,11.0,3,1,1,366.66666666666663,notOut,notOut,notOut,notOut,2009-06-06,India,India,0,Trent Bridge
+6,IK Pathan,2.0,3,0,0,66.66666666666666,DJ Bravo,['LMP Simmons'],caught,IK Pathan,2009-06-12,West Indies,West Indies,0,Lord's
+1,IK Pathan,8.0,10,1,0,80.0,ST Finn,0,bowled,IK Pathan,2012-09-23,India,India,0,R Premadasa Stadium
+1,IK Pathan,31.0,30,2,1,103.33333333333334,PJ Cummins,['PJ Cummins'],run out,G Gambhir,2012-09-28,India,Australia,0,R Premadasa Stadium
+2,IK Pathan,31.0,30,2,1,103.33333333333334,SR Watson,['CL White'],caught,IK Pathan,2012-09-28,India,Australia,0,R Premadasa Stadium
+9,J Goswami,9.0,14,0,0,64.28571428571429,notOut,notOut,notOut,notOut,2009-06-18,New Zealand,New Zealand,0,Trent Bridge
+5,J Goswami,0.0,1,0,0,0.0,EA Perry,['AJ Blackwell'],run out,J Goswami,2010-05-13,India,Australia,0,"Beausejour Stadium, Gros Islet"
+8,J Goswami,11.0,9,2,0,122.22222222222223,A Brindle,['KH Brunt'],caught,J Goswami,2011-06-26,India,England,0,County Ground
+6,J Goswami,12.0,12,1,0,100.0,DN Wyatt,['SJ Taylor'],stumped,J Goswami,2012-06-26,India,England,0,St Lawrence Ground
+8,J Goswami,2.0,3,0,0,66.66666666666666,KH Brunt,['A Brindle'],caught,J Goswami,2012-06-28,India,England,0,County Ground
+5,J Goswami,2.0,6,0,0,33.33333333333333,JL Jonassen,['JE Cameron'],caught,J Goswami,2012-09-27,India,Australia,0,Galle International Stadium
+4,J Goswami,10.0,8,0,1,125.0,HL Colvin,['A Shrubsole'],caught,J Goswami,2012-09-29,India,England,0,Galle International Stadium
+4,J Goswami,21.0,24,2,0,87.5,Bismah Maroof,['Asmavia Iqbal'],caught,J Goswami,2012-10-01,Pakistan,Pakistan,0,Galle International Stadium
+3,J Goswami,11.0,13,1,0,84.61538461538461,I Ranaweera,['RS Vandort'],caught,J Goswami,2014-03-24,Sri Lanka,Sri Lanka,0,Sylhet Stadium
+7,J Goswami,5.0,7,0,0,71.42857142857143,A Shrubsole,['SJ Taylor'],stumped,J Goswami,2014-03-26,India,England,0,Sylhet Stadium
+2,J Goswami,2.0,4,0,0,50.0,Rumana Ahmed,['Lata Mondal'],caught,J Goswami,2014-03-30,India,India,0,Sylhet Stadium
+3,J Goswami,0.0,1,0,0,0.0,Sania Khan,0,lbw,J Goswami,2014-04-02,Pakistan,India,0,Sylhet Stadium
+6,J Goswami,3.0,3,0,0,100.0,notOut,notOut,notOut,notOut,2016-03-15,Bangladesh,India,0,M Chinnaswamy Stadium
+5,J Goswami,14.0,15,0,0,93.33333333333333,notOut,notOut,notOut,notOut,2016-03-19,Pakistan,Pakistan,0,Feroz Shah Kotla
+7,J Goswami,2.0,5,0,0,40.0,A Shrubsole,['SJ Taylor'],caught,J Goswami,2016-03-22,England,England,0,Himachal Pradesh Cricket Association Stadium
+5,J Goswami,25.0,19,1,1,131.57894736842107,SR Taylor,"['HK Matthews', 'MR Aguilleira']",run out,J Goswami,2016-03-27,West Indies,West Indies,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+5,J Goswami,17.0,10,0,2,170.0,Sana Mir,['Javeria Khan'],caught,J Goswami,2016-12-04,Pakistan,India,0,Asian Institute of Technology Ground
+10,JJ Bumrah,0.0,2,0,0,0.0,notOut,notOut,notOut,notOut,2016-03-15,New Zealand,New Zealand,0,"Vidarbha Cricket Association Stadium, Jamtha"
+5,KD Karthik,31.0,28,3,1,110.71428571428572,notOut,notOut,notOut,notOut,2006-12-01,India,India,0,New Wanderers Stadium
+4,KD Karthik,11.0,10,2,0,110.00000000000001,Mohammad Asif,0,bowled,KD Karthik,2007-09-14,Pakistan,0,0,Kingsmead
+5,KD Karthik,17.0,12,3,0,141.66666666666669,SB Styris,"['DL Vettori', 'SB Styris']",run out,MS Dhoni,2007-09-16,New Zealand,New Zealand,0,New Wanderers Stadium
+6,KD Karthik,17.0,12,3,0,141.66666666666669,DL Vettori,['SE Bond'],caught,KD Karthik,2007-09-16,New Zealand,New Zealand,0,New Wanderers Stadium
+2,KD Karthik,0.0,1,0,0,0.0,SM Pollock,['JA Morkel'],caught,KD Karthik,2007-09-20,India,India,0,Kingsmead
+2,KD Karthik,8.0,8,1,0,100.0,B Lee,0,bowled,KD Karthik,2008-02-01,India,Australia,0,Melbourne Cricket Ground
+5,KD Karthik,4.0,1,1,0,400.0,notOut,notOut,notOut,notOut,2009-12-12,Sri Lanka,India,0,"Punjab Cricket Association Stadium, Mohali"
+0,KD Karthik,16.0,19,2,0,84.21052631578947,JH Kallis,['GC Smith'],caught,KD Karthik,2010-05-02,South Africa,India,0,"Beausejour Stadium, Gros Islet"
+0,KD Karthik,13.0,12,2,0,108.33333333333333,SL Malinga,0,caught and bowled,KD Karthik,2010-05-11,Sri Lanka,Sri Lanka,0,"Beausejour Stadium, Gros Islet"
+4,KD Karthik,48.0,30,5,3,160.0,MN Samuels,0,bowled,KD Karthik,2017-07-09,India,West Indies,0,"Sabina Park, Kingston"
+0,KL Rahul,0.0,1,0,0,0.0,DT Tiripano,0,bowled,KL Rahul,2016-06-18,India,Zimbabwe,0,Harare Sports Club
+0,KL Rahul,22.0,20,3,1,110.00000000000001,N Madziva,0,bowled,KL Rahul,2016-06-22,India,India,0,Harare Sports Club
+3,KL Rahul,110.0,53,12,5,207.54716981132074,notOut,notOut,notOut,notOut,2016-08-27,West Indies,West Indies,0,Central Broward Regional Park Stadium Turf Ground
+1,KL Rahul,8.0,10,1,0,80.0,CJ Jordan,['AU Rashid'],caught,KL Rahul,2017-01-26,England,England,0,Green Park
+1,KL Rahul,71.0,48,6,2,147.91666666666669,CJ Jordan,['BA Stokes'],caught,KL Rahul,2017-01-29,England,India,0,"Vidarbha Cricket Association Stadium, Jamtha"
+1,KL Rahul,22.0,18,2,1,122.22222222222223,BA Stokes,0,bowled,KL Rahul,2017-02-01,England,India,0,M Chinnaswamy Stadium
+4,KM Jadhav,9.0,8,1,0,112.5,CB Mpofu,['H Masakadza'],caught,KM Jadhav,2015-07-17,India,India,0,Harare Sports Club
+4,KM Jadhav,5.0,6,0,0,83.33333333333334,notOut,notOut,notOut,notOut,2015-07-19,India,Zimbabwe,0,Harare Sports Club
+4,KM Jadhav,19.0,13,1,1,146.15384615384613,T Muzarabani,0,bowled,KM Jadhav,2016-06-18,India,Zimbabwe,0,Harare Sports Club
+4,KM Jadhav,58.0,44,7,1,131.8181818181818,DT Tiripano,['E Chigumbura'],caught,KM Jadhav,2016-06-22,India,India,0,Harare Sports Club
+7,KM Jadhav,4.0,4,0,0,100.0,KOK Williams,['SP Narine'],caught,KM Jadhav,2017-07-09,India,West Indies,0,"Sabina Park, Kingston"
+8,KV Jain,8.0,11,0,0,72.72727272727273,LE Kaushalya,['BYA Mendis'],run out,Poonam Yadav,2014-03-24,Sri Lanka,Sri Lanka,0,Sylhet Stadium
+4,KV Jain,0.0,3,0,0,0.0,NR Sciver,['LS Greenway'],run out,KV Jain,2014-03-26,India,England,0,Sylhet Stadium
+2,L Kumari,2.0,10,0,0,20.0,RL Grundy,0,bowled,L Kumari,2014-03-26,India,England,0,Sylhet Stadium
+2,M Raj,20.0,23,2,0,86.95652173913044,AE Satterthwaite,['SJ McGlashan'],caught,M Raj,2009-06-18,New Zealand,New Zealand,0,Trent Bridge
+1,M Raj,16.0,18,2,0,88.88888888888889,LC Sthalekar,['AJ Healy'],stumped,M Raj,2010-05-13,India,Australia,0,"Beausejour Stadium, Gros Islet"
+2,M Raj,17.0,20,1,0,85.0,DN Wyatt,"['LA Marsh', 'DN Wyatt']",run out,M Raj,2011-06-26,India,England,0,County Ground
+2,M Raj,26.0,34,1,0,76.47058823529412,LA Marsh,['SJ Taylor'],stumped,M Raj,2012-06-26,India,England,0,St Lawrence Ground
+2,M Raj,21.0,18,3,0,116.66666666666667,DN Wyatt,['SJ Taylor'],caught,M Raj,2012-06-28,India,England,0,County Ground
+2,M Raj,18.0,17,3,0,105.88235294117648,notOut,notOut,notOut,notOut,2012-09-27,India,Australia,0,Galle International Stadium
+2,M Raj,35.0,40,2,0,87.5,D Hazell,"['JL Gunn', 'SJ Taylor']",run out,M Raj,2012-09-29,India,England,0,Galle International Stadium
+2,M Raj,16.0,30,1,0,53.333333333333336,Nida Dar,['Qanita Jalil'],caught,M Raj,2012-10-01,Pakistan,Pakistan,0,Galle International Stadium
+2,M Raj,28.0,33,4,0,84.84848484848484,notOut,notOut,notOut,notOut,2012-10-03,India,India,0,Nondescripts Cricket Club Ground
+2,M Raj,36.0,39,3,0,92.3076923076923,notOut,notOut,notOut,notOut,2012-10-28,Pakistan,India,0,Guanggong International Cricket Stadium
+0,M Raj,16.0,23,2,0,69.56521739130434,HASD Siriwardene,0,lbw,M Raj,2014-03-24,Sri Lanka,Sri Lanka,0,Sylhet Stadium
+0,M Raj,57.0,59,8,0,96.61016949152543,GA Elwiss,['TT Beaumont'],caught,M Raj,2014-03-26,India,England,0,Sylhet Stadium
+0,M Raj,41.0,39,5,0,105.12820512820514,Khadija Tul Kubra,['Nuzhat Tasnia'],stumped,M Raj,2014-03-30,India,India,0,Sylhet Stadium
+0,M Raj,55.0,56,6,0,98.21428571428571,notOut,notOut,notOut,notOut,2014-04-01,West Indies,India,0,Sylhet Stadium
+2,M Raj,39.0,46,3,0,84.78260869565217,Asmavia Iqbal,['Batool Fatima'],caught,M Raj,2014-04-02,Pakistan,India,0,Sylhet Stadium
+0,M Raj,42.0,35,5,0,120.0,Rumana Ahmed,['Jahanara Alam'],caught,M Raj,2016-03-15,Bangladesh,India,0,M Chinnaswamy Stadium
+0,M Raj,16.0,37,1,0,43.24324324324324,Nida Dar,['Sidra Ameen'],caught,M Raj,2016-03-19,Pakistan,Pakistan,0,Feroz Shah Kotla
+2,M Raj,20.0,33,2,0,60.60606060606061,NR Sciver,['LS Greenway'],caught,M Raj,2016-03-22,England,England,0,Himachal Pradesh Cricket Association Stadium
+0,M Raj,0.0,2,0,0,0.0,SS Connell,['MR Aguilleira'],caught,M Raj,2016-03-27,West Indies,West Indies,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+0,M Raj,73.0,70,7,1,104.28571428571429,Nida Dar,"['Javeria Khan', 'Sidra Nawaz']",run out,S Meghana,2016-12-04,Pakistan,India,0,Asian Institute of Technology Ground
+1,M Vijay,48.0,46,2,3,104.34782608695652,Hamid Hassan,['Shapoor Zadran'],caught,M Vijay,2010-05-01,India,India,0,"Beausejour Stadium, Gros Islet"
+1,M Vijay,0.0,1,0,0,0.0,RK Kleinveldt,['MV Boucher'],caught,M Vijay,2010-05-02,South Africa,India,0,"Beausejour Stadium, Gros Islet"
+0,M Vijay,2.0,7,0,0,28.57142857142857,DP Nannes,['CL White'],caught,M Vijay,2010-05-07,India,Australia,0,"Kensington Oval, Bridgetown"
+0,M Vijay,7.0,17,0,0,41.17647058823529,DJG Sammy,['KA Pollard'],caught,M Vijay,2010-05-09,India,West Indies,0,"Kensington Oval, Bridgetown"
+0,M Vijay,5.0,6,1,0,83.33333333333334,CB Mpofu,['P Utseya'],caught,M Vijay,2010-06-12,India,India,0,Harare Sports Club
+1,M Vijay,46.0,43,2,3,106.9767441860465,CJ Chibhabha,['AG Cremer'],caught,M Vijay,2010-06-13,India,India,0,Harare Sports Club
+1,M Vijay,14.0,13,3,0,107.6923076923077,WD Parnell,['MN van Wyk'],caught,M Vijay,2011-01-09,India,India,0,Moses Mabhida Stadium
+1,M Vijay,34.0,21,5,1,161.9047619047619,P Utseya,['Sikandar Raza'],run out,M Vijay,2015-07-17,India,India,0,Harare Sports Club
+2,M Vijay,13.0,11,0,1,118.18181818181819,AG Cremer,0,bowled,M Vijay,2015-07-19,India,Zimbabwe,0,Harare Sports Club
+3,MK Pandey,19.0,19,1,1,100.0,CB Mpofu,['Sikandar Raza'],caught,MK Pandey,2015-07-17,India,India,0,Harare Sports Club
+3,MK Pandey,0.0,3,0,0,0.0,AG Cremer,0,lbw,MK Pandey,2015-07-19,India,Zimbabwe,0,Harare Sports Club
+3,MK Pandey,48.0,39,1,3,123.07692307692308,T Muzarabani,['DT Tiripano'],caught,MK Pandey,2016-06-18,India,Zimbabwe,0,Harare Sports Club
+3,MK Pandey,0.0,1,0,0,0.0,N Madziva,['E Chigumbura'],run out,MK Pandey,2016-06-22,India,India,0,Harare Sports Club
+5,MK Pandey,3.0,5,0,0,60.0,MM Ali,0,lbw,MK Pandey,2017-01-26,England,England,0,Green Park
+4,MK Pandey,30.0,26,0,1,115.38461538461537,TS Mills,0,bowled,MK Pandey,2017-01-29,England,India,0,"Vidarbha Cricket Association Stadium, Jamtha"
+4,MK Tiwary,15.0,17,0,0,88.23529411764706,SR Patel,0,bowled,MK Tiwary,2011-10-29,England,England,0,Eden Gardens
+10,MM Patel,0.0,1,0,0,0.0,JW Dernbach,['C Kieswetter'],caught,MM Patel,2011-08-31,India,England,0,Old Trafford
+10,MM Sharma,3.0,3,0,0,100.0,notOut,notOut,notOut,notOut,2015-07-19,India,Zimbabwe,0,Harare Sports Club
+10,MM Sharma,0.0,5,0,0,0.0,notOut,notOut,notOut,notOut,2015-10-05,South Africa,South Africa,0,Barabati Stadium
+7,MR Meshram,0.0,3,0,0,0.0,DN Wyatt,['LS Greenway'],caught,MR Meshram,2012-06-26,India,England,0,St Lawrence Ground
+6,MR Meshram,17.0,24,0,0,70.83333333333334,A Brindle,['LS Greenway'],caught,MR Meshram,2012-06-28,India,England,0,County Ground
+6,MR Meshram,7.0,16,0,0,43.75,EA Osborne,['RL Haynes'],caught,MR Meshram,2012-09-27,India,Australia,0,Galle International Stadium
+9,MR Meshram,3.0,3,0,0,100.0,Sana Mir,['Bismah Maroof'],caught,MR Meshram,2012-10-31,Pakistan,India,0,Guanggong International Cricket Stadium
+4,MS Dhoni,0.0,2,0,0,0.0,CK Langeveldt,0,bowled,MS Dhoni,2006-12-01,India,India,0,New Wanderers Stadium
+5,MS Dhoni,33.0,32,3,1,103.125,Yasir Arafat,['Younis Khan'],caught,MS Dhoni,2007-09-14,Pakistan,0,0,Kingsmead
+3,MS Dhoni,24.0,20,2,0,120.0,notOut,notOut,notOut,notOut,2007-09-16,New Zealand,New Zealand,0,New Wanderers Stadium
+3,MS Dhoni,10.0,8,0,0,125.0,notOut,notOut,notOut,notOut,2007-09-19,India,India,0,Kingsmead
+5,MS Dhoni,45.0,34,4,1,132.35294117647058,JJ van der Wath,['VD Philander'],run out,MS Dhoni,2007-09-20,India,India,0,Kingsmead
+4,MS Dhoni,36.0,18,4,1,200.0,notOut,notOut,notOut,notOut,2007-09-22,India,India,0,Kingsmead
+4,MS Dhoni,6.0,10,0,0,60.0,Umar Gul,0,bowled,MS Dhoni,2007-09-24,Pakistan,India,0,New Wanderers Stadium
+4,MS Dhoni,9.0,5,0,1,180.0,notOut,notOut,notOut,notOut,2007-10-20,Australia,India,0,Brabourne Stadium
+4,MS Dhoni,9.0,28,0,0,32.142857142857146,DJ Hussey,['B Lee'],caught,MS Dhoni,2008-02-01,India,Australia,0,Melbourne Cricket Ground
+5,MS Dhoni,13.0,17,1,0,76.47058823529412,HMCM Bandara,0,bowled,MS Dhoni,2009-02-10,India,India,0,R Premadasa Stadium
+5,MS Dhoni,2.0,6,0,0,33.33333333333333,IG Butler,0,bowled,MS Dhoni,2009-02-25,India,New Zealand,0,AMI Stadium
+4,MS Dhoni,28.0,30,2,0,93.33333333333333,notOut,notOut,notOut,notOut,2009-02-27,India,New Zealand,0,Westpac Stadium
+2,MS Dhoni,26.0,21,0,1,123.80952380952381,Naeem Islam,0,bowled,MS Dhoni,2009-06-06,India,India,0,Trent Bridge
+2,MS Dhoni,14.0,13,1,0,107.6923076923077,WK McCallan,['JP Bray'],caught,MS Dhoni,2009-06-10,Ireland,India,0,Trent Bridge
+4,MS Dhoni,11.0,23,0,0,47.82608695652174,DJ Bravo,['ADS Fletcher'],caught,MS Dhoni,2009-06-12,West Indies,West Indies,0,Lord's
+5,MS Dhoni,30.0,20,3,0,150.0,notOut,notOut,notOut,notOut,2009-06-14,India,England,0,Lord's
+5,MS Dhoni,5.0,12,0,0,41.66666666666667,notOut,notOut,notOut,notOut,2009-06-16,South Africa,South Africa,0,Trent Bridge
+2,MS Dhoni,9.0,13,0,0,69.23076923076923,ST Jayasuriya,['M Pushpakumara'],caught,MS Dhoni,2009-12-09,Sri Lanka,Sri Lanka,0,"Vidarbha Cricket Association Stadium, Jamtha"
+2,MS Dhoni,46.0,28,3,2,164.28571428571428,CRD Fernando,0,bowled,MS Dhoni,2009-12-12,Sri Lanka,India,0,"Punjab Cricket Association Stadium, Mohali"
+4,MS Dhoni,15.0,6,0,2,250.0,notOut,notOut,notOut,notOut,2010-05-01,India,India,0,"Beausejour Stadium, Gros Islet"
+5,MS Dhoni,16.0,6,1,1,266.66666666666663,notOut,notOut,notOut,notOut,2010-05-02,South Africa,India,0,"Beausejour Stadium, Gros Islet"
+5,MS Dhoni,2.0,9,0,0,22.22222222222222,SPD Smith,['DJ Hussey'],caught,MS Dhoni,2010-05-07,India,Australia,0,"Kensington Oval, Bridgetown"
+5,MS Dhoni,29.0,19,2,2,152.63157894736844,notOut,notOut,notOut,notOut,2010-05-09,India,West Indies,0,"Kensington Oval, Bridgetown"
+3,MS Dhoni,23.0,21,0,1,109.52380952380953,notOut,notOut,notOut,notOut,2010-05-11,Sri Lanka,Sri Lanka,0,"Beausejour Stadium, Gros Islet"
+7,MS Dhoni,10.0,11,0,0,90.9090909090909,notOut,notOut,notOut,notOut,2011-01-09,India,India,0,Moses Mabhida Stadium
+6,MS Dhoni,8.0,9,1,0,88.88888888888889,JW Dernbach,['AD Hales'],caught,MS Dhoni,2011-08-31,India,England,0,Old Trafford
+5,MS Dhoni,21.0,26,0,1,80.76923076923077,JW Dernbach,['JW Dernbach'],run out,MS Dhoni,2011-10-29,England,England,0,Eden Gardens
+5,MS Dhoni,48.0,45,1,3,106.66666666666667,notOut,notOut,notOut,notOut,2012-02-01,India,Australia,0,Stadium Australia
+3,MS Dhoni,21.0,19,2,0,110.5263157894737,notOut,notOut,notOut,notOut,2012-02-03,India,India,0,Melbourne Cricket Ground
+4,MS Dhoni,16.0,14,2,0,114.28571428571428,notOut,notOut,notOut,notOut,2012-08-07,India,India,0,Pallekele International Cricket Stadium
+4,MS Dhoni,22.0,24,2,0,91.66666666666666,notOut,notOut,notOut,notOut,2012-09-11,New Zealand,New Zealand,0,"MA Chidambaram Stadium, Chepauk"
+5,MS Dhoni,18.0,9,2,1,200.0,notOut,notOut,notOut,notOut,2012-09-19,India,India,0,R Premadasa Stadium
+4,MS Dhoni,9.0,10,1,0,90.0,JW Dernbach,['AD Hales'],caught,MS Dhoni,2012-09-23,India,India,0,R Premadasa Stadium
+6,MS Dhoni,15.0,23,2,0,65.21739130434783,PJ Cummins,['GJ Bailey'],caught,MS Dhoni,2012-09-28,India,Australia,0,R Premadasa Stadium
+6,MS Dhoni,23.0,13,3,0,176.9230769230769,notOut,notOut,notOut,notOut,2012-10-02,South Africa,India,0,R Premadasa Stadium
+5,MS Dhoni,24.0,23,2,0,104.34782608695652,SC Meaker,['EJG Morgan'],run out,SK Raina,2012-12-20,England,India,0,Subrata Roy Sahara Stadium
+6,MS Dhoni,38.0,18,3,2,211.11111111111111,TT Bresnan,['SR Patel'],caught,MS Dhoni,2012-12-22,England,England,0,Wankhede Stadium
+4,MS Dhoni,1.0,2,0,0,50.0,Saeed Ajmal,0,bowled,MS Dhoni,2012-12-25,Pakistan,Pakistan,0,M Chinnaswamy Stadium
+5,MS Dhoni,33.0,23,4,0,143.47826086956522,Umar Gul,0,bowled,MS Dhoni,2012-12-28,Pakistan,India,0,"Sardar Patel Stadium, Motera"
+5,MS Dhoni,24.0,21,2,0,114.28571428571428,notOut,notOut,notOut,notOut,2013-10-10,Australia,India,0,Saurashtra Cricket Association Stadium
+3,MS Dhoni,22.0,13,1,2,169.23076923076923,notOut,notOut,notOut,notOut,2014-03-28,India,India,0,Shere Bangla National Stadium
+5,MS Dhoni,24.0,24,1,1,100.0,MA Starc,0,bowled,MS Dhoni,2014-03-30,India,India,0,Shere Bangla National Stadium
+5,MS Dhoni,0.0,1,0,0,0.0,notOut,notOut,notOut,notOut,2014-04-04,South Africa,India,0,Shere Bangla National Stadium
+4,MS Dhoni,4.0,8,0,0,50.0,notOut,notOut,notOut,notOut,2014-04-06,Sri Lanka,Sri Lanka,0,Shere Bangla National Stadium
+4,MS Dhoni,27.0,18,2,1,150.0,notOut,notOut,notOut,notOut,2014-09-07,India,England,0,Edgbaston
+3,MS Dhoni,20.0,13,2,1,153.84615384615387,notOut,notOut,notOut,notOut,2015-10-02,South Africa,South Africa,0,Himachal Pradesh Cricket Association Stadium
+5,MS Dhoni,5.0,10,0,0,50.0,JA Morkel,['AB de Villiers'],caught,MS Dhoni,2015-10-05,South Africa,South Africa,0,Barabati Stadium
+4,MS Dhoni,11.0,3,1,1,366.66666666666663,notOut,notOut,notOut,notOut,2016-01-26,India,India,0,Adelaide Oval
+3,MS Dhoni,14.0,9,2,0,155.55555555555557,AJ Tye,['SR Watson'],caught,MS Dhoni,2016-01-29,India,India,0,Melbourne Cricket Ground
+5,MS Dhoni,2.0,2,0,0,100.0,MD Shanaka,['N Dickwella'],caught,MS Dhoni,2016-02-09,Sri Lanka,Sri Lanka,0,Maharashtra Cricket Association Stadium
+6,MS Dhoni,9.0,5,1,0,180.0,notOut,notOut,notOut,notOut,2016-02-12,Sri Lanka,India,0,JSCA International Stadium Complex
+6,MS Dhoni,8.0,2,0,1,400.0,notOut,notOut,notOut,notOut,2016-02-24,India,India,0,Shere Bangla National Stadium
+6,MS Dhoni,7.0,3,1,0,233.33333333333334,notOut,notOut,notOut,notOut,2016-02-27,Pakistan,India,0,Shere Bangla National Stadium
+6,MS Dhoni,7.0,4,0,1,175.0,notOut,notOut,notOut,notOut,2016-03-01,Sri Lanka,India,0,Shere Bangla National Stadium
+3,MS Dhoni,20.0,6,1,2,333.33333333333337,notOut,notOut,notOut,notOut,2016-03-06,India,India,0,Shere Bangla National Stadium
+5,MS Dhoni,30.0,30,1,1,100.0,MJ Santner,['NL McCullum'],caught,MS Dhoni,2016-03-15,New Zealand,New Zealand,0,"Vidarbha Cricket Association Stadium, Jamtha"
+6,MS Dhoni,13.0,12,1,0,108.33333333333333,notOut,notOut,notOut,notOut,2016-03-23,Bangladesh,India,0,M Chinnaswamy Stadium
+5,MS Dhoni,18.0,10,3,0,180.0,notOut,notOut,notOut,notOut,2016-03-27,Australia,India,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+3,MS Dhoni,15.0,10,1,0,150.0,notOut,notOut,notOut,notOut,2016-03-31,West Indies,West Indies,0,Wankhede Stadium
+5,MS Dhoni,19.0,20,1,0,95.0,notOut,notOut,notOut,notOut,2016-06-18,India,Zimbabwe,0,Harare Sports Club
+5,MS Dhoni,9.0,13,1,0,69.23076923076923,DT Tiripano,0,bowled,MS Dhoni,2016-06-22,India,India,0,Harare Sports Club
+4,MS Dhoni,43.0,26,2,2,165.3846153846154,DJ Bravo,['MN Samuels'],caught,MS Dhoni,2016-08-27,West Indies,West Indies,0,Central Broward Regional Park Stadium Turf Ground
+4,MS Dhoni,36.0,28,3,0,128.57142857142858,CJ Jordan,"['CJ Jordan', 'EJG Morgan']",run out,Parvez Rasool,2017-01-26,England,England,0,Green Park
+5,MS Dhoni,5.0,7,0,0,71.42857142857143,CJ Jordan,"['MM Ali', 'CJ Jordan']",run out,A Mishra,2017-01-29,England,India,0,"Vidarbha Cricket Association Stadium, Jamtha"
+6,MS Dhoni,5.0,7,0,0,71.42857142857143,CJ Jordan,0,bowled,MS Dhoni,2017-01-29,England,India,0,"Vidarbha Cricket Association Stadium, Jamtha"
+3,MS Dhoni,56.0,37,5,2,151.35135135135135,CJ Jordan,['AU Rashid'],caught,MS Dhoni,2017-02-01,England,India,0,M Chinnaswamy Stadium
+5,MS Dhoni,2.0,3,0,0,66.66666666666666,JE Taylor,['MN Samuels'],caught,MS Dhoni,2017-07-09,India,West Indies,0,"Sabina Park, Kingston"
+2,Mandeep Singh,31.0,28,5,0,110.71428571428572,CJ Chibhabha,['CT Mutombodzi'],caught,Mandeep Singh,2016-06-18,India,Zimbabwe,0,Harare Sports Club
+1,Mandeep Singh,4.0,6,0,0,66.66666666666666,DT Tiripano,['T Maruma'],caught,Mandeep Singh,2016-06-22,India,India,0,Harare Sports Club
+9,N Niranjana,8.0,5,1,0,160.0,A Brindle,['LA Marsh'],run out,N Niranjana,2012-06-28,India,England,0,County Ground
+7,N Niranjana,15.0,14,2,0,107.14285714285714,EA Osborne,['EA Perry'],caught,N Niranjana,2012-09-27,India,Australia,0,Galle International Stadium
+5,N Niranjana,1.0,2,0,0,50.0,LA Marsh,['A Shrubsole'],caught,N Niranjana,2012-09-29,India,England,0,Galle International Stadium
+7,N Niranjana,9.0,5,1,0,180.0,Sana Mir,"['Asmavia Iqbal', 'Batool Fatima', 'Sana Mir']",run out,N Niranjana,2012-10-01,Pakistan,Pakistan,0,Galle International Stadium
+6,N Niranjana,3.0,5,0,0,60.0,Bismah Maroof,['Nain Abidi'],caught,N Niranjana,2012-10-31,Pakistan,India,0,Guanggong International Cricket Stadium
+1,N Tanwar,17.0,31,1,0,54.83870967741935,DN Wyatt,['SJ Taylor'],caught,N Tanwar,2011-06-26,India,England,0,County Ground
+1,NV Ojha,2.0,9,0,0,22.22222222222222,CB Mpofu,['T Taibu'],caught,NV Ojha,2010-06-12,India,India,0,Harare Sports Club
+0,NV Ojha,10.0,19,2,0,52.63157894736842,RW Price,['TL Chatara'],caught,NV Ojha,2010-06-13,India,India,0,Harare Sports Club
+7,P Kumar,6.0,10,0,0,60.0,AA Noffke,['AC Voges'],caught,P Kumar,2008-02-01,India,Australia,0,Melbourne Cricket Ground
+8,P Kumar,1.0,4,0,0,25.0,JW Dernbach,0,bowled,P Kumar,2011-08-31,India,England,0,Old Trafford
+8,P Kumar,0.0,2,0,0,0.0,RS Bopara,0,bowled,P Kumar,2011-10-29,England,England,0,Eden Gardens
+8,P Roy,5.0,7,0,0,71.42857142857143,SFM Devine,['SJ McGlashan'],run out,P Roy,2009-06-18,New Zealand,New Zealand,0,Trent Bridge
+6,P Roy,17.0,23,1,0,73.91304347826086,notOut,notOut,notOut,notOut,2011-06-26,India,England,0,County Ground
+0,PA Patel,26.0,20,2,1,130.0,DJG Sammy,['MN Samuels'],caught,PA Patel,2011-06-04,India,India,0,"Queen's Park Oval, Port of Spain"
+0,PA Patel,10.0,13,2,0,76.92307692307693,JW Dernbach,['SCJ Broad'],caught,PA Patel,2011-08-31,India,England,0,Old Trafford
+0,PG Raut,5.0,6,1,0,83.33333333333334,SEA Ruck,['SFM Devine'],caught,PG Raut,2009-06-18,New Zealand,New Zealand,0,Trent Bridge
+2,PG Raut,44.0,52,3,0,84.61538461538461,EA Perry,['EA Perry'],run out,H Kaur,2010-05-13,India,Australia,0,"Beausejour Stadium, Gros Islet"
+3,PG Raut,44.0,52,3,0,84.61538461538461,EA Perry,['JE Cameron'],caught,PG Raut,2010-05-13,India,Australia,0,"Beausejour Stadium, Gros Islet"
+1,PG Raut,9.0,10,2,0,90.0,KH Brunt,['LS Greenway'],caught,PG Raut,2012-06-26,India,England,0,St Lawrence Ground
+1,PG Raut,16.0,19,2,0,84.21052631578947,notOut,notOut,notOut,notOut,2012-06-28,India,England,0,County Ground
+1,PG Raut,21.0,21,4,0,100.0,EA Osborne,['JE Cameron'],caught,PG Raut,2012-09-27,India,Australia,0,Galle International Stadium
+1,PG Raut,51.0,62,6,0,82.25806451612904,LA Marsh,['JL Gunn'],caught,PG Raut,2012-09-29,India,England,0,Galle International Stadium
+1,PG Raut,18.0,25,2,0,72.0,Nida Dar,['Batool Fatima'],stumped,PG Raut,2012-10-01,Pakistan,Pakistan,0,Galle International Stadium
+1,PG Raut,45.0,43,5,0,104.65116279069768,notOut,notOut,notOut,notOut,2012-10-03,India,India,0,Nondescripts Cricket Club Ground
+2,PG Raut,25.0,28,3,0,89.28571428571429,Bismah Maroof,['Marina Iqbal'],caught,PG Raut,2012-10-31,Pakistan,India,0,Guanggong International Cricket Stadium
+2,PG Raut,9.0,11,1,0,81.81818181818183,HAM Samuddika,['I Ranaweera'],caught,PG Raut,2014-03-24,Sri Lanka,Sri Lanka,0,Sylhet Stadium
+5,PG Raut,13.0,6,2,0,216.66666666666666,notOut,notOut,notOut,notOut,2014-03-30,India,India,0,Sylhet Stadium
+1,PG Raut,56.0,52,7,0,107.6923076923077,SC Selman,['Kyshona A Knight'],caught,PG Raut,2014-04-01,West Indies,India,0,Sylhet Stadium
+0,PG Raut,17.0,29,1,0,58.620689655172406,Sania Khan,0,bowled,PG Raut,2014-04-02,Pakistan,India,0,Sylhet Stadium
+8,PP Chawla,0.0,1,0,0,0.0,notOut,notOut,notOut,notOut,2012-12-22,England,England,0,Wankhede Stadium
+9,PP Ojha,10.0,6,0,1,166.66666666666669,notOut,notOut,notOut,notOut,2009-12-09,Sri Lanka,Sri Lanka,0,"Vidarbha Cricket Association Stadium, Jamtha"
+7,Parvez Rasool,5.0,6,0,0,83.33333333333334,notOut,notOut,notOut,notOut,2017-01-26,England,England,0,Green Park
+9,Poonam Yadav,4.0,3,0,0,133.33333333333331,notOut,notOut,notOut,notOut,2014-03-24,Sri Lanka,Sri Lanka,0,Sylhet Stadium
+9,Poonam Yadav,1.0,3,0,0,33.33333333333333,JL Gunn,['LS Greenway'],caught,Poonam Yadav,2014-03-26,India,England,0,Sylhet Stadium
+6,Poonam Yadav,2.0,2,0,0,100.0,notOut,notOut,notOut,notOut,2014-04-02,Pakistan,India,0,Sylhet Stadium
+9,Poonam Yadav,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2016-03-27,West Indies,West Indies,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+7,R Ashwin,4.0,2,1,0,200.0,JW Dernbach,['JW Dernbach'],run out,R Ashwin,2011-08-31,India,England,0,Old Trafford
+9,R Ashwin,17.0,12,3,0,141.66666666666669,notOut,notOut,notOut,notOut,2011-10-29,England,England,0,Eden Gardens
+7,R Ashwin,15.0,17,1,0,88.23529411764706,notOut,notOut,notOut,notOut,2012-02-01,India,Australia,0,Stadium Australia
+8,R Ashwin,16.0,12,1,1,133.33333333333331,notOut,notOut,notOut,notOut,2012-09-28,India,Australia,0,R Premadasa Stadium
+7,R Ashwin,1.0,3,0,0,33.33333333333333,JW Dernbach,['MJ Lumb'],caught,R Ashwin,2012-12-22,England,England,0,Wankhede Stadium
+7,R Ashwin,2.0,3,0,0,66.66666666666666,SR Watson,['SR Watson'],run out,RA Jadeja,2014-03-30,India,India,0,Shere Bangla National Stadium
+8,R Ashwin,11.0,17,1,0,64.70588235294117,CH Morris,0,bowled,R Ashwin,2015-10-05,South Africa,South Africa,0,Barabati Stadium
+8,R Ashwin,31.0,25,5,0,124.0,PVD Chameera,"['CAK Rajitha', 'LD Chandimal']",run out,JJ Bumrah,2016-02-09,Sri Lanka,Sri Lanka,0,Maharashtra Cricket Association Stadium
+8,R Ashwin,10.0,20,0,0,50.0,IS Sodhi,['L Ronchi'],stumped,R Ashwin,2016-03-15,New Zealand,New Zealand,0,"Vidarbha Cricket Association Stadium, Jamtha"
+8,R Ashwin,5.0,2,1,0,250.0,notOut,notOut,notOut,notOut,2016-03-23,Bangladesh,India,0,M Chinnaswamy Stadium
+8,R Ashwin,11.0,7,1,0,157.14285714285714,notOut,notOut,notOut,notOut,2017-07-09,India,West Indies,0,"Sabina Park, Kingston"
+7,R Dhar,4.0,5,0,0,80.0,SFM Devine,['SW Bates'],caught,R Dhar,2009-06-18,New Zealand,New Zealand,0,Trent Bridge
+7,R Dhar,12.0,9,1,0,133.33333333333331,notOut,notOut,notOut,notOut,2010-05-13,India,Australia,0,"Beausejour Stadium, Gros Islet"
+7,R Dhawan,1.0,3,0,0,33.33333333333333,notOut,notOut,notOut,notOut,2016-06-18,India,Zimbabwe,0,Harare Sports Club
+2,R Dravid,31.0,21,0,3,147.61904761904762,RS Bopara,['EJG Morgan'],caught,R Dravid,2011-08-31,India,England,0,Old Trafford
+4,R Malhotra,4.0,10,0,0,40.0,AE Satterthwaite,"['AE Satterthwaite', 'RH Priest']",run out,R Malhotra,2009-06-18,New Zealand,New Zealand,0,Trent Bridge
+6,R Malhotra,5.0,5,0,0,100.0,notOut,notOut,notOut,notOut,2012-09-29,India,England,0,Galle International Stadium
+5,R Malhotra,7.0,10,0,0,70.0,Sana Mir,0,bowled,R Malhotra,2012-10-01,Pakistan,Pakistan,0,Galle International Stadium
+5,R Malhotra,18.0,31,0,0,58.06451612903226,Sana Mir,0,lbw,R Malhotra,2012-10-31,Pakistan,India,0,Guanggong International Cricket Stadium
+9,R Vinay Kumar,2.0,4,0,0,50.0,notOut,notOut,notOut,notOut,2011-08-31,India,England,0,Old Trafford
+7,RA Jadeja,5.0,7,0,0,71.42857142857143,HMCM Bandara,0,bowled,RA Jadeja,2009-02-10,India,India,0,R Premadasa Stadium
+6,RA Jadeja,19.0,16,1,1,118.75,TG Southee,['MJ Guptill'],caught,RA Jadeja,2009-02-27,India,New Zealand,0,Westpac Stadium
+3,RA Jadeja,25.0,36,1,0,69.44444444444444,GP Swann,['SCJ Broad'],caught,RA Jadeja,2009-06-14,India,England,0,Lord's
+8,RA Jadeja,7.0,6,0,0,116.66666666666667,notOut,notOut,notOut,notOut,2009-06-16,South Africa,South Africa,0,Trent Bridge
+7,RA Jadeja,4.0,6,0,0,66.66666666666666,SR Watson,['DJ Hussey'],run out,RA Jadeja,2010-05-07,India,Australia,0,"Kensington Oval, Bridgetown"
+9,RA Jadeja,5.0,6,0,0,83.33333333333334,notOut,notOut,notOut,notOut,2010-05-09,India,West Indies,0,"Kensington Oval, Bridgetown"
+6,RA Jadeja,0.0,1,0,0,0.0,ST Finn,0,bowled,RA Jadeja,2011-10-29,England,England,0,Eden Gardens
+6,RA Jadeja,7.0,8,1,0,87.5,DT Christian,['DA Warner'],caught,RA Jadeja,2012-02-01,India,Australia,0,Stadium Australia
+7,RA Jadeja,2.0,4,0,0,50.0,Saeed Ajmal,['Shoaib Malik'],run out,RG Sharma,2012-12-25,Pakistan,Pakistan,0,M Chinnaswamy Stadium
+8,RA Jadeja,2.0,4,0,0,50.0,Umar Gul,['Kamran Akmal'],caught,RA Jadeja,2012-12-25,Pakistan,Pakistan,0,M Chinnaswamy Stadium
+6,RA Jadeja,3.0,3,0,0,100.0,notOut,notOut,notOut,notOut,2014-03-30,India,India,0,Shere Bangla National Stadium
+5,RA Jadeja,7.0,4,1,0,175.0,ST Finn,"['RS Bopara', 'ST Finn']",run out,RA Jadeja,2014-09-07,India,England,0,Edgbaston
+7,RA Jadeja,6.0,9,0,0,66.66666666666666,SMSM Senanayake,0,lbw,RA Jadeja,2016-02-09,Sri Lanka,Sri Lanka,0,Maharashtra Cricket Association Stadium
+7,RA Jadeja,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2016-02-12,Sri Lanka,India,0,JSCA International Stadium Complex
+7,RA Jadeja,0.0,3,0,0,0.0,IS Sodhi,0,caught and bowled,RA Jadeja,2016-03-15,New Zealand,New Zealand,0,"Vidarbha Cricket Association Stadium, Jamtha"
+7,RA Jadeja,12.0,8,2,0,150.0,Mustafizur Rahman,0,bowled,RA Jadeja,2016-03-23,Bangladesh,India,0,M Chinnaswamy Stadium
+6,RA Jadeja,13.0,9,0,1,144.44444444444443,notOut,notOut,notOut,notOut,2017-07-09,India,West Indies,0,"Sabina Park, Kingston"
+3,RG Sharma,50.0,41,7,2,121.95121951219512,notOut,notOut,notOut,notOut,2007-09-20,India,India,0,Kingsmead
+5,RG Sharma,8.0,5,0,1,160.0,MG Johnson,['AC Gilchrist'],run out,MS Dhoni,2007-09-22,India,India,0,Kingsmead
+5,RG Sharma,30.0,16,2,1,187.5,notOut,notOut,notOut,notOut,2007-09-24,Pakistan,India,0,New Wanderers Stadium
+5,RG Sharma,8.0,8,1,0,100.0,JR Hopes,0,bowled,RG Sharma,2008-02-01,India,Australia,0,Melbourne Cricket Ground
+6,RG Sharma,4.0,12,0,0,33.33333333333333,ST Jayasuriya,['J Mubarak'],caught,RG Sharma,2009-02-10,India,India,0,R Premadasa Stadium
+3,RG Sharma,7.0,7,0,1,100.0,IG Butler,['BB McCullum'],caught,RG Sharma,2009-02-25,India,New Zealand,0,AMI Stadium
+1,RG Sharma,36.0,23,3,2,156.52173913043478,Shakib Al Hasan,0,bowled,RG Sharma,2009-06-06,India,India,0,Trent Bridge
+1,RG Sharma,52.0,45,4,1,115.55555555555554,notOut,notOut,notOut,notOut,2009-06-10,Ireland,India,0,Trent Bridge
+1,RG Sharma,5.0,3,1,0,166.66666666666669,FH Edwards,['LMP Simmons'],caught,RG Sharma,2009-06-12,West Indies,West Indies,0,Lord's
+1,RG Sharma,9.0,10,1,0,90.0,RJ Sidebottom,0,bowled,RG Sharma,2009-06-14,India,England,0,Lord's
+1,RG Sharma,29.0,28,3,0,103.57142857142858,JP Duminy,['DW Steyn'],caught,RG Sharma,2009-06-16,South Africa,South Africa,0,Trent Bridge
+4,RG Sharma,3.0,5,0,0,60.0,AD Mathews,"['SL Malinga', 'KC Sangakkara']",run out,RG Sharma,2009-12-09,Sri Lanka,Sri Lanka,0,"Vidarbha Cricket Association Stadium, Jamtha"
+3,RG Sharma,79.0,48,4,6,164.58333333333331,notOut,notOut,notOut,notOut,2010-05-07,India,Australia,0,"Kensington Oval, Bridgetown"
+3,RG Sharma,5.0,9,1,0,55.55555555555556,KA Pollard,['D Ramdin'],caught,RG Sharma,2010-05-09,India,West Indies,0,"Kensington Oval, Bridgetown"
+3,RG Sharma,10.0,15,1,0,66.66666666666666,RW Price,['T Taibu'],stumped,RG Sharma,2010-06-12,India,India,0,Harare Sports Club
+2,RG Sharma,53.0,34,5,2,155.88235294117646,JP Duminy,['M Ntini'],caught,RG Sharma,2011-01-09,India,India,0,Moses Mabhida Stadium
+5,RG Sharma,26.0,24,0,2,108.33333333333333,CD Barnwell,0,bowled,RG Sharma,2011-06-04,India,India,0,"Queen's Park Oval, Port of Spain"
+5,RG Sharma,1.0,3,0,0,33.33333333333333,GP Swann,['C Kieswetter'],stumped,RG Sharma,2011-08-31,India,England,0,Old Trafford
+4,RG Sharma,0.0,1,0,0,0.0,DJ Hussey,0,bowled,RG Sharma,2012-02-01,India,Australia,0,Stadium Australia
+5,RG Sharma,4.0,2,0,0,200.0,notOut,notOut,notOut,notOut,2012-09-11,New Zealand,New Zealand,0,"MA Chidambaram Stadium, Chepauk"
+6,RG Sharma,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2012-09-19,India,India,0,R Premadasa Stadium
+3,RG Sharma,55.0,34,5,1,161.76470588235296,notOut,notOut,notOut,notOut,2012-09-23,India,India,0,R Premadasa Stadium
+5,RG Sharma,1.0,2,0,0,50.0,MA Starc,0,bowled,RG Sharma,2012-09-28,India,Australia,0,R Premadasa Stadium
+3,RG Sharma,25.0,27,2,0,92.5925925925926,RJ Peterson,0,lbw,RG Sharma,2012-10-02,South Africa,India,0,R Premadasa Stadium
+4,RG Sharma,24.0,19,1,1,126.3157894736842,JC Tredwell,0,bowled,RG Sharma,2012-12-22,England,England,0,Wankhede Stadium
+6,RG Sharma,2.0,2,0,0,100.0,notOut,notOut,notOut,notOut,2012-12-25,Pakistan,Pakistan,0,M Chinnaswamy Stadium
+7,RG Sharma,4.0,2,1,0,200.0,notOut,notOut,notOut,notOut,2012-12-28,Pakistan,India,0,"Sardar Patel Stadium, Motera"
+0,RG Sharma,8.0,9,0,1,88.88888888888889,CJ McKay,['BJ Haddin'],caught,RG Sharma,2013-10-10,Australia,India,0,Saurashtra Cricket Association Stadium
+0,RG Sharma,24.0,21,1,2,114.28571428571428,Saeed Ajmal,0,bowled,RG Sharma,2014-03-21,Pakistan,India,0,Shere Bangla National Stadium
+0,RG Sharma,62.0,56,5,2,110.71428571428572,notOut,notOut,notOut,notOut,2014-03-23,West Indies,India,0,Shere Bangla National Stadium
+0,RG Sharma,56.0,44,5,1,127.27272727272727,Mashrafe Mortaza,['Nasir Hossain'],caught,RG Sharma,2014-03-28,India,India,0,Shere Bangla National Stadium
+0,RG Sharma,5.0,3,1,0,166.66666666666669,BJ Hodge,['JM Muirhead'],caught,RG Sharma,2014-03-30,India,India,0,Shere Bangla National Stadium
+0,RG Sharma,24.0,13,4,1,184.6153846153846,BE Hendricks,['F du Plessis'],caught,RG Sharma,2014-04-04,South Africa,India,0,Shere Bangla National Stadium
+0,RG Sharma,29.0,26,3,0,111.53846153846155,HMRKB Herath,['SMSM Senanayake'],caught,RG Sharma,2014-04-06,Sri Lanka,Sri Lanka,0,Shere Bangla National Stadium
+0,RG Sharma,106.0,67,12,5,158.2089552238806,KJ Abbott,['CH Morris'],caught,RG Sharma,2015-10-02,South Africa,South Africa,0,Himachal Pradesh Cricket Association Stadium
+0,RG Sharma,22.0,26,2,0,84.61538461538461,JA Morkel,['DA Miller'],run out,RG Sharma,2015-10-05,South Africa,South Africa,0,Barabati Stadium
+0,RG Sharma,31.0,22,4,1,140.9090909090909,SR Watson,['JP Faulkner'],caught,RG Sharma,2016-01-26,India,India,0,Adelaide Oval
+0,RG Sharma,60.0,48,5,2,125.0,notOut,notOut,notOut,notOut,2016-01-29,India,India,0,Melbourne Cricket Ground
+0,RG Sharma,52.0,42,5,1,123.80952380952381,CJ Boyce,['SR Watson'],caught,RG Sharma,2016-01-31,India,India,0,Sydney Cricket Ground
+0,RG Sharma,0.0,2,0,0,0.0,CAK Rajitha,['PVD Chameera'],caught,RG Sharma,2016-02-09,Sri Lanka,Sri Lanka,0,Maharashtra Cricket Association Stadium
+0,RG Sharma,43.0,36,2,1,119.44444444444444,PVD Chameera,0,caught and bowled,RG Sharma,2016-02-12,Sri Lanka,India,0,JSCA International Stadium Complex
+0,RG Sharma,13.0,13,1,1,100.0,PVD Chameera,0,lbw,RG Sharma,2016-02-14,Sri Lanka,India,0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+0,RG Sharma,83.0,55,7,3,150.9090909090909,Al-Amin Hossain,['Soumya Sarkar'],caught,RG Sharma,2016-02-24,India,India,0,Shere Bangla National Stadium
+0,RG Sharma,0.0,2,0,0,0.0,Mohammad Amir,0,lbw,RG Sharma,2016-02-27,Pakistan,India,0,Shere Bangla National Stadium
+1,RG Sharma,15.0,14,3,0,107.14285714285714,KMDN Kulasekara,['CK Kapugedera'],caught,RG Sharma,2016-03-01,Sri Lanka,India,0,Shere Bangla National Stadium
+0,RG Sharma,39.0,28,7,1,139.28571428571428,Qadeer Ahmed,['Mohammad Naveed'],caught,RG Sharma,2016-03-03,United Arab Emirates,India,0,Shere Bangla National Stadium
+0,RG Sharma,1.0,5,0,0,20.0,Al-Amin Hossain,['Soumya Sarkar'],caught,RG Sharma,2016-03-06,India,India,0,Shere Bangla National Stadium
+0,RG Sharma,5.0,7,0,0,71.42857142857143,MJ Santner,['L Ronchi'],stumped,RG Sharma,2016-03-15,New Zealand,New Zealand,0,"Vidarbha Cricket Association Stadium, Jamtha"
+0,RG Sharma,18.0,17,1,1,105.88235294117648,Mustafizur Rahman,['Sabbir Rahman'],caught,RG Sharma,2016-03-23,Bangladesh,India,0,M Chinnaswamy Stadium
+0,RG Sharma,12.0,17,1,0,70.58823529411765,SR Watson,0,bowled,RG Sharma,2016-03-27,Australia,India,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+0,RG Sharma,43.0,31,3,3,138.70967741935485,S Badree,0,lbw,RG Sharma,2016-03-31,West Indies,West Indies,0,Wankhede Stadium
+0,RG Sharma,62.0,29,4,4,213.79310344827584,KA Pollard,['J Charles'],caught,RG Sharma,2016-08-27,West Indies,West Indies,0,Central Broward Regional Park Stadium Turf Ground
+11,RP Singh,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2007-09-16,New Zealand,New Zealand,0,New Wanderers Stadium
+10,RP Singh,2.0,2,0,0,100.0,notOut,notOut,notOut,notOut,2009-06-16,South Africa,South Africa,0,Trent Bridge
+5,RR Pant,5.0,4,1,0,125.0,notOut,notOut,notOut,notOut,2017-02-01,England,India,0,M Chinnaswamy Stadium
+2,RR Pant,38.0,35,2,1,108.57142857142857,KOK Williams,['KOK Williams'],run out,S Dhawan,2017-07-09,India,West Indies,0,"Sabina Park, Kingston"
+3,RR Pant,38.0,35,2,1,108.57142857142857,JE Taylor,['CAK Walton'],caught,RR Pant,2017-07-09,India,West Indies,0,"Sabina Park, Kingston"
+1,RV Uthappa,50.0,40,4,2,125.0,Sohail Tanvir,['Kamran Akmal'],caught,RV Uthappa,2007-09-14,Pakistan,0,0,Kingsmead
+2,RV Uthappa,0.0,2,0,0,0.0,DL Vettori,0,caught and bowled,RV Uthappa,2007-09-16,New Zealand,New Zealand,0,New Wanderers Stadium
+2,RV Uthappa,6.0,5,1,0,120.0,CT Tremlett,0,bowled,RV Uthappa,2007-09-19,India,India,0,Kingsmead
+4,RV Uthappa,15.0,16,1,1,93.75,M Morkel,['GC Smith'],caught,RV Uthappa,2007-09-20,India,India,0,Kingsmead
+2,RV Uthappa,34.0,28,1,3,121.42857142857142,MG Johnson,['A Symonds'],run out,RV Uthappa,2007-09-22,India,India,0,Kingsmead
+2,RV Uthappa,8.0,12,1,0,66.66666666666666,Sohail Tanvir,['Shahid Afridi'],caught,RV Uthappa,2007-09-24,Pakistan,India,0,New Wanderers Stadium
+2,RV Uthappa,35.0,26,6,0,134.6153846153846,MJ Clarke,['AC Gilchrist'],caught,RV Uthappa,2007-10-20,Australia,India,0,Brabourne Stadium
+3,RV Uthappa,1.0,3,0,0,33.33333333333333,NW Bracken,['DJ Hussey'],caught,RV Uthappa,2008-02-01,India,Australia,0,Melbourne Cricket Ground
+0,RV Uthappa,1.0,3,0,0,33.33333333333333,TT Bresnan,['C Kieswetter'],caught,RV Uthappa,2011-10-29,England,England,0,Eden Gardens
+2,RV Uthappa,39.0,36,2,0,108.33333333333333,notOut,notOut,notOut,notOut,2015-07-17,India,India,0,Harare Sports Club
+1,RV Uthappa,42.0,25,9,0,168.0,SC Williams,0,caught and bowled,RV Uthappa,2015-07-19,India,Zimbabwe,0,Harare Sports Club
+3,S Badrinath,43.0,38,5,0,113.1578947368421,D Bishoo,['ADS Fletcher'],caught,S Badrinath,2011-06-04,India,India,0,"Queen's Park Oval, Port of Spain"
+1,S Dhawan,5.0,13,0,0,38.46153846153847,DJG Sammy,['ADS Fletcher'],caught,S Dhawan,2011-06-04,India,India,0,"Queen's Park Oval, Port of Spain"
+1,S Dhawan,32.0,19,5,0,168.42105263157893,XJ Doherty,['BJ Haddin'],stumped,S Dhawan,2013-10-10,Australia,India,0,Saurashtra Cricket Association Stadium
+1,S Dhawan,30.0,28,5,0,107.14285714285714,Umar Gul,['Saeed Ajmal'],caught,S Dhawan,2014-03-21,Pakistan,India,0,Shere Bangla National Stadium
+1,S Dhawan,0.0,3,0,0,0.0,S Badree,0,lbw,S Dhawan,2014-03-23,West Indies,India,0,Shere Bangla National Stadium
+1,S Dhawan,1.0,6,0,0,16.666666666666664,Al-Amin Hossain,0,bowled,S Dhawan,2014-03-28,India,India,0,Shere Bangla National Stadium
+1,S Dhawan,33.0,29,2,2,113.79310344827587,CR Woakes,0,bowled,S Dhawan,2014-09-07,India,England,0,Edgbaston
+1,S Dhawan,3.0,5,0,0,60.0,K Rabada,"['M de Lange', 'AB de Villiers']",run out,S Dhawan,2015-10-02,South Africa,South Africa,0,Himachal Pradesh Cricket Association Stadium
+1,S Dhawan,11.0,12,2,0,91.66666666666666,CH Morris,0,lbw,S Dhawan,2015-10-05,South Africa,South Africa,0,Barabati Stadium
+1,S Dhawan,5.0,8,0,0,62.5,SR Watson,['MS Wade'],caught,S Dhawan,2016-01-26,India,India,0,Adelaide Oval
+1,S Dhawan,42.0,32,3,2,131.25,GJ Maxwell,['CA Lynn'],caught,S Dhawan,2016-01-29,India,India,0,Melbourne Cricket Ground
+1,S Dhawan,26.0,10,4,1,260.0,SR Watson,['CT Bancroft'],caught,S Dhawan,2016-01-31,India,India,0,Sydney Cricket Ground
+2,S Dhawan,9.0,13,0,1,69.23076923076923,CAK Rajitha,['MD Gunathilaka'],caught,S Dhawan,2016-02-09,Sri Lanka,Sri Lanka,0,Maharashtra Cricket Association Stadium
+1,S Dhawan,51.0,27,7,2,188.88888888888889,PVD Chameera,['LD Chandimal'],caught,S Dhawan,2016-02-12,Sri Lanka,India,0,JSCA International Stadium Complex
+1,S Dhawan,46.0,46,5,1,100.0,notOut,notOut,notOut,notOut,2016-02-14,Sri Lanka,India,0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
+1,S Dhawan,2.0,4,0,0,50.0,Al-Amin Hossain,0,bowled,S Dhawan,2016-02-24,India,India,0,Shere Bangla National Stadium
+0,S Dhawan,1.0,3,0,0,33.33333333333333,KMDN Kulasekara,['LD Chandimal'],caught,S Dhawan,2016-03-01,Sri Lanka,India,0,Shere Bangla National Stadium
+1,S Dhawan,16.0,21,3,0,76.19047619047619,notOut,notOut,notOut,notOut,2016-03-03,United Arab Emirates,India,0,Shere Bangla National Stadium
+1,S Dhawan,60.0,44,9,1,136.36363636363635,Taskin Ahmed,['Soumya Sarkar'],caught,S Dhawan,2016-03-06,India,India,0,Shere Bangla National Stadium
+1,S Dhawan,1.0,3,0,0,33.33333333333333,NL McCullum,0,lbw,S Dhawan,2016-03-15,New Zealand,New Zealand,0,"Vidarbha Cricket Association Stadium, Jamtha"
+1,S Dhawan,23.0,22,2,1,104.54545454545455,Shakib Al Hasan,0,lbw,S Dhawan,2016-03-23,Bangladesh,India,0,M Chinnaswamy Stadium
+1,S Dhawan,13.0,13,1,1,100.0,NM Coulter-Nile,['UT Khawaja'],caught,S Dhawan,2016-03-27,Australia,India,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+1,S Dhawan,23.0,12,5,0,191.66666666666669,notOut,notOut,notOut,notOut,2017-07-09,India,West Indies,0,"Sabina Park, Kingston"
+1,S Mandhana,9.0,8,2,0,112.5,OU Ranasinghe,['HASD Siriwardene'],run out,S Mandhana,2014-03-24,Sri Lanka,Sri Lanka,0,Sylhet Stadium
+1,S Mandhana,1.0,4,0,0,25.0,A Shrubsole,['LS Greenway'],caught,S Mandhana,2014-03-26,India,England,0,Sylhet Stadium
+2,S Mandhana,4.0,4,1,0,100.0,notOut,notOut,notOut,notOut,2014-04-01,West Indies,India,0,Sylhet Stadium
+1,S Mandhana,22.0,22,4,0,100.0,Sania Khan,['Bismah Maroof'],caught,S Mandhana,2014-04-02,Pakistan,India,0,Sylhet Stadium
+2,S Mandhana,0.0,4,0,0,0.0,Fahima Khatun,0,lbw,S Mandhana,2016-03-15,Bangladesh,India,0,M Chinnaswamy Stadium
+2,S Mandhana,1.0,5,0,0,20.0,Asmavia Iqbal,0,lbw,S Mandhana,2016-03-19,Pakistan,Pakistan,0,Feroz Shah Kotla
+1,S Mandhana,12.0,17,2,0,70.58823529411765,A Shrubsole,0,bowled,S Mandhana,2016-03-22,England,England,0,Himachal Pradesh Cricket Association Stadium
+2,S Mandhana,22.0,27,1,1,81.48148148148148,ASS Fletcher,0,bowled,S Mandhana,2016-03-27,West Indies,West Indies,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+1,S Mandhana,6.0,14,0,0,42.857142857142854,Anam Amin,['Asmavia Iqbal'],caught,S Mandhana,2016-12-04,Pakistan,India,0,Asian Institute of Technology Ground
+2,S Meghana,9.0,16,0,0,56.25,notOut,notOut,notOut,notOut,2016-12-04,Pakistan,India,0,Asian Institute of Technology Ground
+6,S Naik,2.0,3,0,0,66.66666666666666,SW Bates,['SJ McGlashan'],caught,S Naik,2009-06-18,New Zealand,New Zealand,0,Trent Bridge
+0,S Naik,2.0,3,0,0,66.66666666666666,RM Farrell,['JE Cameron'],caught,S Naik,2010-05-13,India,Australia,0,"Beausejour Stadium, Gros Islet"
+5,S Naik,25.0,22,1,1,113.63636363636364,JL Gunn,['LS Greenway'],caught,S Naik,2012-06-26,India,England,0,St Lawrence Ground
+7,S Naik,8.0,4,1,0,200.0,notOut,notOut,notOut,notOut,2012-06-28,India,England,0,County Ground
+8,S Naik,2.0,4,0,0,50.0,notOut,notOut,notOut,notOut,2012-09-27,India,Australia,0,Galle International Stadium
+0,S Naik,9.0,9,1,0,100.0,Qanita Jalil,['Asmavia Iqbal'],caught,S Naik,2012-10-01,Pakistan,Pakistan,0,Galle International Stadium
+0,S Naik,17.0,17,3,0,100.0,I Ranaweera,['CR Seneviratna'],caught,S Naik,2012-10-03,India,India,0,Nondescripts Cricket Club Ground
+0,S Naik,23.0,31,2,0,74.19354838709677,Mariam Hasan,0,lbw,S Naik,2012-10-28,Pakistan,India,0,Guanggong International Cricket Stadium
+0,S Naik,2.0,7,0,0,28.57142857142857,Qanita Jalil,0,bowled,S Naik,2012-10-31,Pakistan,India,0,Guanggong International Cricket Stadium
+5,S Pandey,22.0,19,2,0,115.78947368421053,I Ranaweera,['RS Vandort'],stumped,S Pandey,2014-03-24,Sri Lanka,Sri Lanka,0,Sylhet Stadium
+3,S Pandey,2.0,5,0,0,40.0,JL Gunn,['NR Sciver'],caught,S Pandey,2014-03-26,India,England,0,Sylhet Stadium
+4,S Pandey,9.0,17,0,0,52.94117647058824,Nida Dar,['Batool Fatima'],stumped,S Pandey,2014-04-02,Pakistan,India,0,Sylhet Stadium
+7,S Pandey,10.0,7,0,1,142.85714285714286,Asmavia Iqbal,['Asmavia Iqbal'],run out,J Goswami,2016-03-19,Pakistan,Pakistan,0,Feroz Shah Kotla
+3,S Pandey,12.0,19,0,0,63.1578947368421,HC Knight,['KH Brunt'],caught,S Pandey,2016-03-22,England,England,0,Himachal Pradesh Cricket Association Stadium
+6,S Pandey,6.0,5,1,0,120.0,DJS Dottin,['A Mohammed'],run out,S Pandey,2016-03-27,West Indies,West Indies,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+9,S Sharma,4.0,3,1,0,133.33333333333331,JL Hunter,['JM Fields'],stumped,S Sharma,2012-09-27,India,Australia,0,Galle International Stadium
+7,S Sharma,1.0,4,0,0,25.0,Mariam Hasan,0,lbw,S Sharma,2012-10-31,Pakistan,India,0,Guanggong International Cricket Stadium
+4,S Sharma,1.0,3,0,0,33.33333333333333,Salma Khatun,0,lbw,S Sharma,2014-03-30,India,India,0,Sylhet Stadium
+7,S Sharma,2.0,1,0,0,200.0,Asmavia Iqbal,['Nahida Khan'],run out,S Sharma,2014-04-02,Pakistan,India,0,Sylhet Stadium
+9,S Sreesanth,1.0,3,0,0,33.33333333333333,Yasir Arafat,['Kamran Akmal'],run out,AB Agarkar,2007-09-14,Pakistan,0,0,Kingsmead
+10,S Sreesanth,19.0,10,4,0,190.0,notOut,notOut,notOut,notOut,2007-09-16,New Zealand,New Zealand,0,New Wanderers Stadium
+9,S Sreesanth,0.0,1,0,0,0.0,AC Voges,['BJ Hodge'],caught,S Sreesanth,2008-02-01,India,Australia,0,Melbourne Cricket Ground
+8,S Verma,1.0,2,0,0,50.0,DJS Dottin,['SR Taylor'],caught,S Verma,2016-03-27,West Indies,West Indies,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+6,SK Naidu,11.0,27,0,0,40.74074074074074,A Shrubsole,['CM Edwards'],caught,SK Naidu,2014-03-26,India,England,0,Sylhet Stadium
+6,SK Raina,3.0,4,0,0,75.0,notOut,notOut,notOut,notOut,2006-12-01,India,India,0,New Wanderers Stadium
+4,SK Raina,35.0,32,5,1,109.375,HMCM Bandara,['SI de Saram'],caught,SK Raina,2009-02-10,India,India,0,R Premadasa Stadium
+2,SK Raina,61.0,46,2,5,132.6086956521739,notOut,notOut,notOut,notOut,2009-02-25,India,New Zealand,0,AMI Stadium
+2,SK Raina,0.0,4,0,0,0.0,IG Butler,['TG Southee'],caught,SK Raina,2009-02-27,India,New Zealand,0,Westpac Stadium
+4,SK Raina,10.0,9,1,0,111.11111111111111,Rubel Hossain,0,bowled,SK Raina,2009-06-06,India,India,0,Trent Bridge
+2,SK Raina,5.0,9,0,0,55.55555555555556,FH Edwards,['D Ramdin'],caught,SK Raina,2009-06-12,West Indies,West Indies,0,Lord's
+2,SK Raina,2.0,5,0,0,40.0,RJ Sidebottom,['LJ Wright'],caught,SK Raina,2009-06-14,India,England,0,Lord's
+2,SK Raina,3.0,8,0,0,37.5,J Botha,['M Morkel'],caught,SK Raina,2009-06-16,South Africa,South Africa,0,Trent Bridge
+5,SK Raina,21.0,13,1,1,161.53846153846155,M Pushpakumara,['TM Dilshan'],caught,SK Raina,2009-12-09,Sri Lanka,Sri Lanka,0,"Vidarbha Cricket Association Stadium, Jamtha"
+4,SK Raina,9.0,7,2,0,128.57142857142858,TM Dilshan,['KMDN Kulasekara'],run out,SK Raina,2009-12-12,Sri Lanka,India,0,"Punjab Cricket Association Stadium, Mohali"
+2,SK Raina,18.0,14,1,1,128.57142857142858,Samiullah Shenwari,0,lbw,SK Raina,2010-05-01,India,India,0,"Beausejour Stadium, Gros Islet"
+2,SK Raina,101.0,61,9,5,165.5737704918033,JA Morkel,['AB de Villiers'],caught,SK Raina,2010-05-02,South Africa,India,0,"Beausejour Stadium, Gros Islet"
+2,SK Raina,5.0,6,1,0,83.33333333333334,SW Tait,['MJ Clarke'],caught,SK Raina,2010-05-07,India,Australia,0,"Kensington Oval, Bridgetown"
+2,SK Raina,32.0,28,4,1,114.28571428571428,CH Gayle,['DJG Sammy'],caught,SK Raina,2010-05-09,India,West Indies,0,"Kensington Oval, Bridgetown"
+2,SK Raina,63.0,49,7,1,128.57142857142858,T Thushara,['DPMD Jayawardene'],caught,SK Raina,2010-05-11,Sri Lanka,Sri Lanka,0,"Beausejour Stadium, Gros Islet"
+2,SK Raina,28.0,17,3,1,164.70588235294116,RW Price,['E Chigumbura'],caught,SK Raina,2010-06-12,India,India,0,Harare Sports Club
+2,SK Raina,72.0,48,6,2,150.0,notOut,notOut,notOut,notOut,2010-06-13,India,India,0,Harare Sports Club
+6,SK Raina,41.0,24,2,3,170.83333333333331,J Theron,['DA Miller'],caught,SK Raina,2011-01-09,India,India,0,Moses Mabhida Stadium
+4,SK Raina,2.0,6,0,0,33.33333333333333,DJG Sammy,['CD Barnwell'],caught,SK Raina,2011-06-04,India,India,0,"Queen's Park Oval, Port of Spain"
+4,SK Raina,33.0,20,2,3,165.0,TT Bresnan,['SCJ Broad'],caught,SK Raina,2011-08-31,India,England,0,Old Trafford
+3,SK Raina,39.0,29,4,2,134.48275862068965,ST Finn,['JM Bairstow'],caught,SK Raina,2011-10-29,England,England,0,Eden Gardens
+3,SK Raina,14.0,15,1,0,93.33333333333333,DT Christian,0,bowled,SK Raina,2012-02-01,India,Australia,0,Stadium Australia
+3,SK Raina,34.0,26,3,1,130.76923076923077,notOut,notOut,notOut,notOut,2012-08-07,India,India,0,Pallekele International Cricket Stadium
+2,SK Raina,27.0,22,2,1,122.72727272727273,KD Mills,['LRPL Taylor'],caught,SK Raina,2012-09-11,New Zealand,New Zealand,0,"MA Chidambaram Stadium, Chepauk"
+4,SK Raina,38.0,37,6,0,102.7027027027027,Mohammad Nabi,0,bowled,SK Raina,2012-09-19,India,India,0,R Premadasa Stadium
+5,SK Raina,1.0,2,0,0,50.0,notOut,notOut,notOut,notOut,2012-09-23,India,India,0,R Premadasa Stadium
+7,SK Raina,26.0,19,4,0,136.8421052631579,SR Watson,['GJ Maxwell'],caught,SK Raina,2012-09-28,India,Australia,0,R Premadasa Stadium
+5,SK Raina,45.0,34,5,0,132.35294117647058,JH Kallis,"['J Botha', 'AB de Villiers']",run out,SK Raina,2012-10-02,South Africa,India,0,R Premadasa Stadium
+4,SK Raina,26.0,21,1,1,123.80952380952381,notOut,notOut,notOut,notOut,2012-12-20,England,India,0,Subrata Roy Sahara Stadium
+5,SK Raina,35.0,24,3,1,145.83333333333331,JW Dernbach,"['AD Hales', 'JC Buttler']",run out,PP Chawla,2012-12-22,England,England,0,Wankhede Stadium
+5,SK Raina,10.0,9,1,0,111.11111111111111,Saeed Ajmal,0,bowled,SK Raina,2012-12-25,Pakistan,Pakistan,0,M Chinnaswamy Stadium
+6,SK Raina,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2012-12-28,Pakistan,India,0,"Sardar Patel Stadium, Motera"
+2,SK Raina,19.0,13,2,1,146.15384615384613,NM Coulter-Nile,['SR Watson'],caught,SK Raina,2013-10-10,Australia,India,0,Saurashtra Cricket Association Stadium
+4,SK Raina,35.0,29,4,1,120.6896551724138,notOut,notOut,notOut,notOut,2014-03-21,Pakistan,India,0,Shere Bangla National Stadium
+4,SK Raina,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2014-03-23,West Indies,India,0,Shere Bangla National Stadium
+4,SK Raina,6.0,10,0,0,60.0,GJ Maxwell,['AJ Finch'],caught,SK Raina,2014-03-30,India,India,0,Shere Bangla National Stadium
+4,SK Raina,21.0,11,3,1,190.9090909090909,BE Hendricks,['F du Plessis'],caught,SK Raina,2014-04-04,South Africa,India,0,Shere Bangla National Stadium
+3,SK Raina,25.0,20,1,1,125.0,HF Gurney,0,bowled,SK Raina,2014-09-07,India,England,0,Edgbaston
+4,SK Raina,14.0,8,0,2,175.0,CH Morris,0,lbw,SK Raina,2015-10-02,South Africa,South Africa,0,Himachal Pradesh Cricket Association Stadium
+3,SK Raina,22.0,26,3,0,84.61538461538461,Imran Tahir,['HM Amla'],caught,SK Raina,2015-10-05,South Africa,South Africa,0,Barabati Stadium
+3,SK Raina,41.0,37,3,1,110.8108108108108,JP Faulkner,0,bowled,SK Raina,2016-01-26,India,India,0,Adelaide Oval
+3,SK Raina,49.0,26,6,1,188.46153846153845,notOut,notOut,notOut,notOut,2016-01-31,India,India,0,Sydney Cricket Ground
+3,SK Raina,20.0,25,1,1,80.0,MD Shanaka,0,bowled,SK Raina,2016-02-09,Sri Lanka,Sri Lanka,0,Maharashtra Cricket Association Stadium
+3,SK Raina,30.0,22,5,0,136.36363636363635,NLTC Perera,['PVD Chameera'],caught,SK Raina,2016-02-12,Sri Lanka,India,0,JSCA International Stadium Complex
+3,SK Raina,13.0,14,2,0,92.85714285714286,Mahmudullah,0,bowled,SK Raina,2016-02-24,India,India,0,Shere Bangla National Stadium
+3,SK Raina,1.0,4,0,0,25.0,Mohammad Amir,['Wahab Riaz'],caught,SK Raina,2016-02-27,Pakistan,India,0,Shere Bangla National Stadium
+3,SK Raina,25.0,26,2,0,96.15384615384616,MD Shanaka,['KMDN Kulasekara'],caught,SK Raina,2016-03-01,Sri Lanka,India,0,Shere Bangla National Stadium
+3,SK Raina,1.0,2,0,0,50.0,MJ Santner,['MJ Guptill'],caught,SK Raina,2016-03-15,New Zealand,New Zealand,0,"Vidarbha Cricket Association Stadium, Jamtha"
+3,SK Raina,30.0,23,1,2,130.43478260869566,Al-Amin Hossain,['Sabbir Rahman'],caught,SK Raina,2016-03-23,Bangladesh,India,0,M Chinnaswamy Stadium
+3,SK Raina,10.0,7,1,0,142.85714285714286,SR Watson,['PM Nevill'],caught,SK Raina,2016-03-27,Australia,India,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+2,SK Raina,34.0,25,4,1,136.0,BA Stokes,0,bowled,SK Raina,2017-01-26,England,England,0,Green Park
+2,SK Raina,7.0,11,0,0,63.63636363636363,AU Rashid,['CJ Jordan'],caught,SK Raina,2017-01-29,England,India,0,"Vidarbha Cricket Association Stadium, Jamtha"
+2,SK Raina,63.0,49,2,5,128.57142857142858,LE Plunkett,['EJG Morgan'],caught,SK Raina,2017-02-01,England,India,0,M Chinnaswamy Stadium
+9,SN Pradhan,0.0,1,0,0,0.0,notOut,notOut,notOut,notOut,2011-06-26,India,England,0,County Ground
+1,SR Tendulkar,10.0,13,2,0,76.92307692307693,CK Langeveldt,0,bowled,SR Tendulkar,2006-12-01,India,India,0,New Wanderers Stadium
+5,STR Binny,11.0,6,0,1,183.33333333333331,CB Mpofu,['AG Cremer'],caught,STR Binny,2015-07-17,India,India,0,Harare Sports Club
+5,STR Binny,24.0,24,2,0,100.0,AG Cremer,['T Muzarabani'],run out,KM Jadhav,2015-07-19,India,Zimbabwe,0,Harare Sports Club
+6,STR Binny,24.0,24,2,0,100.0,AG Cremer,['CJ Chibhabha'],caught,STR Binny,2015-07-19,India,Zimbabwe,0,Harare Sports Club
+7,SV Samson,19.0,24,1,0,79.16666666666666,CB Mpofu,['MN Waller'],caught,SV Samson,2015-07-19,India,Zimbabwe,0,Harare Sports Club
+11,Sandeep Sharma,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2015-07-19,India,Zimbabwe,0,Harare Sports Club
+6,Soniya Dabir,3.0,6,0,0,50.0,KDU Prabodhani,0,bowled,Soniya Dabir,2014-03-24,Sri Lanka,Sri Lanka,0,Sylhet Stadium
+8,Soniya Dabir,7.0,5,0,0,140.0,notOut,notOut,notOut,notOut,2014-03-26,India,England,0,Sylhet Stadium
+3,Soniya Dabir,8.0,8,1,0,100.0,Rumana Ahmed,0,bowled,Soniya Dabir,2014-03-30,India,India,0,Sylhet Stadium
+5,Soniya Dabir,9.0,8,1,0,112.5,Asmavia Iqbal,['Batool Fatima'],stumped,Soniya Dabir,2014-04-02,Pakistan,India,0,Sylhet Stadium
+4,V Kohli,26.0,21,3,1,123.80952380952381,notOut,notOut,notOut,notOut,2010-06-12,India,India,0,Harare Sports Club
+0,V Kohli,28.0,19,5,0,147.36842105263156,J Botha,0,bowled,V Kohli,2011-01-09,India,India,0,Moses Mabhida Stadium
+2,V Kohli,14.0,12,2,0,116.66666666666667,DJG Sammy,['DP Hyatt'],caught,V Kohli,2011-06-04,India,India,0,"Queen's Park Oval, Port of Spain"
+3,V Kohli,4.0,5,0,0,80.0,SCJ Broad,['C Kieswetter'],caught,V Kohli,2011-08-31,India,England,0,Old Trafford
+2,V Kohli,15.0,16,3,0,93.75,TT Bresnan,['AD Hales'],caught,V Kohli,2011-10-29,England,England,0,Eden Gardens
+2,V Kohli,22.0,22,0,1,100.0,GB Hogg,['DA Warner'],caught,V Kohli,2012-02-01,India,Australia,0,Stadium Australia
+2,V Kohli,31.0,25,3,0,124.0,MR Marsh,['MS Wade'],caught,V Kohli,2012-02-03,India,India,0,Melbourne Cricket Ground
+2,V Kohli,68.0,50,11,1,136.0,RMS Eranga,['HDRL Thirimanne'],caught,V Kohli,2012-08-07,India,India,0,Pallekele International Cricket Stadium
+1,V Kohli,70.0,41,10,1,170.73170731707316,JEC Franklin,['TG Southee (sub)'],caught,V Kohli,2012-09-11,New Zealand,New Zealand,0,"MA Chidambaram Stadium, Chepauk"
+2,V Kohli,50.0,39,4,2,128.2051282051282,Dawlat Zadran,['Mohammad Nabi'],caught,V Kohli,2012-09-19,India,India,0,R Premadasa Stadium
+2,V Kohli,40.0,32,6,0,125.0,GP Swann,['JM Bairstow'],caught,V Kohli,2012-09-23,India,India,0,R Premadasa Stadium
+3,V Kohli,15.0,13,2,0,115.38461538461537,PJ Cummins,['DT Christian'],caught,V Kohli,2012-09-28,India,Australia,0,R Premadasa Stadium
+1,V Kohli,78.0,61,8,2,127.86885245901641,notOut,notOut,notOut,notOut,2012-09-30,Pakistan,India,0,R Premadasa Stadium
+2,V Kohli,2.0,6,0,0,33.33333333333333,JH Kallis,['AB de Villiers'],caught,V Kohli,2012-10-02,South Africa,India,0,R Premadasa Stadium
+2,V Kohli,21.0,18,2,0,116.66666666666667,SC Meaker,0,bowled,V Kohli,2012-12-20,England,India,0,Subrata Roy Sahara Stadium
+2,V Kohli,38.0,22,7,0,172.72727272727272,SC Meaker,0,lbw,V Kohli,2012-12-22,England,England,0,Wankhede Stadium
+2,V Kohli,9.0,11,1,0,81.81818181818183,Mohammad Irfan,['Kamran Akmal'],caught,V Kohli,2012-12-25,Pakistan,Pakistan,0,M Chinnaswamy Stadium
+2,V Kohli,27.0,22,3,0,122.72727272727273,notOut,notOut,notOut,notOut,2012-12-28,Pakistan,India,0,"Sardar Patel Stadium, Motera"
+3,V Kohli,29.0,23,2,1,126.08695652173914,CJ McKay,['JP Faulkner'],caught,V Kohli,2013-10-10,Australia,India,0,Saurashtra Cricket Association Stadium
+2,V Kohli,36.0,34,4,1,105.88235294117648,notOut,notOut,notOut,notOut,2014-03-21,Pakistan,India,0,Shere Bangla National Stadium
+2,V Kohli,54.0,42,5,1,128.57142857142858,AD Russell,0,bowled,V Kohli,2014-03-23,West Indies,India,0,Shere Bangla National Stadium
+2,V Kohli,57.0,53,3,1,107.54716981132076,notOut,notOut,notOut,notOut,2014-03-28,India,India,0,Shere Bangla National Stadium
+2,V Kohli,23.0,23,2,1,100.0,JM Muirhead,['CL White'],caught,V Kohli,2014-03-30,India,India,0,Shere Bangla National Stadium
+2,V Kohli,72.0,46,5,2,156.52173913043478,notOut,notOut,notOut,notOut,2014-04-04,South Africa,India,0,Shere Bangla National Stadium
+2,V Kohli,77.0,59,5,4,130.5084745762712,SL Malinga,['SMSM Senanayake'],run out,V Kohli,2014-04-06,Sri Lanka,Sri Lanka,0,Shere Bangla National Stadium
+2,V Kohli,66.0,42,9,1,157.14285714285714,ST Finn,['AD Hales'],caught,V Kohli,2014-09-07,India,England,0,Edgbaston
+2,V Kohli,43.0,31,1,3,138.70967741935485,KJ Abbott,['JP Duminy'],caught,V Kohli,2015-10-02,South Africa,South Africa,0,Himachal Pradesh Cricket Association Stadium
+2,V Kohli,1.0,1,0,0,100.0,K Rabada,"['CH Morris', 'AB de Villiers']",run out,V Kohli,2015-10-05,South Africa,South Africa,0,Barabati Stadium
+2,V Kohli,90.0,57,9,2,157.89473684210526,notOut,notOut,notOut,notOut,2016-01-26,India,India,0,Adelaide Oval
+2,V Kohli,59.0,33,7,1,178.78787878787878,SR Watson,"['GJ Maxwell', 'MS Wade']",run out,RG Sharma,2016-01-29,India,India,0,Melbourne Cricket Ground
+2,V Kohli,50.0,37,2,1,135.13513513513513,CJ Boyce,0,bowled,V Kohli,2016-01-31,India,India,0,Sydney Cricket Ground
+2,V Kohli,8.0,13,1,0,61.53846153846154,Mashrafe Mortaza,['Mahmudullah'],caught,V Kohli,2016-02-24,India,India,0,Shere Bangla National Stadium
+1,V Kohli,49.0,52,7,0,94.23076923076923,Mohammad Sami,0,lbw,V Kohli,2016-02-27,Pakistan,India,0,Shere Bangla National Stadium
+2,V Kohli,56.0,47,7,0,119.14893617021276,notOut,notOut,notOut,notOut,2016-03-01,Sri Lanka,India,0,Shere Bangla National Stadium
+2,V Kohli,41.0,28,5,0,146.42857142857142,notOut,notOut,notOut,notOut,2016-03-06,India,India,0,Shere Bangla National Stadium
+2,V Kohli,23.0,28,2,0,82.14285714285714,IS Sodhi,['L Ronchi'],caught,V Kohli,2016-03-15,New Zealand,New Zealand,0,"Vidarbha Cricket Association Stadium, Jamtha"
+2,V Kohli,24.0,24,0,1,100.0,Shuvagata Hom,0,bowled,V Kohli,2016-03-23,Bangladesh,India,0,M Chinnaswamy Stadium
+2,V Kohli,82.0,52,9,2,157.69230769230768,notOut,notOut,notOut,notOut,2016-03-27,Australia,India,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+2,V Kohli,89.0,47,11,1,189.36170212765958,notOut,notOut,notOut,notOut,2016-03-31,West Indies,West Indies,0,Wankhede Stadium
+2,V Kohli,16.0,9,3,0,177.77777777777777,DJ Bravo,['ADS Fletcher'],caught,V Kohli,2016-08-27,West Indies,West Indies,0,Central Broward Regional Park Stadium Turf Ground
+0,V Kohli,29.0,27,4,0,107.40740740740742,MM Ali,['EJG Morgan'],caught,V Kohli,2017-01-26,England,England,0,Green Park
+0,V Kohli,21.0,15,2,1,140.0,CJ Jordan,['LA Dawson'],caught,V Kohli,2017-01-29,England,India,0,"Vidarbha Cricket Association Stadium, Jamtha"
+0,V Kohli,2.0,5,0,0,40.0,CJ Jordan,['CJ Jordan'],run out,V Kohli,2017-02-01,England,India,0,M Chinnaswamy Stadium
+0,V Kohli,39.0,25,7,1,156.0,KOK Williams,['SP Narine'],caught,V Kohli,2017-07-09,India,West Indies,0,"Sabina Park, Kingston"
+5,V Krishnamurthy,1.0,4,0,0,25.0,HL Colvin,"['LA Marsh', 'SJ Taylor']",run out,V Krishnamurthy,2011-06-26,India,England,0,County Ground
+4,V Krishnamurthy,1.0,4,0,0,25.0,A Brindle,['SE Rowe'],caught,V Krishnamurthy,2012-06-26,India,England,0,St Lawrence Ground
+4,V Krishnamurthy,36.0,24,0,2,150.0,notOut,notOut,notOut,notOut,2016-03-15,Bangladesh,India,0,M Chinnaswamy Stadium
+4,V Krishnamurthy,24.0,20,3,0,120.0,Sana Mir,0,caught and bowled,V Krishnamurthy,2016-03-19,Pakistan,Pakistan,0,Feroz Shah Kotla
+6,V Krishnamurthy,2.0,6,0,0,33.33333333333333,HC Knight,0,bowled,V Krishnamurthy,2016-03-22,England,England,0,Himachal Pradesh Cricket Association Stadium
+1,V Krishnamurthy,18.0,18,4,0,100.0,DJS Dottin,['SACA King'],caught,V Krishnamurthy,2016-03-27,West Indies,West Indies,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+3,V Krishnamurthy,2.0,6,0,0,33.33333333333333,Sadia Yousuf,0,lbw,V Krishnamurthy,2016-12-04,Pakistan,India,0,Asian Institute of Technology Ground
+0,V Sehwag,34.0,31,5,1,109.6774193548387,notOut,notOut,notOut,notOut,2006-12-01,India,India,0,New Wanderers Stadium
+2,V Sehwag,5.0,3,1,0,166.66666666666669,Mohammad Asif,0,bowled,V Sehwag,2007-09-14,Pakistan,0,0,Kingsmead
+1,V Sehwag,40.0,18,6,2,222.22222222222223,JDP Oram,['SB Styris'],caught,V Sehwag,2007-09-16,New Zealand,New Zealand,0,New Wanderers Stadium
+1,V Sehwag,68.0,57,4,3,119.29824561403508,CT Tremlett,0,bowled,V Sehwag,2007-09-19,India,India,0,Kingsmead
+1,V Sehwag,11.0,11,1,0,100.0,M Ntini,['MV Boucher'],caught,V Sehwag,2007-09-20,India,India,0,Kingsmead
+1,V Sehwag,9.0,13,1,0,69.23076923076923,MG Johnson,['AC Gilchrist'],caught,V Sehwag,2007-09-22,India,India,0,Kingsmead
+1,V Sehwag,5.0,4,1,0,125.0,B Lee,['AC Gilchrist'],caught,V Sehwag,2007-10-20,Australia,India,0,Brabourne Stadium
+1,V Sehwag,0.0,3,0,0,0.0,B Lee,['MJ Clarke'],run out,V Sehwag,2008-02-01,India,Australia,0,Melbourne Cricket Ground
+2,V Sehwag,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2009-02-10,India,India,0,R Premadasa Stadium
+1,V Sehwag,26.0,10,0,4,260.0,IE O'Brien,0,bowled,V Sehwag,2009-02-25,India,New Zealand,0,AMI Stadium
+1,V Sehwag,24.0,11,5,0,218.18181818181816,IE O'Brien,['DL Vettori'],caught,V Sehwag,2009-02-27,India,New Zealand,0,Westpac Stadium
+1,V Sehwag,26.0,15,3,1,173.33333333333334,KMDN Kulasekara,['AD Mathews'],caught,V Sehwag,2009-12-09,Sri Lanka,Sri Lanka,0,"Vidarbha Cricket Association Stadium, Jamtha"
+1,V Sehwag,64.0,39,7,3,164.1025641025641,SL Malinga,['K Weeraratne'],caught,V Sehwag,2009-12-12,Sri Lanka,India,0,"Punjab Cricket Association Stadium, Mohali"
+1,V Sehwag,4.0,3,1,0,133.33333333333331,B Lee,['DJ Hussey'],caught,V Sehwag,2012-02-01,India,Australia,0,Stadium Australia
+1,V Sehwag,23.0,16,2,1,143.75,GB Hogg,['SE Marsh'],caught,V Sehwag,2012-02-03,India,India,0,Melbourne Cricket Ground
+1,V Sehwag,8.0,10,1,0,80.0,Shapoor Zadran,['Mohammad Shahzad'],caught,V Sehwag,2012-09-19,India,India,0,R Premadasa Stadium
+2,V Sehwag,29.0,25,4,0,115.99999999999999,Shahid Afridi,['Umar Gul'],caught,V Sehwag,2012-09-30,Pakistan,India,0,R Premadasa Stadium
+1,V Sehwag,17.0,14,1,1,121.42857142857142,RJ Peterson,0,bowled,V Sehwag,2012-10-02,South Africa,India,0,R Premadasa Stadium
+1,VR Vanitha,38.0,24,7,0,158.33333333333331,Nahida Akter,0,bowled,VR Vanitha,2016-03-15,Bangladesh,India,0,M Chinnaswamy Stadium
+1,VR Vanitha,2.0,7,0,0,28.57142857142857,Anam Amin,['Sana Mir'],caught,VR Vanitha,2016-03-19,Pakistan,Pakistan,0,Feroz Shah Kotla
+0,VR Vanitha,0.0,3,0,0,0.0,HC Knight,['LS Greenway'],caught,VR Vanitha,2016-03-22,England,England,0,Himachal Pradesh Cricket Association Stadium
+1,YK Pathan,15.0,8,1,1,187.5,Mohammad Asif,['Shoaib Malik'],caught,YK Pathan,2007-09-24,Pakistan,India,0,New Wanderers Stadium
+8,YK Pathan,22.0,11,1,2,200.0,notOut,notOut,notOut,notOut,2009-02-10,India,India,0,R Premadasa Stadium
+6,YK Pathan,20.0,8,0,3,250.0,NL McCullum,['JDP Oram'],caught,YK Pathan,2009-02-25,India,New Zealand,0,AMI Stadium
+5,YK Pathan,0.0,2,0,0,0.0,DL Vettori,0,bowled,YK Pathan,2009-02-27,India,New Zealand,0,Westpac Stadium
+5,YK Pathan,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2009-06-06,India,India,0,Trent Bridge
+5,YK Pathan,31.0,24,3,1,129.16666666666669,DJ Bravo,0,bowled,YK Pathan,2009-06-12,West Indies,West Indies,0,Lord's
+6,YK Pathan,33.0,17,1,2,194.11764705882354,notOut,notOut,notOut,notOut,2009-06-14,India,England,0,Lord's
+6,YK Pathan,0.0,2,0,0,0.0,RE van der Merwe,['AB de Villiers'],caught,YK Pathan,2009-06-16,South Africa,South Africa,0,Trent Bridge
+6,YK Pathan,0.0,2,0,0,0.0,ST Jayasuriya,['SL Malinga'],caught,YK Pathan,2009-12-09,Sri Lanka,Sri Lanka,0,"Vidarbha Cricket Association Stadium, Jamtha"
+4,YK Pathan,11.0,7,0,1,157.14285714285714,DW Steyn,['RE van der Merwe'],caught,YK Pathan,2010-05-02,South Africa,India,0,"Beausejour Stadium, Gros Islet"
+6,YK Pathan,1.0,7,0,0,14.285714285714285,MG Johnson,['DA Warner'],caught,YK Pathan,2010-05-07,India,Australia,0,"Kensington Oval, Bridgetown"
+6,YK Pathan,17.0,12,0,2,141.66666666666669,JE Taylor,['WW Hinds'],caught,YK Pathan,2010-05-09,India,West Indies,0,"Kensington Oval, Bridgetown"
+5,YK Pathan,13.0,9,2,0,144.44444444444443,NLTC Perera,['CK Kapugedera'],caught,YK Pathan,2010-05-11,Sri Lanka,Sri Lanka,0,"Beausejour Stadium, Gros Islet"
+5,YK Pathan,37.0,26,2,3,142.30769230769232,notOut,notOut,notOut,notOut,2010-06-12,India,India,0,Harare Sports Club
+3,YK Pathan,4.0,7,0,0,57.14285714285714,TL Chatara,['H Masakadza'],caught,YK Pathan,2010-06-13,India,India,0,Harare Sports Club
+4,YK Pathan,6.0,9,0,0,66.66666666666666,RJ Peterson,"['DA Miller', 'RJ Peterson']",run out,Yuvraj Singh,2011-01-09,India,India,0,Moses Mabhida Stadium
+5,YK Pathan,6.0,9,0,0,66.66666666666666,J Theron,0,bowled,YK Pathan,2011-01-09,India,India,0,Moses Mabhida Stadium
+6,YK Pathan,15.0,8,0,2,187.5,notOut,notOut,notOut,notOut,2011-06-04,India,India,0,"Queen's Park Oval, Port of Spain"
+7,YK Pathan,10.0,12,1,0,83.33333333333334,RS Bopara,0,bowled,YK Pathan,2011-10-29,England,England,0,Eden Gardens
+3,Yuvraj Singh,1.0,4,0,0,25.0,Mohammad Asif,['Shoaib Malik'],caught,Yuvraj Singh,2007-09-14,Pakistan,0,0,Kingsmead
+4,Yuvraj Singh,5.0,7,0,0,71.42857142857143,JS Patel,['LRPL Taylor'],caught,Yuvraj Singh,2007-09-16,New Zealand,New Zealand,0,New Wanderers Stadium
+4,Yuvraj Singh,58.0,16,3,7,362.5,A Flintoff,['PD Collingwood'],caught,Yuvraj Singh,2007-09-19,India,India,0,Kingsmead
+3,Yuvraj Singh,70.0,31,5,5,225.80645161290326,MJ Clarke,['MEK Hussey'],caught,Yuvraj Singh,2007-09-22,India,India,0,Kingsmead
+3,Yuvraj Singh,14.0,20,1,0,70.0,Umar Gul,0,caught and bowled,Yuvraj Singh,2007-09-24,Pakistan,India,0,New Wanderers Stadium
+3,Yuvraj Singh,31.0,25,1,3,124.0,notOut,notOut,notOut,notOut,2007-10-20,Australia,India,0,Brabourne Stadium
+3,Yuvraj Singh,32.0,24,3,2,133.33333333333331,J Mubarak,['TM Dilshan'],caught,Yuvraj Singh,2009-02-10,India,India,0,R Premadasa Stadium
+4,Yuvraj Singh,1.0,3,0,0,33.33333333333333,DL Vettori,0,lbw,Yuvraj Singh,2009-02-25,India,New Zealand,0,AMI Stadium
+3,Yuvraj Singh,50.0,34,3,4,147.05882352941177,IE O'Brien,['JDP Oram'],caught,Yuvraj Singh,2009-02-27,India,New Zealand,0,Westpac Stadium
+3,Yuvraj Singh,41.0,21,3,4,195.23809523809524,Shahadat Hossain,['Tamim Iqbal'],caught,Yuvraj Singh,2009-06-06,India,India,0,Trent Bridge
+3,Yuvraj Singh,3.0,6,0,0,50.0,notOut,notOut,notOut,notOut,2009-06-10,Ireland,India,0,Trent Bridge
+3,Yuvraj Singh,67.0,44,6,2,152.27272727272728,FH Edwards,0,caught and bowled,Yuvraj Singh,2009-06-12,West Indies,West Indies,0,Lord's
+4,Yuvraj Singh,17.0,10,0,2,170.0,GP Swann,['JS Foster'],stumped,Yuvraj Singh,2009-06-14,India,England,0,Lord's
+3,Yuvraj Singh,25.0,27,1,1,92.5925925925926,M Morkel,"['MV Boucher', 'M Morkel']",run out,MS Dhoni,2009-06-16,South Africa,South Africa,0,Trent Bridge
+4,Yuvraj Singh,25.0,27,1,1,92.5925925925926,DW Steyn,['MV Boucher'],caught,Yuvraj Singh,2009-06-16,South Africa,South Africa,0,Trent Bridge
+3,Yuvraj Singh,6.0,8,0,0,75.0,AD Mathews,['KMDN Kulasekara'],caught,Yuvraj Singh,2009-12-09,Sri Lanka,Sri Lanka,0,"Vidarbha Cricket Association Stadium, Jamtha"
+3,Yuvraj Singh,60.0,27,3,5,222.22222222222223,notOut,notOut,notOut,notOut,2009-12-12,Sri Lanka,India,0,"Punjab Cricket Association Stadium, Mohali"
+3,Yuvraj Singh,23.0,24,0,1,95.83333333333334,notOut,notOut,notOut,notOut,2010-05-01,India,India,0,"Beausejour Stadium, Gros Islet"
+3,Yuvraj Singh,37.0,31,3,2,119.35483870967742,RK Kleinveldt,['GC Smith'],caught,Yuvraj Singh,2010-05-02,South Africa,India,0,"Beausejour Stadium, Gros Islet"
+4,Yuvraj Singh,1.0,2,0,0,50.0,DP Nannes,0,bowled,Yuvraj Singh,2010-05-07,India,Australia,0,"Kensington Oval, Bridgetown"
+4,Yuvraj Singh,12.0,15,1,0,80.0,SJ Benn,['S Chanderpaul'],caught,Yuvraj Singh,2010-05-09,India,West Indies,0,"Kensington Oval, Bridgetown"
+4,Yuvraj Singh,1.0,2,0,0,50.0,T Thushara,['DPMD Jayawardene'],caught,Yuvraj Singh,2010-05-11,Sri Lanka,Sri Lanka,0,"Beausejour Stadium, Gros Islet"
+3,Yuvraj Singh,12.0,13,1,0,92.3076923076923,notOut,notOut,notOut,notOut,2011-01-09,India,India,0,Moses Mabhida Stadium
+3,Yuvraj Singh,34.0,27,1,2,125.92592592592592,JEC Franklin,0,bowled,Yuvraj Singh,2012-09-11,New Zealand,New Zealand,0,"MA Chidambaram Stadium, Chepauk"
+3,Yuvraj Singh,18.0,24,0,1,75.0,Karim Sadiq,['Shapoor Zadran'],caught,Yuvraj Singh,2012-09-19,India,India,0,R Premadasa Stadium
+4,Yuvraj Singh,8.0,10,1,0,80.0,SR Watson,['GJ Maxwell'],caught,Yuvraj Singh,2012-09-28,India,Australia,0,R Premadasa Stadium
+3,Yuvraj Singh,19.0,16,2,0,118.75,notOut,notOut,notOut,notOut,2012-09-30,Pakistan,India,0,R Premadasa Stadium
+4,Yuvraj Singh,21.0,15,1,2,140.0,M Morkel,0,bowled,Yuvraj Singh,2012-10-02,South Africa,India,0,R Premadasa Stadium
+3,Yuvraj Singh,38.0,22,2,3,172.72727272727272,LJ Wright,['SC Meaker'],caught,Yuvraj Singh,2012-12-20,England,India,0,Subrata Roy Sahara Stadium
+3,Yuvraj Singh,4.0,6,0,0,66.66666666666666,LJ Wright,['JE Root'],caught,Yuvraj Singh,2012-12-22,England,England,0,Wankhede Stadium
+3,Yuvraj Singh,10.0,12,0,1,83.33333333333334,Umar Gul,['Umar Akmal'],caught,Yuvraj Singh,2012-12-25,Pakistan,Pakistan,0,M Chinnaswamy Stadium
+3,Yuvraj Singh,72.0,36,4,7,200.0,Sohail Tanvir,['Saeed Ajmal'],run out,V Kohli,2012-12-28,Pakistan,India,0,"Sardar Patel Stadium, Motera"
+4,Yuvraj Singh,72.0,36,4,7,200.0,Umar Gul,['Shoaib Malik'],caught,Yuvraj Singh,2012-12-28,Pakistan,India,0,"Sardar Patel Stadium, Motera"
+4,Yuvraj Singh,77.0,38,8,5,202.6315789473684,notOut,notOut,notOut,notOut,2013-10-10,Australia,India,0,Saurashtra Cricket Association Stadium
+3,Yuvraj Singh,1.0,2,0,0,50.0,Bilawal Bhatti,0,bowled,Yuvraj Singh,2014-03-21,Pakistan,India,0,Shere Bangla National Stadium
+3,Yuvraj Singh,10.0,19,1,0,52.63157894736842,MN Samuels,['CH Gayle'],caught,Yuvraj Singh,2014-03-23,West Indies,India,0,Shere Bangla National Stadium
+3,Yuvraj Singh,60.0,45,5,4,133.33333333333331,SR Watson,['GJ Maxwell'],caught,Yuvraj Singh,2014-03-30,India,India,0,Shere Bangla National Stadium
+3,Yuvraj Singh,18.0,18,2,0,100.0,Imran Tahir,['AB de Villiers'],caught,Yuvraj Singh,2014-04-04,South Africa,India,0,Shere Bangla National Stadium
+3,Yuvraj Singh,11.0,21,0,0,52.38095238095239,KMDN Kulasekara,['NLTC Perera'],caught,Yuvraj Singh,2014-04-06,Sri Lanka,Sri Lanka,0,Shere Bangla National Stadium
+4,Yuvraj Singh,15.0,12,1,1,125.0,notOut,notOut,notOut,notOut,2016-01-31,India,India,0,Sydney Cricket Ground
+4,Yuvraj Singh,10.0,14,0,1,71.42857142857143,PVD Chameera,0,caught and bowled,Yuvraj Singh,2016-02-09,Sri Lanka,Sri Lanka,0,Maharashtra Cricket Association Stadium
+5,Yuvraj Singh,0.0,1,0,0,0.0,NLTC Perera,['SMSM Senanayake'],caught,Yuvraj Singh,2016-02-12,Sri Lanka,India,0,JSCA International Stadium Complex
+4,Yuvraj Singh,15.0,16,1,0,93.75,Shakib Al Hasan,['Soumya Sarkar'],caught,Yuvraj Singh,2016-02-24,India,India,0,Shere Bangla National Stadium
+4,Yuvraj Singh,14.0,34,2,0,41.17647058823529,notOut,notOut,notOut,notOut,2016-02-27,Pakistan,India,0,Shere Bangla National Stadium
+4,Yuvraj Singh,35.0,19,3,3,184.21052631578948,NLTC Perera,['KMDN Kulasekara'],caught,Yuvraj Singh,2016-03-01,Sri Lanka,India,0,Shere Bangla National Stadium
+2,Yuvraj Singh,25.0,14,4,1,178.57142857142858,notOut,notOut,notOut,notOut,2016-03-03,United Arab Emirates,India,0,Shere Bangla National Stadium
+4,Yuvraj Singh,4.0,5,1,0,80.0,NL McCullum,0,caught and bowled,Yuvraj Singh,2016-03-15,New Zealand,New Zealand,0,"Vidarbha Cricket Association Stadium, Jamtha"
+5,Yuvraj Singh,3.0,6,0,0,50.0,Mahmudullah,['Al-Amin Hossain'],caught,Yuvraj Singh,2016-03-23,Bangladesh,India,0,M Chinnaswamy Stadium
+4,Yuvraj Singh,21.0,18,1,1,116.66666666666667,JP Faulkner,['SR Watson'],caught,Yuvraj Singh,2016-03-27,Australia,India,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+3,Yuvraj Singh,12.0,13,1,0,92.3076923076923,LE Plunkett,['AU Rashid'],caught,Yuvraj Singh,2017-01-26,England,England,0,Green Park
+3,Yuvraj Singh,4.0,12,0,0,33.33333333333333,MM Ali,0,lbw,Yuvraj Singh,2017-01-29,England,India,0,"Vidarbha Cricket Association Stadium, Jamtha"
+4,Yuvraj Singh,27.0,11,1,3,245.45454545454547,TS Mills,['JC Buttler'],caught,Yuvraj Singh,2017-02-01,England,India,0,M Chinnaswamy Stadium
+9,Z Khan,4.0,3,0,0,133.33333333333331,DW Steyn,['AB de Villiers'],caught,Z Khan,2009-06-16,South Africa,South Africa,0,Trent Bridge
+9,Z Khan,9.0,6,0,1,150.0,SW Tait,['MJ Clarke'],caught,Z Khan,2010-05-07,India,Australia,0,"Kensington Oval, Bridgetown"
+11,Z Khan,0.0,1,0,0,0.0,notOut,notOut,notOut,notOut,2010-05-09,India,West Indies,0,"Kensington Oval, Bridgetown"

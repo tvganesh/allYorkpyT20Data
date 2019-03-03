@@ -1,0 +1,970 @@
+,batsman,runs,balls,4s,6s,SR,bowler,fielders,kind,player_out,date,team2,winner,result,venue
+9,AC Kerr,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2016-11-21,Pakistan,New Zealand,0,Saxton Oval
+9,AC Kerr,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2017-02-22,New Zealand,New Zealand,0,Adelaide Oval
+3,AE Satterthwaite,10.0,16,1,0,62.5,A Sharma,['M Raj'],run out,AE Satterthwaite,2009-06-18,New Zealand,New Zealand,0,Trent Bridge
+5,AE Satterthwaite,4.0,8,0,0,50.0,EA Perry,0,bowled,AE Satterthwaite,2010-05-16,New Zealand,Australia,0,"Kensington Oval, Bridgetown"
+6,AE Satterthwaite,7.0,8,1,0,87.5,S Nitschke,0,lbw,AE Satterthwaite,2010-12-30,Australia,Australia,0,Saxton Oval
+2,AE Satterthwaite,8.0,15,0,0,53.333333333333336,D Hazell,['SE Rowe'],caught,AE Satterthwaite,2012-02-17,England,England,0,Westpac Stadium
+3,AE Satterthwaite,17.0,17,1,0,100.0,DN Wyatt,['A Shrubsole'],caught,AE Satterthwaite,2012-02-19,England,England,0,Seddon Park
+3,AE Satterthwaite,16.0,21,1,0,76.19047619047619,D Hazell,"['A Shrubsole', 'D Hazell']",run out,KT Perkins,2012-02-22,England,England,0,Eden Park
+4,AE Satterthwaite,16.0,21,1,0,76.19047619047619,DN Wyatt,0,lbw,AE Satterthwaite,2012-02-22,England,England,0,Eden Park
+1,AE Satterthwaite,15.0,21,3,0,71.42857142857143,SR Taylor,0,caught and bowled,AE Satterthwaite,2012-09-26,West Indies,West Indies,0,Galle International Stadium
+1,AE Satterthwaite,2.0,7,0,0,28.57142857142857,SM Benade,0,bowled,AE Satterthwaite,2012-09-28,South Africa,New Zealand,0,Galle International Stadium
+1,AE Satterthwaite,32.0,40,3,0,80.0,notOut,notOut,notOut,notOut,2012-09-30,New Zealand,New Zealand,0,Galle International Stadium
+2,AE Satterthwaite,30.0,40,3,0,75.0,HL Colvin,['JL Gunn'],caught,AE Satterthwaite,2012-10-04,New Zealand,England,0,R Premadasa Stadium
+4,AE Satterthwaite,13.0,15,1,0,86.66666666666667,notOut,notOut,notOut,notOut,2016-03-15,Sri Lanka,New Zealand,0,Feroz Shah Kotla
+4,AE Satterthwaite,7.0,5,1,0,140.0,notOut,notOut,notOut,notOut,2016-03-18,New Zealand,New Zealand,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+5,AE Satterthwaite,16.0,12,3,0,133.33333333333331,notOut,notOut,notOut,notOut,2016-03-21,New Zealand,New Zealand,0,"Vidarbha Cricket Association Stadium, Jamtha"
+4,AE Satterthwaite,24.0,29,1,0,82.75862068965517,SR Taylor,['SA Campbelle'],caught,AE Satterthwaite,2016-03-31,West Indies,West Indies,0,Wankhede Stadium
+3,AE Satterthwaite,14.0,14,2,0,100.0,Sana Mir,['Aliya Riaz'],caught,AE Satterthwaite,2016-11-21,Pakistan,New Zealand,0,Saxton Oval
+3,AE Satterthwaite,40.0,38,4,0,105.26315789473684,notOut,notOut,notOut,notOut,2017-02-17,New Zealand,Australia,0,Melbourne Cricket Ground
+2,AE Satterthwaite,13.0,13,0,1,100.0,A Gardner,['KM Beams'],caught,AE Satterthwaite,2017-02-19,New Zealand,New Zealand,0,"Simonds Stadium, South Geelong"
+2,AE Satterthwaite,18.0,18,2,0,100.0,KM Beams,['ML Schutt'],caught,AE Satterthwaite,2017-02-22,New Zealand,New Zealand,0,Adelaide Oval
+10,AF Milne,3.0,7,0,0,42.857142857142854,notOut,notOut,notOut,notOut,2010-12-30,Pakistan,Pakistan,0,AMI Stadium
+8,AF Milne,2.0,3,0,0,66.66666666666666,notOut,notOut,notOut,notOut,2014-12-04,Pakistan,Pakistan,0,Dubai International Cricket Stadium
+9,AF Milne,2.0,2,0,0,100.0,notOut,notOut,notOut,notOut,2015-08-14,New Zealand,South Africa,0,Kingsmead
+7,AF Milne,10.0,7,1,0,142.85714285714286,notOut,notOut,notOut,notOut,2015-08-16,New Zealand,New Zealand,0,SuperSport Park
+10,AF Milne,2.0,2,0,0,100.0,notOut,notOut,notOut,notOut,2016-01-15,Pakistan,Pakistan,0,Eden Park
+8,AF Milne,2.0,2,0,0,100.0,NM Coulter-Nile,['PM Nevill'],run out,GD Elliott,2016-03-18,New Zealand,New Zealand,0,Himachal Pradesh Cricket Association Stadium
+11,AJ McKay,0.0,1,0,0,0.0,SL Malinga,0,bowled,AJ McKay,2010-05-23,Sri Lanka,Sri Lanka,0,Central Broward Regional Park Stadium Turf Ground
+1,AJ Redmond,63.0,30,13,0,210.0,AR Cusack,0,lbw,AJ Redmond,2009-06-11,New Zealand,New Zealand,0,Trent Bridge
+1,AJ Redmond,15.0,14,2,0,107.14285714285714,Mohammad Amir,['Umar Gul'],caught,AJ Redmond,2009-06-13,Pakistan,Pakistan,0,Kennington Oval
+1,AJ Redmond,23.0,13,3,1,176.9230769230769,SL Malinga,['LPC Silva'],caught,AJ Redmond,2009-06-16,Sri Lanka,Sri Lanka,0,Trent Bridge
+2,AJ Redmond,16.0,15,0,1,106.66666666666667,GP Swann,['SCJ Broad'],caught,AJ Redmond,2010-05-10,New Zealand,England,0,"Beausejour Stadium, Gros Islet"
+1,AJ Redmond,8.0,10,1,0,80.0,AD Mathews,['SL Malinga'],caught,AJ Redmond,2010-05-22,Sri Lanka,New Zealand,0,Central Broward Regional Park Stadium Turf Ground
+1,AJ Redmond,1.0,2,0,0,50.0,KMDN Kulasekara,0,lbw,AJ Redmond,2010-05-23,Sri Lanka,Sri Lanka,0,Central Broward Regional Park Stadium Turf Ground
+2,AL Watkins,89.0,62,10,2,143.5483870967742,notOut,notOut,notOut,notOut,2009-06-18,New Zealand,New Zealand,0,Trent Bridge
+1,AL Watkins,20.0,17,3,0,117.64705882352942,A Mohammed,['SACA King'],caught,AL Watkins,2010-05-14,New Zealand,New Zealand,0,"Beausejour Stadium, Gros Islet"
+2,AL Watkins,2.0,5,0,0,40.0,CR Smith,['AJ Blackwell'],caught,AL Watkins,2010-05-16,New Zealand,Australia,0,"Kensington Oval, Bridgetown"
+0,AL Watkins,39.0,35,6,0,111.42857142857143,S Nitschke,['AJ Healy'],stumped,AL Watkins,2010-12-30,Australia,Australia,0,Saxton Oval
+5,AM Ellis,2.0,2,0,0,100.0,notOut,notOut,notOut,notOut,2012-02-14,Zimbabwe,New Zealand,0,Seddon Park
+8,AM Ellis,1.0,3,0,0,33.33333333333333,SP Narine,['DJ Bravo'],caught,AM Ellis,2012-07-01,West Indies,West Indies,0,Central Broward Regional Park Stadium Turf Ground
+6,AM Ellis,16.0,10,1,1,160.0,A Dananjaya,['HDRL Thirimanne'],caught,AM Ellis,2012-10-30,New Zealand,0,0,Pallekele International Cricket Stadium
+7,AM Ellis,4.0,5,0,0,80.0,ST Finn,['LJ Wright'],caught,AM Ellis,2013-02-09,England,England,0,Eden Park
+8,AM Ellis,2.0,1,0,0,200.0,notOut,notOut,notOut,notOut,2013-11-21,New Zealand,Sri Lanka,0,Pallekele International Cricket Stadium
+2,AM Peterson,1.0,3,0,0,33.33333333333333,JL Jonassen,0,bowled,AM Peterson,2017-02-17,New Zealand,Australia,0,Melbourne Cricket Ground
+6,AM Peterson,9.0,8,1,0,112.5,M Strano,['AJ Blackwell'],caught,AM Peterson,2017-02-19,New Zealand,New Zealand,0,"Simonds Stadium, South Geelong"
+4,AM Peterson,15.0,21,1,0,71.42857142857143,M Strano,"['MM Lanning', 'M Strano']",run out,AM Peterson,2017-02-22,New Zealand,New Zealand,0,Adelaide Oval
+0,AP Devcich,59.0,32,10,1,184.375,Abdur Razzak,['Shamsur Rahman'],caught,AP Devcich,2013-11-06,New Zealand,New Zealand,0,Shere Bangla National Stadium
+1,AP Devcich,30.0,23,4,1,130.43478260869566,BAW Mendis,['KMDN Kulasekara'],caught,AP Devcich,2013-11-21,New Zealand,Sri Lanka,0,Pallekele International Cricket Stadium
+2,AP Devcich,1.0,5,0,0,20.0,Sohail Tanvir,0,lbw,AP Devcich,2014-12-04,Pakistan,Pakistan,0,Dubai International Cricket Stadium
+0,AP Devcich,21.0,21,3,0,100.0,Mohammad Hafeez,0,bowled,AP Devcich,2014-12-05,Pakistan,New Zealand,0,Dubai International Cricket Stadium
+7,AR Adams,7.0,7,1,0,100.0,A Symonds,['GD McGrath'],run out,AR Adams,2005-02-17,Australia,Australia,0,Eden Park
+7,AR Adams,6.0,5,0,0,120.0,notOut,notOut,notOut,notOut,2006-12-22,Sri Lanka,Sri Lanka,0,Westpac Stadium
+0,BB McCullum,36.0,25,5,1,144.0,MS Kasprowicz,['RT Ponting'],caught,BB McCullum,2005-02-17,Australia,Australia,0,Eden Park
+6,BB McCullum,17.0,9,1,1,188.88888888888889,notOut,notOut,notOut,notOut,2005-10-21,New Zealand,New Zealand,0,New Wanderers Stadium
+7,BB McCullum,4.0,10,0,0,40.0,DR Smith,0,bowled,BB McCullum,2006-02-16,West Indies,0,0,Eden Park
+0,BB McCullum,39.0,22,2,4,177.27272727272728,M Muralitharan,['WU Tharanga'],caught,BB McCullum,2006-12-22,Sri Lanka,Sri Lanka,0,Westpac Stadium
+0,BB McCullum,28.0,30,6,0,93.33333333333333,notOut,notOut,notOut,notOut,2006-12-26,Sri Lanka,New Zealand,0,Eden Park
+1,BB McCullum,16.0,14,1,1,114.28571428571428,notOut,notOut,notOut,notOut,2007-09-12,New Zealand,New Zealand,0,Kingsmead
+1,BB McCullum,10.0,12,0,0,83.33333333333334,CRD Fernando,['SL Malinga'],caught,BB McCullum,2007-09-15,Sri Lanka,Sri Lanka,0,New Wanderers Stadium
+1,BB McCullum,45.0,32,9,0,140.625,Harbhajan Singh,['G Gambhir'],caught,BB McCullum,2007-09-16,New Zealand,New Zealand,0,New Wanderers Stadium
+1,BB McCullum,4.0,5,1,0,80.0,JM Anderson,['VS Solanki'],caught,BB McCullum,2007-09-18,New Zealand,New Zealand,0,Kingsmead
+1,BB McCullum,38.0,27,3,2,140.74074074074073,M Morkel,['MV Boucher'],caught,BB McCullum,2007-09-19,New Zealand,South Africa,0,Kingsmead
+1,BB McCullum,26.0,28,2,0,92.85714285714286,Shahid Afridi,0,lbw,BB McCullum,2007-09-22,Pakistan,Pakistan,0,Newlands
+1,BB McCullum,9.0,9,0,1,100.0,SM Pollock,['JP Duminy'],caught,BB McCullum,2007-11-23,New Zealand,South Africa,0,New Wanderers Stadium
+1,BB McCullum,13.0,17,0,1,76.47058823529412,B Lee,['AC Gilchrist'],caught,BB McCullum,2007-12-11,New Zealand,Australia,0,Western Australia Cricket Association Ground
+1,BB McCullum,9.0,8,0,1,112.5,RJ Sidebottom,['OA Shah'],caught,BB McCullum,2008-02-05,England,England,0,Eden Park
+1,BB McCullum,5.0,9,0,0,55.55555555555556,RJ Sidebottom,0,bowled,BB McCullum,2008-02-07,England,England,0,Jade Stadium
+1,BB McCullum,24.0,23,1,1,104.34782608695652,LJ Wright,0,bowled,BB McCullum,2008-06-13,New Zealand,England,0,Old Trafford
+1,BB McCullum,14.0,12,3,0,116.66666666666667,LS Baker,['SJ Benn'],caught,BB McCullum,2008-12-26,West Indies,0,tie,Eden Park
+1,BB McCullum,59.0,36,6,4,163.88888888888889,CH Gayle,['S Chanderpaul'],caught,BB McCullum,2008-12-28,West Indies,New Zealand,0,Seddon Park
+0,BB McCullum,61.0,48,5,2,127.08333333333333,BW Hilfenhaus,['AC Voges'],caught,BB McCullum,2009-02-15,New Zealand,Australia,0,Sydney Cricket Ground
+1,BB McCullum,56.0,52,2,3,107.6923076923077,notOut,notOut,notOut,notOut,2009-02-25,India,New Zealand,0,AMI Stadium
+1,BB McCullum,69.0,58,8,1,118.96551724137932,notOut,notOut,notOut,notOut,2009-02-27,India,New Zealand,0,Westpac Stadium
+0,BB McCullum,18.0,8,4,0,225.0,notOut,notOut,notOut,notOut,2009-06-06,Scotland,New Zealand,0,Kennington Oval
+0,BB McCullum,57.0,55,6,0,103.63636363636364,RE van der Merwe,['MV Boucher'],stumped,BB McCullum,2009-06-09,South Africa,South Africa,0,Lord's
+0,BB McCullum,10.0,14,0,1,71.42857142857143,WK McCallan,['RM West'],caught,BB McCullum,2009-06-11,New Zealand,New Zealand,0,Trent Bridge
+0,BB McCullum,12.0,6,2,0,200.0,Abdul Razzaq,['Fawad Alam'],caught,BB McCullum,2009-06-13,Pakistan,Pakistan,0,Kennington Oval
+0,BB McCullum,10.0,12,2,0,83.33333333333334,I Udana,['J Mubarak'],caught,BB McCullum,2009-06-16,Sri Lanka,Sri Lanka,0,Trent Bridge
+0,BB McCullum,9.0,9,0,1,100.0,notOut,notOut,notOut,notOut,2009-09-02,New Zealand,New Zealand,0,R Premadasa Stadium
+0,BB McCullum,49.0,34,4,2,144.11764705882354,ST Jayasuriya,0,caught and bowled,BB McCullum,2009-09-04,New Zealand,New Zealand,0,R Premadasa Stadium
+0,BB McCullum,19.0,13,4,0,146.15384615384613,Mohammad Amir,['Fawad Alam'],caught,BB McCullum,2009-11-12,Pakistan,Pakistan,0,Dubai International Cricket Stadium
+0,BB McCullum,47.0,42,3,1,111.90476190476191,Saeed Ajmal,['Shoaib Malik'],caught,BB McCullum,2009-11-13,Pakistan,Pakistan,0,Dubai International Cricket Stadium
+0,BB McCullum,2.0,4,0,0,50.0,SW Tait,['BJ Haddin'],caught,BB McCullum,2010-02-26,Australia,Australia,0,Westpac Stadium
+0,BB McCullum,116.0,57,12,8,203.50877192982458,notOut,notOut,notOut,notOut,2010-02-28,Australia,0,tie,AMI Stadium
+0,BB McCullum,0.0,4,0,0,0.0,AD Mathews,['SL Malinga'],caught,BB McCullum,2010-04-30,Sri Lanka,New Zealand,0,Providence Stadium
+0,BB McCullum,22.0,28,2,0,78.57142857142857,notOut,notOut,notOut,notOut,2010-05-04,Zimbabwe,New Zealand,0,Providence Stadium
+0,BB McCullum,6.0,6,1,0,100.0,CK Langeveldt,['HH Gibbs'],caught,BB McCullum,2010-05-06,South Africa,South Africa,0,"Kensington Oval, Bridgetown"
+0,BB McCullum,33.0,31,5,0,106.4516129032258,Abdur Rehman,['Mohammad Sami'],caught,BB McCullum,2010-05-08,Pakistan,New Zealand,0,"Kensington Oval, Bridgetown"
+0,BB McCullum,33.0,34,4,0,97.05882352941177,GP Swann,['MJ Lumb'],caught,BB McCullum,2010-05-10,New Zealand,England,0,"Beausejour Stadium, Gros Islet"
+0,BB McCullum,18.0,13,2,1,138.46153846153845,KMDN Kulasekara,['AD Mathews'],caught,BB McCullum,2010-05-22,Sri Lanka,New Zealand,0,Central Broward Regional Park Stadium Turf Ground
+0,BB McCullum,1.0,8,0,0,12.5,KMDN Kulasekara,0,bowled,BB McCullum,2010-05-23,Sri Lanka,Sri Lanka,0,Central Broward Regional Park Stadium Turf Ground
+0,BB McCullum,64.0,38,2,6,168.42105263157893,KM Jarvis,0,bowled,BB McCullum,2011-10-17,New Zealand,New Zealand,0,Harare Sports Club
+2,BB McCullum,0.0,2,0,0,0.0,KM Jarvis,['E Chigumbura'],caught,BB McCullum,2012-02-11,Zimbabwe,New Zealand,0,Eden Park
+2,BB McCullum,38.0,24,4,1,158.33333333333331,KM Jarvis,['MN Waller'],caught,BB McCullum,2012-02-14,Zimbabwe,New Zealand,0,Seddon Park
+2,BB McCullum,16.0,17,0,0,94.11764705882352,JP Duminy,0,bowled,BB McCullum,2012-02-17,South Africa,New Zealand,0,Westpac Stadium
+2,BB McCullum,35.0,32,4,1,109.375,J Botha,['JL Ontong'],caught,BB McCullum,2012-02-19,South Africa,South Africa,0,Seddon Park
+3,BB McCullum,18.0,20,1,1,90.0,RJ Peterson,['AB de Villiers'],caught,BB McCullum,2012-02-22,South Africa,South Africa,0,Eden Park
+3,BB McCullum,91.0,56,11,3,162.5,IK Pathan,0,bowled,BB McCullum,2012-09-11,New Zealand,New Zealand,0,"MA Chidambaram Stadium, Chepauk"
+2,BB McCullum,123.0,58,12,7,212.06896551724137,Abdur Razzak,['Tamim Iqbal'],caught,BB McCullum,2012-09-21,New Zealand,New Zealand,0,Pallekele International Cricket Stadium
+2,BB McCullum,32.0,33,4,1,96.96969696969697,Mohammad Hafeez,"['Nasir Jamshed', 'Mohammad Hafeez']",run out,KS Williamson,2012-09-23,Pakistan,Pakistan,0,Pallekele International Cricket Stadium
+3,BB McCullum,32.0,33,4,1,96.96969696969697,Umar Gul,0,bowled,BB McCullum,2012-09-23,Pakistan,Pakistan,0,Pallekele International Cricket Stadium
+2,BB McCullum,25.0,16,0,2,156.25,BAW Mendis,['NLTC Perera'],caught,BB McCullum,2012-09-27,New Zealand,0,tie,Pallekele International Cricket Stadium
+2,BB McCullum,10.0,11,2,0,90.9090909090909,ST Finn,['LJ Wright'],caught,BB McCullum,2012-09-29,New Zealand,England,0,Pallekele International Cricket Stadium
+2,BB McCullum,22.0,18,3,0,122.22222222222223,S Badree,0,bowled,BB McCullum,2012-10-01,West Indies,0,tie,Pallekele International Cricket Stadium
+2,BB McCullum,1.0,11,0,0,9.090909090909092,KMDN Kulasekara,['NLTC Perera'],caught,BB McCullum,2012-10-30,New Zealand,0,0,Pallekele International Cricket Stadium
+2,BB McCullum,6.0,11,1,0,54.54545454545454,RK Kleinveldt,['DW Steyn'],caught,BB McCullum,2012-12-21,New Zealand,South Africa,0,Kingsmead
+2,BB McCullum,17.0,15,2,0,113.33333333333333,R McLaren,['DA Miller'],caught,BB McCullum,2012-12-23,New Zealand,New Zealand,0,Buffalo Park
+2,BB McCullum,25.0,22,3,1,113.63636363636364,AM Phangiso,['JL Ontong'],caught,BB McCullum,2012-12-26,New Zealand,South Africa,0,St George's Park
+2,BB McCullum,10.0,6,2,0,166.66666666666669,ST Finn,['EJG Morgan'],caught,BB McCullum,2013-02-09,England,England,0,Eden Park
+2,BB McCullum,74.0,39,6,5,189.74358974358972,JW Dernbach,['MJ Lumb'],caught,BB McCullum,2013-02-12,England,New Zealand,0,Seddon Park
+2,BB McCullum,26.0,20,3,0,130.0,JC Tredwell,['JM Bairstow'],caught,BB McCullum,2013-02-15,England,England,0,Westpac Stadium
+2,BB McCullum,68.0,51,7,2,133.33333333333331,LJ Wright,0,bowled,BB McCullum,2013-06-25,New Zealand,New Zealand,0,Kennington Oval
+2,BB McCullum,60.0,45,2,4,133.33333333333331,notOut,notOut,notOut,notOut,2014-01-11,West Indies,New Zealand,0,Eden Park
+2,BB McCullum,17.0,11,2,1,154.54545454545453,SP Narine,0,lbw,BB McCullum,2014-01-15,West Indies,New Zealand,0,Westpac Stadium
+2,BB McCullum,16.0,6,1,2,266.66666666666663,notOut,notOut,notOut,notOut,2014-03-22,New Zealand,New Zealand,0,Zahur Ahmed Chowdhury Stadium
+2,BB McCullum,4.0,5,0,0,80.0,Imran Tahir,['Q de Kock'],stumped,BB McCullum,2014-03-24,South Africa,South Africa,0,Zahur Ahmed Chowdhury Stadium
+2,BB McCullum,65.0,45,4,3,144.44444444444443,T van der Gugten,['Mudassar Bukhari'],caught,BB McCullum,2014-03-29,New Zealand,New Zealand,0,Zahur Ahmed Chowdhury Stadium
+2,BB McCullum,0.0,5,0,0,0.0,HMRKB Herath,['KC Sangakkara'],stumped,BB McCullum,2014-03-31,Sri Lanka,Sri Lanka,0,Zahur Ahmed Chowdhury Stadium
+2,BB McCullum,40.0,36,3,1,111.11111111111111,DJG Sammy,['DR Smith'],caught,BB McCullum,2014-07-05,New Zealand,New Zealand,0,"Windsor Park, Roseau"
+2,BB McCullum,21.0,16,2,1,131.25,S Badree,['LMP Simmons'],caught,BB McCullum,2014-07-06,New Zealand,West Indies,0,"Windsor Park, Roseau"
+2,BB McCullum,35.0,15,2,4,233.33333333333334,MA Wood,0,bowled,BB McCullum,2015-06-23,New Zealand,England,0,Old Trafford
+4,BJ Watling,22.0,36,1,0,61.111111111111114,Saeed Ajmal,['Kamran Akmal'],stumped,BJ Watling,2009-11-12,Pakistan,Pakistan,0,Dubai International Cricket Stadium
+1,BJ Watling,7.0,10,1,0,70.0,Sohail Tanvir,['Kamran Akmal'],caught,BJ Watling,2009-11-13,Pakistan,Pakistan,0,Dubai International Cricket Stadium
+5,BJ Watling,8.0,12,1,0,66.66666666666666,A Dananjaya,['LD Chandimal'],caught,BJ Watling,2012-10-30,New Zealand,0,0,Pallekele International Cricket Stadium
+6,BJ Watling,1.0,2,0,0,50.0,SP Narine,"['DJG Sammy', 'D Ramdin']",run out,BJ Watling,2014-07-06,New Zealand,West Indies,0,"Windsor Park, Roseau"
+8,BM Wheeler,6.0,6,1,0,100.0,Imran Tahir,0,bowled,BM Wheeler,2017-02-17,South Africa,South Africa,0,Eden Park
+4,C Munro,23.0,18,4,0,127.77777777777777,CH Morris,0,caught and bowled,C Munro,2012-12-21,New Zealand,South Africa,0,Kingsmead
+3,C Munro,8.0,7,0,0,114.28571428571428,notOut,notOut,notOut,notOut,2012-12-23,New Zealand,New Zealand,0,Buffalo Park
+3,C Munro,3.0,10,0,0,30.0,R McLaren,['Q de Kock'],caught,C Munro,2012-12-26,New Zealand,South Africa,0,St George's Park
+4,C Munro,28.0,19,0,3,147.36842105263156,SCJ Broad,0,bowled,C Munro,2013-02-09,England,England,0,Eden Park
+4,C Munro,7.0,9,1,0,77.77777777777779,JW Dernbach,['JM Bairstow'],caught,C Munro,2013-02-12,England,New Zealand,0,Seddon Park
+5,C Munro,1.0,3,0,0,33.33333333333333,SCJ Broad,['JE Root'],caught,C Munro,2013-02-15,England,England,0,Westpac Stadium
+3,C Munro,73.0,40,3,5,182.5,notOut,notOut,notOut,notOut,2013-11-06,New Zealand,New Zealand,0,Shere Bangla National Stadium
+4,C Munro,17.0,19,2,0,89.47368421052632,NLTC Perera,['KMDN Kulasekara'],caught,C Munro,2013-11-21,New Zealand,Sri Lanka,0,Pallekele International Cricket Stadium
+4,C Munro,22.0,12,1,2,183.33333333333331,TL Best,['ADS Fletcher'],caught,C Munro,2014-01-11,West Indies,New Zealand,0,Eden Park
+4,C Munro,5.0,6,0,0,83.33333333333334,AD Russell,['NO Miller'],caught,C Munro,2014-01-15,West Indies,New Zealand,0,Westpac Stadium
+4,C Munro,7.0,9,1,0,77.77777777777779,Imran Tahir,['HM Amla'],caught,C Munro,2014-03-24,South Africa,South Africa,0,Zahur Ahmed Chowdhury Stadium
+4,C Munro,1.0,2,0,0,50.0,BA Stokes,0,bowled,C Munro,2015-06-23,New Zealand,England,0,Old Trafford
+5,C Munro,23.0,11,3,1,209.0909090909091,notOut,notOut,notOut,notOut,2015-08-09,New Zealand,New Zealand,0,Harare Sports Club
+4,C Munro,0.0,1,0,0,0.0,D Wiese,['AB de Villiers'],caught,C Munro,2015-08-14,New Zealand,South Africa,0,Kingsmead
+6,C Munro,18.0,8,3,1,225.0,K Rabada,['AB de Villiers'],caught,C Munro,2015-08-16,New Zealand,New Zealand,0,SuperSport Park
+3,C Munro,36.0,26,2,2,138.46153846153845,KMDN Kulasekara,0,caught and bowled,C Munro,2016-01-07,Sri Lanka,New Zealand,0,Bay Oval
+2,C Munro,50.0,15,1,7,333.33333333333337,notOut,notOut,notOut,notOut,2016-01-10,Sri Lanka,New Zealand,0,Eden Park
+3,C Munro,56.0,27,2,6,207.4074074074074,Wahab Riaz,0,bowled,C Munro,2016-01-15,Pakistan,Pakistan,0,Eden Park
+3,C Munro,4.0,3,0,0,133.33333333333331,notOut,notOut,notOut,notOut,2016-01-22,Pakistan,New Zealand,0,Westpac Stadium
+1,C Munro,7.0,6,0,1,116.66666666666667,A Nehra,['HH Pandya'],caught,C Munro,2016-03-15,New Zealand,New Zealand,0,"Vidarbha Cricket Association Stadium, Jamtha"
+2,C Munro,23.0,27,2,0,85.18518518518519,MR Marsh,['JP Faulkner'],caught,C Munro,2016-03-18,New Zealand,New Zealand,0,Himachal Pradesh Cricket Association Stadium
+2,C Munro,7.0,6,1,0,116.66666666666667,Shahid Afridi,['Khalid Latif'],caught,C Munro,2016-03-22,Pakistan,New Zealand,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+2,C Munro,35.0,33,1,2,106.06060606060606,Al-Amin Hossain,0,bowled,C Munro,2016-03-26,New Zealand,New Zealand,0,Eden Gardens
+2,C Munro,46.0,34,7,1,135.29411764705884,LE Plunkett,['MM Ali'],caught,C Munro,2016-03-30,New Zealand,England,0,Feroz Shah Kotla
+2,C Munro,0.0,2,0,0,0.0,Mustafizur Rahman,['Nurul Hasan'],caught,C Munro,2017-01-03,Bangladesh,New Zealand,0,McLean Park
+1,C Munro,101.0,54,7,7,187.03703703703704,Rubel Hossain,['Nurul Hasan'],caught,C Munro,2017-01-06,Bangladesh,New Zealand,0,Bay Oval
+2,C Munro,0.0,3,0,0,0.0,Rubel Hossain,['Soumya Sarkar'],caught,C Munro,2017-01-08,Bangladesh,New Zealand,0,Bay Oval
+2,C Munro,0.0,1,0,0,0.0,CH Morris,0,bowled,C Munro,2017-02-17,South Africa,South Africa,0,Eden Park
+3,C de Grandhomme,8.0,7,1,0,114.28571428571428,E Chigumbura,0,bowled,C de Grandhomme,2012-02-14,Zimbabwe,New Zealand,0,Seddon Park
+4,C de Grandhomme,2.0,3,0,0,66.66666666666666,M Morkel,['RE Levi'],caught,C de Grandhomme,2012-02-17,South Africa,New Zealand,0,Westpac Stadium
+5,C de Grandhomme,3.0,7,0,0,42.857142857142854,notOut,notOut,notOut,notOut,2012-02-19,South Africa,South Africa,0,Seddon Park
+5,C de Grandhomme,41.0,22,3,3,186.36363636363635,notOut,notOut,notOut,notOut,2017-01-03,Bangladesh,New Zealand,0,McLean Park
+5,C de Grandhomme,2.0,2,0,0,100.0,Rubel Hossain,0,bowled,C de Grandhomme,2017-01-06,Bangladesh,New Zealand,0,Bay Oval
+5,C de Grandhomme,4.0,3,0,0,133.33333333333331,notOut,notOut,notOut,notOut,2017-01-08,Bangladesh,New Zealand,0,Bay Oval
+5,C de Grandhomme,15.0,8,0,2,187.5,Imran Tahir,['JP Duminy'],caught,C de Grandhomme,2017-02-17,South Africa,South Africa,0,Eden Park
+4,CD McMillan,9.0,9,0,1,100.0,JR Hopes,['MEK Hussey'],caught,CD McMillan,2005-02-17,Australia,Australia,0,Eden Park
+4,CD McMillan,15.0,19,1,0,78.94736842105263,N Boje,['A Nel'],caught,CD McMillan,2005-10-21,New Zealand,New Zealand,0,New Wanderers Stadium
+5,CD McMillan,2.0,5,0,0,40.0,SL Malinga,"['LPC Silva', 'SL Malinga']",run out,CD McMillan,2007-09-15,Sri Lanka,Sri Lanka,0,New Wanderers Stadium
+5,CD McMillan,44.0,23,1,4,191.30434782608697,notOut,notOut,notOut,notOut,2007-09-16,New Zealand,New Zealand,0,New Wanderers Stadium
+5,CD McMillan,57.0,31,3,4,183.8709677419355,AD Mascarenhas,['DL Maddy'],run out,SB Styris,2007-09-18,New Zealand,New Zealand,0,Kingsmead
+6,CD McMillan,57.0,31,3,4,183.8709677419355,DL Maddy,['AD Mascarenhas'],caught,CD McMillan,2007-09-18,New Zealand,New Zealand,0,Kingsmead
+4,CD McMillan,48.0,26,2,4,184.6153846153846,notOut,notOut,notOut,notOut,2007-09-19,New Zealand,South Africa,0,Kingsmead
+4,CD McMillan,12.0,6,1,1,200.0,Fawad Alam,['Younis Khan'],caught,CD McMillan,2007-09-22,Pakistan,Pakistan,0,Newlands
+5,CJ Anderson,5.0,5,1,0,100.0,CH Morris,['RE Levi'],caught,CJ Anderson,2012-12-21,New Zealand,South Africa,0,Kingsmead
+8,CJ Anderson,12.0,9,1,0,133.33333333333331,notOut,notOut,notOut,notOut,2012-12-26,New Zealand,South Africa,0,St George's Park
+4,CJ Anderson,18.0,7,1,2,257.14285714285717,Al-Amin Hossain,0,bowled,CJ Anderson,2013-11-06,New Zealand,New Zealand,0,Shere Bangla National Stadium
+5,CJ Anderson,0.0,2,0,0,0.0,TL Best,['KOA Powell'],caught,CJ Anderson,2014-01-11,West Indies,New Zealand,0,Eden Park
+5,CJ Anderson,6.0,9,1,0,66.66666666666666,AD Russell,['J Charles'],caught,CJ Anderson,2014-01-15,West Indies,New Zealand,0,Westpac Stadium
+5,CJ Anderson,7.0,4,1,0,175.0,DW Steyn,['DA Miller'],caught,CJ Anderson,2014-03-24,South Africa,South Africa,0,Zahur Ahmed Chowdhury Stadium
+4,CJ Anderson,20.0,14,1,1,142.85714285714286,notOut,notOut,notOut,notOut,2014-03-29,New Zealand,New Zealand,0,Zahur Ahmed Chowdhury Stadium
+4,CJ Anderson,15.0,9,1,1,166.66666666666669,DJG Sammy,['SP Narine'],caught,CJ Anderson,2014-07-05,New Zealand,New Zealand,0,"Windsor Park, Roseau"
+4,CJ Anderson,14.0,17,0,1,82.35294117647058,SS Cottrell,['DJG Sammy'],caught,CJ Anderson,2014-07-06,New Zealand,West Indies,0,"Windsor Park, Roseau"
+4,CJ Anderson,48.0,39,1,4,123.07692307692308,Raza Hasan,['Saad Nasim'],caught,CJ Anderson,2014-12-04,Pakistan,Pakistan,0,Dubai International Cricket Stadium
+4,CJ Anderson,2.0,3,0,0,66.66666666666666,JDF Vandersay,['TAM Siriwardana'],caught,CJ Anderson,2016-01-07,Sri Lanka,New Zealand,0,Bay Oval
+4,CJ Anderson,0.0,2,0,0,0.0,Imad Wasim,0,caught and bowled,CJ Anderson,2016-01-15,Pakistan,Pakistan,0,Eden Park
+4,CJ Anderson,82.0,43,6,4,190.69767441860466,Imad Wasim,['Sarfraz Ahmed'],run out,GD Elliott,2016-01-22,Pakistan,New Zealand,0,Westpac Stadium
+3,CJ Anderson,34.0,45,3,0,75.55555555555556,SK Raina,['SK Raina'],run out,LRPL Taylor,2016-03-15,New Zealand,New Zealand,0,"Vidarbha Cricket Association Stadium, Jamtha"
+4,CJ Anderson,34.0,45,3,0,75.55555555555556,JJ Bumrah,0,bowled,CJ Anderson,2016-03-15,New Zealand,New Zealand,0,"Vidarbha Cricket Association Stadium, Jamtha"
+3,CJ Anderson,3.0,6,0,0,50.0,GJ Maxwell,['AC Agar'],caught,CJ Anderson,2016-03-18,New Zealand,New Zealand,0,Himachal Pradesh Cricket Association Stadium
+3,CJ Anderson,21.0,15,3,0,140.0,Shahid Afridi,['Shoaib Malik'],caught,CJ Anderson,2016-03-22,Pakistan,New Zealand,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+4,CJ Anderson,0.0,3,0,0,0.0,Mashrafe Mortaza,0,bowled,CJ Anderson,2016-03-26,New Zealand,New Zealand,0,Eden Gardens
+3,CJ Anderson,28.0,23,2,1,121.73913043478262,BA Stokes,['CJ Jordan'],caught,CJ Anderson,2016-03-30,New Zealand,England,0,Feroz Shah Kotla
+3,CJ Anderson,13.0,15,1,0,86.66666666666667,Shakib Al Hasan,['Tamim Iqbal'],caught,CJ Anderson,2017-01-03,Bangladesh,New Zealand,0,McLean Park
+3,CJ Anderson,4.0,3,1,0,133.33333333333331,Mosaddek Hossain,0,bowled,CJ Anderson,2017-01-06,Bangladesh,New Zealand,0,Bay Oval
+4,CJ Anderson,94.0,42,2,10,223.80952380952382,notOut,notOut,notOut,notOut,2017-01-08,Bangladesh,New Zealand,0,Bay Oval
+4,CJ Anderson,6.0,10,0,0,60.0,AL Phehlukwayo,['Q de Kock'],caught,CJ Anderson,2017-02-17,South Africa,South Africa,0,Eden Park
+5,CL Cairns,1.0,4,0,0,25.0,MS Kasprowicz,['GD McGrath'],caught,CL Cairns,2005-02-17,Australia,Australia,0,Eden Park
+4,CL Cairns,2.0,10,0,0,20.0,DJ Bravo,0,bowled,CL Cairns,2006-02-16,West Indies,0,0,Eden Park
+11,CS Martin,5.0,6,0,0,83.33333333333334,notOut,notOut,notOut,notOut,2008-02-05,England,England,0,Eden Park
+7,DAJ Bracewell,0.0,2,0,0,0.0,M de Lange,['HM Amla'],caught,DAJ Bracewell,2012-02-22,South Africa,South Africa,0,Eden Park
+10,DAJ Bracewell,11.0,5,0,1,220.00000000000003,notOut,notOut,notOut,notOut,2012-06-30,West Indies,West Indies,0,Central Broward Regional Park Stadium Turf Ground
+9,DAJ Bracewell,20.0,11,0,2,181.8181818181818,DJ Bravo,['DR Smith'],caught,DAJ Bracewell,2012-07-01,West Indies,West Indies,0,Central Broward Regional Park Stadium Turf Ground
+7,DAJ Bracewell,2.0,1,0,0,200.0,notOut,notOut,notOut,notOut,2012-09-29,New Zealand,England,0,Pallekele International Cricket Stadium
+7,DAJ Bracewell,1.0,1,0,0,100.0,MN Samuels,['DR Smith (sub)'],run out,DAJ Bracewell,2012-10-01,West Indies,0,tie,Pallekele International Cricket Stadium
+8,DAJ Bracewell,21.0,25,3,0,84.0,notOut,notOut,notOut,notOut,2012-12-21,New Zealand,South Africa,0,Kingsmead
+9,DAJ Bracewell,15.0,10,2,0,150.0,notOut,notOut,notOut,notOut,2012-12-26,New Zealand,South Africa,0,St George's Park
+10,DAJ Bracewell,7.0,2,0,1,350.0,notOut,notOut,notOut,notOut,2015-08-14,New Zealand,South Africa,0,Kingsmead
+2,DG Brownlie,5.0,5,1,0,100.0,Shoaib Akhtar,['Umar Akmal'],caught,DG Brownlie,2010-12-26,Pakistan,New Zealand,0,Eden Park
+2,DG Brownlie,0.0,5,0,0,0.0,Tanvir Ahmed (1),['Shahid Afridi'],run out,DG Brownlie,2010-12-30,Pakistan,Pakistan,0,AMI Stadium
+8,DG Brownlie,0.0,2,0,0,0.0,FH Edwards,['S Badree'],run out,DG Brownlie,2012-06-30,West Indies,West Indies,0,Central Broward Regional Park Stadium Turf Ground
+5,DG Brownlie,1.0,4,0,0,25.0,SP Narine,0,bowled,DG Brownlie,2012-07-01,West Indies,West Indies,0,Central Broward Regional Park Stadium Turf Ground
+2,DG Brownlie,0.0,2,0,0,0.0,Shahid Afridi,0,lbw,DG Brownlie,2014-12-05,Pakistan,New Zealand,0,Dubai International Cricket Stadium
+7,DL Vettori,3.0,3,0,0,100.0,notOut,notOut,notOut,notOut,2007-09-15,Sri Lanka,Sri Lanka,0,New Wanderers Stadium
+7,DL Vettori,15.0,5,3,0,300.0,RP Singh,0,bowled,DL Vettori,2007-09-16,New Zealand,New Zealand,0,New Wanderers Stadium
+9,DL Vettori,17.0,9,2,0,188.88888888888889,notOut,notOut,notOut,notOut,2007-09-18,New Zealand,New Zealand,0,Kingsmead
+7,DL Vettori,1.0,3,0,0,33.33333333333333,JJ van der Wath,['JA Morkel'],caught,DL Vettori,2007-09-19,New Zealand,South Africa,0,Kingsmead
+6,DL Vettori,2.0,7,0,0,28.57142857142857,SM Pollock,['JA Morkel'],caught,DL Vettori,2007-11-23,New Zealand,South Africa,0,New Wanderers Stadium
+7,DL Vettori,3.0,4,0,0,75.0,AA Noffke,0,bowled,DL Vettori,2007-12-11,New Zealand,Australia,0,Western Australia Cricket Association Ground
+7,DL Vettori,11.0,12,1,0,91.66666666666666,notOut,notOut,notOut,notOut,2008-06-13,New Zealand,England,0,Old Trafford
+8,DL Vettori,2.0,2,0,0,100.0,notOut,notOut,notOut,notOut,2008-12-26,West Indies,0,tie,Eden Park
+6,DL Vettori,2.0,4,0,0,50.0,JE Taylor,0,bowled,DL Vettori,2008-12-28,West Indies,New Zealand,0,Seddon Park
+8,DL Vettori,8.0,9,1,0,88.88888888888889,Abdul Razzaq,"['Younis Khan', 'Abdul Razzaq']",run out,DL Vettori,2009-06-13,Pakistan,Pakistan,0,Kennington Oval
+8,DL Vettori,3.0,5,0,0,60.0,M Muralitharan,['SL Malinga'],caught,DL Vettori,2009-06-16,Sri Lanka,Sri Lanka,0,Trent Bridge
+9,DL Vettori,0.0,1,0,0,0.0,SL Malinga,0,bowled,DL Vettori,2009-09-02,New Zealand,New Zealand,0,R Premadasa Stadium
+8,DL Vettori,3.0,5,0,0,60.0,notOut,notOut,notOut,notOut,2010-02-26,Australia,Australia,0,Westpac Stadium
+5,DL Vettori,17.0,15,1,0,113.33333333333333,notOut,notOut,notOut,notOut,2010-04-30,Sri Lanka,New Zealand,0,Providence Stadium
+8,DL Vettori,10.0,10,1,0,100.0,notOut,notOut,notOut,notOut,2010-05-06,South Africa,South Africa,0,"Kensington Oval, Bridgetown"
+4,DL Vettori,38.0,36,1,2,105.55555555555556,notOut,notOut,notOut,notOut,2010-05-08,Pakistan,New Zealand,0,"Kensington Oval, Bridgetown"
+7,DL Vettori,4.0,4,0,0,100.0,notOut,notOut,notOut,notOut,2010-05-10,New Zealand,England,0,"Beausejour Stadium, Gros Islet"
+5,DL Vettori,21.0,18,1,0,116.66666666666667,notOut,notOut,notOut,notOut,2010-05-22,Sri Lanka,New Zealand,0,Central Broward Regional Park Stadium Turf Ground
+5,DL Vettori,27.0,26,2,0,103.84615384615385,AD Mathews,"['CK Kapugedera', 'KC Sangakkara']",run out,GJ Hopkins,2010-05-23,Sri Lanka,Sri Lanka,0,Central Broward Regional Park Stadium Turf Ground
+6,DL Vettori,27.0,26,2,0,103.84615384615385,BAW Mendis,['KC Sangakkara'],caught,DL Vettori,2010-05-23,Sri Lanka,Sri Lanka,0,Central Broward Regional Park Stadium Turf Ground
+4,DL Vettori,18.0,16,1,0,112.5,Saeed Ajmal,['Nasir Jamshed'],caught,DL Vettori,2012-09-23,Pakistan,Pakistan,0,Pallekele International Cricket Stadium
+7,DL Vettori,0.0,3,0,0,0.0,Umar Gul,0,bowled,DL Vettori,2014-12-05,Pakistan,New Zealand,0,Dubai International Cricket Stadium
+7,DR Flynn,1.0,2,0,0,50.0,GP Swann,['LJ Wright'],caught,DR Flynn,2008-02-07,England,England,0,Jade Stadium
+6,DR Flynn,23.0,19,1,1,121.05263157894737,GP Swann,['TR Ambrose'],stumped,DR Flynn,2008-06-13,New Zealand,England,0,Old Trafford
+6,DR Flynn,10.0,7,0,1,142.85714285714286,CH Gayle,['FH Edwards'],caught,DR Flynn,2008-12-26,West Indies,0,tie,Eden Park
+3,DR Flynn,3.0,4,0,0,75.0,KA Pollard,['D Ramdin'],caught,DR Flynn,2008-12-28,West Indies,New Zealand,0,Seddon Park
+4,DR Flynn,22.0,19,0,2,115.78947368421053,MN Samuels,['CH Gayle'],caught,DR Flynn,2012-07-01,West Indies,West Indies,0,Central Broward Regional Park Stadium Turf Ground
+9,DR Tuffey,5.0,2,1,0,250.0,notOut,notOut,notOut,notOut,2005-02-17,Australia,Australia,0,Eden Park
+9,DR Tuffey,0.0,3,0,0,0.0,SR Watson,['BJ Haddin'],run out,DL Vettori,2010-02-26,Australia,Australia,0,Westpac Stadium
+10,DR Tuffey,0.0,3,0,0,0.0,SR Watson,['BJ Haddin'],caught,DR Tuffey,2010-02-26,Australia,Australia,0,Westpac Stadium
+8,EC Perry,4.0,4,0,0,100.0,notOut,notOut,notOut,notOut,2010-05-16,New Zealand,Australia,0,"Kensington Oval, Bridgetown"
+4,EC Perry,1.0,2,0,0,50.0,SJ Coyte,0,bowled,EC Perry,2010-12-30,Australia,Australia,0,Saxton Oval
+4,EC Perry,4.0,9,0,0,44.44444444444444,D Hazell,0,lbw,EC Perry,2012-02-17,England,England,0,Westpac Stadium
+5,EC Perry,1.0,2,0,0,50.0,D Hazell,0,bowled,EC Perry,2012-02-19,England,England,0,Seddon Park
+6,EC Perry,4.0,5,0,0,80.0,notOut,notOut,notOut,notOut,2012-02-22,England,England,0,Eden Park
+6,EC Perry,5.0,11,0,0,45.45454545454545,SR Taylor,['SACA King'],caught,EC Perry,2012-09-26,West Indies,West Indies,0,Galle International Stadium
+6,EC Perry,26.0,21,3,0,123.80952380952381,Nida Dar,['Javeria Khan'],caught,EC Perry,2016-11-21,Pakistan,New Zealand,0,Saxton Oval
+7,EC Perry,2.0,4,0,0,50.0,A Wellington,['AJ Healy'],stumped,EC Perry,2017-02-17,New Zealand,Australia,0,Melbourne Cricket Ground
+4,EC Perry,12.0,18,1,0,66.66666666666666,KM Beams,"['JL Jonassen', 'AJ Healy']",run out,EC Perry,2017-02-19,New Zealand,New Zealand,0,"Simonds Stadium, South Geelong"
+5,EC Perry,0.0,1,0,0,0.0,A Wellington,0,lbw,EC Perry,2017-02-22,New Zealand,New Zealand,0,Adelaide Oval
+8,EM Bermingham,2.0,2,0,0,100.0,LC Sthalekar,['SJ Coyte'],run out,EM Bermingham,2010-12-30,Australia,Australia,0,Saxton Oval
+8,EM Bermingham,5.0,7,1,0,71.42857142857143,A Mohammed,0,bowled,EM Bermingham,2012-09-26,West Indies,West Indies,0,Galle International Stadium
+7,EM Bermingham,1.0,1,0,0,100.0,LA Marsh,"['DN Wyatt', 'SJ Taylor']",run out,EM Bermingham,2012-10-04,New Zealand,England,0,R Premadasa Stadium
+8,EM Bermingham,8.0,5,1,0,160.0,DJS Dottin,"['B Cooper', 'MR Aguilleira']",run out,EM Bermingham,2016-03-31,West Indies,West Indies,0,Wankhede Stadium
+5,EM Bermingham,3.0,4,0,0,75.0,KM Beams,0,lbw,EM Bermingham,2017-02-17,New Zealand,Australia,0,Melbourne Cricket Ground
+8,EM Bermingham,3.0,2,0,0,150.0,notOut,notOut,notOut,notOut,2017-02-19,New Zealand,New Zealand,0,"Simonds Stadium, South Geelong"
+7,EM Bermingham,5.0,3,0,0,166.66666666666669,KM Beams,['M Strano'],caught,EM Bermingham,2017-02-22,New Zealand,New Zealand,0,Adelaide Oval
+8,EP Thompson,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2008-12-28,West Indies,New Zealand,0,Seddon Park
+6,FL Mackay,0.0,1,0,0,0.0,LA Marsh,0,lbw,FL Mackay,2012-02-17,England,England,0,Westpac Stadium
+1,FL Mackay,1.0,7,0,0,14.285714285714285,A Shrubsole,0,bowled,FL Mackay,2012-02-19,England,England,0,Seddon Park
+0,FL Mackay,19.0,18,3,0,105.55555555555556,A Shrubsole,0,bowled,FL Mackay,2012-02-22,England,England,0,Eden Park
+3,FL Mackay,2.0,3,0,0,66.66666666666666,SA Campbelle,0,lbw,FL Mackay,2012-09-26,West Indies,West Indies,0,Galle International Stadium
+3,FL Mackay,49.0,40,7,0,122.50000000000001,D van Niekerk,['M du Preez'],caught,FL Mackay,2012-09-28,South Africa,New Zealand,0,Galle International Stadium
+3,FL Mackay,13.0,24,0,0,54.166666666666664,notOut,notOut,notOut,notOut,2012-09-30,New Zealand,New Zealand,0,Galle International Stadium
+3,FL Mackay,2.0,9,0,0,22.22222222222222,A Shrubsole,0,lbw,FL Mackay,2012-10-04,New Zealand,England,0,R Premadasa Stadium
+2,FL Mackay,25.0,25,3,0,100.0,SJ Coyte,0,lbw,FL Mackay,2014-03-23,New Zealand,New Zealand,0,Sylhet Stadium
+1,FL Mackay,51.0,49,6,0,104.08163265306123,EAJ Richardson,0,bowled,FL Mackay,2014-03-25,New Zealand,New Zealand,0,Sylhet Stadium
+7,FL Mackay,1.0,2,0,0,50.0,M Kapp,['T Chetty'],caught,FL Mackay,2014-03-31,South Africa,South Africa,0,Sylhet Stadium
+4,GD Elliott,23.0,30,2,0,76.66666666666667,NW Bracken,['BJ Haddin'],run out,JEC Franklin,2009-02-15,New Zealand,Australia,0,Sydney Cricket Ground
+5,GD Elliott,4.0,6,0,0,66.66666666666666,JW Dernbach,0,bowled,GD Elliott,2013-02-12,England,New Zealand,0,Seddon Park
+4,GD Elliott,15.0,12,0,1,125.0,JW Dernbach,['ST Finn'],caught,GD Elliott,2013-02-15,England,England,0,Westpac Stadium
+3,GD Elliott,8.0,9,0,0,88.88888888888889,AG Cremer,['H Masakadza'],caught,GD Elliott,2015-08-09,New Zealand,New Zealand,0,Harare Sports Club
+5,GD Elliott,5.0,4,1,0,125.0,D Wiese,['RR Rossouw'],caught,GD Elliott,2015-08-14,New Zealand,South Africa,0,Kingsmead
+3,GD Elliott,20.0,19,2,0,105.26315789473684,AM Phangiso,0,lbw,GD Elliott,2015-08-16,New Zealand,New Zealand,0,SuperSport Park
+6,GD Elliott,10.0,6,1,0,166.66666666666669,notOut,notOut,notOut,notOut,2016-01-07,Sri Lanka,New Zealand,0,Bay Oval
+5,GD Elliott,3.0,5,0,0,60.0,Shahid Afridi,0,bowled,GD Elliott,2016-01-15,Pakistan,Pakistan,0,Eden Park
+6,GD Elliott,19.0,14,1,1,135.71428571428572,notOut,notOut,notOut,notOut,2016-01-22,Pakistan,New Zealand,0,Westpac Stadium
+7,GD Elliott,9.0,12,0,0,75.0,notOut,notOut,notOut,notOut,2016-03-15,New Zealand,New Zealand,0,"Vidarbha Cricket Association Stadium, Jamtha"
+5,GD Elliott,27.0,20,3,0,135.0,notOut,notOut,notOut,notOut,2016-03-18,New Zealand,New Zealand,0,Himachal Pradesh Cricket Association Stadium
+6,GD Elliott,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2016-03-22,Pakistan,New Zealand,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+5,GD Elliott,9.0,7,1,0,128.57142857142858,Mustafizur Rahman,['Shuvagata Hom'],caught,GD Elliott,2016-03-26,New Zealand,New Zealand,0,Eden Gardens
+6,GD Elliott,4.0,6,0,0,66.66666666666666,notOut,notOut,notOut,notOut,2016-03-30,New Zealand,England,0,Feroz Shah Kotla
+0,GD Phillips,5.0,11,0,0,45.45454545454545,CH Morris,['Q de Kock'],caught,GD Phillips,2017-02-17,South Africa,South Africa,0,Eden Park
+2,GH Worker,62.0,39,3,4,158.97435897435898,SC Williams,0,bowled,GH Worker,2015-08-09,New Zealand,New Zealand,0,Harare Sports Club
+2,GH Worker,28.0,26,3,1,107.6923076923077,D Wiese,"['F Behardien', 'MN van Wyk']",run out,MJ Guptill,2015-08-14,New Zealand,South Africa,0,Kingsmead
+3,GH Worker,28.0,26,3,1,107.6923076923077,AM Phangiso,0,lbw,GH Worker,2015-08-14,New Zealand,South Africa,0,Kingsmead
+5,GJ Hopkins,6.0,10,0,0,60.0,JA Morkel,['AB de Villiers'],caught,GJ Hopkins,2007-11-23,New Zealand,South Africa,0,New Wanderers Stadium
+5,GJ Hopkins,21.0,13,2,1,161.53846153846155,SR Watson,['BJ Haddin'],caught,GJ Hopkins,2010-02-26,Australia,Australia,0,Westpac Stadium
+5,GJ Hopkins,36.0,17,3,2,211.76470588235296,DP Nannes,0,hit wicket,GJ Hopkins,2010-02-28,Australia,0,tie,AMI Stadium
+7,GJ Hopkins,1.0,1,0,0,100.0,UWMBCA Welegedara,"['TM Dilshan', 'KC Sangakkara']",run out,GJ Hopkins,2010-04-30,Sri Lanka,New Zealand,0,Providence Stadium
+5,GJ Hopkins,18.0,14,0,2,128.57142857142858,M Morkel,['DW Steyn'],caught,GJ Hopkins,2010-05-06,South Africa,South Africa,0,"Kensington Oval, Bridgetown"
+6,GJ Hopkins,2.0,7,0,0,28.57142857142857,Shahid Afridi,['Abdur Rehman'],caught,GJ Hopkins,2010-05-08,Pakistan,New Zealand,0,"Kensington Oval, Bridgetown"
+5,GJ Hopkins,1.0,2,0,0,50.0,SCJ Broad,0,bowled,GJ Hopkins,2010-05-10,New Zealand,England,0,"Beausejour Stadium, Gros Islet"
+4,GJ Hopkins,1.0,8,0,0,12.5,notOut,notOut,notOut,notOut,2010-05-23,Sri Lanka,Sri Lanka,0,Central Broward Regional Park Stadium Turf Ground
+0,HD Rutherford,18.0,11,2,1,163.63636363636365,SCJ Broad,['JC Tredwell'],caught,HD Rutherford,2013-02-09,England,England,0,Eden Park
+1,HD Rutherford,40.0,27,1,3,148.14814814814815,LJ Wright,['JC Buttler'],caught,HD Rutherford,2013-02-12,England,New Zealand,0,Seddon Park
+0,HD Rutherford,11.0,10,2,0,110.00000000000001,SCJ Broad,['JW Dernbach'],caught,HD Rutherford,2013-02-15,England,England,0,Westpac Stadium
+0,HD Rutherford,62.0,37,6,4,167.56756756756758,LJ Wright,['AD Hales'],caught,HD Rutherford,2013-06-25,New Zealand,New Zealand,0,Kennington Oval
+1,HD Rutherford,17.0,17,1,1,100.0,Sohag Gazi,['Nasir Hossain'],caught,HD Rutherford,2013-11-06,New Zealand,New Zealand,0,Shere Bangla National Stadium
+0,HD Rutherford,3.0,4,0,0,75.0,KMDN Kulasekara,['KC Sangakkara'],caught,HD Rutherford,2013-11-21,New Zealand,Sri Lanka,0,Pallekele International Cricket Stadium
+6,HJH Marshall,8.0,7,0,0,114.28571428571428,A Symonds,0,bowled,HJH Marshall,2005-02-17,Australia,Australia,0,Eden Park
+2,HJH Marshall,3.0,3,0,0,100.0,A Nel,['MV Boucher'],caught,HJH Marshall,2005-10-21,New Zealand,New Zealand,0,New Wanderers Stadium
+6,HJH Marshall,1.0,4,0,0,25.0,CH Gayle,['IDR Bradshaw'],caught,HJH Marshall,2006-02-16,West Indies,0,0,Eden Park
+0,HM Nicholls,7.0,11,1,0,63.63636363636363,Mustafizur Rahman,0,bowled,HM Nicholls,2016-03-26,New Zealand,New Zealand,0,Eden Gardens
+8,HR Huddleston,5.0,15,0,0,33.33333333333333,ML Schutt,0,bowled,HR Huddleston,2017-02-17,New Zealand,Australia,0,Melbourne Cricket Ground
+10,IG Butler,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2009-06-13,Pakistan,Pakistan,0,Kennington Oval
+10,IG Butler,2.0,3,0,0,66.66666666666666,SL Malinga,['TM Dilshan'],run out,KD Mills,2009-06-16,Sri Lanka,Sri Lanka,0,Trent Bridge
+10,IG Butler,0.0,2,0,0,0.0,notOut,notOut,notOut,notOut,2009-09-02,New Zealand,New Zealand,0,R Premadasa Stadium
+7,IG Butler,1.0,4,0,0,25.0,Shahid Afridi,0,bowled,IG Butler,2009-11-12,Pakistan,Pakistan,0,Dubai International Cricket Stadium
+8,IG Butler,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2013-02-15,England,England,0,Westpac Stadium
+5,JAH Marshall,1.0,4,0,0,25.0,ST Jayasuriya,['LPC Silva'],caught,JAH Marshall,2006-12-22,Sri Lanka,Sri Lanka,0,Westpac Stadium
+2,JAH Marshall,13.0,11,2,0,118.18181818181819,SCJ Broad,['TR Ambrose'],caught,JAH Marshall,2008-06-13,New Zealand,England,0,Old Trafford
+0,JD Ryder,22.0,23,4,0,95.65217391304348,notOut,notOut,notOut,notOut,2008-02-05,England,England,0,Eden Park
+0,JD Ryder,12.0,13,2,0,92.3076923076923,JM Anderson,['OA Shah'],caught,JD Ryder,2008-02-07,England,England,0,Jade Stadium
+0,JD Ryder,12.0,18,1,0,66.66666666666666,FH Edwards,0,bowled,JD Ryder,2008-12-26,West Indies,0,tie,Eden Park
+0,JD Ryder,62.0,41,7,3,151.21951219512195,CH Gayle,['RR Sarwan'],caught,JD Ryder,2008-12-28,West Indies,New Zealand,0,Seddon Park
+0,JD Ryder,1.0,4,0,0,25.0,I Sharma,0,lbw,JD Ryder,2009-02-25,India,New Zealand,0,AMI Stadium
+0,JD Ryder,26.0,15,3,2,173.33333333333334,Z Khan,0,bowled,JD Ryder,2009-02-27,India,New Zealand,0,Westpac Stadium
+1,JD Ryder,31.0,12,3,2,258.33333333333337,CM Wright,['CS MacLeod'],caught,JD Ryder,2009-06-06,Scotland,New Zealand,0,Kennington Oval
+1,JD Ryder,13.0,15,2,0,86.66666666666667,KMDN Kulasekara,['KMDN Kulasekara'],run out,BB McCullum,2009-09-02,New Zealand,New Zealand,0,R Premadasa Stadium
+2,JD Ryder,13.0,15,2,0,86.66666666666667,KMDN Kulasekara,['HMCM Bandara'],caught,JD Ryder,2009-09-02,New Zealand,New Zealand,0,R Premadasa Stadium
+1,JD Ryder,52.0,38,3,3,136.8421052631579,BAW Mendis,['RJMGM Rupasinghe'],caught,JD Ryder,2009-09-04,New Zealand,New Zealand,0,R Premadasa Stadium
+2,JD Ryder,42.0,27,3,2,155.55555555555557,M Muralitharan,0,bowled,JD Ryder,2010-04-30,Sri Lanka,New Zealand,0,Providence Stadium
+1,JD Ryder,2.0,11,0,0,18.181818181818183,P Utseya,['T Taibu'],caught,JD Ryder,2010-05-04,Zimbabwe,New Zealand,0,Providence Stadium
+2,JD Ryder,33.0,28,2,2,117.85714285714286,J Botha,['AB de Villiers'],caught,JD Ryder,2010-05-06,South Africa,South Africa,0,"Kensington Oval, Bridgetown"
+1,JD Ryder,7.0,10,1,0,70.0,Mohammad Sami,['Abdur Rehman'],caught,JD Ryder,2010-05-08,Pakistan,New Zealand,0,"Kensington Oval, Bridgetown"
+1,JD Ryder,9.0,11,2,0,81.81818181818183,TT Bresnan,0,bowled,JD Ryder,2010-05-10,New Zealand,England,0,"Beausejour Stadium, Gros Islet"
+0,JD Ryder,6.0,5,1,0,120.0,Shoaib Akhtar,['Younis Khan'],caught,JD Ryder,2010-12-26,Pakistan,New Zealand,0,Eden Park
+0,JD Ryder,0.0,1,0,0,0.0,Abdul Razzaq,['Umar Akmal'],caught,JD Ryder,2010-12-28,Pakistan,New Zealand,0,Seddon Park
+0,JD Ryder,0.0,6,0,0,0.0,Tanvir Ahmed (1),['Ahmed Shehzad'],caught,JD Ryder,2010-12-30,Pakistan,Pakistan,0,AMI Stadium
+2,JD Ryder,30.0,23,3,0,130.43478260869566,notOut,notOut,notOut,notOut,2011-10-17,New Zealand,New Zealand,0,Harare Sports Club
+2,JD Ryder,52.0,44,5,2,118.18181818181819,J Botha,['M Morkel'],caught,JD Ryder,2012-02-22,South Africa,South Africa,0,Eden Park
+1,JD Ryder,22.0,14,3,0,157.14285714285714,NO Miller,['J Charles'],caught,JD Ryder,2014-01-11,West Indies,New Zealand,0,Eden Park
+1,JD Ryder,23.0,10,2,2,229.99999999999997,JO Holder,['LMP Simmons'],caught,JD Ryder,2014-01-15,West Indies,New Zealand,0,Westpac Stadium
+5,JDP Oram,23.0,16,1,2,143.75,notOut,notOut,notOut,notOut,2005-10-21,New Zealand,New Zealand,0,New Wanderers Stadium
+6,JDP Oram,33.0,20,2,2,165.0,G Wijekoon,"['CRD Fernando', 'G Wijekoon']",run out,DL Vettori,2007-09-15,Sri Lanka,Sri Lanka,0,New Wanderers Stadium
+6,JDP Oram,35.0,16,2,3,218.75,S Sreesanth,['RP Singh'],caught,JDP Oram,2007-09-16,New Zealand,New Zealand,0,New Wanderers Stadium
+7,JDP Oram,8.0,7,1,0,114.28571428571428,DL Maddy,0,bowled,JDP Oram,2007-09-18,New Zealand,New Zealand,0,Kingsmead
+5,JDP Oram,15.0,15,2,0,100.0,M Morkel,0,bowled,JDP Oram,2007-09-19,New Zealand,South Africa,0,Kingsmead
+6,JDP Oram,1.0,4,0,0,25.0,Umar Gul,['Kamran Akmal'],caught,JDP Oram,2007-09-22,Pakistan,Pakistan,0,Newlands
+6,JDP Oram,66.0,31,5,6,212.9032258064516,notOut,notOut,notOut,notOut,2007-12-11,New Zealand,Australia,0,Western Australia Cricket Association Ground
+7,JDP Oram,61.0,41,7,2,148.78048780487805,RJ Sidebottom,['IR Bell'],caught,JDP Oram,2008-02-05,England,England,0,Eden Park
+4,JDP Oram,13.0,14,1,0,92.85714285714286,SJ Benn,['XM Marshall'],caught,JDP Oram,2008-12-26,West Indies,0,tie,Eden Park
+4,JDP Oram,9.0,12,0,0,75.0,KA Pollard,"['SE Findlay', 'D Ramdin']",run out,JDP Oram,2008-12-28,West Indies,New Zealand,0,Seddon Park
+4,JDP Oram,29.0,15,3,2,193.33333333333334,notOut,notOut,notOut,notOut,2009-02-25,India,New Zealand,0,AMI Stadium
+4,JDP Oram,0.0,1,0,0,0.0,IK Pathan,['MS Dhoni'],caught,JDP Oram,2009-02-27,India,New Zealand,0,Westpac Stadium
+3,JDP Oram,8.0,6,1,0,133.33333333333331,RR Watson,['JH Stander'],caught,JDP Oram,2009-06-06,Scotland,New Zealand,0,Kennington Oval
+4,JDP Oram,24.0,19,2,0,126.3157894736842,WD Parnell,['GC Smith'],run out,JDP Oram,2009-06-09,South Africa,South Africa,0,Lord's
+4,JDP Oram,15.0,7,1,1,214.28571428571428,AR Cusack,['AC Botha'],caught,JDP Oram,2009-06-11,New Zealand,New Zealand,0,Trent Bridge
+4,JDP Oram,5.0,11,0,0,45.45454545454545,Shahid Afridi,['Misbah-ul-Haq'],caught,JDP Oram,2009-06-13,Pakistan,Pakistan,0,Kennington Oval
+5,JDP Oram,7.0,12,0,0,58.333333333333336,I Udana,0,bowled,JDP Oram,2009-06-16,Sri Lanka,Sri Lanka,0,Trent Bridge
+5,JDP Oram,8.0,14,0,0,57.14285714285714,BAW Mendis,['KMDN Kulasekara'],caught,JDP Oram,2009-09-02,New Zealand,New Zealand,0,R Premadasa Stadium
+4,JDP Oram,17.0,12,1,0,141.66666666666669,notOut,notOut,notOut,notOut,2009-09-04,New Zealand,New Zealand,0,R Premadasa Stadium
+6,JDP Oram,1.0,3,0,0,33.33333333333333,DP Nannes,['SR Watson'],caught,JDP Oram,2010-02-26,Australia,Australia,0,Westpac Stadium
+6,JDP Oram,0.0,3,0,0,0.0,SW Tait,0,bowled,JDP Oram,2010-02-28,Australia,0,tie,AMI Stadium
+6,JDP Oram,15.0,6,0,2,250.0,UWMBCA Welegedara,0,bowled,JDP Oram,2010-04-30,Sri Lanka,New Zealand,0,Providence Stadium
+6,JDP Oram,0.0,2,0,0,0.0,DW Steyn,0,lbw,JDP Oram,2010-05-06,South Africa,South Africa,0,"Kensington Oval, Bridgetown"
+8,JDP Oram,3.0,7,0,0,42.857142857142854,SL Malinga,['CK Kapugedera'],caught,JDP Oram,2010-05-23,Sri Lanka,Sri Lanka,0,Central Broward Regional Park Stadium Turf Ground
+6,JDP Oram,27.0,13,2,2,207.6923076923077,FH Edwards,['DJG Sammy'],run out,TWM Latham,2012-06-30,West Indies,West Indies,0,Central Broward Regional Park Stadium Turf Ground
+7,JDP Oram,27.0,13,2,2,207.6923076923077,FH Edwards,['DJ Bravo'],caught,JDP Oram,2012-06-30,West Indies,West Indies,0,Central Broward Regional Park Stadium Turf Ground
+6,JDP Oram,18.0,9,3,0,200.0,notOut,notOut,notOut,notOut,2012-09-11,New Zealand,New Zealand,0,"MA Chidambaram Stadium, Chepauk"
+5,JDP Oram,11.0,7,2,0,157.14285714285714,Saeed Ajmal,0,bowled,JDP Oram,2012-09-23,Pakistan,Pakistan,0,Pallekele International Cricket Stadium
+4,JDP Oram,6.0,6,1,0,100.0,KMDN Kulasekara,['TM Dilshan'],caught,JDP Oram,2012-09-27,New Zealand,0,tie,Pallekele International Cricket Stadium
+5,JDP Oram,6.0,9,0,0,66.66666666666666,SP Narine,0,lbw,JDP Oram,2012-10-01,West Indies,0,tie,Pallekele International Cricket Stadium
+7,JDP Oram,10.0,9,1,0,111.11111111111111,notOut,notOut,notOut,notOut,2012-10-30,New Zealand,0,0,Pallekele International Cricket Stadium
+7,JDS Neesham,10.0,7,2,0,142.85714285714286,RJ Peterson,0,bowled,JDS Neesham,2012-12-21,New Zealand,South Africa,0,Kingsmead
+5,JDS Neesham,12.0,10,2,0,120.0,RJ Peterson,['M Morkel'],caught,JDS Neesham,2012-12-26,New Zealand,South Africa,0,St George's Park
+7,JDS Neesham,14.0,6,2,1,233.33333333333334,notOut,notOut,notOut,notOut,2014-01-15,West Indies,New Zealand,0,Westpac Stadium
+5,JDS Neesham,7.0,8,0,0,87.5,notOut,notOut,notOut,notOut,2014-03-29,New Zealand,New Zealand,0,Zahur Ahmed Chowdhury Stadium
+4,JDS Neesham,0.0,1,0,0,0.0,HMRKB Herath,0,bowled,JDS Neesham,2014-03-31,Sri Lanka,Sri Lanka,0,Zahur Ahmed Chowdhury Stadium
+1,JDS Neesham,11.0,8,1,1,137.5,K Santokie,0,bowled,JDS Neesham,2014-07-05,New Zealand,New Zealand,0,"Windsor Park, Roseau"
+1,JDS Neesham,7.0,5,1,0,140.0,SS Cottrell,['DM Bravo'],caught,JDS Neesham,2014-07-06,New Zealand,West Indies,0,"Windsor Park, Roseau"
+6,JDS Neesham,6.0,9,0,0,66.66666666666666,Mohammad Irfan,['Umar Akmal'],caught,JDS Neesham,2014-12-04,Pakistan,Pakistan,0,Dubai International Cricket Stadium
+6,JDS Neesham,7.0,4,1,0,175.0,notOut,notOut,notOut,notOut,2014-12-05,Pakistan,New Zealand,0,Dubai International Cricket Stadium
+4,JDS Neesham,28.0,19,3,1,147.36842105263156,K Rabada,0,bowled,JDS Neesham,2015-08-16,New Zealand,New Zealand,0,SuperSport Park
+6,JDS Neesham,5.0,6,0,0,83.33333333333334,Rubel Hossain,0,bowled,JDS Neesham,2017-01-06,Bangladesh,New Zealand,0,Bay Oval
+1,JDS Neesham,15.0,13,3,0,115.38461538461537,Rubel Hossain,0,lbw,JDS Neesham,2017-01-08,Bangladesh,New Zealand,0,Bay Oval
+8,JEC Franklin,13.0,9,0,1,144.44444444444443,notOut,notOut,notOut,notOut,2006-02-16,West Indies,0,0,Eden Park
+2,JEC Franklin,18.0,17,2,1,105.88235294117648,ST Jayasuriya,0,lbw,JEC Franklin,2006-12-22,Sri Lanka,Sri Lanka,0,Westpac Stadium
+6,JEC Franklin,3.0,6,0,0,50.0,notOut,notOut,notOut,notOut,2006-12-26,Sri Lanka,New Zealand,0,Eden Park
+5,JEC Franklin,2.0,3,0,0,66.66666666666666,CH Gayle,0,caught and bowled,JEC Franklin,2008-12-26,West Indies,0,tie,Eden Park
+5,JEC Franklin,20.0,11,1,2,181.8181818181818,SJ Benn,['SE Findlay'],caught,JEC Franklin,2008-12-28,West Indies,New Zealand,0,Seddon Park
+5,JEC Franklin,3.0,4,0,0,75.0,notOut,notOut,notOut,notOut,2009-02-15,New Zealand,Australia,0,Sydney Cricket Ground
+6,JEC Franklin,7.0,7,0,0,100.0,notOut,notOut,notOut,notOut,2009-06-11,New Zealand,New Zealand,0,Trent Bridge
+6,JEC Franklin,7.0,13,0,0,53.84615384615385,Umar Gul,0,bowled,JEC Franklin,2009-06-13,Pakistan,Pakistan,0,Kennington Oval
+5,JEC Franklin,5.0,4,0,0,125.0,notOut,notOut,notOut,notOut,2009-11-13,Pakistan,Pakistan,0,Dubai International Cricket Stadium
+4,JEC Franklin,43.0,42,2,2,102.38095238095238,SW Tait,['SPD Smith'],caught,JEC Franklin,2010-02-26,Australia,Australia,0,Westpac Stadium
+4,JEC Franklin,7.0,8,1,0,87.5,SPD Smith,['MJ Clarke'],caught,JEC Franklin,2010-02-28,Australia,0,tie,AMI Stadium
+5,JEC Franklin,19.0,18,2,1,105.55555555555556,Mohammad Hafeez,0,lbw,JEC Franklin,2010-12-26,Pakistan,New Zealand,0,Eden Park
+1,JEC Franklin,40.0,46,2,1,86.95652173913044,Shahid Afridi,['Umar Akmal'],caught,JEC Franklin,2010-12-28,Pakistan,New Zealand,0,Seddon Park
+3,JEC Franklin,3.0,8,0,0,37.5,Abdul Razzaq,0,bowled,JEC Franklin,2010-12-30,Pakistan,Pakistan,0,AMI Stadium
+1,JEC Franklin,60.0,37,3,5,162.16216216216216,E Chigumbura,['KO Meth'],run out,JEC Franklin,2012-02-14,Zimbabwe,New Zealand,0,Seddon Park
+5,JEC Franklin,8.0,4,1,0,200.0,notOut,notOut,notOut,notOut,2012-02-17,South Africa,New Zealand,0,Westpac Stadium
+4,JEC Franklin,28.0,10,0,4,280.0,M Morkel,['AB de Villiers'],caught,JEC Franklin,2012-02-19,South Africa,South Africa,0,Seddon Park
+5,JEC Franklin,9.0,8,0,0,112.5,notOut,notOut,notOut,notOut,2012-02-22,South Africa,South Africa,0,Eden Park
+5,JEC Franklin,1.0,2,0,0,50.0,L Balaji,['Yuvraj Singh'],caught,JEC Franklin,2012-09-11,New Zealand,New Zealand,0,"MA Chidambaram Stadium, Chepauk"
+1,JEC Franklin,35.0,36,2,1,97.22222222222221,Mashrafe Mortaza,['Elias Sunny'],caught,JEC Franklin,2012-09-21,New Zealand,New Zealand,0,Pallekele International Cricket Stadium
+7,JEC Franklin,13.0,6,1,1,216.66666666666666,Sohail Tanvir,['Nasir Jamshed'],caught,JEC Franklin,2012-09-23,Pakistan,Pakistan,0,Pallekele International Cricket Stadium
+6,JEC Franklin,8.0,5,1,0,160.0,notOut,notOut,notOut,notOut,2012-09-27,New Zealand,0,tie,Pallekele International Cricket Stadium
+5,JEC Franklin,50.0,33,4,2,151.5151515151515,TT Bresnan,"['JM Bairstow', 'C Kieswetter']",run out,JEC Franklin,2012-09-29,New Zealand,England,0,Pallekele International Cricket Stadium
+4,JEC Franklin,14.0,14,1,0,100.0,SP Narine,['CH Gayle'],caught,JEC Franklin,2012-10-01,West Indies,0,tie,Pallekele International Cricket Stadium
+4,JEC Franklin,2.0,7,0,0,28.57142857142857,NLTC Perera,['KC Sangakkara'],caught,JEC Franklin,2012-10-30,New Zealand,0,0,Pallekele International Cricket Stadium
+3,JEC Franklin,0.0,3,0,0,0.0,R McLaren,['Q de Kock'],caught,JEC Franklin,2012-12-21,New Zealand,South Africa,0,Kingsmead
+4,JEC Franklin,16.0,13,1,1,123.07692307692308,AM Phangiso,['JL Ontong'],caught,JEC Franklin,2012-12-26,New Zealand,South Africa,0,St George's Park
+5,JEC Franklin,8.0,5,0,1,160.0,SCJ Broad,['JC Buttler'],caught,JEC Franklin,2013-02-09,England,England,0,Eden Park
+6,JEC Franklin,6.0,4,1,0,150.0,notOut,notOut,notOut,notOut,2013-02-12,England,New Zealand,0,Seddon Park
+6,JEC Franklin,15.0,14,3,0,107.14285714285714,JW Dernbach,['JC Tredwell'],caught,JEC Franklin,2013-02-15,England,England,0,Westpac Stadium
+1,JEC Franklin,0.0,1,0,0,0.0,WB Rankin,['JC Buttler'],caught,JEC Franklin,2013-06-25,New Zealand,New Zealand,0,Kennington Oval
+2,JM How,14.0,11,1,1,127.27272727272727,SM Pollock,['JP Duminy'],caught,JM How,2007-11-23,New Zealand,South Africa,0,New Wanderers Stadium
+2,JM How,4.0,19,0,0,21.052631578947366,SW Tait,['AC Gilchrist'],caught,JM How,2007-12-11,New Zealand,Australia,0,Western Australia Cricket Association Ground
+3,JM How,6.0,8,1,0,75.0,AD Mascarenhas,['KP Pietersen'],caught,JM How,2008-02-05,England,England,0,Eden Park
+3,JM How,31.0,25,3,0,124.0,AD Mascarenhas,0,bowled,JM How,2008-02-07,England,England,0,Jade Stadium
+0,JM How,1.0,5,0,0,20.0,JM Anderson,['OA Shah'],caught,JM How,2008-06-13,New Zealand,England,0,Old Trafford
+10,JS Patel,0.0,1,0,0,0.0,RP Singh,"['MS Dhoni', 'RP Singh']",run out,JS Patel,2007-09-16,New Zealand,New Zealand,0,New Wanderers Stadium
+10,JS Patel,4.0,8,1,0,50.0,AA Noffke,0,bowled,JS Patel,2007-12-11,New Zealand,Australia,0,Western Australia Cricket Association Ground
+10,JS Patel,5.0,5,0,0,100.0,JM Anderson,0,bowled,JS Patel,2008-02-05,England,England,0,Eden Park
+8,JW Wilson,18.0,14,2,0,128.57142857142858,GD McGrath,0,bowled,JW Wilson,2005-02-17,Australia,Australia,0,Eden Park
+10,KD Mills,0.0,1,0,0,0.0,GD McGrath,['MS Kasprowicz'],caught,KD Mills,2005-02-17,Australia,Australia,0,Eden Park
+7,KD Mills,33.0,25,1,2,132.0,notOut,notOut,notOut,notOut,2007-11-23,New Zealand,South Africa,0,New Wanderers Stadium
+8,KD Mills,4.0,8,1,0,50.0,AA Noffke,['MG Johnson'],caught,KD Mills,2007-12-11,New Zealand,Australia,0,Western Australia Cricket Association Ground
+8,KD Mills,11.0,8,0,1,137.5,GP Swann,['JM Anderson'],caught,KD Mills,2008-02-05,England,England,0,Eden Park
+6,KD Mills,30.0,22,2,1,136.36363636363635,notOut,notOut,notOut,notOut,2008-02-07,England,England,0,Jade Stadium
+8,KD Mills,12.0,7,2,0,171.42857142857142,JM Anderson,['IR Bell'],caught,KD Mills,2008-06-13,New Zealand,England,0,Old Trafford
+7,KD Mills,10.0,7,0,1,142.85714285714286,notOut,notOut,notOut,notOut,2008-12-26,West Indies,0,tie,Eden Park
+7,KD Mills,6.0,7,0,0,85.71428571428571,JE Taylor,0,bowled,KD Mills,2008-12-28,West Indies,New Zealand,0,Seddon Park
+9,KD Mills,0.0,1,0,0,0.0,Umar Gul,['Shahzaib Hasan'],caught,KD Mills,2009-06-13,Pakistan,Pakistan,0,Kennington Oval
+9,KD Mills,4.0,6,1,0,66.66666666666666,notOut,notOut,notOut,notOut,2009-06-16,Sri Lanka,Sri Lanka,0,Trent Bridge
+8,KD Mills,7.0,5,1,0,140.0,SL Malinga,0,bowled,KD Mills,2009-09-02,New Zealand,New Zealand,0,R Premadasa Stadium
+8,KD Mills,2.0,2,0,0,100.0,notOut,notOut,notOut,notOut,2010-05-22,Sri Lanka,New Zealand,0,Central Broward Regional Park Stadium Turf Ground
+9,KD Mills,0.0,2,0,0,0.0,BAW Mendis,0,lbw,KD Mills,2010-05-23,Sri Lanka,Sri Lanka,0,Central Broward Regional Park Stadium Turf Ground
+7,KD Mills,0.0,1,0,0,0.0,Saeed Ajmal,['Umar Akmal'],stumped,KD Mills,2010-12-28,Pakistan,New Zealand,0,Seddon Park
+8,KD Mills,7.0,9,1,0,77.77777777777779,Shahid Afridi,0,bowled,KD Mills,2010-12-30,Pakistan,Pakistan,0,AMI Stadium
+10,KD Mills,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2012-07-01,West Indies,West Indies,0,Central Broward Regional Park Stadium Turf Ground
+10,KD Mills,0.0,1,0,0,0.0,notOut,notOut,notOut,notOut,2012-09-23,Pakistan,Pakistan,0,Pallekele International Cricket Stadium
+7,KD Mills,4.0,9,1,0,44.44444444444444,SMSM Senanayake,0,lbw,KD Mills,2014-03-31,Sri Lanka,Sri Lanka,0,Zahur Ahmed Chowdhury Stadium
+9,KD Mills,6.0,3,1,0,200.0,notOut,notOut,notOut,notOut,2014-12-05,Pakistan,New Zealand,0,Dubai International Cricket Stadium
+7,KE Broadmore,27.0,34,1,0,79.41176470588235,notOut,notOut,notOut,notOut,2012-02-17,England,England,0,Westpac Stadium
+6,KE Broadmore,9.0,10,1,0,90.0,LA Marsh,['A Brindle'],caught,KE Broadmore,2012-02-19,England,England,0,Seddon Park
+9,KE Broadmore,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2012-02-22,England,England,0,Eden Park
+9,KJ Martin,2.0,2,0,0,100.0,notOut,notOut,notOut,notOut,2010-12-30,Australia,Australia,0,Saxton Oval
+5,KJ Martin,12.0,12,1,0,100.0,A Shrubsole,0,lbw,KJ Martin,2012-02-17,England,England,0,Westpac Stadium
+7,KJ Martin,4.0,6,0,0,66.66666666666666,LA Marsh,['A Brindle'],run out,KJ Martin,2012-02-19,England,England,0,Seddon Park
+7,KJ Martin,2.0,5,0,0,40.0,D Hazell,['SJ Taylor'],stumped,KJ Martin,2012-02-22,England,England,0,Eden Park
+7,KJ Martin,10.0,8,1,0,125.0,SA Campbelle,['SF Daley'],caught,KJ Martin,2012-09-26,West Indies,West Indies,0,Galle International Stadium
+6,KJ Martin,19.0,17,1,0,111.76470588235294,DN Wyatt,['SJ Taylor'],stumped,KJ Martin,2012-10-04,New Zealand,England,0,R Premadasa Stadium
+6,KJ Martin,15.0,11,2,0,136.36363636363635,EA Perry,['AJ Blackwell'],run out,ML Green,2014-03-23,New Zealand,New Zealand,0,Sylhet Stadium
+7,KJ Martin,15.0,11,2,0,136.36363636363635,EA Perry,['AJ Blackwell'],run out,KJ Martin,2014-03-23,New Zealand,New Zealand,0,Sylhet Stadium
+6,KJ Martin,9.0,10,1,0,90.0,M Kapp,['T Chetty'],run out,KJ Martin,2014-03-31,South Africa,South Africa,0,Sylhet Stadium
+6,KJ Martin,0.0,1,0,0,0.0,notOut,notOut,notOut,notOut,2016-03-21,New Zealand,New Zealand,0,"Vidarbha Cricket Association Stadium, Jamtha"
+4,KJ Martin,8.0,10,1,0,80.0,notOut,notOut,notOut,notOut,2016-03-26,South Africa,New Zealand,0,M Chinnaswamy Stadium
+5,KJ Martin,11.0,9,1,0,122.22222222222223,notOut,notOut,notOut,notOut,2016-03-31,West Indies,West Indies,0,Wankhede Stadium
+5,KJ Martin,19.0,21,2,0,90.47619047619048,Sadia Yousuf,['Bismah Maroof'],caught,KJ Martin,2016-11-21,Pakistan,New Zealand,0,Saxton Oval
+4,KJ Martin,4.0,3,0,0,133.33333333333331,A Wellington,['JL Jonassen'],caught,KJ Martin,2017-02-17,New Zealand,Australia,0,Melbourne Cricket Ground
+3,KJ Martin,3.0,6,0,0,50.0,A Wellington,0,bowled,KJ Martin,2017-02-19,New Zealand,New Zealand,0,"Simonds Stadium, South Geelong"
+3,KJ Martin,1.0,3,0,0,33.33333333333333,A Wellington,0,bowled,KJ Martin,2017-02-22,New Zealand,New Zealand,0,Adelaide Oval
+3,KS Williamson,48.0,39,5,0,123.07692307692308,SW Masakadza,['SW Masakadza'],run out,KS Williamson,2012-02-11,Zimbabwe,New Zealand,0,Eden Park
+6,KS Williamson,20.0,5,3,1,400.0,notOut,notOut,notOut,notOut,2012-02-14,Zimbabwe,New Zealand,0,Seddon Park
+3,KS Williamson,24.0,21,3,0,114.28571428571428,M Morkel,['JA Morkel'],run out,KS Williamson,2012-02-17,South Africa,New Zealand,0,Westpac Stadium
+3,KS Williamson,28.0,21,1,2,133.33333333333331,notOut,notOut,notOut,notOut,2012-02-19,South Africa,South Africa,0,Seddon Park
+4,KS Williamson,6.0,11,0,0,54.54545454545454,M Morkel,['JA Morkel'],caught,KS Williamson,2012-02-22,South Africa,South Africa,0,Eden Park
+3,KS Williamson,10.0,10,0,0,100.0,DJG Sammy,0,caught and bowled,KS Williamson,2012-06-30,West Indies,West Indies,0,Central Broward Regional Park Stadium Turf Ground
+3,KS Williamson,6.0,5,1,0,120.0,S Badree,"['LMP Simmons', 'S Badree']",run out,KS Williamson,2012-07-01,West Indies,West Indies,0,Central Broward Regional Park Stadium Turf Ground
+2,KS Williamson,28.0,26,3,0,107.6923076923077,IK Pathan,['R Ashwin'],caught,KS Williamson,2012-09-11,New Zealand,New Zealand,0,"MA Chidambaram Stadium, Chepauk"
+1,KS Williamson,15.0,13,2,0,115.38461538461537,notOut,notOut,notOut,notOut,2012-09-23,Pakistan,Pakistan,0,Pallekele International Cricket Stadium
+7,KS Williamson,4.0,4,0,0,100.0,KMDN Kulasekara,"['BMAJ Mendis', 'KC Sangakkara']",run out,KS Williamson,2012-09-27,New Zealand,0,tie,Pallekele International Cricket Stadium
+3,KS Williamson,17.0,24,1,0,70.83333333333334,DR Briggs,['C Kieswetter'],caught,KS Williamson,2012-09-29,New Zealand,England,0,Pallekele International Cricket Stadium
+1,KS Williamson,24.0,17,4,0,141.1764705882353,notOut,notOut,notOut,notOut,2014-03-22,New Zealand,New Zealand,0,Zahur Ahmed Chowdhury Stadium
+1,KS Williamson,51.0,35,5,2,145.7142857142857,DW Steyn,['AB de Villiers'],caught,KS Williamson,2014-03-24,South Africa,South Africa,0,Zahur Ahmed Chowdhury Stadium
+1,KS Williamson,29.0,22,5,0,131.8181818181818,LV van Beek,['W Barresi'],caught,KS Williamson,2014-03-29,New Zealand,New Zealand,0,Zahur Ahmed Chowdhury Stadium
+1,KS Williamson,42.0,45,6,0,93.33333333333333,notOut,notOut,notOut,notOut,2014-03-31,Sri Lanka,Sri Lanka,0,Zahur Ahmed Chowdhury Stadium
+0,KS Williamson,19.0,18,2,0,105.55555555555556,DJG Sammy,0,caught and bowled,KS Williamson,2014-07-05,New Zealand,New Zealand,0,"Windsor Park, Roseau"
+0,KS Williamson,37.0,28,5,0,132.14285714285714,KA Pollard,0,bowled,KS Williamson,2014-07-06,New Zealand,West Indies,0,"Windsor Park, Roseau"
+1,KS Williamson,0.0,1,0,0,0.0,Anwar Ali,0,lbw,KS Williamson,2014-12-04,Pakistan,Pakistan,0,Dubai International Cricket Stadium
+1,KS Williamson,32.0,32,3,1,100.0,Shahid Afridi,0,bowled,KS Williamson,2014-12-05,Pakistan,New Zealand,0,Dubai International Cricket Stadium
+1,KS Williamson,57.0,37,8,0,154.05405405405406,notOut,notOut,notOut,notOut,2015-06-23,New Zealand,England,0,Old Trafford
+1,KS Williamson,20.0,12,4,0,166.66666666666669,T Muzarabani,['CR Ervine'],caught,KS Williamson,2015-08-09,New Zealand,New Zealand,0,Harare Sports Club
+1,KS Williamson,42.0,21,8,0,200.0,AM Phangiso,['MN van Wyk'],stumped,KS Williamson,2015-08-14,New Zealand,South Africa,0,Kingsmead
+1,KS Williamson,25.0,17,4,1,147.05882352941177,K Rabada,['KJ Abbott'],caught,KS Williamson,2015-08-16,New Zealand,New Zealand,0,SuperSport Park
+1,KS Williamson,53.0,42,5,1,126.19047619047619,JDF Vandersay,['CK Kapugedera'],run out,MJ Guptill,2016-01-07,Sri Lanka,New Zealand,0,Bay Oval
+2,KS Williamson,53.0,42,5,1,126.19047619047619,KMDN Kulasekara,['RAS Lakmal'],caught,KS Williamson,2016-01-07,Sri Lanka,New Zealand,0,Bay Oval
+1,KS Williamson,32.0,21,3,0,152.38095238095238,notOut,notOut,notOut,notOut,2016-01-10,Sri Lanka,New Zealand,0,Eden Park
+1,KS Williamson,70.0,61,6,1,114.75409836065573,Imad Wasim,"['Shahid Afridi', 'Imad Wasim']",run out,MJ Guptill,2016-01-15,Pakistan,Pakistan,0,Eden Park
+2,KS Williamson,70.0,61,6,1,114.75409836065573,Wahab Riaz,['Mohammad Hafeez'],caught,KS Williamson,2016-01-15,Pakistan,Pakistan,0,Eden Park
+1,KS Williamson,33.0,34,3,1,97.05882352941177,Anwar Ali,['Mohammad Rizwan'],run out,C Munro,2016-01-22,Pakistan,New Zealand,0,Westpac Stadium
+2,KS Williamson,33.0,34,3,1,97.05882352941177,Wahab Riaz,['Shoaib Malik'],caught,KS Williamson,2016-01-22,Pakistan,New Zealand,0,Westpac Stadium
+2,KS Williamson,8.0,16,1,0,50.0,SK Raina,['MS Dhoni'],stumped,KS Williamson,2016-03-15,New Zealand,New Zealand,0,"Vidarbha Cricket Association Stadium, Jamtha"
+1,KS Williamson,24.0,20,4,0,120.0,GJ Maxwell,['AC Agar'],caught,KS Williamson,2016-03-18,New Zealand,New Zealand,0,Himachal Pradesh Cricket Association Stadium
+1,KS Williamson,17.0,21,1,0,80.95238095238095,Mohammad Irfan,['Shahid Afridi'],caught,KS Williamson,2016-03-22,Pakistan,New Zealand,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+1,KS Williamson,42.0,32,5,1,131.25,Mustafizur Rahman,0,bowled,KS Williamson,2016-03-26,New Zealand,New Zealand,0,Eden Gardens
+1,KS Williamson,32.0,30,3,1,106.66666666666667,MM Ali,0,caught and bowled,KS Williamson,2016-03-30,New Zealand,England,0,Feroz Shah Kotla
+1,KS Williamson,73.0,55,5,2,132.72727272727275,notOut,notOut,notOut,notOut,2017-01-03,Bangladesh,New Zealand,0,McLean Park
+2,KS Williamson,12.0,13,2,0,92.3076923076923,Shakib Al Hasan,['Tamim Iqbal'],caught,KS Williamson,2017-01-06,Bangladesh,New Zealand,0,Bay Oval
+0,KS Williamson,60.0,57,6,1,105.26315789473684,Rubel Hossain,0,bowled,KS Williamson,2017-01-08,Bangladesh,New Zealand,0,Bay Oval
+1,KS Williamson,13.0,14,2,0,92.85714285714286,AL Phehlukwayo,['WD Parnell'],caught,KS Williamson,2017-02-17,South Africa,South Africa,0,Eden Park
+3,KT Perkins,1.0,3,0,0,33.33333333333333,A Shrubsole,0,bowled,KT Perkins,2012-02-17,England,England,0,Westpac Stadium
+4,KT Perkins,5.0,3,1,0,166.66666666666669,D Hazell,0,lbw,KT Perkins,2012-02-19,England,England,0,Seddon Park
+5,KT Perkins,3.0,7,0,0,42.857142857142854,notOut,notOut,notOut,notOut,2012-02-22,England,England,0,Eden Park
+6,KT Perkins,2.0,2,0,0,100.0,notOut,notOut,notOut,notOut,2012-09-28,South Africa,New Zealand,0,Galle International Stadium
+3,KT Perkins,31.0,37,3,0,83.78378378378379,RM Farrell,0,lbw,KT Perkins,2014-03-23,New Zealand,New Zealand,0,Sylhet Stadium
+4,KT Perkins,8.0,8,0,0,100.0,notOut,notOut,notOut,notOut,2014-03-27,Pakistan,New Zealand,0,Sylhet Stadium
+3,KT Perkins,9.0,9,1,0,100.0,D van Niekerk,0,lbw,KT Perkins,2014-03-31,South Africa,South Africa,0,Sylhet Stadium
+3,KT Perkins,28.0,28,1,0,100.0,HASD Siriwardene,0,bowled,KT Perkins,2014-04-02,Sri Lanka,New Zealand,0,Sylhet Stadium
+6,KT Perkins,2.0,3,0,0,66.66666666666666,SL Quintyne,['DJS Dottin'],caught,KT Perkins,2016-03-31,West Indies,West Indies,0,Wankhede Stadium
+7,KT Perkins,17.0,25,1,0,68.0,Asmavia Iqbal,['Nain Abidi'],caught,KT Perkins,2016-11-21,Pakistan,New Zealand,0,Saxton Oval
+6,KT Perkins,1.0,4,0,0,25.0,A Wellington,['M Strano'],caught,KT Perkins,2017-02-17,New Zealand,Australia,0,Melbourne Cricket Ground
+7,KT Perkins,6.0,10,0,0,60.0,M Strano,['AJ Healy'],stumped,KT Perkins,2017-02-19,New Zealand,New Zealand,0,"Simonds Stadium, South Geelong"
+5,L Ronchi,0.0,2,0,0,0.0,Al-Amin Hossain,0,caught and bowled,L Ronchi,2013-11-06,New Zealand,New Zealand,0,Shere Bangla National Stadium
+5,L Ronchi,34.0,25,3,1,136.0,notOut,notOut,notOut,notOut,2013-11-21,New Zealand,Sri Lanka,0,Pallekele International Cricket Stadium
+6,L Ronchi,48.0,25,3,4,192.0,notOut,notOut,notOut,notOut,2014-01-11,West Indies,New Zealand,0,Eden Park
+6,L Ronchi,51.0,30,4,2,170.0,notOut,notOut,notOut,notOut,2014-01-15,West Indies,New Zealand,0,Westpac Stadium
+6,L Ronchi,5.0,3,1,0,166.66666666666669,DW Steyn,['Q de Kock'],caught,L Ronchi,2014-03-24,South Africa,South Africa,0,Zahur Ahmed Chowdhury Stadium
+5,L Ronchi,2.0,4,0,0,50.0,HMRKB Herath,0,lbw,L Ronchi,2014-03-31,Sri Lanka,Sri Lanka,0,Zahur Ahmed Chowdhury Stadium
+5,L Ronchi,12.0,12,0,1,100.0,SP Narine,['AD Russell'],caught,L Ronchi,2014-07-06,New Zealand,West Indies,0,"Windsor Park, Roseau"
+5,L Ronchi,33.0,29,4,0,113.79310344827587,Sohail Tanvir,0,bowled,L Ronchi,2014-12-04,Pakistan,Pakistan,0,Dubai International Cricket Stadium
+5,L Ronchi,31.0,21,1,2,147.61904761904762,Sohail Tanvir,['Ahmed Shehzad'],caught,L Ronchi,2014-12-05,Pakistan,New Zealand,0,Dubai International Cricket Stadium
+5,L Ronchi,5.0,4,1,0,125.0,BA Stokes,['JM Bairstow'],caught,L Ronchi,2015-06-23,New Zealand,England,0,Old Trafford
+4,L Ronchi,29.0,19,2,1,152.63157894736844,SC Williams,['CR Ervine'],caught,L Ronchi,2015-08-09,New Zealand,New Zealand,0,Harare Sports Club
+6,L Ronchi,5.0,9,0,0,55.55555555555556,M Morkel,['D Wiese'],run out,L Ronchi,2015-08-14,New Zealand,South Africa,0,Kingsmead
+5,L Ronchi,6.0,9,0,0,66.66666666666666,D Wiese,['DA Miller'],caught,L Ronchi,2015-08-16,New Zealand,New Zealand,0,SuperSport Park
+6,L Ronchi,0.0,4,0,0,0.0,Shahid Afridi,['Ahmed Shehzad'],caught,L Ronchi,2016-01-15,Pakistan,Pakistan,0,Eden Park
+7,L Ronchi,1.0,2,0,0,50.0,Wahab Riaz,['Umar Akmal'],caught,L Ronchi,2016-01-22,Pakistan,New Zealand,0,Westpac Stadium
+8,L Ronchi,21.0,11,2,1,190.9090909090909,A Nehra,"['S Dhawan', 'A Nehra']",run out,GD Elliott,2016-03-15,New Zealand,New Zealand,0,"Vidarbha Cricket Association Stadium, Jamtha"
+6,L Ronchi,6.0,7,0,0,85.71428571428571,JP Faulkner,['GJ Maxwell'],caught,L Ronchi,2016-03-18,New Zealand,New Zealand,0,Himachal Pradesh Cricket Association Stadium
+5,L Ronchi,11.0,7,0,1,157.14285714285714,Mohammad Sami,['Shoaib Malik'],caught,L Ronchi,2016-03-22,Pakistan,New Zealand,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+6,L Ronchi,9.0,5,1,0,180.0,notOut,notOut,notOut,notOut,2016-03-26,New Zealand,New Zealand,0,Eden Gardens
+5,L Ronchi,3.0,3,0,0,100.0,BA Stokes,['DJ Willey'],caught,L Ronchi,2016-03-30,New Zealand,England,0,Feroz Shah Kotla
+0,L Ronchi,0.0,1,0,0,0.0,Mashrafe Mortaza,['Mosaddek Hossain'],caught,L Ronchi,2017-01-06,Bangladesh,New Zealand,0,Bay Oval
+6,L Ronchi,0.0,1,0,0,0.0,Imran Tahir,['Q de Kock'],caught,L Ronchi,2017-02-17,South Africa,South Africa,0,Eden Park
+0,L Vincent,42.0,40,5,1,105.0,DR Smith,0,bowled,L Vincent,2006-02-16,West Indies,0,0,Eden Park
+0,L Vincent,27.0,22,4,1,122.72727272727273,TM Odoyo,['DO Obuya'],caught,L Vincent,2007-09-12,New Zealand,New Zealand,0,Kingsmead
+0,L Vincent,14.0,16,1,0,87.5,CRD Fernando,['LPC Silva'],caught,L Vincent,2007-09-15,Sri Lanka,Sri Lanka,0,New Wanderers Stadium
+0,L Vincent,3.0,6,0,0,50.0,RP Singh,['KD Karthik'],caught,L Vincent,2007-09-16,New Zealand,New Zealand,0,New Wanderers Stadium
+0,L Vincent,13.0,20,1,0,65.0,SCJ Broad,['VS Solanki'],caught,L Vincent,2007-09-18,New Zealand,New Zealand,0,Kingsmead
+0,L Vincent,32.0,31,4,0,103.2258064516129,JJ van der Wath,0,bowled,L Vincent,2007-09-19,New Zealand,South Africa,0,Kingsmead
+0,L Vincent,28.0,29,1,1,96.55172413793103,Fawad Alam,0,caught and bowled,L Vincent,2007-09-22,Pakistan,Pakistan,0,Newlands
+0,L Vincent,15.0,21,1,0,71.42857142857143,J Botha,0,lbw,L Vincent,2007-11-23,New Zealand,South Africa,0,New Wanderers Stadium
+0,L Vincent,0.0,1,0,0,0.0,B Lee,['AC Gilchrist'],caught,L Vincent,2007-12-11,New Zealand,Australia,0,Western Australia Cricket Association Ground
+7,LM Kasperek,6.0,6,0,0,100.0,SR Taylor,['MR Aguilleira'],stumped,LM Kasperek,2016-03-31,West Indies,West Indies,0,Wankhede Stadium
+9,LMM Tahuhu,3.0,8,0,0,37.5,D Hazell,0,bowled,LMM Tahuhu,2012-02-17,England,England,0,Westpac Stadium
+10,LMM Tahuhu,0.0,2,0,0,0.0,A Shrubsole,['A Brindle'],caught,LMM Tahuhu,2012-02-19,England,England,0,Seddon Park
+8,LMM Tahuhu,16.0,17,1,0,94.11764705882352,Asmavia Iqbal,['Bismah Maroof'],run out,LMM Tahuhu,2016-11-21,Pakistan,New Zealand,0,Saxton Oval
+9,LMM Tahuhu,10.0,5,1,0,200.0,notOut,notOut,notOut,notOut,2017-02-17,New Zealand,Australia,0,Melbourne Cricket Ground
+9,LMM Tahuhu,0.0,1,0,0,0.0,M Strano,['MM Lanning'],caught,LMM Tahuhu,2017-02-19,New Zealand,New Zealand,0,"Simonds Stadium, South Geelong"
+8,LMM Tahuhu,5.0,4,0,0,125.0,notOut,notOut,notOut,notOut,2017-02-22,New Zealand,New Zealand,0,Adelaide Oval
+0,LR Doolan,3.0,6,0,0,50.0,R Dhar,['Anjum Chopra'],caught,LR Doolan,2009-06-18,New Zealand,New Zealand,0,Trent Bridge
+7,LR Doolan,15.0,20,0,0,75.0,LC Sthalekar,"['AJ Healy', 'SJ Coyte']",run out,LR Doolan,2010-12-30,Australia,Australia,0,Saxton Oval
+8,LR Doolan,1.0,3,0,0,33.33333333333333,DN Wyatt,['LA Marsh'],caught,LR Doolan,2012-02-19,England,England,0,Seddon Park
+8,LR Doolan,3.0,5,0,0,60.0,notOut,notOut,notOut,notOut,2012-10-04,New Zealand,England,0,R Premadasa Stadium
+3,LRPL Taylor,21.0,21,2,0,100.0,M Muralitharan,0,lbw,LRPL Taylor,2006-12-22,Sri Lanka,Sri Lanka,0,Westpac Stadium
+2,LRPL Taylor,4.0,7,0,0,57.14285714285714,TM Dilshan,"['HMCM Bandara', 'TM Dilshan']",run out,LRPL Taylor,2006-12-26,Sri Lanka,New Zealand,0,Eden Park
+3,LRPL Taylor,62.0,45,3,3,137.77777777777777,SL Malinga,['KC Sangakkara'],caught,LRPL Taylor,2007-09-15,Sri Lanka,Sri Lanka,0,New Wanderers Stadium
+3,LRPL Taylor,11.0,9,0,1,122.22222222222223,Yuvraj Singh,0,lbw,LRPL Taylor,2007-09-16,New Zealand,New Zealand,0,New Wanderers Stadium
+3,LRPL Taylor,7.0,8,0,1,87.5,JM Anderson,['A Flintoff'],caught,LRPL Taylor,2007-09-18,New Zealand,New Zealand,0,Kingsmead
+2,LRPL Taylor,1.0,3,0,0,33.33333333333333,M Morkel,['MV Boucher'],caught,LRPL Taylor,2007-09-19,New Zealand,South Africa,0,Kingsmead
+5,LRPL Taylor,37.0,23,2,2,160.8695652173913,Mohammad Hafeez,"['Shahid Afridi', 'Mohammad Hafeez']",run out,DL Vettori,2007-09-22,Pakistan,Pakistan,0,Newlands
+3,LRPL Taylor,7.0,8,0,1,87.5,JA Morkel,['JH Kallis'],caught,LRPL Taylor,2007-11-23,New Zealand,South Africa,0,New Wanderers Stadium
+4,LRPL Taylor,0.0,3,0,0,0.0,SW Tait,0,bowled,LRPL Taylor,2007-12-11,New Zealand,Australia,0,Western Australia Cricket Association Ground
+2,LRPL Taylor,0.0,3,0,0,0.0,RJ Sidebottom,0,lbw,LRPL Taylor,2008-02-05,England,England,0,Eden Park
+2,LRPL Taylor,21.0,10,1,2,210.0,SCJ Broad,['IR Bell'],caught,LRPL Taylor,2008-02-07,England,England,0,Jade Stadium
+3,LRPL Taylor,25.0,18,3,2,138.88888888888889,PD Collingwood,0,bowled,LRPL Taylor,2008-06-13,New Zealand,England,0,Old Trafford
+2,LRPL Taylor,63.0,52,4,4,121.15384615384615,JE Taylor,0,bowled,LRPL Taylor,2008-12-26,West Indies,0,tie,Eden Park
+2,LRPL Taylor,6.0,6,1,0,100.0,KA Pollard,['XM Marshall'],caught,LRPL Taylor,2008-12-28,West Indies,New Zealand,0,Seddon Park
+3,LRPL Taylor,31.0,20,1,3,155.0,Z Khan,0,bowled,LRPL Taylor,2009-02-25,India,New Zealand,0,AMI Stadium
+3,LRPL Taylor,27.0,26,2,0,103.84615384615385,IK Pathan,0,bowled,LRPL Taylor,2009-02-27,India,New Zealand,0,Westpac Stadium
+2,LRPL Taylor,21.0,10,1,2,210.0,GD Drummond,"['KJ Coetzer', 'CJO Smith']",run out,BB McCullum,2009-06-06,Scotland,New Zealand,0,Kennington Oval
+3,LRPL Taylor,22.0,33,2,0,66.66666666666666,RE van der Merwe,0,bowled,LRPL Taylor,2009-06-09,South Africa,South Africa,0,Lord's
+3,LRPL Taylor,8.0,8,1,0,100.0,BAW Mendis,['KC Sangakkara'],stumped,LRPL Taylor,2009-06-16,Sri Lanka,Sri Lanka,0,Trent Bridge
+4,LRPL Taylor,60.0,46,5,1,130.43478260869566,AD Mathews,['KMDN Kulasekara'],caught,LRPL Taylor,2009-09-02,New Zealand,New Zealand,0,R Premadasa Stadium
+2,LRPL Taylor,16.0,18,1,0,88.88888888888889,ST Jayasuriya,0,lbw,LRPL Taylor,2009-09-04,New Zealand,New Zealand,0,R Premadasa Stadium
+2,LRPL Taylor,5.0,8,1,0,62.5,Mohammad Amir,['Kamran Akmal'],caught,LRPL Taylor,2009-11-12,Pakistan,Pakistan,0,Dubai International Cricket Stadium
+3,LRPL Taylor,13.0,12,0,1,108.33333333333333,Shahid Afridi,0,lbw,LRPL Taylor,2009-11-13,Pakistan,Pakistan,0,Dubai International Cricket Stadium
+3,LRPL Taylor,9.0,9,1,0,100.0,MG Johnson,0,lbw,LRPL Taylor,2010-02-26,Australia,Australia,0,Westpac Stadium
+3,LRPL Taylor,6.0,9,1,0,66.66666666666666,SPD Smith,"['CL White', 'BJ Haddin']",run out,LRPL Taylor,2010-02-28,Australia,0,tie,AMI Stadium
+3,LRPL Taylor,9.0,15,0,0,60.0,M Muralitharan,['AD Mathews'],caught,LRPL Taylor,2010-04-30,Sri Lanka,New Zealand,0,Providence Stadium
+3,LRPL Taylor,19.0,16,1,1,118.75,M Morkel,['HH Gibbs'],caught,LRPL Taylor,2010-05-06,South Africa,South Africa,0,"Kensington Oval, Bridgetown"
+3,LRPL Taylor,3.0,8,0,0,37.5,Mohammad Sami,['Kamran Akmal'],caught,LRPL Taylor,2010-05-08,Pakistan,New Zealand,0,"Kensington Oval, Bridgetown"
+3,LRPL Taylor,44.0,33,0,2,133.33333333333331,RJ Sidebottom,['TT Bresnan'],caught,LRPL Taylor,2010-05-10,New Zealand,England,0,"Beausejour Stadium, Gros Islet"
+3,LRPL Taylor,27.0,31,3,0,87.09677419354838,NLTC Perera,"['KMDN Kulasekara', 'KC Sangakkara']",run out,LRPL Taylor,2010-05-22,Sri Lanka,New Zealand,0,Central Broward Regional Park Stadium Turf Ground
+2,LRPL Taylor,5.0,5,1,0,100.0,AD Mathews,0,lbw,LRPL Taylor,2010-05-23,Sri Lanka,Sri Lanka,0,Central Broward Regional Park Stadium Turf Ground
+4,LRPL Taylor,39.0,34,2,3,114.70588235294117,notOut,notOut,notOut,notOut,2010-12-26,Pakistan,New Zealand,0,Eden Park
+3,LRPL Taylor,30.0,21,1,2,142.85714285714286,notOut,notOut,notOut,notOut,2010-12-28,Pakistan,New Zealand,0,Seddon Park
+4,LRPL Taylor,0.0,3,0,0,0.0,Abdul Razzaq,0,lbw,LRPL Taylor,2010-12-30,Pakistan,Pakistan,0,AMI Stadium
+3,LRPL Taylor,8.0,5,1,0,160.0,CB Mpofu,"['F Mutizwa', 'CK Coventry']",run out,LRPL Taylor,2011-10-17,New Zealand,New Zealand,0,Harare Sports Club
+2,LRPL Taylor,10.0,12,2,0,83.33333333333334,S Badree,0,retired hurt,LRPL Taylor,2012-06-30,West Indies,West Indies,0,Central Broward Regional Park Stadium Turf Ground
+4,LRPL Taylor,25.0,20,0,1,125.0,notOut,notOut,notOut,notOut,2012-09-11,New Zealand,New Zealand,0,"MA Chidambaram Stadium, Chepauk"
+3,LRPL Taylor,14.0,12,2,0,116.66666666666667,notOut,notOut,notOut,notOut,2012-09-21,New Zealand,New Zealand,0,Pallekele International Cricket Stadium
+6,LRPL Taylor,26.0,11,3,1,236.36363636363637,Umar Gul,"['Umar Akmal', 'Kamran Akmal']",run out,LRPL Taylor,2012-09-23,Pakistan,Pakistan,0,Pallekele International Cricket Stadium
+3,LRPL Taylor,23.0,16,2,0,143.75,KMDN Kulasekara,0,bowled,LRPL Taylor,2012-09-27,New Zealand,0,tie,Pallekele International Cricket Stadium
+4,LRPL Taylor,22.0,24,2,0,91.66666666666666,ST Finn,['AD Hales'],caught,LRPL Taylor,2012-09-29,New Zealand,England,0,Pallekele International Cricket Stadium
+3,LRPL Taylor,62.0,41,3,3,151.21951219512195,notOut,notOut,notOut,notOut,2012-10-01,West Indies,0,tie,Pallekele International Cricket Stadium
+3,LRPL Taylor,4.0,11,0,0,36.36363636363637,NLTC Perera,['KC Sangakkara'],caught,LRPL Taylor,2012-10-30,New Zealand,0,0,Pallekele International Cricket Stadium
+3,LRPL Taylor,13.0,16,1,0,81.25,ST Finn,['JM Bairstow'],caught,LRPL Taylor,2013-02-09,England,England,0,Eden Park
+3,LRPL Taylor,4.0,6,0,0,66.66666666666666,LJ Wright,['JM Bairstow'],caught,LRPL Taylor,2013-02-12,England,New Zealand,0,Seddon Park
+3,LRPL Taylor,6.0,4,0,1,150.0,JE Root,['JM Bairstow'],caught,LRPL Taylor,2013-02-15,England,England,0,Westpac Stadium
+3,LRPL Taylor,32.0,20,2,1,160.0,notOut,notOut,notOut,notOut,2013-06-25,New Zealand,New Zealand,0,Kennington Oval
+2,LRPL Taylor,28.0,27,3,0,103.7037037037037,Ziaur Rahman,['Naeem Islam'],caught,LRPL Taylor,2013-11-06,New Zealand,New Zealand,0,Shere Bangla National Stadium
+3,LRPL Taylor,5.0,7,0,0,71.42857142857143,NO Miller,['DJ Bravo'],caught,LRPL Taylor,2014-01-11,West Indies,New Zealand,0,Eden Park
+3,LRPL Taylor,39.0,42,3,0,92.85714285714286,SP Narine,['CAK Walton'],caught,LRPL Taylor,2014-01-15,West Indies,New Zealand,0,Westpac Stadium
+3,LRPL Taylor,62.0,39,4,3,158.97435897435898,DW Steyn,['DW Steyn'],run out,LRPL Taylor,2014-03-24,South Africa,South Africa,0,Zahur Ahmed Chowdhury Stadium
+3,LRPL Taylor,18.0,11,1,1,163.63636363636365,T van der Gugten,['W Barresi'],caught,LRPL Taylor,2014-03-29,New Zealand,New Zealand,0,Zahur Ahmed Chowdhury Stadium
+3,LRPL Taylor,0.0,5,0,0,0.0,HMRKB Herath,0,lbw,LRPL Taylor,2014-03-31,Sri Lanka,Sri Lanka,0,Zahur Ahmed Chowdhury Stadium
+3,LRPL Taylor,28.0,22,1,2,127.27272727272727,notOut,notOut,notOut,notOut,2014-07-05,New Zealand,New Zealand,0,"Windsor Park, Roseau"
+3,LRPL Taylor,21.0,24,2,0,87.5,SP Narine,0,bowled,LRPL Taylor,2014-07-06,New Zealand,West Indies,0,"Windsor Park, Roseau"
+3,LRPL Taylor,4.0,5,1,0,80.0,Mohammad Irfan,['Umar Akmal'],caught,LRPL Taylor,2014-12-04,Pakistan,Pakistan,0,Dubai International Cricket Stadium
+3,LRPL Taylor,7.0,13,0,0,53.84615384615385,Raza Hasan,0,lbw,LRPL Taylor,2014-12-05,Pakistan,New Zealand,0,Dubai International Cricket Stadium
+3,LRPL Taylor,17.0,13,2,0,130.76923076923077,AU Rashid,['DJ Willey'],caught,LRPL Taylor,2015-06-23,New Zealand,England,0,Old Trafford
+5,LRPL Taylor,22.0,10,3,1,220.00000000000003,notOut,notOut,notOut,notOut,2016-01-07,Sri Lanka,New Zealand,0,Bay Oval
+5,LRPL Taylor,6.0,5,1,0,120.0,Shoaib Malik,0,retired hurt,LRPL Taylor,2016-01-22,Pakistan,New Zealand,0,Westpac Stadium
+5,LRPL Taylor,10.0,14,1,0,71.42857142857143,notOut,notOut,notOut,notOut,2016-03-15,New Zealand,New Zealand,0,"Vidarbha Cricket Association Stadium, Jamtha"
+4,LRPL Taylor,11.0,12,0,1,91.66666666666666,SR Watson,['MR Marsh'],caught,LRPL Taylor,2016-03-18,New Zealand,New Zealand,0,Himachal Pradesh Cricket Association Stadium
+4,LRPL Taylor,36.0,23,2,1,156.52173913043478,notOut,notOut,notOut,notOut,2016-03-22,Pakistan,New Zealand,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+3,LRPL Taylor,28.0,25,2,1,112.00000000000001,Al-Amin Hossain,['Mohammad Mithun'],caught,LRPL Taylor,2016-03-26,New Zealand,New Zealand,0,Eden Gardens
+4,LRPL Taylor,6.0,9,0,0,66.66666666666666,CJ Jordan,['EJG Morgan'],caught,LRPL Taylor,2016-03-30,New Zealand,England,0,Feroz Shah Kotla
+1,MJ Guptill,0.0,2,0,0,0.0,PM Siddle,0,lbw,MJ Guptill,2009-02-15,New Zealand,Australia,0,Sydney Cricket Ground
+2,MJ Guptill,41.0,28,4,3,146.42857142857142,Harbhajan Singh,0,lbw,MJ Guptill,2009-02-25,India,New Zealand,0,AMI Stadium
+2,MJ Guptill,10.0,19,1,0,52.63157894736842,Harbhajan Singh,0,lbw,MJ Guptill,2009-02-27,India,New Zealand,0,Westpac Stadium
+1,MJ Guptill,6.0,5,1,0,120.0,DW Steyn,['RE van der Merwe'],caught,MJ Guptill,2009-06-09,South Africa,South Africa,0,Lord's
+2,MJ Guptill,45.0,33,0,4,136.36363636363635,notOut,notOut,notOut,notOut,2009-06-11,New Zealand,New Zealand,0,Trent Bridge
+2,MJ Guptill,8.0,8,1,0,100.0,Abdul Razzaq,0,lbw,MJ Guptill,2009-06-13,Pakistan,Pakistan,0,Kennington Oval
+2,MJ Guptill,43.0,36,4,1,119.44444444444444,ST Jayasuriya,['AD Mathews'],caught,MJ Guptill,2009-06-16,Sri Lanka,Sri Lanka,0,Trent Bridge
+3,MJ Guptill,29.0,25,2,1,115.99999999999999,HMCM Bandara,['CK Kapugedera'],caught,MJ Guptill,2009-09-02,New Zealand,New Zealand,0,R Premadasa Stadium
+3,MJ Guptill,32.0,20,2,1,160.0,SL Malinga,0,bowled,MJ Guptill,2009-09-04,New Zealand,New Zealand,0,R Premadasa Stadium
+1,MJ Guptill,8.0,5,2,0,160.0,Sohail Tanvir,['Kamran Akmal'],caught,MJ Guptill,2009-11-12,Pakistan,Pakistan,0,Dubai International Cricket Stadium
+2,MJ Guptill,17.0,22,3,0,77.27272727272727,Umar Gul,0,bowled,MJ Guptill,2009-11-13,Pakistan,Pakistan,0,Dubai International Cricket Stadium
+1,MJ Guptill,30.0,29,4,0,103.44827586206897,MG Johnson,['SR Watson'],caught,MJ Guptill,2010-02-26,Australia,Australia,0,Westpac Stadium
+2,MJ Guptill,17.0,17,3,0,100.0,RJ Harris,['SPD Smith'],caught,MJ Guptill,2010-02-28,Australia,0,tie,AMI Stadium
+1,MJ Guptill,19.0,25,1,1,76.0,ST Jayasuriya,0,bowled,MJ Guptill,2010-04-30,Sri Lanka,New Zealand,0,Providence Stadium
+2,MJ Guptill,6.0,14,0,0,42.857142857142854,notOut,notOut,notOut,notOut,2010-05-04,Zimbabwe,New Zealand,0,Providence Stadium
+1,MJ Guptill,18.0,20,3,0,90.0,J Botha,['JA Morkel'],caught,MJ Guptill,2010-05-06,South Africa,South Africa,0,"Kensington Oval, Bridgetown"
+2,MJ Guptill,2.0,11,0,0,18.181818181818183,Abdur Rehman,['Umar Akmal'],caught,MJ Guptill,2010-05-08,Pakistan,New Zealand,0,"Kensington Oval, Bridgetown"
+6,MJ Guptill,10.0,10,0,0,100.0,BAW Mendis,0,bowled,MJ Guptill,2010-05-22,Sri Lanka,New Zealand,0,Central Broward Regional Park Stadium Turf Ground
+1,MJ Guptill,54.0,29,4,4,186.20689655172413,Shahid Afridi,"['Mohammad Hafeez', 'Umar Akmal']",run out,MJ Guptill,2010-12-26,Pakistan,New Zealand,0,Eden Park
+2,MJ Guptill,44.0,29,4,3,151.72413793103448,Saeed Ajmal,['Shahid Afridi'],caught,MJ Guptill,2010-12-28,Pakistan,New Zealand,0,Seddon Park
+1,MJ Guptill,0.0,2,0,0,0.0,Abdul Razzaq,['Ahmed Shehzad'],caught,MJ Guptill,2010-12-30,Pakistan,Pakistan,0,AMI Stadium
+1,MJ Guptill,67.0,50,7,2,134.0,KM Jarvis,['CJ Chibhabha'],caught,MJ Guptill,2011-10-17,New Zealand,New Zealand,0,Harare Sports Club
+1,MJ Guptill,91.0,60,5,6,151.66666666666666,notOut,notOut,notOut,notOut,2012-02-11,Zimbabwe,New Zealand,0,Eden Park
+1,MJ Guptill,78.0,57,5,4,136.8421052631579,notOut,notOut,notOut,notOut,2012-02-17,South Africa,New Zealand,0,Westpac Stadium
+1,MJ Guptill,47.0,38,7,1,123.6842105263158,M de Lange,['JA Morkel'],caught,MJ Guptill,2012-02-19,South Africa,South Africa,0,Seddon Park
+1,MJ Guptill,26.0,20,3,1,130.0,J Botha,['HM Amla'],caught,MJ Guptill,2012-02-22,South Africa,South Africa,0,Eden Park
+1,MJ Guptill,11.0,10,2,0,110.00000000000001,SP Narine,['D Ramdin'],stumped,MJ Guptill,2012-06-30,West Indies,West Indies,0,Central Broward Regional Park Stadium Turf Ground
+1,MJ Guptill,18.0,19,2,1,94.73684210526315,SP Narine,['FH Edwards'],caught,MJ Guptill,2012-07-01,West Indies,West Indies,0,Central Broward Regional Park Stadium Turf Ground
+1,MJ Guptill,1.0,5,0,0,20.0,IK Pathan,0,bowled,MJ Guptill,2012-09-11,New Zealand,New Zealand,0,"MA Chidambaram Stadium, Chepauk"
+0,MJ Guptill,11.0,16,0,1,68.75,Abdur Razzak,0,bowled,MJ Guptill,2012-09-21,New Zealand,New Zealand,0,Pallekele International Cricket Stadium
+1,MJ Guptill,38.0,30,6,0,126.66666666666666,A Dananjaya,['NLTC Perera'],caught,MJ Guptill,2012-09-27,New Zealand,0,tie,Pallekele International Cricket Stadium
+0,MJ Guptill,5.0,6,1,0,83.33333333333334,ST Finn,0,lbw,MJ Guptill,2012-09-29,New Zealand,England,0,Pallekele International Cricket Stadium
+1,MJ Guptill,21.0,28,2,0,75.0,DJG Sammy,['MN Samuels'],caught,MJ Guptill,2012-10-01,West Indies,0,tie,Pallekele International Cricket Stadium
+0,MJ Guptill,101.0,72,9,6,140.27777777777777,notOut,notOut,notOut,notOut,2012-12-23,New Zealand,New Zealand,0,Buffalo Park
+1,MJ Guptill,24.0,20,3,1,120.0,AM Phangiso,['RJ Peterson'],caught,MJ Guptill,2012-12-26,New Zealand,South Africa,0,St George's Park
+1,MJ Guptill,44.0,32,3,2,137.5,LJ Wright,['SCJ Broad'],caught,MJ Guptill,2013-02-09,England,England,0,Eden Park
+0,MJ Guptill,47.0,31,4,2,151.61290322580646,JC Tredwell,['AD Hales'],caught,MJ Guptill,2013-02-12,England,New Zealand,0,Seddon Park
+1,MJ Guptill,59.0,55,2,1,107.27272727272728,SCJ Broad,0,caught and bowled,MJ Guptill,2013-02-15,England,England,0,Westpac Stadium
+0,MJ Guptill,25.0,17,3,1,147.05882352941177,TL Best,['J Charles'],caught,MJ Guptill,2014-01-11,West Indies,New Zealand,0,Eden Park
+0,MJ Guptill,1.0,4,0,0,25.0,JO Holder,['D Ramdin'],caught,MJ Guptill,2014-01-15,West Indies,New Zealand,0,Westpac Stadium
+0,MJ Guptill,11.0,9,2,0,122.22222222222223,JW Dernbach,['CJ Jordan'],caught,MJ Guptill,2014-03-22,New Zealand,New Zealand,0,Zahur Ahmed Chowdhury Stadium
+0,MJ Guptill,22.0,25,3,0,88.0,JA Morkel,['Q de Kock'],caught,MJ Guptill,2014-03-24,South Africa,South Africa,0,Zahur Ahmed Chowdhury Stadium
+0,MJ Guptill,9.0,16,1,0,56.25,T van der Gugten,['W Barresi'],caught,MJ Guptill,2014-03-29,New Zealand,New Zealand,0,Zahur Ahmed Chowdhury Stadium
+0,MJ Guptill,5.0,9,0,0,55.55555555555556,HMRKB Herath,"['HMRKB Herath', 'KC Sangakkara']",run out,MJ Guptill,2014-03-31,Sri Lanka,Sri Lanka,0,Zahur Ahmed Chowdhury Stadium
+0,MJ Guptill,32.0,30,2,1,106.66666666666667,Shahid Afridi,0,bowled,MJ Guptill,2014-12-04,Pakistan,Pakistan,0,Dubai International Cricket Stadium
+0,MJ Guptill,6.0,3,1,0,200.0,DJ Willey,0,bowled,MJ Guptill,2015-06-23,New Zealand,England,0,Old Trafford
+0,MJ Guptill,33.0,24,5,0,137.5,SC Williams,['Sikandar Raza'],caught,MJ Guptill,2015-08-09,New Zealand,New Zealand,0,Harare Sports Club
+0,MJ Guptill,42.0,38,5,0,110.5263157894737,notOut,notOut,notOut,notOut,2015-08-14,New Zealand,South Africa,0,Kingsmead
+0,MJ Guptill,60.0,36,6,3,166.66666666666669,F Behardien,['DA Miller'],caught,MJ Guptill,2015-08-16,New Zealand,New Zealand,0,SuperSport Park
+0,MJ Guptill,58.0,34,4,4,170.58823529411765,notOut,notOut,notOut,notOut,2016-01-07,Sri Lanka,New Zealand,0,Bay Oval
+0,MJ Guptill,63.0,26,6,5,242.3076923076923,NLTC Perera,['LD Chandimal'],caught,MJ Guptill,2016-01-10,Sri Lanka,New Zealand,0,Eden Park
+0,MJ Guptill,2.0,4,0,0,50.0,notOut,notOut,notOut,notOut,2016-01-15,Pakistan,Pakistan,0,Eden Park
+0,MJ Guptill,42.0,19,6,2,221.0526315789474,Shahid Afridi,['Umar Akmal'],caught,MJ Guptill,2016-01-22,Pakistan,New Zealand,0,Westpac Stadium
+0,MJ Guptill,6.0,2,0,1,300.0,R Ashwin,0,lbw,MJ Guptill,2016-03-15,New Zealand,New Zealand,0,"Vidarbha Cricket Association Stadium, Jamtha"
+0,MJ Guptill,39.0,27,2,4,144.44444444444443,JP Faulkner,['GJ Maxwell'],caught,MJ Guptill,2016-03-18,New Zealand,New Zealand,0,Himachal Pradesh Cricket Association Stadium
+0,MJ Guptill,80.0,50,10,3,160.0,Mohammad Sami,0,bowled,MJ Guptill,2016-03-22,Pakistan,New Zealand,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+0,MJ Guptill,15.0,13,3,0,115.38461538461537,DJ Willey,['JC Buttler'],caught,MJ Guptill,2016-03-30,New Zealand,England,0,Feroz Shah Kotla
+9,MJ Henry,10.0,6,2,0,166.66666666666669,Mohammad Amir,['Shahid Afridi'],caught,MJ Henry,2016-01-15,Pakistan,Pakistan,0,Eden Park
+9,MJ Mason,2.0,2,0,0,100.0,JM Anderson,"['LJ Wright', 'TR Ambrose']",run out,MJ Mason,2008-06-13,New Zealand,England,0,Old Trafford
+10,MJ McClenaghan,0.0,3,0,0,0.0,RK Kleinveldt,['RJ Peterson'],caught,MJ McClenaghan,2012-12-21,New Zealand,South Africa,0,Kingsmead
+11,MJ McClenaghan,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2012-12-26,New Zealand,South Africa,0,St George's Park
+10,MJ McClenaghan,6.0,7,1,0,85.71428571428571,notOut,notOut,notOut,notOut,2013-02-09,England,England,0,Eden Park
+10,MJ McClenaghan,0.0,1,0,0,0.0,DJ Willey,['JM Bairstow'],caught,MJ McClenaghan,2015-06-23,New Zealand,England,0,Old Trafford
+9,MJ McClenaghan,6.0,1,0,1,600.0,notOut,notOut,notOut,notOut,2016-03-26,New Zealand,New Zealand,0,Eden Gardens
+8,MJ McClenaghan,1.0,2,0,0,50.0,BA Stokes,"['JC Buttler', 'BA Stokes']",run out,MJ McClenaghan,2016-03-30,New Zealand,England,0,Feroz Shah Kotla
+6,MJ Santner,9.0,13,0,0,69.23076923076923,MA Wood,0,bowled,MJ Santner,2015-06-23,New Zealand,England,0,Old Trafford
+7,MJ Santner,0.0,4,0,0,0.0,Umar Gul,['Shahid Afridi'],caught,MJ Santner,2016-01-15,Pakistan,Pakistan,0,Eden Park
+8,MJ Santner,2.0,4,0,0,50.0,notOut,notOut,notOut,notOut,2016-01-22,Pakistan,New Zealand,0,Westpac Stadium
+6,MJ Santner,18.0,19,2,0,94.73684210526315,RA Jadeja,['MS Dhoni'],caught,MJ Santner,2016-03-15,New Zealand,New Zealand,0,"Vidarbha Cricket Association Stadium, Jamtha"
+7,MJ Santner,1.0,1,0,0,100.0,NM Coulter-Nile,"['GJ Maxwell', 'PM Nevill']",run out,MJ Santner,2016-03-18,New Zealand,New Zealand,0,Himachal Pradesh Cricket Association Stadium
+7,MJ Santner,3.0,3,0,0,100.0,Mustafizur Rahman,0,bowled,MJ Santner,2016-03-26,New Zealand,New Zealand,0,Eden Gardens
+7,MJ Santner,7.0,6,1,0,116.66666666666667,BA Stokes,['CJ Jordan'],caught,MJ Santner,2016-03-30,New Zealand,England,0,Feroz Shah Kotla
+7,MJ Santner,4.0,4,0,0,100.0,Rubel Hossain,['Rubel Hossain'],run out,MJ Santner,2017-01-06,Bangladesh,New Zealand,0,Bay Oval
+7,MJ Santner,5.0,6,1,0,83.33333333333334,AL Phehlukwayo,['HM Amla'],caught,MJ Santner,2017-02-17,South Africa,South Africa,0,Eden Park
+8,MJG Nielsen,0.0,2,0,0,0.0,A Shrubsole,0,bowled,MJG Nielsen,2012-02-17,England,England,0,Westpac Stadium
+9,MJG Nielsen,8.0,4,1,0,200.0,notOut,notOut,notOut,notOut,2012-02-19,England,England,0,Seddon Park
+9,MJG Nielsen,4.0,5,0,0,80.0,notOut,notOut,notOut,notOut,2012-09-26,West Indies,West Indies,0,Galle International Stadium
+9,MJG Nielsen,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2012-10-04,New Zealand,England,0,R Premadasa Stadium
+8,ML Green,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2014-03-23,New Zealand,New Zealand,0,Sylhet Stadium
+5,ML Green,3.0,8,0,0,37.5,M Strano,0,caught and bowled,ML Green,2017-02-19,New Zealand,New Zealand,0,"Simonds Stadium, South Geelong"
+6,ML Green,14.0,16,0,1,87.5,M Strano,['A Gardner'],caught,ML Green,2017-02-22,New Zealand,New Zealand,0,Adelaide Oval
+9,MR Gillespie,3.0,2,0,0,150.0,notOut,notOut,notOut,notOut,2006-12-22,Sri Lanka,Sri Lanka,0,Westpac Stadium
+9,MR Gillespie,0.0,1,0,0,0.0,RP Singh,['MS Dhoni'],run out,CD McMillan,2007-09-16,New Zealand,New Zealand,0,New Wanderers Stadium
+10,MR Gillespie,7.0,8,0,0,87.5,SCJ Broad,"['JM Anderson', 'VS Solanki']",run out,MR Gillespie,2007-09-18,New Zealand,New Zealand,0,Kingsmead
+9,MR Gillespie,3.0,8,0,0,37.5,notOut,notOut,notOut,notOut,2007-09-19,New Zealand,South Africa,0,Kingsmead
+8,MR Gillespie,4.0,6,0,0,66.66666666666666,notOut,notOut,notOut,notOut,2007-11-23,New Zealand,South Africa,0,New Wanderers Stadium
+9,MR Gillespie,4.0,7,0,0,57.14285714285714,AA Noffke,['A Symonds'],run out,MR Gillespie,2007-12-11,New Zealand,Australia,0,Western Australia Cricket Association Ground
+2,MS Sinclair,0.0,1,0,0,0.0,MS Kasprowicz,['SM Katich'],caught,MS Sinclair,2005-02-17,Australia,Australia,0,Eden Park
+5,MS Sinclair,0.0,4,0,0,0.0,MG Johnson,['AC Gilchrist'],caught,MS Sinclair,2007-12-11,New Zealand,Australia,0,Western Australia Cricket Association Ground
+1,NJ Astle,10.0,11,1,0,90.9090909090909,A Nel,0,bowled,NJ Astle,2005-10-21,New Zealand,New Zealand,0,New Wanderers Stadium
+2,NJ Astle,5.0,7,1,0,71.42857142857143,JE Taylor,['S Chanderpaul'],caught,NJ Astle,2006-02-16,West Indies,0,0,Eden Park
+4,NJ Astle,19.0,14,1,1,135.71428571428572,ST Jayasuriya,0,bowled,NJ Astle,2006-12-22,Sri Lanka,Sri Lanka,0,Westpac Stadium
+3,NJ Astle,40.0,37,4,1,108.10810810810811,TM Dilshan,"['CK Kapugedera', 'KC Sangakkara']",run out,BB McCullum,2006-12-26,Sri Lanka,New Zealand,0,Eden Park
+4,NJ Browne,5.0,9,0,0,55.55555555555556,P Roy,['S Naik'],stumped,NJ Browne,2009-06-18,New Zealand,New Zealand,0,Trent Bridge
+4,NJ Browne,15.0,15,0,1,100.0,SACA King,['SC Selman'],run out,SJ McGlashan,2010-05-14,New Zealand,New Zealand,0,"Beausejour Stadium, Gros Islet"
+7,NJ Browne,20.0,28,1,0,71.42857142857143,EA Perry,['AJ Healy'],caught,NJ Browne,2010-05-16,New Zealand,Australia,0,"Kensington Oval, Bridgetown"
+5,NJ Browne,0.0,1,0,0,0.0,SJ Coyte,0,lbw,NJ Browne,2010-12-30,Australia,Australia,0,Saxton Oval
+5,NJ Browne,9.0,8,1,0,112.5,A Mohammed,['SF Daley'],caught,NJ Browne,2012-09-26,West Indies,West Indies,0,Galle International Stadium
+5,NJ Browne,9.0,8,1,0,112.5,notOut,notOut,notOut,notOut,2012-09-28,South Africa,New Zealand,0,Galle International Stadium
+5,NJ Browne,18.0,24,1,0,75.0,LA Marsh,['LS Greenway'],caught,NJ Browne,2012-10-04,New Zealand,England,0,R Premadasa Stadium
+5,NJ Browne,29.0,19,3,1,152.63157894736844,EA Perry,0,bowled,NJ Browne,2014-03-23,New Zealand,New Zealand,0,Sylhet Stadium
+4,NJ Browne,2.0,2,0,0,100.0,notOut,notOut,notOut,notOut,2014-03-25,New Zealand,New Zealand,0,Sylhet Stadium
+5,NJ Browne,8.0,7,1,0,114.28571428571428,M Kapp,0,bowled,NJ Browne,2014-03-31,South Africa,South Africa,0,Sylhet Stadium
+5,NJ Browne,7.0,6,1,0,116.66666666666667,notOut,notOut,notOut,notOut,2014-04-02,Sri Lanka,New Zealand,0,Sylhet Stadium
+6,NL McCullum,1.0,4,0,0,25.0,M Morkel,"['JJ van der Wath', 'MV Boucher']",run out,NL McCullum,2007-09-19,New Zealand,South Africa,0,Kingsmead
+6,NL McCullum,10.0,4,1,1,250.0,notOut,notOut,notOut,notOut,2009-02-15,New Zealand,Australia,0,Sydney Cricket Ground
+6,NL McCullum,1.0,2,0,0,50.0,notOut,notOut,notOut,notOut,2009-02-27,India,New Zealand,0,Westpac Stadium
+7,NL McCullum,7.0,12,1,0,58.333333333333336,Umar Gul,0,bowled,NL McCullum,2009-06-13,Pakistan,Pakistan,0,Kennington Oval
+7,NL McCullum,2.0,4,0,0,50.0,M Muralitharan,"['ST Jayasuriya', 'M Muralitharan']",run out,NL McCullum,2009-06-16,Sri Lanka,Sri Lanka,0,Trent Bridge
+6,NL McCullum,22.0,22,0,0,100.0,Saeed Ajmal,['Umar Gul'],caught,NL McCullum,2009-11-12,Pakistan,Pakistan,0,Dubai International Cricket Stadium
+7,NL McCullum,1.0,2,0,0,50.0,DP Nannes,['DJ Hussey'],caught,NL McCullum,2010-02-26,Australia,Australia,0,Westpac Stadium
+7,NL McCullum,14.0,11,1,1,127.27272727272727,notOut,notOut,notOut,notOut,2010-02-28,Australia,0,tie,AMI Stadium
+8,NL McCullum,16.0,6,1,1,266.66666666666663,SL Malinga,"['S Randiv (sub)', 'SL Malinga']",run out,DL Vettori,2010-04-30,Sri Lanka,New Zealand,0,Providence Stadium
+7,NL McCullum,26.0,19,3,1,136.8421052631579,notOut,notOut,notOut,notOut,2010-05-06,South Africa,South Africa,0,"Kensington Oval, Bridgetown"
+7,NL McCullum,12.0,9,0,1,133.33333333333331,Saeed Ajmal,"['Mohammad Sami', 'Saeed Ajmal']",run out,DL Vettori,2010-05-08,Pakistan,New Zealand,0,"Kensington Oval, Bridgetown"
+6,NL McCullum,3.0,5,0,0,60.0,notOut,notOut,notOut,notOut,2010-05-10,New Zealand,England,0,"Beausejour Stadium, Gros Islet"
+7,NL McCullum,9.0,12,0,0,75.0,SL Malinga,['DPMD Jayawardene'],caught,NL McCullum,2010-05-22,Sri Lanka,New Zealand,0,Central Broward Regional Park Stadium Turf Ground
+7,NL McCullum,36.0,39,2,0,92.3076923076923,notOut,notOut,notOut,notOut,2010-05-23,Sri Lanka,Sri Lanka,0,Central Broward Regional Park Stadium Turf Ground
+6,NL McCullum,1.0,3,0,0,33.33333333333333,Saeed Ajmal,['Asad Shafiq'],caught,NL McCullum,2010-12-28,Pakistan,New Zealand,0,Seddon Park
+7,NL McCullum,8.0,10,1,0,80.0,Shahid Afridi,0,lbw,NL McCullum,2010-12-30,Pakistan,Pakistan,0,AMI Stadium
+4,NL McCullum,5.0,7,0,0,71.42857142857143,KM Jarvis,['E Chigumbura'],caught,NL McCullum,2012-02-14,Zimbabwe,New Zealand,0,Seddon Park
+6,NL McCullum,0.0,2,0,0,0.0,M de Lange,['AB de Villiers'],caught,NL McCullum,2012-02-22,South Africa,South Africa,0,Eden Park
+9,NL McCullum,0.0,1,0,0,0.0,SP Narine,0,lbw,NL McCullum,2012-06-30,West Indies,West Indies,0,Central Broward Regional Park Stadium Turf Ground
+7,NL McCullum,14.0,15,0,0,93.33333333333333,DJ Bravo,0,caught and bowled,NL McCullum,2012-07-01,West Indies,West Indies,0,Central Broward Regional Park Stadium Turf Ground
+9,NL McCullum,5.0,4,1,0,125.0,Saeed Ajmal,['Shoaib Malik'],caught,NL McCullum,2012-09-23,Pakistan,Pakistan,0,Pallekele International Cricket Stadium
+5,NL McCullum,3.0,5,0,0,60.0,SL Malinga,0,bowled,NL McCullum,2012-09-27,New Zealand,0,tie,Pallekele International Cricket Stadium
+6,NL McCullum,16.0,10,0,2,160.0,notOut,notOut,notOut,notOut,2012-09-29,New Zealand,England,0,Pallekele International Cricket Stadium
+6,NL McCullum,5.0,7,0,0,71.42857142857143,SP Narine,['J Charles'],caught,NL McCullum,2012-10-01,West Indies,0,tie,Pallekele International Cricket Stadium
+6,NL McCullum,1.0,8,0,0,12.5,RJ Peterson,0,bowled,NL McCullum,2012-12-21,New Zealand,South Africa,0,Kingsmead
+6,NL McCullum,17.0,15,2,0,113.33333333333333,R McLaren,['R McLaren'],run out,CJ Anderson,2012-12-26,New Zealand,South Africa,0,St George's Park
+7,NL McCullum,17.0,15,2,0,113.33333333333333,R McLaren,['RJ Peterson'],caught,NL McCullum,2012-12-26,New Zealand,South Africa,0,St George's Park
+6,NL McCullum,3.0,6,0,0,50.0,LJ Wright,['JC Buttler'],caught,NL McCullum,2013-02-09,England,England,0,Eden Park
+7,NL McCullum,0.0,1,0,0,0.0,JW Dernbach,['JC Buttler'],caught,NL McCullum,2013-02-15,England,England,0,Westpac Stadium
+6,NL McCullum,26.0,16,3,0,162.5,SL Malinga,"['TM Dilshan', 'KC Sangakkara']",run out,NL McCullum,2013-11-21,New Zealand,Sri Lanka,0,Pallekele International Cricket Stadium
+7,NL McCullum,4.0,4,1,0,100.0,DW Steyn,['F du Plessis'],caught,NL McCullum,2014-03-24,South Africa,South Africa,0,Zahur Ahmed Chowdhury Stadium
+6,NL McCullum,2.0,9,0,0,22.22222222222222,SMSM Senanayake,['AD Mathews'],caught,NL McCullum,2014-03-31,Sri Lanka,Sri Lanka,0,Zahur Ahmed Chowdhury Stadium
+7,NL McCullum,1.0,4,0,0,25.0,notOut,notOut,notOut,notOut,2014-12-04,Pakistan,Pakistan,0,Dubai International Cricket Stadium
+8,NL McCullum,4.0,4,0,0,100.0,Sohail Tanvir,"['Ahmed Shehzad', 'Sarfraz Ahmed']",run out,NL McCullum,2014-12-05,Pakistan,New Zealand,0,Dubai International Cricket Stadium
+7,NL McCullum,3.0,10,0,0,30.0,MA Wood,['DJ Willey'],run out,KS Williamson,2015-06-23,New Zealand,England,0,Old Trafford
+8,NL McCullum,3.0,10,0,0,30.0,DJ Willey,['ST Finn'],caught,NL McCullum,2015-06-23,New Zealand,England,0,Old Trafford
+6,NL McCullum,18.0,7,2,1,257.14285714285717,notOut,notOut,notOut,notOut,2015-08-09,New Zealand,New Zealand,0,Harare Sports Club
+8,NL McCullum,2.0,8,0,0,25.0,K Rabada,['AB de Villiers'],caught,NL McCullum,2015-08-14,New Zealand,South Africa,0,Kingsmead
+8,NL McCullum,1.0,2,0,0,50.0,notOut,notOut,notOut,notOut,2015-08-16,New Zealand,New Zealand,0,SuperSport Park
+8,NL McCullum,0.0,1,0,0,0.0,Mustafizur Rahman,0,bowled,NL McCullum,2016-03-26,New Zealand,New Zealand,0,Eden Gardens
+3,NT Broom,36.0,26,6,0,138.46153846153845,JR Hopes,['CJ Ferguson'],caught,NT Broom,2009-02-15,New Zealand,Australia,0,Sydney Cricket Ground
+5,NT Broom,5.0,3,1,0,166.66666666666669,Yuvraj Singh,['IK Pathan'],caught,NT Broom,2009-02-27,India,New Zealand,0,Westpac Stadium
+2,NT Broom,1.0,5,0,0,20.0,JH Kallis,0,caught and bowled,NT Broom,2009-06-09,South Africa,South Africa,0,Lord's
+6,NT Broom,5.0,5,0,0,100.0,notOut,notOut,notOut,notOut,2009-09-02,New Zealand,New Zealand,0,R Premadasa Stadium
+5,NT Broom,14.0,16,0,1,87.5,Abdul Razzaq,['Umar Gul'],caught,NT Broom,2009-11-12,Pakistan,Pakistan,0,Dubai International Cricket Stadium
+2,NT Broom,6.0,6,0,0,100.0,AD Mathews,['BAW Mendis'],caught,NT Broom,2013-11-21,New Zealand,Sri Lanka,0,Pallekele International Cricket Stadium
+0,NT Broom,6.0,7,1,0,85.71428571428571,Rubel Hossain,['Shakib Al Hasan'],caught,NT Broom,2017-01-03,Bangladesh,New Zealand,0,McLean Park
+8,PA Hitchcock,13.0,11,1,1,118.18181818181819,RJ Sidebottom,0,bowled,PA Hitchcock,2008-02-07,England,England,0,Jade Stadium
+6,PD McGlashan,5.0,12,0,0,41.66666666666667,LPC Silva,['KC Sangakkara'],stumped,PD McGlashan,2006-12-22,Sri Lanka,Sri Lanka,0,Westpac Stadium
+5,PD McGlashan,2.0,4,0,0,50.0,CRD Fernando,['TM Dilshan'],caught,PD McGlashan,2006-12-26,Sri Lanka,New Zealand,0,Eden Park
+5,PD McGlashan,5.0,5,0,0,100.0,DT Johnston,0,bowled,PD McGlashan,2009-06-11,New Zealand,New Zealand,0,Trent Bridge
+5,PD McGlashan,8.0,8,1,0,100.0,Umar Gul,0,lbw,PD McGlashan,2009-06-13,Pakistan,Pakistan,0,Kennington Oval
+6,PD McGlashan,2.0,3,0,0,66.66666666666666,BAW Mendis,['J Mubarak'],caught,PD McGlashan,2009-06-16,Sri Lanka,Sri Lanka,0,Trent Bridge
+7,PD McGlashan,1.0,1,0,0,100.0,KMDN Kulasekara,"['AD Mathews', 'KC Sangakkara']",run out,PD McGlashan,2009-09-02,New Zealand,New Zealand,0,R Premadasa Stadium
+6,PD McGlashan,5.0,8,1,0,62.5,notOut,notOut,notOut,notOut,2010-12-26,Pakistan,New Zealand,0,Eden Park
+5,PD McGlashan,26.0,10,3,2,260.0,Wahab Riaz,0,lbw,PD McGlashan,2010-12-28,Pakistan,New Zealand,0,Seddon Park
+6,PD McGlashan,7.0,14,1,0,50.0,Abdur Rehman,0,bowled,PD McGlashan,2010-12-30,Pakistan,Pakistan,0,AMI Stadium
+5,PG Fulton,16.0,17,0,0,94.11764705882352,CH Gayle,0,bowled,PG Fulton,2006-02-16,West Indies,0,0,Eden Park
+4,PG Fulton,14.0,13,1,1,107.6923076923077,CRD Fernando,0,bowled,PG Fulton,2006-12-26,Sri Lanka,New Zealand,0,Eden Park
+2,PG Fulton,21.0,15,1,2,140.0,notOut,notOut,notOut,notOut,2007-09-12,New Zealand,New Zealand,0,Kingsmead
+2,PG Fulton,25.0,20,1,2,125.0,G Wijekoon,['SL Malinga'],caught,PG Fulton,2007-09-15,Sri Lanka,Sri Lanka,0,New Wanderers Stadium
+2,PG Fulton,21.0,25,1,1,84.0,Harbhajan Singh,0,lbw,PG Fulton,2007-09-16,New Zealand,New Zealand,0,New Wanderers Stadium
+2,PG Fulton,0.0,2,0,0,0.0,A Flintoff,0,lbw,PG Fulton,2007-09-18,New Zealand,New Zealand,0,Kingsmead
+3,PG Fulton,10.0,15,0,0,66.66666666666666,Umar Gul,['Shoaib Malik'],caught,PG Fulton,2007-09-22,Pakistan,Pakistan,0,Newlands
+6,PG Fulton,8.0,10,1,0,80.0,SCJ Broad,0,bowled,PG Fulton,2008-02-05,England,England,0,Eden Park
+5,PG Fulton,2.0,5,0,0,40.0,GP Swann,['JM Anderson'],caught,PG Fulton,2008-02-07,England,England,0,Jade Stadium
+5,PG Fulton,0.0,2,0,0,0.0,GP Swann,0,bowled,PG Fulton,2008-06-13,New Zealand,England,0,Old Trafford
+2,PG Fulton,1.0,8,0,0,12.5,PM Siddle,['BJ Haddin'],caught,PG Fulton,2009-02-15,New Zealand,Australia,0,Sydney Cricket Ground
+1,PG Fulton,9.0,13,2,0,69.23076923076923,DW Steyn,['CH Morris'],caught,PG Fulton,2012-12-21,New Zealand,South Africa,0,Kingsmead
+2,PJ Ingram,2.0,10,0,0,20.0,MG Johnson,0,bowled,PJ Ingram,2010-02-26,Australia,Australia,0,Westpac Stadium
+1,PJ Ingram,0.0,3,0,0,0.0,SW Tait,0,bowled,PJ Ingram,2010-02-28,Australia,0,tie,AMI Stadium
+8,RH Candy,0.0,1,0,0,0.0,D Hazell,0,lbw,RH Candy,2012-02-22,England,England,0,Eden Park
+5,RH Priest,7.0,8,0,0,87.5,SACA King,"['DJS Dottin', 'SA Campbelle']",run out,RH Priest,2010-05-14,New Zealand,New Zealand,0,"Beausejour Stadium, Gros Islet"
+6,RH Priest,5.0,16,0,0,31.25,S Nitschke,['AJ Blackwell'],caught,RH Priest,2010-05-16,New Zealand,Australia,0,"Kensington Oval, Bridgetown"
+4,RH Priest,5.0,8,1,0,62.5,JL Jonassen,['EA Osborne'],caught,RH Priest,2014-03-23,New Zealand,New Zealand,0,Sylhet Stadium
+3,RH Priest,6.0,7,0,0,85.71428571428571,IMHC Joyce,['CNIM Joyce'],caught,RH Priest,2014-03-25,New Zealand,New Zealand,0,Sylhet Stadium
+3,RH Priest,8.0,8,1,0,100.0,Asmavia Iqbal,0,lbw,RH Priest,2014-03-27,Pakistan,New Zealand,0,Sylhet Stadium
+4,RH Priest,13.0,10,3,0,130.0,S Ismail,['M Daniels'],caught,RH Priest,2014-03-31,South Africa,South Africa,0,Sylhet Stadium
+4,RH Priest,42.0,32,6,0,131.25,notOut,notOut,notOut,notOut,2014-04-02,Sri Lanka,New Zealand,0,Sylhet Stadium
+1,RH Priest,28.0,27,4,0,103.7037037037037,I Ranaweera,['MADD Surangika'],stumped,RH Priest,2016-03-15,Sri Lanka,New Zealand,0,Feroz Shah Kotla
+1,RH Priest,12.0,7,3,0,171.42857142857142,AJ Kenealy,['CMA Shillington'],caught,RH Priest,2016-03-18,New Zealand,New Zealand,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+1,RH Priest,34.0,27,5,1,125.92592592592592,KM Beams,['AJ Blackwell'],caught,RH Priest,2016-03-21,New Zealand,New Zealand,0,"Vidarbha Cricket Association Stadium, Jamtha"
+1,RH Priest,28.0,28,4,0,100.0,D van Niekerk,0,lbw,RH Priest,2016-03-26,South Africa,New Zealand,0,M Chinnaswamy Stadium
+1,RH Priest,6.0,12,1,0,50.0,SS Connell,0,bowled,RH Priest,2016-03-31,West Indies,West Indies,0,Wankhede Stadium
+2,RH Priest,1.0,2,0,0,50.0,Asmavia Iqbal,0,bowled,RH Priest,2016-11-21,Pakistan,New Zealand,0,Saxton Oval
+1,RH Priest,7.0,12,0,0,58.333333333333336,M Strano,['MM Lanning'],caught,RH Priest,2017-02-17,New Zealand,Australia,0,Melbourne Cricket Ground
+1,RH Priest,20.0,20,4,0,100.0,M Strano,['AJ Healy'],stumped,RH Priest,2017-02-19,New Zealand,New Zealand,0,"Simonds Stadium, South Geelong"
+1,RH Priest,17.0,22,3,0,77.27272727272727,A Wellington,['AJ Healy'],stumped,RH Priest,2017-02-22,New Zealand,New Zealand,0,Adelaide Oval
+2,RJ Nicol,10.0,15,1,0,66.66666666666666,S Randiv,0,bowled,RJ Nicol,2010-05-22,Sri Lanka,New Zealand,0,Central Broward Regional Park Stadium Turf Ground
+3,RJ Nicol,0.0,1,0,0,0.0,KMDN Kulasekara,0,lbw,RJ Nicol,2010-05-23,Sri Lanka,Sri Lanka,0,Central Broward Regional Park Stadium Turf Ground
+0,RJ Nicol,12.0,9,2,0,133.33333333333331,KM Jarvis,0,bowled,RJ Nicol,2012-02-11,Zimbabwe,New Zealand,0,Eden Park
+0,RJ Nicol,56.0,42,4,4,133.33333333333331,E Chigumbura,['KO Meth'],caught,RJ Nicol,2012-02-14,Zimbabwe,New Zealand,0,Seddon Park
+0,RJ Nicol,13.0,18,1,0,72.22222222222221,J Theron,['HM Amla'],caught,RJ Nicol,2012-02-17,South Africa,New Zealand,0,Westpac Stadium
+0,RJ Nicol,23.0,17,3,1,135.29411764705884,M de Lange,['AB de Villiers'],run out,RJ Nicol,2012-02-19,South Africa,South Africa,0,Seddon Park
+0,RJ Nicol,33.0,20,5,1,165.0,M Morkel,['RE Levi'],caught,RJ Nicol,2012-02-22,South Africa,South Africa,0,Eden Park
+0,RJ Nicol,32.0,34,5,0,94.11764705882352,DJ Bravo,['FH Edwards'],caught,RJ Nicol,2012-06-30,West Indies,West Indies,0,Central Broward Regional Park Stadium Turf Ground
+0,RJ Nicol,7.0,12,0,0,58.333333333333336,SP Narine,['D Ramdin'],stumped,RJ Nicol,2012-07-01,West Indies,West Indies,0,Central Broward Regional Park Stadium Turf Ground
+0,RJ Nicol,0.0,4,0,0,0.0,Z Khan,0,bowled,RJ Nicol,2012-09-11,New Zealand,New Zealand,0,"MA Chidambaram Stadium, Chepauk"
+0,RJ Nicol,33.0,31,3,1,106.4516129032258,Shahid Afridi,0,bowled,RJ Nicol,2012-09-23,Pakistan,Pakistan,0,Pallekele International Cricket Stadium
+0,RJ Nicol,58.0,42,3,4,138.0952380952381,A Dananjaya,['HDRL Thirimanne'],caught,RJ Nicol,2012-09-27,New Zealand,0,tie,Pallekele International Cricket Stadium
+1,RJ Nicol,11.0,16,1,0,68.75,GP Swann,['JM Bairstow'],caught,RJ Nicol,2012-09-29,New Zealand,England,0,Pallekele International Cricket Stadium
+0,RJ Nicol,3.0,5,0,0,60.0,R Rampaul,0,lbw,RJ Nicol,2012-10-01,West Indies,0,tie,Pallekele International Cricket Stadium
+0,RJ Nicol,1.0,13,0,0,7.6923076923076925,RMS Eranga,0,lbw,RJ Nicol,2012-10-30,New Zealand,0,0,Pallekele International Cricket Stadium
+0,RJ Nicol,3.0,6,0,0,50.0,RK Kleinveldt,['Q de Kock'],caught,RJ Nicol,2012-12-21,New Zealand,South Africa,0,Kingsmead
+1,RJ Nicol,25.0,25,4,0,100.0,RJ Peterson,['DA Miller'],caught,RJ Nicol,2012-12-23,New Zealand,New Zealand,0,Buffalo Park
+0,RJ Nicol,5.0,3,1,0,166.66666666666669,R McLaren,0,lbw,RJ Nicol,2012-12-26,New Zealand,South Africa,0,St George's Park
+7,RJ Nicol,2.0,2,0,0,100.0,SL Malinga,0,lbw,RJ Nicol,2013-11-21,New Zealand,Sri Lanka,0,Pallekele International Cricket Stadium
+9,RM Hira,5.0,13,0,0,38.46153846153847,DW Steyn,['RK Kleinveldt'],caught,RM Hira,2012-12-21,New Zealand,South Africa,0,Kingsmead
+10,RM Hira,12.0,10,2,0,120.0,RK Kleinveldt,['JL Ontong'],caught,RM Hira,2012-12-26,New Zealand,South Africa,0,St George's Park
+8,RM Hira,20.0,11,2,1,181.8181818181818,notOut,notOut,notOut,notOut,2013-02-09,England,England,0,Eden Park
+3,SB Styris,66.0,39,5,3,169.23076923076923,B Lee,0,bowled,SB Styris,2005-02-17,Australia,Australia,0,Eden Park
+3,SB Styris,24.0,29,2,0,82.75862068965517,CK Langeveldt,0,bowled,SB Styris,2005-10-21,New Zealand,New Zealand,0,New Wanderers Stadium
+3,SB Styris,19.0,17,2,1,111.76470588235294,DJ Bravo,0,bowled,SB Styris,2006-02-16,West Indies,0,0,Eden Park
+4,SB Styris,2.0,3,0,0,66.66666666666666,ST Jayasuriya,0,lbw,SB Styris,2007-09-15,Sri Lanka,Sri Lanka,0,New Wanderers Stadium
+4,SB Styris,2.0,4,0,0,50.0,Harbhajan Singh,['Yuvraj Singh'],run out,SB Styris,2007-09-16,New Zealand,New Zealand,0,New Wanderers Stadium
+4,SB Styris,42.0,31,1,4,135.48387096774192,notOut,notOut,notOut,notOut,2007-09-18,New Zealand,New Zealand,0,Kingsmead
+3,SB Styris,6.0,9,0,0,66.66666666666666,JA Morkel,['AB de Villiers'],caught,SB Styris,2007-09-19,New Zealand,South Africa,0,Kingsmead
+2,SB Styris,18.0,13,1,1,138.46153846153845,Umar Gul,['Sohail Tanvir'],caught,SB Styris,2007-09-22,Pakistan,Pakistan,0,Newlands
+4,SB Styris,30.0,29,3,0,103.44827586206897,DW Steyn,['GC Smith'],caught,SB Styris,2007-11-23,New Zealand,South Africa,0,New Wanderers Stadium
+3,SB Styris,18.0,16,4,0,112.5,MG Johnson,['NW Bracken'],caught,SB Styris,2007-12-11,New Zealand,Australia,0,Western Australia Cricket Association Ground
+4,SB Styris,1.0,8,0,0,12.5,AD Mascarenhas,"['IR Bell', 'AD Mascarenhas']",run out,JD Ryder,2008-02-05,England,England,0,Eden Park
+5,SB Styris,1.0,8,0,0,12.5,AD Mascarenhas,0,bowled,SB Styris,2008-02-05,England,England,0,Eden Park
+4,SB Styris,13.0,14,0,1,92.85714285714286,AD Mascarenhas,['RJ Sidebottom'],caught,SB Styris,2008-02-07,England,England,0,Jade Stadium
+4,SB Styris,10.0,22,0,0,45.45454545454545,SCJ Broad,0,bowled,SB Styris,2008-06-13,New Zealand,England,0,Old Trafford
+3,SB Styris,21.0,12,2,1,175.0,KA Pollard,0,caught and bowled,SB Styris,2008-12-26,West Indies,0,tie,Eden Park
+4,SB Styris,8.0,4,0,1,200.0,notOut,notOut,notOut,notOut,2009-06-06,Scotland,New Zealand,0,Kennington Oval
+5,SB Styris,7.0,8,0,0,87.5,notOut,notOut,notOut,notOut,2009-06-09,South Africa,South Africa,0,Lord's
+3,SB Styris,42.0,26,1,3,161.53846153846155,WK McCallan,"[""KJ O'Brien""]",caught,SB Styris,2009-06-11,New Zealand,New Zealand,0,Trent Bridge
+3,SB Styris,22.0,30,0,1,73.33333333333333,Umar Gul,['Shahid Afridi'],caught,SB Styris,2009-06-13,Pakistan,Pakistan,0,Kennington Oval
+4,SB Styris,2.0,3,0,0,66.66666666666666,BAW Mendis,0,bowled,SB Styris,2009-06-16,Sri Lanka,Sri Lanka,0,Trent Bridge
+3,SB Styris,4.0,5,1,0,80.0,Abdul Razzaq,['Umar Akmal'],caught,SB Styris,2009-11-12,Pakistan,Pakistan,0,Dubai International Cricket Stadium
+4,SB Styris,43.0,34,2,2,126.47058823529412,Umar Gul,['Shoaib Malik'],caught,SB Styris,2009-11-13,Pakistan,Pakistan,0,Dubai International Cricket Stadium
+4,SB Styris,17.0,21,1,0,80.95238095238095,BAW Mendis,0,bowled,SB Styris,2010-04-30,Sri Lanka,New Zealand,0,Providence Stadium
+4,SB Styris,13.0,12,2,0,108.33333333333333,CK Langeveldt,['HH Gibbs'],caught,SB Styris,2010-05-06,South Africa,South Africa,0,"Kensington Oval, Bridgetown"
+5,SB Styris,21.0,17,1,1,123.52941176470588,Shahid Afridi,0,bowled,SB Styris,2010-05-08,Pakistan,New Zealand,0,"Kensington Oval, Bridgetown"
+4,SB Styris,31.0,19,3,1,163.1578947368421,SCJ Broad,['LJ Wright'],caught,SB Styris,2010-05-10,New Zealand,England,0,"Beausejour Stadium, Gros Islet"
+4,SB Styris,10.0,12,0,0,83.33333333333334,BAW Mendis,0,bowled,SB Styris,2010-05-22,Sri Lanka,New Zealand,0,Central Broward Regional Park Stadium Turf Ground
+3,SB Styris,7.0,8,0,1,87.5,Shoaib Akhtar,0,bowled,SB Styris,2010-12-26,Pakistan,New Zealand,0,Eden Park
+4,SB Styris,34.0,14,3,3,242.85714285714283,Shoaib Akhtar,['Ahmed Shehzad'],caught,SB Styris,2010-12-28,Pakistan,New Zealand,0,Seddon Park
+5,SB Styris,45.0,34,6,1,132.35294117647058,Shahid Afridi,0,bowled,SB Styris,2010-12-30,Pakistan,Pakistan,0,AMI Stadium
+9,SE Bond,8.0,4,1,0,200.0,notOut,notOut,notOut,notOut,2006-02-16,West Indies,0,0,Eden Park
+8,SE Bond,0.0,2,0,0,0.0,WPUJC Vaas,0,bowled,SE Bond,2006-12-22,Sri Lanka,Sri Lanka,0,Westpac Stadium
+8,SE Bond,4.0,2,1,0,200.0,RP Singh,"['MS Dhoni', 'RP Singh']",run out,SE Bond,2007-09-16,New Zealand,New Zealand,0,New Wanderers Stadium
+8,SE Bond,2.0,3,0,0,66.66666666666666,PD Collingwood,0,bowled,SE Bond,2007-09-18,New Zealand,New Zealand,0,Kingsmead
+8,SE Bond,0.0,1,0,0,0.0,M Morkel,['MV Boucher'],caught,SE Bond,2007-09-19,New Zealand,South Africa,0,Kingsmead
+7,SE Bond,5.0,7,0,0,71.42857142857143,Sohail Tanvir,"['Fawad Alam', 'Kamran Akmal']",run out,SE Bond,2007-09-22,Pakistan,Pakistan,0,Newlands
+8,SE Bond,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2009-11-12,Pakistan,Pakistan,0,Dubai International Cricket Stadium
+11,SE Bond,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2010-02-26,Australia,Australia,0,Westpac Stadium
+10,SEA Ruck,4.0,11,0,0,36.36363636363637,notOut,notOut,notOut,notOut,2012-02-17,England,England,0,Westpac Stadium
+10,SEA Ruck,3.0,4,0,0,75.0,notOut,notOut,notOut,notOut,2012-09-26,West Indies,West Indies,0,Galle International Stadium
+6,SFM Devine,14.0,8,0,1,175.0,notOut,notOut,notOut,notOut,2009-06-18,New Zealand,New Zealand,0,Trent Bridge
+3,SFM Devine,27.0,25,1,1,108.0,SC Selman,['SACA King'],caught,SFM Devine,2010-05-14,New Zealand,New Zealand,0,"Beausejour Stadium, Gros Islet"
+4,SFM Devine,38.0,35,1,1,108.57142857142857,notOut,notOut,notOut,notOut,2010-05-16,New Zealand,Australia,0,"Kensington Oval, Bridgetown"
+2,SFM Devine,11.0,19,1,0,57.89473684210527,TD Smartt,['JB Nero'],caught,SFM Devine,2012-09-26,West Indies,West Indies,0,Galle International Stadium
+2,SFM Devine,59.0,47,5,3,125.53191489361701,S Loubser,['M Kapp'],caught,SFM Devine,2012-09-28,South Africa,New Zealand,0,Galle International Stadium
+2,SFM Devine,23.0,27,2,1,85.18518518518519,CR Seneviratna,"['LE Kaushalya', 'MADD Surangika']",run out,SFM Devine,2012-09-30,New Zealand,New Zealand,0,Galle International Stadium
+1,SFM Devine,11.0,14,1,0,78.57142857142857,DN Wyatt,['KH Brunt'],caught,SFM Devine,2012-10-04,New Zealand,England,0,R Premadasa Stadium
+1,SFM Devine,44.0,35,7,0,125.71428571428571,Sadia Yousuf,['Nida Dar'],caught,SFM Devine,2014-03-27,Pakistan,New Zealand,0,Sylhet Stadium
+1,SFM Devine,40.0,45,5,0,88.88888888888889,M Kapp,['CL Tryon'],caught,SFM Devine,2014-03-31,South Africa,South Africa,0,Sylhet Stadium
+1,SFM Devine,0.0,4,0,0,0.0,KDU Prabodhani,['NND de Silva (sub)'],caught,SFM Devine,2014-04-02,Sri Lanka,New Zealand,0,Sylhet Stadium
+2,SFM Devine,7.0,5,1,0,140.0,HASD Siriwardene,['I Ranaweera'],run out,SFM Devine,2016-03-15,Sri Lanka,New Zealand,0,Feroz Shah Kotla
+2,SFM Devine,47.0,38,3,2,123.6842105263158,IMHC Joyce,['MV Waldron'],stumped,SFM Devine,2016-03-18,New Zealand,New Zealand,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+2,SFM Devine,17.0,17,3,0,100.0,KM Beams,['EA Osborne'],run out,SW Bates,2016-03-21,New Zealand,New Zealand,0,"Vidarbha Cricket Association Stadium, Jamtha"
+3,SFM Devine,17.0,17,3,0,100.0,L Cheatle,['JL Jonassen'],caught,SFM Devine,2016-03-21,New Zealand,New Zealand,0,"Vidarbha Cricket Association Stadium, Jamtha"
+2,SFM Devine,27.0,17,3,1,158.8235294117647,notOut,notOut,notOut,notOut,2016-03-26,South Africa,New Zealand,0,M Chinnaswamy Stadium
+2,SFM Devine,22.0,15,4,0,146.66666666666666,ASS Fletcher,['DJS Dottin'],run out,SFM Devine,2016-03-31,West Indies,West Indies,0,Wankhede Stadium
+1,SFM Devine,14.0,16,2,0,87.5,Sana Mir,0,bowled,SFM Devine,2016-11-21,Pakistan,New Zealand,0,Saxton Oval
+5,SJ McGlashan,4.0,8,0,0,50.0,A Sharma,0,bowled,SJ McGlashan,2009-06-18,New Zealand,New Zealand,0,Trent Bridge
+2,SJ McGlashan,84.0,58,6,2,144.82758620689654,notOut,notOut,notOut,notOut,2010-05-14,New Zealand,New Zealand,0,"Beausejour Stadium, Gros Islet"
+3,SJ McGlashan,1.0,5,0,0,20.0,notOut,notOut,notOut,notOut,2010-05-16,New Zealand,Australia,0,"Kensington Oval, Bridgetown"
+3,SJ McGlashan,48.0,38,5,0,126.3157894736842,EA Osborne,['MM Lanning'],caught,SJ McGlashan,2010-12-30,Australia,Australia,0,Saxton Oval
+1,SJ McGlashan,9.0,13,0,0,69.23076923076923,A Shrubsole,0,bowled,SJ McGlashan,2012-02-17,England,England,0,Westpac Stadium
+2,SJ McGlashan,28.0,28,3,1,100.0,LA Marsh,0,bowled,SJ McGlashan,2012-02-19,England,England,0,Seddon Park
+2,SJ McGlashan,20.0,30,2,0,66.66666666666666,DN Wyatt,['SJ Taylor'],caught,SJ McGlashan,2012-02-22,England,England,0,Eden Park
+4,SJ McGlashan,8.0,6,1,0,133.33333333333331,TD Smartt,"['DJS Dottin', 'MR Aguilleira']",run out,SJ McGlashan,2012-09-26,West Indies,West Indies,0,Galle International Stadium
+4,SJ McGlashan,9.0,8,1,0,112.5,D van Niekerk,['T Chetty'],stumped,SJ McGlashan,2012-09-28,South Africa,New Zealand,0,Galle International Stadium
+4,SJ McGlashan,3.0,7,0,0,42.857142857142854,HL Colvin,['SJ Taylor'],stumped,SJ McGlashan,2012-10-04,New Zealand,England,0,R Premadasa Stadium
+1,SJ McGlashan,15.0,14,3,0,107.14285714285714,SJ Coyte,0,lbw,SJ McGlashan,2014-03-23,New Zealand,New Zealand,0,Sylhet Stadium
+2,SJ McGlashan,34.0,13,2,3,261.53846153846155,notOut,notOut,notOut,notOut,2014-03-25,New Zealand,New Zealand,0,Sylhet Stadium
+2,SJ McGlashan,6.0,11,0,0,54.54545454545454,Sadia Yousuf,['Batool Fatima'],stumped,SJ McGlashan,2014-03-27,Pakistan,New Zealand,0,Sylhet Stadium
+2,SJ McGlashan,12.0,19,1,0,63.1578947368421,S Luus,['D van Niekerk'],caught,SJ McGlashan,2014-03-31,South Africa,South Africa,0,Sylhet Stadium
+2,SJ McGlashan,13.0,13,0,1,100.0,OU Ranasinghe,['BYA Mendis'],caught,SJ McGlashan,2014-04-02,Sri Lanka,New Zealand,0,Sylhet Stadium
+3,SJ McGlashan,21.0,14,2,0,150.0,notOut,notOut,notOut,notOut,2016-03-15,Sri Lanka,New Zealand,0,Feroz Shah Kotla
+3,SJ McGlashan,14.0,16,1,0,87.5,notOut,notOut,notOut,notOut,2016-03-18,New Zealand,New Zealand,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+4,SJ McGlashan,11.0,16,0,0,68.75,EA Osborne,['AJ Healy'],stumped,SJ McGlashan,2016-03-21,New Zealand,New Zealand,0,"Vidarbha Cricket Association Stadium, Jamtha"
+3,SJ McGlashan,5.0,8,0,0,62.5,M Kapp,0,lbw,SJ McGlashan,2016-03-26,South Africa,New Zealand,0,M Chinnaswamy Stadium
+3,SJ McGlashan,38.0,30,3,0,126.66666666666666,SR Taylor,['SA Campbelle'],caught,SJ McGlashan,2016-03-31,West Indies,West Indies,0,Wankhede Stadium
+1,SJ Tsukigawa,6.0,7,1,0,85.71428571428571,EA Perry,['S Nitschke'],caught,SJ Tsukigawa,2010-12-30,Australia,Australia,0,Saxton Oval
+1,SP Fleming,18.0,13,3,0,138.46153846153845,MS Kasprowicz,0,bowled,SP Fleming,2005-02-17,Australia,Australia,0,Eden Park
+0,SP Fleming,31.0,26,6,0,119.23076923076923,CK Langeveldt,['JA Morkel'],caught,SP Fleming,2005-10-21,New Zealand,New Zealand,0,New Wanderers Stadium
+1,SP Fleming,6.0,7,1,0,85.71428571428571,JE Taylor,['DK Butler'],caught,SP Fleming,2006-02-16,West Indies,0,0,Eden Park
+1,SP Fleming,38.0,24,6,0,158.33333333333331,MF Maharoof,0,bowled,SP Fleming,2006-12-22,Sri Lanka,Sri Lanka,0,Westpac Stadium
+1,SP Fleming,17.0,17,4,0,100.0,CRD Fernando,['CK Kapugedera'],caught,SP Fleming,2006-12-26,Sri Lanka,New Zealand,0,Eden Park
+1,SW Bates,10.0,15,1,0,66.66666666666666,A Sharma,['H Kaur'],caught,SW Bates,2009-06-18,New Zealand,New Zealand,0,Trent Bridge
+0,SW Bates,7.0,8,1,0,87.5,SC Selman,['SACA King'],caught,SW Bates,2010-05-14,New Zealand,New Zealand,0,"Beausejour Stadium, Gros Islet"
+0,SW Bates,18.0,23,0,1,78.26086956521739,S Nitschke,"['AJ Blackwell', 'S Nitschke']",run out,SJ McGlashan,2010-05-16,New Zealand,Australia,0,"Kensington Oval, Bridgetown"
+1,SW Bates,18.0,23,0,1,78.26086956521739,EA Perry,['SJ Elliott'],caught,SW Bates,2010-05-16,New Zealand,Australia,0,"Kensington Oval, Bridgetown"
+2,SW Bates,2.0,5,0,0,40.0,LC Sthalekar,"['JE Cameron', 'AJ Healy']",run out,SW Bates,2010-12-30,Australia,Australia,0,Saxton Oval
+0,SW Bates,10.0,13,0,1,76.92307692307693,A Shrubsole,0,bowled,SW Bates,2012-02-17,England,England,0,Westpac Stadium
+0,SW Bates,37.0,39,1,1,94.87179487179486,DN Wyatt,['SJ Taylor'],stumped,SW Bates,2012-02-19,England,England,0,Seddon Park
+1,SW Bates,19.0,29,0,1,65.51724137931035,A Brindle,['SJ Taylor'],caught,SW Bates,2012-02-22,England,England,0,Eden Park
+0,SW Bates,32.0,34,3,0,94.11764705882352,SA Campbelle,['SACA King'],run out,SW Bates,2012-09-26,West Indies,West Indies,0,Galle International Stadium
+0,SW Bates,14.0,11,2,0,127.27272727272727,SM Benade,0,bowled,SW Bates,2012-09-28,South Africa,New Zealand,0,Galle International Stadium
+0,SW Bates,16.0,9,3,0,177.77777777777777,CR Seneviratna,0,caught and bowled,SW Bates,2012-09-30,New Zealand,New Zealand,0,Galle International Stadium
+0,SW Bates,0.0,5,0,0,0.0,KH Brunt,"['LS Greenway', 'SJ Taylor']",run out,SW Bates,2012-10-04,New Zealand,England,0,R Premadasa Stadium
+0,SW Bates,5.0,7,1,0,71.42857142857143,JL Jonassen,0,lbw,SW Bates,2014-03-23,New Zealand,New Zealand,0,Sylhet Stadium
+0,SW Bates,68.0,53,10,0,128.30188679245282,EAJ Richardson,['EJ Tice'],caught,SW Bates,2014-03-25,New Zealand,New Zealand,0,Sylhet Stadium
+0,SW Bates,94.0,61,8,2,154.0983606557377,notOut,notOut,notOut,notOut,2014-03-27,Pakistan,New Zealand,0,Sylhet Stadium
+0,SW Bates,16.0,21,2,0,76.19047619047619,D van Niekerk,['M du Preez'],caught,SW Bates,2014-03-31,South Africa,South Africa,0,Sylhet Stadium
+0,SW Bates,45.0,31,7,0,145.16129032258064,I Ranaweera,0,bowled,SW Bates,2014-04-02,Sri Lanka,New Zealand,0,Sylhet Stadium
+0,SW Bates,37.0,37,4,0,100.0,HASD Siriwardene,0,bowled,SW Bates,2016-03-15,Sri Lanka,New Zealand,0,Feroz Shah Kotla
+0,SW Bates,82.0,61,7,2,134.4262295081967,KJ Garth,['MV Waldron'],caught,SW Bates,2016-03-18,New Zealand,New Zealand,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+0,SW Bates,23.0,25,1,1,92.0,notOut,notOut,notOut,notOut,2016-03-21,New Zealand,New Zealand,0,"Vidarbha Cricket Association Stadium, Jamtha"
+0,SW Bates,29.0,26,5,0,111.53846153846155,M Klaas,['M du Preez'],caught,SW Bates,2016-03-26,South Africa,New Zealand,0,M Chinnaswamy Stadium
+0,SW Bates,12.0,18,1,0,66.66666666666666,ASS Fletcher,['SL Quintyne'],caught,SW Bates,2016-03-31,West Indies,West Indies,0,Wankhede Stadium
+0,SW Bates,0.0,4,0,0,0.0,Iram Javed,['Ayesha Zafar'],caught,SW Bates,2016-11-21,Pakistan,New Zealand,0,Saxton Oval
+0,SW Bates,26.0,33,3,0,78.78787878787878,KM Beams,['EJ Villani'],caught,SW Bates,2017-02-17,New Zealand,Australia,0,Melbourne Cricket Ground
+0,SW Bates,30.0,34,2,1,88.23529411764706,A Wellington,0,caught and bowled,SW Bates,2017-02-19,New Zealand,New Zealand,0,"Simonds Stadium, South Geelong"
+0,SW Bates,31.0,34,3,0,91.17647058823529,A Wellington,['AJ Healy'],stumped,SW Bates,2017-02-22,New Zealand,New Zealand,0,Adelaide Oval
+9,TA Boult,4.0,6,0,0,66.66666666666666,SCJ Broad,['SR Patel'],caught,TA Boult,2013-02-09,England,England,0,Eden Park
+8,TA Boult,3.0,8,0,0,37.5,HMRKB Herath,"['AD Mathews', 'HMRKB Herath']",run out,KS Williamson,2014-03-31,Sri Lanka,Sri Lanka,0,Zahur Ahmed Chowdhury Stadium
+9,TA Boult,3.0,8,0,0,37.5,HMRKB Herath,['DPMD Jayawardene'],caught,TA Boult,2014-03-31,Sri Lanka,Sri Lanka,0,Zahur Ahmed Chowdhury Stadium
+9,TA Boult,5.0,5,0,0,100.0,SS Cottrell,['DM Bravo'],run out,TA Boult,2014-07-06,New Zealand,West Indies,0,"Windsor Park, Roseau"
+11,TA Boult,0.0,3,0,0,0.0,Wahab Riaz,['Shahid Afridi'],caught,TA Boult,2016-01-15,Pakistan,Pakistan,0,Eden Park
+10,TA Boult,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2017-02-17,South Africa,South Africa,0,Eden Park
+4,TC Bruce,7.0,9,0,0,77.77777777777779,Mashrafe Mortaza,"['Mashrafe Mortaza', 'Soumya Sarkar']",run out,TC Bruce,2017-01-03,Bangladesh,New Zealand,0,McLean Park
+4,TC Bruce,59.0,41,5,1,143.90243902439025,notOut,notOut,notOut,notOut,2017-01-06,Bangladesh,New Zealand,0,Bay Oval
+3,TC Bruce,5.0,4,1,0,125.0,Mosaddek Hossain,['Imrul Kayes'],caught,TC Bruce,2017-01-08,Bangladesh,New Zealand,0,Bay Oval
+3,TC Bruce,33.0,27,3,2,122.22222222222223,Imran Tahir,0,bowled,TC Bruce,2017-02-17,South Africa,South Africa,0,Eden Park
+8,TD Astle,1.0,5,0,0,20.0,Umar Gul,0,bowled,TD Astle,2016-01-15,Pakistan,Pakistan,0,Eden Park
+9,TG Southee,1.0,2,0,0,50.0,PD Collingwood,['AD Mascarenhas'],caught,TG Southee,2008-02-05,England,England,0,Eden Park
+9,TG Southee,12.0,10,2,0,120.0,notOut,notOut,notOut,notOut,2008-02-07,England,England,0,Jade Stadium
+9,TG Southee,2.0,3,0,0,66.66666666666666,JE Taylor,['JE Taylor'],run out,TG Southee,2008-12-28,West Indies,New Zealand,0,Seddon Park
+9,TG Southee,6.0,3,0,1,200.0,Shahid Afridi,['Shoaib Malik'],caught,TG Southee,2009-11-12,Pakistan,Pakistan,0,Dubai International Cricket Stadium
+10,TG Southee,4.0,9,0,0,44.44444444444444,SL Malinga,0,bowled,TG Southee,2010-05-23,Sri Lanka,Sri Lanka,0,Central Broward Regional Park Stadium Turf Ground
+9,TG Southee,0.0,1,0,0,0.0,Shahid Afridi,0,bowled,TG Southee,2010-12-30,Pakistan,Pakistan,0,AMI Stadium
+8,TG Southee,0.0,1,0,0,0.0,notOut,notOut,notOut,notOut,2012-02-22,South Africa,South Africa,0,Eden Park
+4,TG Southee,23.0,19,0,2,121.05263157894737,SP Narine,['D Ramdin'],stumped,TG Southee,2012-06-30,West Indies,West Indies,0,Central Broward Regional Park Stadium Turf Ground
+2,TG Southee,3.0,5,0,0,60.0,S Badree,['J Charles'],caught,TG Southee,2012-07-01,West Indies,West Indies,0,Central Broward Regional Park Stadium Turf Ground
+8,TG Southee,1.0,3,0,0,33.33333333333333,Saeed Ajmal,['Umar Gul'],caught,TG Southee,2012-09-23,Pakistan,Pakistan,0,Pallekele International Cricket Stadium
+8,TG Southee,21.0,10,4,0,210.0,notOut,notOut,notOut,notOut,2012-10-30,New Zealand,0,0,Pallekele International Cricket Stadium
+8,TG Southee,2.0,3,0,0,66.66666666666666,AD Russell,['SS Cottrell'],caught,TG Southee,2014-07-06,New Zealand,West Indies,0,"Windsor Park, Roseau"
+9,TG Southee,0.0,1,0,0,0.0,MA Wood,['EJG Morgan'],caught,TG Southee,2015-06-23,New Zealand,England,0,Old Trafford
+9,TG Southee,20.0,6,0,3,333.33333333333337,Imran Tahir,0,bowled,TG Southee,2017-02-17,South Africa,South Africa,0,Eden Park
+4,TMM Newton,1.0,7,0,0,14.285714285714285,Sadia Yousuf,['Bismah Maroof'],run out,TMM Newton,2016-11-21,Pakistan,New Zealand,0,Saxton Oval
+5,TWM Latham,15.0,11,1,0,136.36363636363635,notOut,notOut,notOut,notOut,2012-06-30,West Indies,West Indies,0,Central Broward Regional Park Stadium Turf Ground
+6,TWM Latham,19.0,20,1,0,95.0,MN Samuels,0,bowled,TWM Latham,2012-07-01,West Indies,West Indies,0,Central Broward Regional Park Stadium Turf Ground
+1,TWM Latham,4.0,5,1,0,80.0,KMDN Kulasekara,0,bowled,TWM Latham,2012-10-30,New Zealand,0,0,Pallekele International Cricket Stadium
+4,TWM Latham,22.0,18,1,1,122.22222222222223,JW Dernbach,['RS Bopara'],caught,TWM Latham,2013-06-25,New Zealand,New Zealand,0,Kennington Oval
+3,TWM Latham,20.0,24,1,0,83.33333333333334,RLB Rambukwella,['TM Dilshan'],caught,TWM Latham,2013-11-21,New Zealand,Sri Lanka,0,Pallekele International Cricket Stadium
+7,TWM Latham,3.0,5,0,0,60.0,SS Cottrell,['DM Bravo'],caught,TWM Latham,2014-07-06,New Zealand,West Indies,0,"Windsor Park, Roseau"
+4,TWM Latham,26.0,23,3,0,113.04347826086956,Umar Gul,['Anwar Ali'],caught,TWM Latham,2014-12-05,Pakistan,New Zealand,0,Dubai International Cricket Stadium
+7,TWM Latham,12.0,10,1,0,120.0,K Rabada,['M Morkel'],caught,TWM Latham,2015-08-14,New Zealand,South Africa,0,Kingsmead
+2,TWM Latham,3.0,8,0,0,37.5,E Leie,['HM Amla'],caught,TWM Latham,2015-08-16,New Zealand,New Zealand,0,SuperSport Park

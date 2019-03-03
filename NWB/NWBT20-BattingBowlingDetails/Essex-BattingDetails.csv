@@ -1,0 +1,115 @@
+,batsman,runs,balls,4s,6s,SR,bowler,fielders,kind,player_out,date,team2,winner,result,venue
+5,Ashar Zaidi,30,15,2,2,200.0,SM Curran,0,lbw,Ashar Zaidi,2016-05-20,Surrey,Surrey,0,County Ground
+5,Ashar Zaidi,31,20,2,2,155.0,J Overton,['C Overton'],caught,Ashar Zaidi,2016-06-03,Essex,Somerset,0,County Ground
+6,Ashar Zaidi,27,13,0,3,207.6923076923077,PR Stirling,['JA Simpson'],stumped,Ashar Zaidi,2016-06-10,Middlesex,Middlesex,0,County Ground
+6,Ashar Zaidi,17,10,0,2,170.0,AJ Tye,0,bowled,Ashar Zaidi,2016-06-16,Gloucestershire,Gloucestershire,0,County Ground
+4,Ashar Zaidi,52,34,4,2,152.94117647058823,GM Andrew,['TL Best'],caught,Ashar Zaidi,2016-06-24,Hampshire,Essex,0,County Ground
+4,Ashar Zaidi,54,34,5,3,158.8235294117647,notOut,notOut,notOut,notOut,2016-07-01,Kent,Essex,0,County Ground
+3,Ashar Zaidi,47,45,2,1,104.44444444444446,notOut,notOut,notOut,notOut,2016-07-08,Essex,Essex,0,The Rose Bowl
+7,Ashar Zaidi,22,15,1,1,146.66666666666666,BAC Howell,0,bowled,Ashar Zaidi,2016-07-17,Essex,Gloucestershire,0,College Ground
+4,Ashar Zaidi,18,12,1,1,150.0,TS Mills,['PD Salt'],run out,Ashar Zaidi,2016-07-21,Sussex,Sussex,0,County Ground
+6,Ashar Zaidi,59,27,4,5,218.5185185185185,notOut,notOut,notOut,notOut,2016-07-28,Essex,Essex,0,Lord's
+4,Ashar Zaidi,6,2,0,1,300.0,SR Patel,['MH Wessels'],caught,Ashar Zaidi,2016-08-08,Essex,Nottinghamshire,0,Trent Bridge
+8,CJ Taylor,1,1,0,0,100.0,notOut,notOut,notOut,notOut,2016-06-03,Essex,Somerset,0,County Ground
+7,CJ Taylor,14,12,1,1,116.66666666666667,MJ McClenaghan,0,caught and bowled,CJ Taylor,2016-06-10,Middlesex,Middlesex,0,County Ground
+7,CJ Taylor,0,3,0,0,0.0,Mustafizur Rahman,0,bowled,CJ Taylor,2016-07-21,Sussex,Sussex,0,County Ground
+11,DD Masters,0,1,0,0,0.0,notOut,notOut,notOut,notOut,2016-08-08,Essex,Nottinghamshire,0,Trent Bridge
+3,DW Lawrence,0,1,0,0,0.0,Azhar Mahmood,['GC Wilson'],caught,DW Lawrence,2016-05-20,Surrey,Surrey,0,County Ground
+3,DW Lawrence,24,21,1,1,114.28571428571428,notOut,notOut,notOut,notOut,2016-06-01,Essex,Essex,0,Sophia Gardens
+0,DW Lawrence,22,15,4,0,146.66666666666666,L Gregory,['MTC Waller'],caught,DW Lawrence,2016-06-03,Essex,Somerset,0,County Ground
+0,DW Lawrence,29,27,4,0,107.40740740740742,JEC Franklin,['JEC Franklin'],run out,RS Bopara,2016-06-10,Middlesex,Middlesex,0,County Ground
+1,DW Lawrence,29,27,4,0,107.40740740740742,NA Sowter,['JA Simpson'],caught,DW Lawrence,2016-06-10,Middlesex,Middlesex,0,County Ground
+5,DW Lawrence,12,15,1,0,80.0,BAC Howell,['M Klinger'],caught,DW Lawrence,2016-06-16,Gloucestershire,Gloucestershire,0,County Ground
+6,DW Lawrence,1,3,0,0,33.33333333333333,notOut,notOut,notOut,notOut,2016-06-24,Hampshire,Essex,0,County Ground
+6,DW Lawrence,35,27,3,1,129.62962962962962,GL van Buuren,['IA Cockbain'],caught,DW Lawrence,2016-07-17,Essex,Gloucestershire,0,College Ground
+0,DW Lawrence,36,27,2,2,133.33333333333331,WAT Beer,0,lbw,DW Lawrence,2016-07-21,Sussex,Sussex,0,County Ground
+0,DW Lawrence,27,24,4,0,112.5,MT Coles,['SA Northeast'],caught,DW Lawrence,2016-07-22,Essex,Essex,0,St Lawrence Ground
+3,DW Lawrence,36,34,4,0,105.88235294117648,NA Sowter,['RF Higgins'],run out,RS Bopara,2016-07-28,Essex,Essex,0,Lord's
+4,DW Lawrence,36,34,4,0,105.88235294117648,JEC Franklin,['ST Finn'],caught,DW Lawrence,2016-07-28,Essex,Essex,0,Lord's
+8,DW Lawrence,7,4,1,0,175.0,SJ Mullaney,['CMW Read'],caught,DW Lawrence,2016-08-08,Essex,Nottinghamshire,0,Trent Bridge
+7,GR Napier,19,9,1,2,211.11111111111111,TK Curran,['JE Burke'],caught,GR Napier,2016-05-20,Surrey,Surrey,0,County Ground
+9,GR Napier,0,3,0,0,0.0,MJ McClenaghan,['JK Fuller'],caught,GR Napier,2016-06-10,Middlesex,Middlesex,0,County Ground
+9,GR Napier,21,14,1,1,150.0,notOut,notOut,notOut,notOut,2016-07-17,Essex,Gloucestershire,0,College Ground
+8,GR Napier,8,5,0,1,160.0,notOut,notOut,notOut,notOut,2016-07-21,Sussex,Sussex,0,County Ground
+9,GR Napier,0,2,0,0,0.0,SJ Mullaney,['Imran Tahir'],caught,GR Napier,2016-08-08,Essex,Nottinghamshire,0,Trent Bridge
+1,JD Ryder,13,12,1,1,108.33333333333333,Azhar Mahmood,['GC Wilson'],caught,JD Ryder,2016-05-20,Surrey,Surrey,0,County Ground
+1,JD Ryder,42,24,8,1,175.0,DA Cosker,['DL Lloyd'],caught,JD Ryder,2016-06-01,Essex,Essex,0,Sophia Gardens
+1,JD Ryder,7,7,1,0,100.0,C Overton,['RC Davies'],caught,JD Ryder,2016-06-03,Essex,Somerset,0,County Ground
+2,JD Ryder,12,13,1,0,92.3076923076923,TG Helm,['RF Higgins'],caught,JD Ryder,2016-06-10,Middlesex,Middlesex,0,County Ground
+0,JD Ryder,0,1,0,0,0.0,MD Taylor,['GH Roderick'],caught,JD Ryder,2016-06-16,Gloucestershire,Gloucestershire,0,County Ground
+0,JD Ryder,18,14,1,1,128.57142857142858,DJG Sammy,['LD McManus'],caught,JD Ryder,2016-06-24,Hampshire,Essex,0,County Ground
+0,JD Ryder,52,45,5,0,115.55555555555554,notOut,notOut,notOut,notOut,2016-06-25,Essex,Essex,0,Kennington Oval
+0,JD Ryder,0,3,0,0,0.0,K Rabada,['SW Billings'],caught,JD Ryder,2016-07-01,Kent,Essex,0,County Ground
+0,JD Ryder,22,15,4,0,146.66666666666666,LA Dawson,['JM Vince'],caught,JD Ryder,2016-07-08,Essex,Essex,0,The Rose Bowl
+0,JD Ryder,1,2,0,0,50.0,OP Rayner,['JEC Franklin'],caught,JD Ryder,2016-07-28,Essex,Essex,0,Lord's
+2,JD Ryder,47,30,10,0,156.66666666666666,notOut,notOut,notOut,notOut,2016-08-08,Essex,Nottinghamshire,0,Trent Bridge
+6,JS Foster,5,5,0,0,100.0,TK Curran,['JE Burke'],caught,JS Foster,2016-05-20,Surrey,Surrey,0,County Ground
+6,JS Foster,3,3,0,0,100.0,Yasir Arafat,0,lbw,JS Foster,2016-06-03,Essex,Somerset,0,County Ground
+8,JS Foster,0,1,0,0,0.0,MJ McClenaghan,['PR Stirling'],caught,JS Foster,2016-06-10,Middlesex,Middlesex,0,County Ground
+7,JS Foster,10,13,0,0,76.92307692307693,AJ Tye,['M Klinger'],run out,JS Foster,2016-06-16,Gloucestershire,Gloucestershire,0,County Ground
+8,JS Foster,27,18,3,1,150.0,AJ Tye,['GL van Buuren'],caught,JS Foster,2016-07-17,Essex,Gloucestershire,0,College Ground
+6,JS Foster,5,5,1,0,100.0,Mustafizur Rahman,0,bowled,JS Foster,2016-07-21,Sussex,Sussex,0,County Ground
+7,JS Foster,4,5,0,0,80.0,HF Gurney,['MH Wessels'],caught,JS Foster,2016-08-08,Essex,Nottinghamshire,0,Trent Bridge
+2,KS Velani,16,12,2,1,133.33333333333331,LC Norwell,0,bowled,KS Velani,2016-06-16,Gloucestershire,Gloucestershire,0,County Ground
+1,KS Velani,17,17,2,1,100.0,LA Dawson,['TP Alsop'],caught,KS Velani,2016-06-24,Hampshire,Essex,0,County Ground
+1,KS Velani,0,5,0,0,0.0,R Rampaul,['TK Curran'],caught,KS Velani,2016-06-25,Essex,Essex,0,Kennington Oval
+2,KS Velani,19,12,3,0,158.33333333333331,IAA Thomas,['SA Northeast'],run out,KS Velani,2016-07-01,Kent,Essex,0,County Ground
+1,KS Velani,10,12,2,0,83.33333333333334,GM Andrew,['JM Vince'],caught,KS Velani,2016-07-08,Essex,Essex,0,The Rose Bowl
+2,KS Velani,0,2,0,0,0.0,MD Taylor,0,bowled,KS Velani,2016-07-17,Essex,Gloucestershire,0,College Ground
+10,MR Quinn,6,3,1,0,200.0,Azhar Mahmood,0,caught and bowled,MR Quinn,2016-05-20,Surrey,Surrey,0,County Ground
+11,MR Quinn,8,6,0,1,133.33333333333331,notOut,notOut,notOut,notOut,2016-07-17,Essex,Gloucestershire,0,College Ground
+9,MW Dixon,1,2,0,0,50.0,Azhar Mahmood,0,bowled,MW Dixon,2016-05-20,Surrey,Surrey,0,County Ground
+0,NLJ Browne,27,23,1,1,117.3913043478261,AJ Tye,['M Klinger'],run out,RN ten Doeschate,2016-07-17,Essex,Gloucestershire,0,College Ground
+1,NLJ Browne,27,23,1,1,117.3913043478261,BAC Howell,['CDJ Dent'],caught,NLJ Browne,2016-07-17,Essex,Gloucestershire,0,College Ground
+1,NLJ Browne,1,4,0,0,25.0,TS Mills,['Mustafizur Rahman'],caught,NLJ Browne,2016-07-21,Sussex,Sussex,0,County Ground
+1,NLJ Browne,19,16,3,0,118.75,MT Coles,['K Rabada'],caught,NLJ Browne,2016-07-22,Essex,Essex,0,St Lawrence Ground
+1,NLJ Browne,15,17,2,0,88.23529411764706,NA Sowter,0,lbw,NLJ Browne,2016-07-28,Essex,Essex,0,Lord's
+0,NLJ Browne,22,29,1,0,75.86206896551724,SJ Mullaney,['SJ Mullaney'],run out,JD Ryder,2016-08-08,Essex,Nottinghamshire,0,Trent Bridge
+1,NLJ Browne,22,29,1,0,75.86206896551724,SR Patel,['JT Ball'],caught,NLJ Browne,2016-08-08,Essex,Nottinghamshire,0,Trent Bridge
+10,PI Walter,6,6,0,0,100.0,MD Taylor,['BAC Howell'],run out,PI Walter,2016-07-17,Essex,Gloucestershire,0,College Ground
+9,PI Walter,1,1,0,0,100.0,notOut,notOut,notOut,notOut,2016-07-21,Sussex,Sussex,0,County Ground
+10,PI Walter,8,4,0,1,200.0,HF Gurney,['CMW Read'],caught,PI Walter,2016-08-08,Essex,Nottinghamshire,0,Trent Bridge
+4,RN ten Doeschate,36,32,4,1,112.5,TK Curran,['KC Sangakkara'],caught,RN ten Doeschate,2016-05-20,Surrey,Surrey,0,County Ground
+4,RN ten Doeschate,30,18,3,1,166.66666666666669,notOut,notOut,notOut,notOut,2016-06-01,Essex,Essex,0,Sophia Gardens
+4,RN ten Doeschate,47,36,5,1,130.55555555555557,J Overton,['MTC Waller'],caught,RN ten Doeschate,2016-06-03,Essex,Somerset,0,County Ground
+5,RN ten Doeschate,58,44,4,2,131.8181818181818,notOut,notOut,notOut,notOut,2016-06-10,Middlesex,Middlesex,0,County Ground
+4,RN ten Doeschate,2,4,0,0,50.0,AJ Tye,['CDJ Dent'],run out,RN ten Doeschate,2016-06-16,Gloucestershire,Gloucestershire,0,County Ground
+5,RN ten Doeschate,14,16,0,0,87.5,notOut,notOut,notOut,notOut,2016-06-24,Hampshire,Essex,0,County Ground
+5,RN ten Doeschate,8,15,0,0,53.333333333333336,GM Andrew,['MA Carberry'],run out,Ashar Zaidi,2016-07-08,Essex,Essex,0,The Rose Bowl
+6,RN ten Doeschate,8,15,0,0,53.333333333333336,GM Andrew,['SM Ervine'],caught,RN ten Doeschate,2016-07-08,Essex,Essex,0,The Rose Bowl
+5,RN ten Doeschate,1,2,0,0,50.0,notOut,notOut,notOut,notOut,2016-07-17,Essex,Gloucestershire,0,College Ground
+5,RN ten Doeschate,26,24,1,2,108.33333333333333,Mustafizur Rahman,['TS Mills'],caught,RN ten Doeschate,2016-07-21,Sussex,Sussex,0,County Ground
+7,RN ten Doeschate,4,4,0,0,100.0,notOut,notOut,notOut,notOut,2016-07-28,Essex,Essex,0,Lord's
+6,RN ten Doeschate,7,12,0,0,58.333333333333336,SR Patel,0,lbw,RN ten Doeschate,2016-08-08,Essex,Nottinghamshire,0,Trent Bridge
+0,RS Bopara,1,4,0,0,25.0,SM Curran,['Azhar Mahmood'],caught,RS Bopara,2016-05-20,Surrey,Surrey,0,County Ground
+0,RS Bopara,4,7,1,0,57.14285714285714,T van der Gugten,['CB Cooke'],caught,RS Bopara,2016-06-01,Essex,Essex,0,Sophia Gardens
+3,RS Bopara,8,15,0,0,53.333333333333336,MTC Waller,['DPMD Jayawardene'],caught,RS Bopara,2016-06-03,Essex,Somerset,0,County Ground
+4,RS Bopara,3,3,0,0,100.0,notOut,notOut,notOut,notOut,2016-06-10,Middlesex,Middlesex,0,County Ground
+3,RS Bopara,28,25,0,2,112.00000000000001,K Noema-Barnett,0,caught and bowled,RS Bopara,2016-06-16,Gloucestershire,Gloucestershire,0,County Ground
+3,RS Bopara,0,2,0,0,0.0,LA Dawson,0,lbw,RS Bopara,2016-06-24,Hampshire,Essex,0,County Ground
+3,RS Bopara,36,41,2,0,87.8048780487805,notOut,notOut,notOut,notOut,2016-06-25,Essex,Essex,0,Kennington Oval
+3,RS Bopara,81,46,4,6,176.08695652173913,notOut,notOut,notOut,notOut,2016-07-01,Kent,Essex,0,County Ground
+4,RS Bopara,17,21,1,0,80.95238095238095,Shahid Afridi,['TP Alsop'],caught,RS Bopara,2016-07-08,Essex,Essex,0,The Rose Bowl
+4,RS Bopara,8,8,0,1,100.0,BAC Howell,['LC Norwell'],caught,RS Bopara,2016-07-17,Essex,Gloucestershire,0,College Ground
+3,RS Bopara,32,28,2,1,114.28571428571428,Mustafizur Rahman,['LJ Wright'],caught,RS Bopara,2016-07-21,Sussex,Sussex,0,County Ground
+3,RS Bopara,51,35,8,0,145.7142857142857,notOut,notOut,notOut,notOut,2016-07-22,Essex,Essex,0,St Lawrence Ground
+5,RS Bopara,4,6,0,0,66.66666666666666,notOut,notOut,notOut,notOut,2016-07-28,Essex,Essex,0,Lord's
+5,RS Bopara,10,15,0,0,66.66666666666666,Imran Tahir,['MH Wessels'],caught,RS Bopara,2016-08-08,Essex,Nottinghamshire,0,Trent Bridge
+2,T Westley,46,35,5,1,131.42857142857142,GJ Batty,0,lbw,T Westley,2016-05-20,Surrey,Surrey,0,County Ground
+2,T Westley,41,29,6,0,141.3793103448276,CA Ingram,0,bowled,T Westley,2016-06-01,Essex,Essex,0,Sophia Gardens
+2,T Westley,40,26,7,0,153.84615384615387,L Gregory,0,caught and bowled,T Westley,2016-06-03,Essex,Somerset,0,County Ground
+3,T Westley,4,6,0,0,66.66666666666666,MJ McClenaghan,['BB McCullum'],caught,T Westley,2016-06-10,Middlesex,Middlesex,0,County Ground
+1,T Westley,45,36,5,1,125.0,BAC Howell,0,bowled,T Westley,2016-06-16,Gloucestershire,Gloucestershire,0,County Ground
+2,T Westley,27,32,3,0,84.375,LA Dawson,0,lbw,T Westley,2016-06-24,Hampshire,Essex,0,County Ground
+2,T Westley,19,16,4,0,118.75,DJ Bravo,0,lbw,T Westley,2016-06-25,Essex,Essex,0,Kennington Oval
+1,T Westley,33,32,4,0,103.125,JC Tredwell,0,caught and bowled,T Westley,2016-07-01,Kent,Essex,0,County Ground
+2,T Westley,33,19,6,0,173.6842105263158,LA Dawson,['MA Carberry'],caught,T Westley,2016-07-08,Essex,Essex,0,The Rose Bowl
+3,T Westley,4,8,0,0,50.0,MD Taylor,['GL van Buuren'],caught,T Westley,2016-07-17,Essex,Gloucestershire,0,College Ground
+2,T Westley,23,19,4,0,121.05263157894737,JC Archer,0,lbw,T Westley,2016-07-21,Sussex,Sussex,0,County Ground
+2,T Westley,74,50,8,1,148.0,notOut,notOut,notOut,notOut,2016-07-22,Essex,Essex,0,St Lawrence Ground
+2,T Westley,6,6,1,0,100.0,TS Roland-Jones,['NRT Gubbins'],caught,T Westley,2016-07-28,Essex,Essex,0,Lord's
+3,T Westley,8,10,0,0,80.0,SR Patel,0,bowled,T Westley,2016-08-08,Essex,Nottinghamshire,0,Trent Bridge
+8,Wahab Riaz,1,3,0,0,33.33333333333333,notOut,notOut,notOut,notOut,2016-05-20,Surrey,Surrey,0,County Ground
+7,Wahab Riaz,9,3,0,1,300.0,notOut,notOut,notOut,notOut,2016-06-03,Essex,Somerset,0,County Ground
+10,Wahab Riaz,1,2,0,0,50.0,notOut,notOut,notOut,notOut,2016-06-10,Middlesex,Middlesex,0,County Ground
+8,Wahab Riaz,14,10,0,1,140.0,notOut,notOut,notOut,notOut,2016-06-16,Gloucestershire,Gloucestershire,0,County Ground

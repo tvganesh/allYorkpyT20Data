@@ -1,0 +1,118 @@
+,batsman,runs,balls,4s,6s,SR,bowler,fielders,kind,player_out,date,team2,winner,result,venue
+5,AJ Blake,0,1,0,0,0.0,DJG Sammy,0,caught and bowled,AJ Blake,2016-06-02,Kent,Hampshire,0,The Rose Bowl
+5,AJ Blake,24,25,1,0,96.0,notOut,notOut,notOut,notOut,2016-06-03,Gloucestershire,Gloucestershire,0,Kent County Cricket Ground
+6,AJ Blake,3,4,0,0,75.0,CJ Jordan,['LJ Wright'],caught,AJ Blake,2016-06-10,Kent,Sussex,0,County Ground
+4,AJ Blake,30,26,1,1,115.38461538461537,CA Ingram,['GG Wagg'],caught,AJ Blake,2016-06-17,Kent,Glamorgan,0,Sophia Gardens
+4,AJ Blake,3,9,0,0,33.33333333333333,NA Sowter,['JK Fuller'],caught,AJ Blake,2016-06-24,Middlesex,Middlesex,0,St Lawrence Ground
+4,AJ Blake,36,23,3,1,156.52173913043478,notOut,notOut,notOut,notOut,2016-06-30,Sussex,Kent,0,St Lawrence Ground
+4,AJ Blake,37,31,2,2,119.35483870967742,RN ten Doeschate,['JD Ryder'],run out,SW Billings,2016-07-01,Kent,Essex,0,County Ground
+5,AJ Blake,37,31,2,2,119.35483870967742,MR Quinn,['RN ten Doeschate'],caught,AJ Blake,2016-07-01,Kent,Essex,0,County Ground
+4,AJ Blake,26,24,0,2,108.33333333333333,notOut,notOut,notOut,notOut,2016-07-07,Kent,Kent,0,County Ground
+4,AJ Blake,1,2,0,0,50.0,TMJ Smith,['AJ Tye'],caught,AJ Blake,2016-07-08,Kent,Kent,0,County Ground
+4,AJ Blake,19,15,2,0,126.66666666666666,RS Bopara,['JS Foster'],caught,AJ Blake,2016-07-22,Essex,Essex,0,St Lawrence Ground
+5,AJ Blake,19,18,1,1,105.55555555555556,CH Morris,0,bowled,AJ Blake,2016-07-29,Kent,Surrey,0,Kennington Oval
+9,DA Griffiths,8,8,0,1,100.0,GK Berg,0,bowled,DA Griffiths,2016-06-02,Kent,Hampshire,0,The Rose Bowl
+10,DA Griffiths,0,1,0,0,0.0,TS Mills,['BC Brown'],caught,DA Griffiths,2016-06-10,Kent,Sussex,0,County Ground
+10,DA Griffiths,8,7,1,0,114.28571428571428,GR Napier,0,bowled,DA Griffiths,2016-07-22,Essex,Essex,0,St Lawrence Ground
+3,DI Stevens,12,5,1,1,240.0,notOut,notOut,notOut,notOut,2016-05-20,Somerset,Kent,0,St Lawrence Ground
+4,DI Stevens,18,11,1,1,163.63636363636365,DJG Sammy,0,lbw,DI Stevens,2016-06-02,Kent,Hampshire,0,The Rose Bowl
+4,DI Stevens,11,7,2,0,157.14285714285714,AJ Tye,0,bowled,DI Stevens,2016-06-03,Gloucestershire,Gloucestershire,0,Kent County Cricket Ground
+5,DI Stevens,17,14,1,1,121.42857142857142,CJ Jordan,['WAT Beer'],caught,DI Stevens,2016-06-10,Kent,Sussex,0,County Ground
+5,DI Stevens,13,12,0,1,108.33333333333333,T van der Gugten,0,bowled,DI Stevens,2016-06-17,Kent,Glamorgan,0,Sophia Gardens
+6,DI Stevens,17,11,1,1,154.54545454545453,JK Fuller,['NA Sowter'],caught,DI Stevens,2016-06-24,Middlesex,Middlesex,0,St Lawrence Ground
+5,DI Stevens,2,4,0,0,50.0,CJ Jordan,['KMDN Kulasekara'],caught,DI Stevens,2016-06-30,Sussex,Kent,0,St Lawrence Ground
+6,DI Stevens,12,14,1,1,85.71428571428571,RS Bopara,['RS Bopara'],run out,DI Stevens,2016-07-01,Kent,Essex,0,County Ground
+5,DI Stevens,12,9,0,1,133.33333333333331,L Gregory,['RE van der Merwe'],caught,DI Stevens,2016-07-07,Kent,Kent,0,County Ground
+5,DI Stevens,20,11,2,1,181.8181818181818,BAC Howell,['TMJ Smith'],caught,DI Stevens,2016-07-08,Kent,Kent,0,County Ground
+5,DI Stevens,33,25,5,0,132.0,GR Napier,0,bowled,DI Stevens,2016-07-22,Essex,Essex,0,St Lawrence Ground
+6,DI Stevens,1,3,0,0,33.33333333333333,CH Morris,['JJ Roy'],caught,DI Stevens,2016-07-29,Kent,Surrey,0,Kennington Oval
+0,DJ Bell-Drummond,83,49,10,2,169.3877551020408,notOut,notOut,notOut,notOut,2016-05-20,Somerset,Kent,0,St Lawrence Ground
+0,DJ Bell-Drummond,64,53,7,0,120.75471698113208,Shahid Afridi,['AJA Wheater'],stumped,DJ Bell-Drummond,2016-06-02,Kent,Hampshire,0,The Rose Bowl
+0,DJ Bell-Drummond,25,22,4,0,113.63636363636364,AJ Tye,['GH Roderick'],caught,DJ Bell-Drummond,2016-06-03,Gloucestershire,Gloucestershire,0,Kent County Cricket Ground
+0,DJ Bell-Drummond,35,26,3,0,134.6153846153846,TL Best,0,bowled,DJ Bell-Drummond,2016-06-08,Hampshire,Kent,0,St Lawrence Ground
+0,DJ Bell-Drummond,17,15,1,1,113.33333333333333,CJ Jordan,0,bowled,DJ Bell-Drummond,2016-06-10,Kent,Sussex,0,County Ground
+0,DJ Bell-Drummond,0,6,0,0,0.0,DW Steyn,['DL Lloyd'],caught,DJ Bell-Drummond,2016-06-17,Kent,Glamorgan,0,Sophia Gardens
+0,DJ Bell-Drummond,112,67,14,1,167.1641791044776,notOut,notOut,notOut,notOut,2016-07-15,Surrey,Kent,0,Nevill Ground
+0,DJ Bell-Drummond,12,9,2,0,133.33333333333331,DD Masters,0,caught and bowled,DJ Bell-Drummond,2016-07-22,Essex,Essex,0,St Lawrence Ground
+0,DJ Bell-Drummond,31,17,6,0,182.35294117647058,SM Curran,['CH Morris'],caught,DJ Bell-Drummond,2016-07-29,Kent,Surrey,0,Kennington Oval
+6,FK Cowdrey,8,10,1,0,80.0,GM Andrew,0,lbw,FK Cowdrey,2016-06-02,Kent,Hampshire,0,The Rose Bowl
+6,FK Cowdrey,18,14,1,0,128.57142857142858,AJ Tye,['CDJ Dent'],caught,FK Cowdrey,2016-06-03,Gloucestershire,Gloucestershire,0,Kent County Cricket Ground
+6,FK Cowdrey,0,1,0,0,0.0,T van der Gugten,0,lbw,FK Cowdrey,2016-06-17,Kent,Glamorgan,0,Sophia Gardens
+3,FK Cowdrey,71,44,8,1,161.36363636363635,TS Roland-Jones,['JK Fuller'],caught,FK Cowdrey,2016-06-24,Middlesex,Middlesex,0,St Lawrence Ground
+6,FK Cowdrey,0,4,0,0,0.0,TS Mills,0,bowled,FK Cowdrey,2016-06-30,Sussex,Kent,0,St Lawrence Ground
+7,FK Cowdrey,18,13,1,1,138.46153846153845,PI Walter,0,caught and bowled,FK Cowdrey,2016-07-01,Kent,Essex,0,County Ground
+6,FK Cowdrey,1,1,0,0,100.0,notOut,notOut,notOut,notOut,2016-07-07,Kent,Kent,0,County Ground
+6,FK Cowdrey,5,6,0,0,83.33333333333334,notOut,notOut,notOut,notOut,2016-07-08,Kent,Kent,0,County Ground
+11,IAA Thomas,3,4,0,0,75.0,notOut,notOut,notOut,notOut,2016-07-01,Kent,Essex,0,County Ground
+8,JC Tredwell,3,6,0,0,50.0,TL Best,0,bowled,JC Tredwell,2016-06-02,Kent,Hampshire,0,The Rose Bowl
+8,JC Tredwell,3,7,0,0,42.857142857142854,TS Mills,0,caught and bowled,JC Tredwell,2016-06-10,Kent,Sussex,0,County Ground
+8,JC Tredwell,5,6,0,0,83.33333333333334,DW Steyn,['T van der Gugten'],caught,JC Tredwell,2016-06-17,Kent,Glamorgan,0,Sophia Gardens
+7,JC Tredwell,10,9,0,0,111.11111111111111,notOut,notOut,notOut,notOut,2016-06-24,Middlesex,Middlesex,0,St Lawrence Ground
+9,JC Tredwell,0,2,0,0,0.0,PI Walter,['MR Quinn'],caught,JC Tredwell,2016-07-01,Kent,Essex,0,County Ground
+7,JC Tredwell,1,2,0,0,50.0,MD Taylor,0,bowled,JC Tredwell,2016-07-08,Kent,Kent,0,County Ground
+7,JC Tredwell,4,7,0,0,57.14285714285714,MR Quinn,['RS Bopara'],run out,JC Tredwell,2016-07-22,Essex,Essex,0,St Lawrence Ground
+9,JC Tredwell,2,2,0,0,100.0,notOut,notOut,notOut,notOut,2016-07-29,Kent,Surrey,0,Kennington Oval
+1,JL Denly,75,38,5,6,197.36842105263156,TD Groenewald,['MA Leask'],caught,JL Denly,2016-05-20,Somerset,Kent,0,St Lawrence Ground
+1,JL Denly,31,27,3,0,114.81481481481481,LA Dawson,0,bowled,JL Denly,2016-06-02,Kent,Hampshire,0,The Rose Bowl
+1,JL Denly,2,4,0,0,50.0,LC Norwell,['JMR Taylor'],caught,JL Denly,2016-06-03,Gloucestershire,Gloucestershire,0,Kent County Cricket Ground
+1,JL Denly,59,39,4,3,151.28205128205127,TL Best,['LA Dawson'],caught,JL Denly,2016-06-08,Hampshire,Kent,0,St Lawrence Ground
+1,JL Denly,11,18,2,0,61.111111111111114,D Wiese,0,caught and bowled,JL Denly,2016-06-10,Kent,Sussex,0,County Ground
+2,JL Denly,23,17,1,1,135.29411764705884,MG Hogan,['CA Ingram'],caught,JL Denly,2016-06-17,Kent,Glamorgan,0,Sophia Gardens
+2,JL Denly,6,8,1,0,75.0,TS Roland-Jones,['JEC Franklin'],caught,JL Denly,2016-06-24,Middlesex,Middlesex,0,St Lawrence Ground
+1,JL Denly,44,40,4,1,110.00000000000001,CD Nash,['LRPL Taylor'],caught,JL Denly,2016-06-30,Sussex,Kent,0,St Lawrence Ground
+1,JL Denly,0,1,0,0,0.0,PI Walter,0,bowled,JL Denly,2016-07-01,Kent,Essex,0,County Ground
+1,JL Denly,35,30,5,1,116.66666666666667,MTC Waller,0,caught and bowled,JL Denly,2016-07-07,Kent,Kent,0,County Ground
+1,JL Denly,51,35,2,4,145.7142857142857,AJ Tye,0,bowled,JL Denly,2016-07-08,Kent,Kent,0,County Ground
+1,JL Denly,0,1,0,0,0.0,SM Curran,0,bowled,JL Denly,2016-07-15,Surrey,Kent,0,Nevill Ground
+1,JL Denly,21,20,3,0,105.0,GR Napier,0,bowled,JL Denly,2016-07-22,Essex,Essex,0,St Lawrence Ground
+1,JL Denly,20,16,2,0,125.0,notOut,notOut,notOut,notOut,2016-07-29,Kent,Surrey,0,Kennington Oval
+7,K Rabada,0,1,0,0,0.0,notOut,notOut,notOut,notOut,2016-06-30,Sussex,Kent,0,St Lawrence Ground
+8,K Rabada,0,2,0,0,0.0,MR Quinn,['JS Foster'],caught,K Rabada,2016-07-01,Kent,Essex,0,County Ground
+8,K Rabada,3,4,0,0,75.0,notOut,notOut,notOut,notOut,2016-07-08,Kent,Kent,0,County Ground
+8,K Rabada,0,1,0,0,0.0,RN ten Doeschate,0,lbw,K Rabada,2016-07-22,Essex,Essex,0,St Lawrence Ground
+9,ME Claydon,1,4,0,0,25.0,notOut,notOut,notOut,notOut,2016-06-10,Kent,Sussex,0,County Ground
+9,ME Claydon,0,3,0,0,0.0,MG Hogan,0,bowled,ME Claydon,2016-06-17,Kent,Glamorgan,0,Sophia Gardens
+8,ME Claydon,2,5,0,0,40.0,notOut,notOut,notOut,notOut,2016-06-24,Middlesex,Middlesex,0,St Lawrence Ground
+10,ME Claydon,3,4,0,0,75.0,notOut,notOut,notOut,notOut,2016-07-01,Kent,Essex,0,County Ground
+9,ME Claydon,15,14,1,0,107.14285714285714,notOut,notOut,notOut,notOut,2016-07-22,Essex,Essex,0,St Lawrence Ground
+7,MT Coles,0,1,0,0,0.0,Shahid Afridi,['LA Dawson'],caught,MT Coles,2016-06-02,Kent,Hampshire,0,The Rose Bowl
+7,MT Coles,8,8,0,0,100.0,AJ Tye,['IA Cockbain'],run out,MT Coles,2016-06-03,Gloucestershire,Gloucestershire,0,Kent County Cricket Ground
+7,MT Coles,2,2,0,0,100.0,TS Mills,0,bowled,MT Coles,2016-06-10,Kent,Sussex,0,County Ground
+7,MT Coles,31,17,3,2,182.35294117647058,MG Hogan,['CA Ingram'],caught,MT Coles,2016-06-17,Kent,Glamorgan,0,Sophia Gardens
+6,MT Coles,7,8,1,0,87.5,RN ten Doeschate,['MR Quinn'],caught,MT Coles,2016-07-22,Essex,Essex,0,St Lawrence Ground
+7,MT Coles,1,2,0,0,50.0,Azhar Mahmood,['JJ Roy'],caught,MT Coles,2016-07-29,Kent,Surrey,0,Kennington Oval
+2,SA Northeast,27,14,3,1,192.85714285714286,RE van der Merwe,['TD Groenewald'],caught,SA Northeast,2016-05-20,Somerset,Kent,0,St Lawrence Ground
+2,SA Northeast,2,3,0,0,66.66666666666666,Shahid Afridi,0,bowled,SA Northeast,2016-06-02,Kent,Hampshire,0,The Rose Bowl
+2,SA Northeast,35,34,3,0,102.94117647058823,BAC Howell,['IA Cockbain'],caught,SA Northeast,2016-06-03,Gloucestershire,Gloucestershire,0,Kent County Cricket Ground
+2,SA Northeast,38,27,2,1,140.74074074074073,GM Andrew,['LA Dawson'],caught,SA Northeast,2016-06-08,Hampshire,Kent,0,St Lawrence Ground
+2,SA Northeast,53,33,2,4,160.6060606060606,D Wiese,['CD Nash'],caught,SA Northeast,2016-06-10,Kent,Sussex,0,County Ground
+1,SA Northeast,11,7,2,0,157.14285714285714,DW Steyn,0,bowled,SA Northeast,2016-06-17,Kent,Glamorgan,0,Sophia Gardens
+1,SA Northeast,41,28,4,1,146.42857142857142,JEC Franklin,['HW Podmore'],caught,SA Northeast,2016-06-24,Middlesex,Middlesex,0,St Lawrence Ground
+2,SA Northeast,1,3,0,0,33.33333333333333,A Shahzad,['CJ Jordan'],caught,SA Northeast,2016-06-30,Sussex,Kent,0,St Lawrence Ground
+2,SA Northeast,23,15,2,1,153.33333333333334,GR Napier,['JS Foster'],caught,SA Northeast,2016-07-01,Kent,Essex,0,County Ground
+2,SA Northeast,75,44,9,2,170.45454545454547,J Overton,['J Allenby'],caught,SA Northeast,2016-07-07,Kent,Kent,0,County Ground
+2,SA Northeast,18,18,2,0,100.0,BAC Howell,['TMJ Smith'],caught,SA Northeast,2016-07-08,Kent,Kent,0,County Ground
+2,SA Northeast,57,39,4,2,146.15384615384613,ZS Ansari,['SM Davies'],caught,SA Northeast,2016-07-15,Surrey,Kent,0,Nevill Ground
+2,SA Northeast,22,12,2,1,183.33333333333331,DW Lawrence,0,bowled,SA Northeast,2016-07-22,Essex,Essex,0,St Lawrence Ground
+2,SA Northeast,59,45,5,2,131.11111111111111,TK Curran,['BT Foakes'],run out,JL Denly,2016-07-29,Kent,Surrey,0,Kennington Oval
+3,SA Northeast,59,45,5,2,131.11111111111111,JW Dernbach,['AJ Finch'],caught,SA Northeast,2016-07-29,Kent,Surrey,0,Kennington Oval
+3,SW Billings,3,4,0,0,75.0,GK Berg,0,lbw,SW Billings,2016-06-02,Kent,Hampshire,0,The Rose Bowl
+3,SW Billings,7,11,0,0,63.63636363636363,BAC Howell,['LC Norwell'],caught,SW Billings,2016-06-03,Gloucestershire,Gloucestershire,0,Kent County Cricket Ground
+3,SW Billings,55,30,3,2,183.33333333333331,notOut,notOut,notOut,notOut,2016-06-08,Hampshire,Kent,0,St Lawrence Ground
+4,SW Billings,10,11,1,0,90.9090909090909,WAT Beer,0,lbw,SW Billings,2016-06-10,Kent,Sussex,0,County Ground
+3,SW Billings,1,4,0,0,25.0,DW Steyn,['MG Hogan'],caught,SW Billings,2016-06-17,Kent,Glamorgan,0,Sophia Gardens
+5,SW Billings,7,11,0,0,63.63636363636363,JK Fuller,['HW Podmore'],caught,SW Billings,2016-06-24,Middlesex,Middlesex,0,St Lawrence Ground
+3,SW Billings,22,13,1,1,169.23076923076923,KMDN Kulasekara,['MW Machan'],caught,SW Billings,2016-06-30,Sussex,Kent,0,St Lawrence Ground
+3,SW Billings,18,13,1,1,138.46153846153845,notOut,notOut,notOut,notOut,2016-07-01,Kent,Essex,0,County Ground
+3,SW Billings,14,10,2,0,140.0,TD Groenewald,['RE van der Merwe'],caught,SW Billings,2016-07-07,Kent,Kent,0,County Ground
+3,SW Billings,16,19,0,0,84.21052631578947,MD Taylor,['LC Norwell'],run out,SW Billings,2016-07-08,Kent,Kent,0,County Ground
+3,SW Billings,8,13,0,0,61.53846153846154,notOut,notOut,notOut,notOut,2016-07-15,Surrey,Kent,0,Nevill Ground
+3,SW Billings,1,2,0,0,50.0,DD Masters,['JS Foster'],caught,SW Billings,2016-07-22,Essex,Essex,0,St Lawrence Ground
+4,SW Billings,2,4,0,0,50.0,GJ Batty,['BT Foakes'],stumped,SW Billings,2016-07-29,Kent,Surrey,0,Kennington Oval
+3,TWM Latham,12,13,2,0,92.3076923076923,WAT Beer,['LRPL Taylor'],caught,TWM Latham,2016-06-10,Kent,Sussex,0,County Ground
+0,TWM Latham,0,1,0,0,0.0,TS Roland-Jones,0,bowled,TWM Latham,2016-06-24,Middlesex,Middlesex,0,St Lawrence Ground
+0,TWM Latham,48,35,3,2,137.14285714285714,A Shahzad,['KMDN Kulasekara'],caught,TWM Latham,2016-06-30,Sussex,Kent,0,St Lawrence Ground
+0,TWM Latham,29,25,1,2,115.99999999999999,GR Napier,['JD Ryder'],caught,TWM Latham,2016-07-01,Kent,Essex,0,County Ground
+0,TWM Latham,12,10,1,0,120.0,L Gregory,['J Allenby'],caught,TWM Latham,2016-07-07,Kent,Kent,0,County Ground
+0,TWM Latham,27,25,2,1,108.0,BAC Howell,['LC Norwell'],caught,TWM Latham,2016-07-08,Kent,Kent,0,County Ground
+8,WRS Gidman,30,20,4,0,150.0,notOut,notOut,notOut,notOut,2016-07-29,Kent,Surrey,0,Kennington Oval

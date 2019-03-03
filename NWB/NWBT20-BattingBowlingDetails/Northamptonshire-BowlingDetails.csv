@@ -1,0 +1,95 @@
+bowler,overs,runs,maidens,wicket,econrate,date,team2,winner,result,venue
+Azharullah,4,33,0,1,8.25,2016-05-20,Northamptonshire,Northamptonshire,0,Grace Road
+Azharullah,2,23,0,0,11.5,2016-05-27,Derbyshire,Northamptonshire,0,County Ground
+Azharullah,4,25,0,1,6.25,2016-06-03,Worcestershire,Northamptonshire,0,County Ground
+Azharullah,3,27,0,2,9.0,2016-06-10,Northamptonshire,Worcestershire,0,"County Ground, New Road"
+Azharullah,4,28,0,0,7.0,2016-06-17,Durham,Northamptonshire,0,County Ground
+Azharullah,2,26,0,0,13.0,2016-06-26,Leicestershire,Northamptonshire,0,County Ground
+Azharullah,3,22,0,1,7.333333333333333,2016-07-01,Northamptonshire,Northamptonshire,0,Edgbaston
+Azharullah,2,26,0,0,13.0,2016-07-08,Nottinghamshire,Nottinghamshire,0,County Ground
+Azharullah,4,39,0,1,9.75,2016-07-29,Yorkshire,Yorkshire,0,County Ground
+Azharullah,3,24,0,0,8.0,2016-08-09,Middlesex,Northamptonshire,0,County Ground
+Azharullah,4,21,0,1,5.25,2016-08-20,Northamptonshire,Northamptonshire,0,Edgbaston
+Azharullah,4,41,0,1,10.25,2016-08-20,Northamptonshire,Northamptonshire,0,Edgbaston
+BW Sanderson,3,34,0,3,11.333333333333334,2016-06-10,Northamptonshire,Worcestershire,0,"County Ground, New Road"
+BW Sanderson,4,31,0,3,7.75,2016-08-20,Northamptonshire,Northamptonshire,0,Edgbaston
+BW Sanderson,4,21,0,2,5.25,2016-08-20,Northamptonshire,Northamptonshire,0,Edgbaston
+GG White,2,15,0,1,7.5,2016-05-20,Northamptonshire,Northamptonshire,0,Grace Road
+GG White,4,34,0,1,8.5,2016-05-27,Derbyshire,Northamptonshire,0,County Ground
+GG White,3,21,0,1,7.0,2016-06-03,Worcestershire,Northamptonshire,0,County Ground
+GG White,1,13,0,0,13.0,2016-06-10,Northamptonshire,Worcestershire,0,"County Ground, New Road"
+GG White,4,31,0,1,7.75,2016-06-17,Durham,Northamptonshire,0,County Ground
+GG White,4,24,0,1,6.0,2016-06-26,Leicestershire,Northamptonshire,0,County Ground
+GG White,3,15,0,2,5.0,2016-07-01,Northamptonshire,Northamptonshire,0,Edgbaston
+GG White,3,29,0,0,9.666666666666666,2016-07-08,Nottinghamshire,Nottinghamshire,0,County Ground
+GG White,4,20,0,4,5.0,2016-07-19,Warwickshire,Northamptonshire,0,County Ground
+GG White,1,8,0,0,8.0,2016-07-22,Northamptonshire,Yorkshire,0,Headingley
+GG White,3,27,0,1,9.0,2016-07-29,Yorkshire,Yorkshire,0,County Ground
+GG White,4,31,0,0,7.75,2016-08-09,Middlesex,Northamptonshire,0,County Ground
+GG White,3,22,0,0,7.333333333333333,2016-08-20,Northamptonshire,Northamptonshire,0,Edgbaston
+GG White,3,28,0,1,9.333333333333334,2016-08-20,Northamptonshire,Northamptonshire,0,Edgbaston
+JJ Cobb,2,21,0,2,10.5,2016-05-27,Derbyshire,Northamptonshire,0,County Ground
+JJ Cobb,2,17,0,0,8.5,2016-06-03,Worcestershire,Northamptonshire,0,County Ground
+JJ Cobb,4,29,0,3,7.25,2016-06-17,Durham,Northamptonshire,0,County Ground
+JJ Cobb,3,15,0,1,5.0,2016-06-26,Leicestershire,Northamptonshire,0,County Ground
+JJ Cobb,2,14,0,1,7.0,2016-07-01,Northamptonshire,Northamptonshire,0,Edgbaston
+JJ Cobb,1,5,0,0,5.0,2016-07-08,Nottinghamshire,Nottinghamshire,0,County Ground
+JJ Cobb,3,25,0,0,8.333333333333334,2016-07-15,Northamptonshire,Durham,0,Riverside Ground
+JJ Cobb,1,10,0,0,10.0,2016-07-19,Warwickshire,Northamptonshire,0,County Ground
+JJ Cobb,2,33,0,0,16.5,2016-07-22,Northamptonshire,Yorkshire,0,Headingley
+JJ Cobb,1,11,0,0,11.0,2016-07-29,Yorkshire,Yorkshire,0,County Ground
+JJ Cobb,1,9,0,1,9.0,2016-08-20,Northamptonshire,Northamptonshire,0,Edgbaston
+JJ Cobb,1,7,0,0,7.0,2016-08-20,Northamptonshire,Northamptonshire,0,Edgbaston
+MA Ashraf,3,17,0,3,5.666666666666667,2016-06-17,Durham,Northamptonshire,0,County Ground
+MA Ashraf,4,28,0,0,7.0,2016-06-26,Leicestershire,Northamptonshire,0,County Ground
+MA Ashraf,3,17,0,1,5.666666666666667,2016-07-01,Northamptonshire,Northamptonshire,0,Edgbaston
+MA Ashraf,3,18,0,1,6.0,2016-07-08,Nottinghamshire,Nottinghamshire,0,County Ground
+MA Ashraf,3,22,0,0,7.333333333333333,2016-07-15,Northamptonshire,Durham,0,Riverside Ground
+MA Ashraf,2,21,0,0,10.5,2016-07-19,Warwickshire,Northamptonshire,0,County Ground
+MA Ashraf,4,42,0,3,10.5,2016-07-22,Northamptonshire,Yorkshire,0,Headingley
+OP Stone,3,40,0,1,13.333333333333334,2016-05-20,Northamptonshire,Northamptonshire,0,Grace Road
+OP Stone,4,39,0,1,9.75,2016-05-27,Derbyshire,Northamptonshire,0,County Ground
+OP Stone,1,11,0,1,11.0,2016-06-03,Worcestershire,Northamptonshire,0,County Ground
+RJ Gleeson,4,25,0,0,6.25,2016-06-10,Northamptonshire,Worcestershire,0,"County Ground, New Road"
+RJ Gleeson,4,18,0,1,4.5,2016-06-17,Durham,Northamptonshire,0,County Ground
+RJ Gleeson,4,20,0,4,5.0,2016-06-26,Leicestershire,Northamptonshire,0,County Ground
+RJ Gleeson,4,12,0,3,3.0,2016-07-01,Northamptonshire,Northamptonshire,0,Edgbaston
+RJ Gleeson,4,13,0,3,3.25,2016-07-08,Nottinghamshire,Nottinghamshire,0,County Ground
+RJ Gleeson,3,35,0,0,11.666666666666666,2016-07-15,Northamptonshire,Durham,0,Riverside Ground
+RJ Gleeson,3,35,0,0,11.666666666666666,2016-07-19,Warwickshire,Northamptonshire,0,County Ground
+RJ Gleeson,4,31,0,1,7.75,2016-07-22,Northamptonshire,Yorkshire,0,Headingley
+RJ Gleeson,3,15,0,2,5.0,2016-07-29,Yorkshire,Yorkshire,0,County Ground
+RJ Gleeson,4,20,0,2,5.0,2016-08-09,Middlesex,Northamptonshire,0,County Ground
+RK Kleinveldt,3,36,0,1,12.0,2016-05-20,Northamptonshire,Northamptonshire,0,Grace Road
+RK Kleinveldt,3,25,0,1,8.333333333333334,2016-05-27,Derbyshire,Northamptonshire,0,County Ground
+RK Kleinveldt,4,32,0,2,8.0,2016-06-03,Worcestershire,Northamptonshire,0,County Ground
+RK Kleinveldt,4,30,0,1,7.5,2016-07-15,Northamptonshire,Durham,0,Riverside Ground
+RK Kleinveldt,3,14,0,3,4.666666666666667,2016-07-19,Warwickshire,Northamptonshire,0,County Ground
+RK Kleinveldt,4,33,0,0,8.25,2016-07-22,Northamptonshire,Yorkshire,0,Headingley
+RK Kleinveldt,4,38,0,0,9.5,2016-07-29,Yorkshire,Yorkshire,0,County Ground
+RK Kleinveldt,4,24,0,3,6.0,2016-08-09,Middlesex,Northamptonshire,0,County Ground
+RK Kleinveldt,4,40,0,2,10.0,2016-08-20,Northamptonshire,Northamptonshire,0,Edgbaston
+RK Kleinveldt,4,24,0,2,6.0,2016-08-20,Northamptonshire,Northamptonshire,0,Edgbaston
+S Prasanna,4,21,0,1,5.25,2016-05-20,Northamptonshire,Northamptonshire,0,Grace Road
+S Prasanna,4,27,0,2,6.75,2016-05-27,Derbyshire,Northamptonshire,0,County Ground
+S Prasanna,4,21,0,0,5.25,2016-06-03,Worcestershire,Northamptonshire,0,County Ground
+S Prasanna,4,26,0,1,6.5,2016-06-10,Northamptonshire,Worcestershire,0,"County Ground, New Road"
+S Prasanna,4,30,0,0,7.5,2016-07-08,Nottinghamshire,Nottinghamshire,0,County Ground
+S Prasanna,4,24,0,3,6.0,2016-07-15,Northamptonshire,Durham,0,Riverside Ground
+S Prasanna,4,26,0,3,6.5,2016-07-19,Warwickshire,Northamptonshire,0,County Ground
+S Prasanna,2,35,0,0,17.5,2016-07-22,Northamptonshire,Yorkshire,0,Headingley
+S Prasanna,3,27,0,0,9.0,2016-07-29,Yorkshire,Yorkshire,0,County Ground
+S Prasanna,4,20,0,2,5.0,2016-08-09,Middlesex,Northamptonshire,0,County Ground
+SP Crook,4,30,0,0,7.5,2016-05-20,Northamptonshire,Northamptonshire,0,Grace Road
+SP Crook,1,20,0,0,20.0,2016-05-27,Derbyshire,Northamptonshire,0,County Ground
+SP Crook,1,10,0,1,10.0,2016-06-03,Worcestershire,Northamptonshire,0,County Ground
+SP Crook,4,45,0,1,11.25,2016-06-10,Northamptonshire,Worcestershire,0,"County Ground, New Road"
+SP Crook,1,7,0,0,7.0,2016-06-17,Durham,Northamptonshire,0,County Ground
+SP Crook,3,32,0,0,10.666666666666666,2016-06-26,Leicestershire,Northamptonshire,0,County Ground
+SP Crook,1,3,0,0,3.0,2016-07-01,Northamptonshire,Northamptonshire,0,Edgbaston
+SP Crook,1,13,0,0,13.0,2016-07-15,Northamptonshire,Durham,0,Riverside Ground
+SP Crook,3,26,0,2,8.666666666666666,2016-07-22,Northamptonshire,Yorkshire,0,Headingley
+SP Crook,2,17,0,1,8.5,2016-07-29,Yorkshire,Yorkshire,0,County Ground
+SP Crook,1,9,0,0,9.0,2016-08-09,Middlesex,Northamptonshire,0,County Ground
+SP Crook,4,26,0,1,6.5,2016-08-20,Northamptonshire,Northamptonshire,0,Edgbaston
+SP Crook,4,28,0,3,7.0,2016-08-20,Northamptonshire,Northamptonshire,0,Edgbaston

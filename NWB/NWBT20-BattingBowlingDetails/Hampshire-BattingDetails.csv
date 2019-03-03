@@ -1,0 +1,122 @@
+,batsman,runs,balls,4s,6s,SR,bowler,fielders,kind,player_out,date,team2,winner,result,venue
+2,AJA Wheater,30,15,5,1,200.0,TS Roland-Jones,['RH Patel'],caught,AJA Wheater,2016-05-27,Hampshire,Middlesex,0,Uxbridge Cricket Club Ground
+3,AJA Wheater,6,8,0,0,75.0,MT Coles,['DA Griffiths'],caught,AJA Wheater,2016-06-02,Kent,Hampshire,0,The Rose Bowl
+3,AJA Wheater,39,26,6,0,150.0,DA Cosker,['CB Cooke'],stumped,AJA Wheater,2016-06-03,Hampshire,Glamorgan,0,Sophia Gardens
+2,AJA Wheater,19,20,2,1,95.0,DA Griffiths,['JL Denly'],run out,LD McManus,2016-06-08,Hampshire,Kent,0,St Lawrence Ground
+3,AJA Wheater,19,20,2,1,95.0,IAA Thomas,0,bowled,AJA Wheater,2016-06-08,Hampshire,Kent,0,St Lawrence Ground
+3,AJA Wheater,10,17,0,0,58.82352941176471,MTC Waller,['RC Davies'],stumped,AJA Wheater,2016-06-19,Hampshire,Somerset,0,County Ground
+1,AJA Wheater,8,10,1,0,80.0,DP Sibley,0,bowled,AJA Wheater,2016-07-01,Hampshire,Surrey,0,Kennington Oval
+1,AJA Wheater,14,12,2,0,116.66666666666667,MG Hogan,['GG Wagg'],caught,AJA Wheater,2016-07-14,Glamorgan,Hampshire,0,The Rose Bowl
+1,AJA Wheater,17,12,4,0,141.66666666666669,JC Archer,['CJ Jordan'],caught,AJA Wheater,2016-07-15,Hampshire,Hampshire,0,County Ground
+1,AJA Wheater,5,12,0,0,41.66666666666667,JK Fuller,['DJ Malan'],caught,AJA Wheater,2016-07-22,Middlesex,Middlesex,0,The Rose Bowl
+7,BJ Taylor,9,11,1,0,81.81818181818183,notOut,notOut,notOut,notOut,2016-07-08,Essex,Essex,0,The Rose Bowl
+8,BJ Taylor,5,6,1,0,83.33333333333334,CJ Jordan,0,bowled,BJ Taylor,2016-07-15,Hampshire,Hampshire,0,County Ground
+7,BJ Taylor,7,8,1,0,87.5,JK Fuller,['PR Stirling'],caught,BJ Taylor,2016-07-22,Middlesex,Middlesex,0,The Rose Bowl
+9,BTJ Wheal,2,8,0,0,25.0,CJ Jordan,0,bowled,BTJ Wheal,2016-07-15,Hampshire,Hampshire,0,County Ground
+9,BTJ Wheal,16,11,3,0,145.45454545454547,RF Higgins,0,bowled,BTJ Wheal,2016-07-22,Middlesex,Middlesex,0,The Rose Bowl
+5,DJG Sammy,27,15,2,1,180.0,MT Coles,['JL Denly'],caught,DJG Sammy,2016-06-02,Kent,Hampshire,0,The Rose Bowl
+8,DJG Sammy,2,5,0,0,40.0,notOut,notOut,notOut,notOut,2016-06-03,Hampshire,Glamorgan,0,Sophia Gardens
+8,DJG Sammy,30,17,1,3,176.47058823529412,MT Coles,['MT Coles'],run out,GM Andrew,2016-06-08,Hampshire,Kent,0,St Lawrence Ground
+9,DJG Sammy,30,17,1,3,176.47058823529412,DA Griffiths,['SW Billings'],caught,DJG Sammy,2016-06-08,Hampshire,Kent,0,St Lawrence Ground
+8,DJG Sammy,0,5,0,0,0.0,TD Groenewald,['JG Myburgh'],run out,LA Dawson,2016-06-19,Hampshire,Somerset,0,County Ground
+9,DJG Sammy,0,5,0,0,0.0,J Overton,['J Allenby'],caught,DJG Sammy,2016-06-19,Hampshire,Somerset,0,County Ground
+6,DJG Sammy,11,10,1,0,110.00000000000001,GR Napier,0,bowled,DJG Sammy,2016-06-24,Hampshire,Essex,0,County Ground
+6,DJG Sammy,0,1,0,0,0.0,ZS Ansari,['BT Foakes'],caught,DJG Sammy,2016-07-01,Hampshire,Surrey,0,Kennington Oval
+7,GK Berg,1,2,0,0,50.0,DW Steyn,['CB Cooke'],caught,GK Berg,2016-06-03,Hampshire,Glamorgan,0,Sophia Gardens
+11,GK Berg,4,3,0,0,133.33333333333331,notOut,notOut,notOut,notOut,2016-06-08,Hampshire,Kent,0,St Lawrence Ground
+10,GK Berg,4,9,0,0,44.44444444444444,J Overton,['CH Gayle'],caught,GK Berg,2016-06-19,Hampshire,Somerset,0,County Ground
+9,GK Berg,5,5,0,0,100.0,notOut,notOut,notOut,notOut,2016-06-24,Hampshire,Essex,0,County Ground
+8,GM Andrew,3,7,0,0,42.857142857142854,PR Stirling,0,bowled,GM Andrew,2016-05-27,Hampshire,Middlesex,0,Uxbridge Cricket Club Ground
+8,GM Andrew,5,2,1,0,250.0,notOut,notOut,notOut,notOut,2016-06-02,Kent,Hampshire,0,The Rose Bowl
+9,GM Andrew,4,2,1,0,200.0,DW Steyn,['CB Cooke'],caught,GM Andrew,2016-06-03,Hampshire,Glamorgan,0,Sophia Gardens
+10,GM Andrew,5,5,1,0,100.0,notOut,notOut,notOut,notOut,2016-06-08,Hampshire,Kent,0,St Lawrence Ground
+8,GM Andrew,13,8,0,1,162.5,notOut,notOut,notOut,notOut,2016-06-24,Hampshire,Essex,0,County Ground
+7,GM Andrew,31,22,3,1,140.9090909090909,R Rampaul,['DJ Bravo'],caught,GM Andrew,2016-07-01,Hampshire,Surrey,0,Kennington Oval
+8,GM Andrew,2,3,0,0,66.66666666666666,notOut,notOut,notOut,notOut,2016-07-08,Essex,Essex,0,The Rose Bowl
+7,GM Andrew,1,1,0,0,100.0,notOut,notOut,notOut,notOut,2016-07-14,Glamorgan,Hampshire,0,The Rose Bowl
+10,GT Griffiths,4,7,0,0,57.14285714285714,notOut,notOut,notOut,notOut,2016-07-15,Hampshire,Hampshire,0,County Ground
+10,GT Griffiths,2,2,0,0,100.0,notOut,notOut,notOut,notOut,2016-07-22,Middlesex,Middlesex,0,The Rose Bowl
+1,J Goodwin,32,29,5,0,110.34482758620689,DM Bess,['RC Davies'],stumped,J Goodwin,2016-07-29,Somerset,Hampshire,0,The Rose Bowl
+1,JHK Adams,11,8,2,0,137.5,JK Fuller,['NA Sowter (sub)'],caught,JHK Adams,2016-05-27,Hampshire,Middlesex,0,Uxbridge Cricket Club Ground
+2,JHK Adams,18,15,1,1,120.0,MT Coles,['FK Cowdrey'],caught,JHK Adams,2016-06-02,Kent,Hampshire,0,The Rose Bowl
+2,JHK Adams,7,8,1,0,87.5,DA Cosker,['GG Wagg'],caught,JHK Adams,2016-06-03,Hampshire,Glamorgan,0,Sophia Gardens
+0,JHK Adams,5,3,1,0,166.66666666666669,DI Stevens,['TWM Latham'],caught,JHK Adams,2016-06-08,Hampshire,Kent,0,St Lawrence Ground
+0,JHK Adams,6,4,0,1,150.0,SM Curran,0,bowled,JHK Adams,2016-07-01,Hampshire,Surrey,0,Kennington Oval
+2,JJ Weatherley,18,18,1,0,100.0,GR Napier,0,bowled,JJ Weatherley,2016-06-24,Hampshire,Essex,0,County Ground
+5,JJ Weatherley,43,28,3,2,153.57142857142858,GG Wagg,['AHT Donald'],caught,JJ Weatherley,2016-07-14,Glamorgan,Hampshire,0,The Rose Bowl
+6,JJ Weatherley,7,5,1,0,140.0,WAT Beer,['LRPL Taylor'],caught,JJ Weatherley,2016-07-15,Hampshire,Hampshire,0,County Ground
+5,JJ Weatherley,13,11,1,0,118.18181818181819,RF Higgins,['EJG Morgan'],caught,JJ Weatherley,2016-07-22,Middlesex,Middlesex,0,The Rose Bowl
+1,JM Vince,7,8,1,0,87.5,DA Griffiths,['AJ Blake'],caught,JM Vince,2016-06-02,Kent,Hampshire,0,The Rose Bowl
+0,JM Vince,27,22,4,0,122.72727272727273,MG Hogan,0,bowled,JM Vince,2016-06-03,Hampshire,Glamorgan,0,Sophia Gardens
+2,JM Vince,10,10,1,0,100.0,J Overton,['RC Davies'],caught,JM Vince,2016-06-19,Hampshire,Somerset,0,County Ground
+1,JM Vince,62,53,9,0,116.98113207547169,GR Napier,0,bowled,JM Vince,2016-07-08,Essex,Essex,0,The Rose Bowl
+5,LA Dawson,46,30,2,3,153.33333333333334,HW Podmore,['TS Roland-Jones'],caught,LA Dawson,2016-05-27,Hampshire,Middlesex,0,Uxbridge Cricket Club Ground
+7,LA Dawson,10,6,1,0,166.66666666666669,MT Coles,['FK Cowdrey'],caught,LA Dawson,2016-06-02,Kent,Hampshire,0,The Rose Bowl
+5,LA Dawson,14,16,0,0,87.5,MG Hogan,['DW Steyn'],caught,LA Dawson,2016-06-03,Hampshire,Glamorgan,0,Sophia Gardens
+5,LA Dawson,6,10,0,0,60.0,JC Tredwell,0,caught and bowled,LA Dawson,2016-06-08,Hampshire,Kent,0,St Lawrence Ground
+4,LA Dawson,46,34,4,1,135.29411764705884,notOut,notOut,notOut,notOut,2016-06-19,Hampshire,Somerset,0,County Ground
+3,LA Dawson,26,23,2,0,113.04347826086956,RS Bopara,0,bowled,LA Dawson,2016-06-24,Hampshire,Essex,0,County Ground
+4,LA Dawson,1,4,0,0,25.0,TK Curran,0,bowled,LA Dawson,2016-07-01,Hampshire,Surrey,0,Kennington Oval
+3,LA Dawson,8,11,0,0,72.72727272727273,Ashar Zaidi,['RS Bopara'],caught,LA Dawson,2016-07-08,Essex,Essex,0,The Rose Bowl
+3,LA Dawson,76,54,4,2,140.74074074074073,notOut,notOut,notOut,notOut,2016-07-14,Glamorgan,Hampshire,0,The Rose Bowl
+3,LA Dawson,25,21,1,1,119.04761904761905,WAT Beer,['WAT Beer'],run out,TP Alsop,2016-07-15,Hampshire,Hampshire,0,County Ground
+4,LA Dawson,25,21,1,1,119.04761904761905,A Shahzad,['CJ Jordan'],caught,LA Dawson,2016-07-15,Hampshire,Hampshire,0,County Ground
+3,LA Dawson,16,14,1,0,114.28571428571428,RF Higgins,['DJ Malan'],caught,LA Dawson,2016-07-22,Middlesex,Middlesex,0,The Rose Bowl
+3,LA Dawson,25,16,3,0,156.25,notOut,notOut,notOut,notOut,2016-07-29,Somerset,Hampshire,0,The Rose Bowl
+1,LD McManus,6,4,1,0,150.0,notOut,notOut,notOut,notOut,2016-06-08,Hampshire,Kent,0,St Lawrence Ground
+7,LD McManus,4,3,0,0,133.33333333333331,GR Napier,0,bowled,LD McManus,2016-06-24,Hampshire,Essex,0,County Ground
+2,LD McManus,41,35,3,1,117.14285714285715,DP Sibley,['DJ Bravo'],caught,LD McManus,2016-07-01,Hampshire,Surrey,0,Kennington Oval
+6,LD McManus,17,12,1,1,141.66666666666669,RS Bopara,['DW Lawrence'],caught,LD McManus,2016-07-08,Essex,Essex,0,The Rose Bowl
+6,LD McManus,0,1,0,0,0.0,MG Hogan,0,bowled,LD McManus,2016-07-14,Glamorgan,Hampshire,0,The Rose Bowl
+7,LD McManus,9,14,0,0,64.28571428571429,TS Mills,['CD Nash'],caught,LD McManus,2016-07-15,Hampshire,Hampshire,0,County Ground
+8,LD McManus,1,2,0,0,50.0,ST Finn,['JA Simpson'],caught,LD McManus,2016-07-22,Middlesex,Middlesex,0,The Rose Bowl
+0,MA Carberry,15,11,0,2,136.36363636363635,HW Podmore,['JA Simpson'],caught,MA Carberry,2016-05-27,Hampshire,Middlesex,0,Uxbridge Cricket Club Ground
+0,MA Carberry,54,53,5,1,101.88679245283019,IAA Thomas,['MT Coles'],caught,MA Carberry,2016-06-02,Kent,Hampshire,0,The Rose Bowl
+1,MA Carberry,10,7,2,0,142.85714285714286,MG Hogan,['DA Cosker'],caught,MA Carberry,2016-06-03,Hampshire,Glamorgan,0,Sophia Gardens
+0,MA Carberry,17,13,2,0,130.76923076923077,J Overton,['TD Groenewald'],caught,MA Carberry,2016-06-19,Hampshire,Somerset,0,County Ground
+0,MA Carberry,34,27,4,1,125.92592592592592,T Westley,['JS Foster'],stumped,MA Carberry,2016-06-24,Hampshire,Essex,0,County Ground
+0,MA Carberry,24,18,3,0,133.33333333333331,MR Quinn,['T Westley'],caught,MA Carberry,2016-07-08,Essex,Essex,0,The Rose Bowl
+9,MS Crane,2,5,0,0,40.0,notOut,notOut,notOut,notOut,2016-07-01,Hampshire,Surrey,0,Kennington Oval
+6,R McLaren,3,5,0,0,60.0,RH Patel,0,bowled,R McLaren,2016-05-27,Hampshire,Middlesex,0,Uxbridge Cricket Club Ground
+6,R McLaren,23,15,2,1,153.33333333333334,RF Higgins,['GJ Bailey'],caught,R McLaren,2016-07-22,Middlesex,Middlesex,0,The Rose Bowl
+4,R McLaren,13,6,2,0,216.66666666666666,notOut,notOut,notOut,notOut,2016-07-29,Somerset,Hampshire,0,The Rose Bowl
+8,RA Stevenson,3,5,0,0,60.0,DJ Bravo,['BT Foakes'],caught,RA Stevenson,2016-07-01,Hampshire,Surrey,0,Kennington Oval
+3,SM Ervine,0,1,0,0,0.0,TS Roland-Jones,0,bowled,SM Ervine,2016-05-27,Hampshire,Middlesex,0,Uxbridge Cricket Club Ground
+6,SM Ervine,0,1,0,0,0.0,IAA Thomas,['SW Billings'],caught,SM Ervine,2016-06-02,Kent,Hampshire,0,The Rose Bowl
+4,SM Ervine,1,2,0,0,50.0,CAJ Meschede,['JA Rudolph'],caught,SM Ervine,2016-06-03,Hampshire,Glamorgan,0,Sophia Gardens
+4,SM Ervine,56,35,4,3,160.0,JC Tredwell,['DA Griffiths'],run out,SM Ervine,2016-06-08,Hampshire,Kent,0,St Lawrence Ground
+6,SM Ervine,13,9,1,0,144.44444444444443,MTC Waller,['RC Davies'],stumped,SM Ervine,2016-06-19,Hampshire,Somerset,0,County Ground
+4,SM Ervine,3,9,0,0,33.33333333333333,MR Quinn,['T Westley'],caught,SM Ervine,2016-06-24,Hampshire,Essex,0,County Ground
+3,SM Ervine,1,3,0,0,33.33333333333333,R Rampaul,['BT Foakes'],caught,SM Ervine,2016-07-01,Hampshire,Surrey,0,Kennington Oval
+4,SM Ervine,6,9,0,0,66.66666666666666,Ashar Zaidi,['T Westley'],caught,SM Ervine,2016-07-08,Essex,Essex,0,The Rose Bowl
+2,SM Ervine,0,2,0,0,0.0,GG Wagg,['AHT Donald'],caught,SM Ervine,2016-07-14,Glamorgan,Hampshire,0,The Rose Bowl
+2,SM Ervine,11,16,0,0,68.75,WAT Beer,['PD Salt'],caught,SM Ervine,2016-07-15,Hampshire,Hampshire,0,County Ground
+2,SM Ervine,36,25,5,1,144.0,RF Higgins,0,bowled,SM Ervine,2016-07-22,Middlesex,Middlesex,0,The Rose Bowl
+4,Shahid Afridi,8,6,1,0,133.33333333333331,RH Patel,['JK Fuller'],run out,Shahid Afridi,2016-05-27,Hampshire,Middlesex,0,Uxbridge Cricket Club Ground
+4,Shahid Afridi,21,14,2,0,150.0,FK Cowdrey,0,bowled,Shahid Afridi,2016-06-02,Kent,Hampshire,0,The Rose Bowl
+6,Shahid Afridi,32,21,3,2,152.38095238095238,MG Hogan,['CA Ingram'],caught,Shahid Afridi,2016-06-03,Hampshire,Glamorgan,0,Sophia Gardens
+7,Shahid Afridi,35,17,0,4,205.88235294117646,DA Griffiths,['DI Stevens'],caught,Shahid Afridi,2016-06-08,Hampshire,Kent,0,St Lawrence Ground
+7,Shahid Afridi,21,9,3,1,233.33333333333334,MTC Waller,0,bowled,Shahid Afridi,2016-06-19,Hampshire,Somerset,0,County Ground
+5,Shahid Afridi,1,3,0,0,33.33333333333333,RS Bopara,0,bowled,Shahid Afridi,2016-06-24,Hampshire,Essex,0,County Ground
+5,Shahid Afridi,10,6,1,0,166.66666666666669,MR Quinn,0,caught and bowled,Shahid Afridi,2016-07-08,Essex,Essex,0,The Rose Bowl
+4,Shahid Afridi,25,18,4,0,138.88888888888889,CAJ Meschede,['GG Wagg'],caught,Shahid Afridi,2016-07-14,Glamorgan,Hampshire,0,The Rose Bowl
+5,Shahid Afridi,11,8,1,1,137.5,CJ Jordan,['LJ Wright'],run out,Shahid Afridi,2016-07-15,Hampshire,Hampshire,0,County Ground
+4,Shahid Afridi,6,6,1,0,100.0,ST Finn,['JK Fuller'],caught,Shahid Afridi,2016-07-22,Middlesex,Middlesex,0,The Rose Bowl
+2,Shahid Afridi,21,12,2,1,175.0,PD Trego,['MTC Waller'],caught,Shahid Afridi,2016-07-29,Somerset,Hampshire,0,The Rose Bowl
+9,TL Best,8,8,1,0,100.0,JK Fuller,['HW Podmore'],caught,TL Best,2016-05-27,Hampshire,Middlesex,0,Uxbridge Cricket Club Ground
+10,TL Best,0,2,0,0,0.0,DW Steyn,0,lbw,TL Best,2016-06-03,Hampshire,Glamorgan,0,Sophia Gardens
+12,TL Best,1,2,0,0,50.0,notOut,notOut,notOut,notOut,2016-06-08,Hampshire,Kent,0,St Lawrence Ground
+11,TL Best,0,1,0,0,0.0,notOut,notOut,notOut,notOut,2016-06-19,Hampshire,Somerset,0,County Ground
+10,TL Best,0,2,0,0,0.0,DJ Bravo,['JJ Roy'],caught,TL Best,2016-07-01,Hampshire,Surrey,0,Kennington Oval
+11,TL Best,7,4,1,0,175.0,notOut,notOut,notOut,notOut,2016-07-15,Hampshire,Hampshire,0,County Ground
+1,TP Alsop,4,6,1,0,66.66666666666666,L Gregory,['J Overton'],run out,TP Alsop,2016-06-19,Hampshire,Somerset,0,County Ground
+1,TP Alsop,13,17,1,0,76.47058823529412,DW Lawrence,['RN ten Doeschate'],caught,TP Alsop,2016-06-24,Hampshire,Essex,0,County Ground
+2,TP Alsop,0,1,0,0,0.0,DW Lawrence,0,caught and bowled,TP Alsop,2016-07-08,Essex,Essex,0,The Rose Bowl
+0,TP Alsop,6,6,1,0,100.0,GG Wagg,['CA Ingram'],caught,TP Alsop,2016-07-14,Glamorgan,Hampshire,0,The Rose Bowl
+0,TP Alsop,25,25,2,1,100.0,notOut,notOut,notOut,notOut,2016-07-15,Hampshire,Hampshire,0,County Ground
+0,TP Alsop,10,11,1,0,90.9090909090909,JK Fuller,['EJG Morgan'],caught,TP Alsop,2016-07-22,Middlesex,Middlesex,0,The Rose Bowl
+0,TP Alsop,85,59,9,4,144.0677966101695,JH Davey,['PD Trego'],caught,TP Alsop,2016-07-29,Somerset,Hampshire,0,The Rose Bowl
+7,WR Smith,0,1,0,0,0.0,RH Patel,['JA Simpson'],caught,WR Smith,2016-05-27,Hampshire,Middlesex,0,Uxbridge Cricket Club Ground
+6,WR Smith,9,7,0,0,128.57142857142858,JC Tredwell,['SW Billings'],run out,WR Smith,2016-06-08,Hampshire,Kent,0,St Lawrence Ground
+5,WR Smith,0,1,0,0,0.0,MTC Waller,0,lbw,WR Smith,2016-06-19,Hampshire,Somerset,0,County Ground
+5,WR Smith,5,10,0,0,50.0,ZS Ansari,['DJ Bravo'],caught,WR Smith,2016-07-01,Hampshire,Surrey,0,Kennington Oval

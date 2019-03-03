@@ -1,0 +1,69 @@
+bowler,overs,runs,maidens,wicket,econrate,date,team2,winner,result,venue
+A Shahzad,2,19,0,1,9.5,2016-05-20,Sussex,Sussex,0,County Ground
+A Shahzad,4,40,0,2,10.0,2016-06-01,Somerset,Sussex,0,County Ground
+A Shahzad,4,31,0,1,7.75,2016-06-03,Surrey,Surrey,0,County Ground
+A Shahzad,2,7,0,0,3.5,2016-06-10,Kent,Sussex,0,County Ground
+A Shahzad,4,26,0,3,6.5,2016-06-26,Gloucestershire,Gloucestershire,0,Arundel Castle Cricket Club Ground
+A Shahzad,3,29,0,2,9.666666666666666,2016-06-30,Sussex,Kent,0,St Lawrence Ground
+A Shahzad,2,21,0,1,10.5,2016-07-01,Middlesex,Sussex,0,County Ground
+A Shahzad,4,30,0,1,7.5,2016-07-15,Hampshire,Hampshire,0,County Ground
+CD Nash,3,23,0,0,7.666666666666667,2016-06-26,Gloucestershire,Gloucestershire,0,Arundel Castle Cricket Club Ground
+CD Nash,3,16,0,1,5.333333333333333,2016-06-30,Sussex,Kent,0,St Lawrence Ground
+CD Nash,2,19,0,0,9.5,2016-07-01,Middlesex,Sussex,0,County Ground
+CD Nash,3,30,0,0,10.0,2016-07-07,Sussex,Glamorgan,0,Sophia Gardens
+CD Nash,1,11,0,0,11.0,2016-07-22,Sussex,Surrey,0,Kennington Oval
+CJ Jordan,2,16,0,0,8.0,2016-06-01,Somerset,Sussex,0,County Ground
+CJ Jordan,4,35,0,2,8.75,2016-06-03,Surrey,Surrey,0,County Ground
+CJ Jordan,4,18,0,3,4.5,2016-06-10,Kent,Sussex,0,County Ground
+CJ Jordan,4,47,0,1,11.75,2016-06-30,Sussex,Kent,0,St Lawrence Ground
+CJ Jordan,4,26,0,1,6.5,2016-07-07,Sussex,Glamorgan,0,Sophia Gardens
+CJ Jordan,4,14,0,3,3.5,2016-07-15,Hampshire,Hampshire,0,County Ground
+CJ Jordan,4,30,0,0,7.5,2016-07-21,Sussex,Sussex,0,County Ground
+CJ Jordan,3,18,0,1,6.0,2016-07-22,Sussex,Surrey,0,Kennington Oval
+CJ Jordan,1,16,1,2,16.0,2016-07-28,Glamorgan,0,0,County Ground
+D Wiese,4,38,0,4,9.5,2016-06-01,Somerset,Sussex,0,County Ground
+D Wiese,2,32,0,0,16.0,2016-06-03,Surrey,Surrey,0,County Ground
+D Wiese,4,33,0,2,8.25,2016-06-10,Kent,Sussex,0,County Ground
+DR Briggs,2,25,0,0,12.5,2016-05-20,Sussex,Sussex,0,County Ground
+DR Briggs,4,36,0,2,9.0,2016-06-01,Somerset,Sussex,0,County Ground
+DR Briggs,2,21,0,0,10.5,2016-06-03,Surrey,Surrey,0,County Ground
+DR Briggs,2,23,0,0,11.5,2016-06-10,Kent,Sussex,0,County Ground
+DR Briggs,4,42,0,1,10.5,2016-06-26,Gloucestershire,Gloucestershire,0,Arundel Castle Cricket Club Ground
+DR Briggs,2,24,0,0,12.0,2016-06-30,Sussex,Kent,0,St Lawrence Ground
+DR Briggs,4,24,0,3,6.0,2016-07-01,Middlesex,Sussex,0,County Ground
+DR Briggs,2,29,0,0,14.5,2016-07-07,Sussex,Glamorgan,0,Sophia Gardens
+DR Briggs,3,18,0,1,6.0,2016-07-22,Sussex,Surrey,0,Kennington Oval
+GHS Garton,3,29,0,0,9.666666666666666,2016-06-26,Gloucestershire,Gloucestershire,0,Arundel Castle Cricket Club Ground
+GHS Garton,3,16,0,4,5.333333333333333,2016-07-28,Glamorgan,0,0,County Ground
+JC Archer,4,27,0,1,6.75,2016-07-15,Hampshire,Hampshire,0,County Ground
+JC Archer,4,39,0,1,9.75,2016-07-21,Sussex,Sussex,0,County Ground
+JC Archer,4,39,0,2,9.75,2016-07-22,Sussex,Surrey,0,Kennington Oval
+JC Archer,3,34,0,1,11.333333333333334,2016-07-28,Glamorgan,0,0,County Ground
+KMDN Kulasekara,4,28,0,1,7.0,2016-06-30,Sussex,Kent,0,St Lawrence Ground
+KMDN Kulasekara,2,24,0,2,12.0,2016-07-01,Middlesex,Sussex,0,County Ground
+KMDN Kulasekara,4,28,0,4,7.0,2016-07-07,Sussex,Glamorgan,0,Sophia Gardens
+Mustafizur Rahman,4,23,0,4,5.75,2016-07-21,Sussex,Sussex,0,County Ground
+Mustafizur Rahman,3,31,0,0,10.333333333333334,2016-07-22,Sussex,Surrey,0,Kennington Oval
+OE Robinson,1,17,0,0,17.0,2016-05-20,Sussex,Sussex,0,County Ground
+TS Mills,2,19,0,0,9.5,2016-05-20,Sussex,Sussex,0,County Ground
+TS Mills,3,11,0,2,3.6666666666666665,2016-06-01,Somerset,Sussex,0,County Ground
+TS Mills,4,55,0,1,13.75,2016-06-03,Surrey,Surrey,0,County Ground
+TS Mills,4,15,1,3,3.75,2016-06-10,Kent,Sussex,0,County Ground
+TS Mills,4,42,0,0,10.5,2016-06-26,Gloucestershire,Gloucestershire,0,Arundel Castle Cricket Club Ground
+TS Mills,4,15,0,1,3.75,2016-06-30,Sussex,Kent,0,St Lawrence Ground
+TS Mills,3,34,0,2,11.333333333333334,2016-07-01,Middlesex,Sussex,0,County Ground
+TS Mills,4,23,0,2,5.75,2016-07-07,Sussex,Glamorgan,0,Sophia Gardens
+TS Mills,4,32,0,1,8.0,2016-07-15,Hampshire,Hampshire,0,County Ground
+TS Mills,4,36,0,2,9.0,2016-07-21,Sussex,Sussex,0,County Ground
+TS Mills,4,14,0,2,3.5,2016-07-28,Glamorgan,0,0,County Ground
+WAT Beer,0,1,0,0,inf,2016-05-20,Sussex,Sussex,0,County Ground
+WAT Beer,3,24,0,0,8.0,2016-06-01,Somerset,Sussex,0,County Ground
+WAT Beer,4,30,0,0,7.5,2016-06-03,Surrey,Surrey,0,County Ground
+WAT Beer,4,36,0,2,9.0,2016-06-10,Kent,Sussex,0,County Ground
+WAT Beer,2,20,0,0,10.0,2016-06-26,Gloucestershire,Gloucestershire,0,Arundel Castle Cricket Club Ground
+WAT Beer,4,23,0,2,5.75,2016-07-01,Middlesex,Sussex,0,County Ground
+WAT Beer,3,22,0,1,7.333333333333333,2016-07-07,Sussex,Glamorgan,0,Sophia Gardens
+WAT Beer,4,27,0,3,6.75,2016-07-15,Hampshire,Hampshire,0,County Ground
+WAT Beer,4,40,0,1,10.0,2016-07-21,Sussex,Sussex,0,County Ground
+WAT Beer,4,30,0,0,7.5,2016-07-22,Sussex,Surrey,0,Kennington Oval
+WAT Beer,3,18,0,1,6.0,2016-07-28,Glamorgan,0,0,County Ground

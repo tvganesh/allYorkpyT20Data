@@ -1,0 +1,109 @@
+,batsman,runs,balls,4s,6s,SR,bowler,fielders,kind,player_out,date,team2,winner,result,venue
+3,AN Kervezee,40.0,29,4,0,137.93103448275863,A Javid,0,bowled,AN Kervezee,2016-05-27,Worcestershire,Worcestershire,0,Edgbaston
+3,AN Kervezee,52.0,40,6,0,130.0,notOut,notOut,notOut,notOut,2016-06-02,Yorkshire,Worcestershire,0,"County Ground, New Road"
+4,AN Kervezee,14.0,18,0,0,77.77777777777779,GG White,['S Prasanna'],caught,AN Kervezee,2016-06-03,Worcestershire,Northamptonshire,0,County Ground
+3,AN Kervezee,0.0,3,0,0,0.0,Azharullah,['BM Duckett'],caught,AN Kervezee,2016-06-10,Northamptonshire,Worcestershire,0,"County Ground, New Road"
+4,AN Kervezee,4.0,9,0,0,44.44444444444444,JT Ball,['MH Wessels'],caught,AN Kervezee,2016-06-18,Nottinghamshire,Nottinghamshire,0,"County Ground, New Road"
+3,AN Kervezee,4.0,5,1,0,80.0,J Clark,['SD Parry'],caught,AN Kervezee,2016-06-24,Worcestershire,Lancashire,0,Old Trafford
+3,AN Kervezee,5.0,7,0,0,71.42857142857143,KK Jennings,0,bowled,AN Kervezee,2016-06-30,Worcestershire,0,0,Riverside Ground
+3,AN Kervezee,1.0,2,0,0,50.0,A Carter,['HR Hosein'],caught,AN Kervezee,2016-07-01,Derbyshire,Derbyshire,0,"County Ground, New Road"
+2,AN Kervezee,2.0,4,0,0,50.0,SJ Thakor,['HR Hosein'],caught,AN Kervezee,2016-07-22,Worcestershire,Derbyshire,0,County Ground
+5,BL D'Oliveira,39.0,23,3,2,169.56521739130434,notOut,notOut,notOut,notOut,2016-05-20,Durham,Worcestershire,0,"County Ground, New Road"
+4,BL D'Oliveira,62.0,40,4,3,155.0,notOut,notOut,notOut,notOut,2016-05-27,Worcestershire,Worcestershire,0,Edgbaston
+4,BL D'Oliveira,34.0,21,4,0,161.9047619047619,notOut,notOut,notOut,notOut,2016-06-02,Yorkshire,Worcestershire,0,"County Ground, New Road"
+6,BL D'Oliveira,18.0,17,1,0,105.88235294117648,RK Kleinveldt,['SP Crook'],caught,BL D'Oliveira,2016-06-03,Worcestershire,Northamptonshire,0,County Ground
+4,BL D'Oliveira,37.0,21,5,1,176.19047619047618,BW Sanderson,['RI Keogh'],caught,BL D'Oliveira,2016-06-10,Northamptonshire,Worcestershire,0,"County Ground, New Road"
+5,BL D'Oliveira,4.0,10,0,0,40.0,AD Russell,['JT Ball'],caught,BL D'Oliveira,2016-06-18,Nottinghamshire,Nottinghamshire,0,"County Ground, New Road"
+4,BL D'Oliveira,16.0,32,0,0,50.0,SD Parry,['GA Edwards'],caught,BL D'Oliveira,2016-06-24,Worcestershire,Lancashire,0,Old Trafford
+4,BL D'Oliveira,11.0,15,0,0,73.33333333333333,KK Jennings,['SG Borthwick'],caught,BL D'Oliveira,2016-06-30,Worcestershire,0,0,Riverside Ground
+4,BL D'Oliveira,21.0,22,1,1,95.45454545454545,AL Hughes,['A Carter'],caught,BL D'Oliveira,2016-07-01,Derbyshire,Derbyshire,0,"County Ground, New Road"
+3,BL D'Oliveira,30.0,17,2,2,176.47058823529412,LM Reece,['KR Brown'],caught,BL D'Oliveira,2016-07-08,Lancashire,Lancashire,0,"County Ground, New Road"
+3,BL D'Oliveira,9.0,9,1,0,100.0,Imran Tahir,['Imran Tahir'],run out,BL D'Oliveira,2016-07-09,Worcestershire,Nottinghamshire,0,Trent Bridge
+3,BL D'Oliveira,28.0,31,2,0,90.32258064516128,R Clarke,['JE Poysden'],caught,BL D'Oliveira,2016-07-15,Warwickshire,Worcestershire,0,"County Ground, New Road"
+3,BL D'Oliveira,44.0,33,2,1,133.33333333333331,MJJ Critchley,['HR Hosein'],caught,BL D'Oliveira,2016-07-22,Worcestershire,Derbyshire,0,County Ground
+10,CAJ Morris,3.0,2,0,0,150.0,notOut,notOut,notOut,notOut,2016-07-22,Worcestershire,Derbyshire,0,County Ground
+1,DKH Mitchell,5.0,5,1,0,100.0,P Coughlin,0,lbw,DKH Mitchell,2016-05-20,Durham,Worcestershire,0,"County Ground, New Road"
+1,DKH Mitchell,15.0,14,2,0,107.14285714285714,WB Rankin,['L Ronchi'],caught,DKH Mitchell,2016-05-27,Worcestershire,Worcestershire,0,Edgbaston
+1,DKH Mitchell,29.0,18,6,0,161.11111111111111,LE Plunkett,['GS Ballance'],caught,DKH Mitchell,2016-06-02,Yorkshire,Worcestershire,0,"County Ground, New Road"
+3,DKH Mitchell,44.0,38,2,0,115.78947368421053,notOut,notOut,notOut,notOut,2016-06-03,Worcestershire,Northamptonshire,0,County Ground
+2,DKH Mitchell,5.0,4,1,0,125.0,NL Buck,['TJ Moores'],caught,DKH Mitchell,2016-06-24,Worcestershire,Lancashire,0,Old Trafford
+2,DKH Mitchell,28.0,22,4,0,127.27272727272727,U Arshad,['GJ Muchall'],caught,DKH Mitchell,2016-06-30,Worcestershire,0,0,Riverside Ground
+1,DKH Mitchell,0.0,3,0,0,0.0,JDS Neesham,['WJ Durston'],caught,DKH Mitchell,2016-07-01,Derbyshire,Derbyshire,0,"County Ground, New Road"
+4,DKH Mitchell,9.0,11,0,0,81.81818181818183,SJ Croft,0,bowled,DKH Mitchell,2016-07-08,Lancashire,Lancashire,0,"County Ground, New Road"
+4,DKH Mitchell,61.0,37,5,2,164.86486486486487,R Clarke,['SR Hain'],caught,DKH Mitchell,2016-07-15,Warwickshire,Worcestershire,0,"County Ground, New Road"
+4,DKH Mitchell,19.0,16,2,0,118.75,WJ Durston,['CF Hughes'],caught,DKH Mitchell,2016-07-22,Worcestershire,Derbyshire,0,County Ground
+8,EG Barnard,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2016-06-10,Northamptonshire,Worcestershire,0,"County Ground, New Road"
+10,EG Barnard,0.0,1,0,0,0.0,AM Lilley,0,bowled,EG Barnard,2016-06-24,Worcestershire,Lancashire,0,Old Trafford
+8,EG Barnard,9.0,6,0,1,150.0,GA Edwards,['JC Buttler'],run out,MJ Henry,2016-07-08,Lancashire,Lancashire,0,"County Ground, New Road"
+9,EG Barnard,9.0,6,0,1,150.0,GA Edwards,['AM Lilley (sub)'],caught,EG Barnard,2016-07-08,Lancashire,Lancashire,0,"County Ground, New Road"
+8,EG Barnard,8.0,9,0,0,88.88888888888889,notOut,notOut,notOut,notOut,2016-07-09,Worcestershire,Nottinghamshire,0,Trent Bridge
+7,EG Barnard,5.0,2,1,0,250.0,SJ Thakor,['WL Madsen'],run out,CAJ Morris,2016-07-22,Worcestershire,Derbyshire,0,County Ground
+7,GH Rhodes,1.0,2,0,0,50.0,SP Crook,['AM Rossington'],caught,GH Rhodes,2016-06-10,Northamptonshire,Worcestershire,0,"County Ground, New Road"
+6,GH Rhodes,7.0,9,0,0,77.77777777777779,SJ Mullaney,['CMW Read'],stumped,GH Rhodes,2016-07-09,Worcestershire,Nottinghamshire,0,Trent Bridge
+8,GH Rhodes,8.0,5,2,0,160.0,BD Cotton,0,bowled,GH Rhodes,2016-07-22,Worcestershire,Derbyshire,0,County Ground
+7,J Leach,14.0,6,1,1,233.33333333333334,notOut,notOut,notOut,notOut,2016-05-20,Durham,Worcestershire,0,"County Ground, New Road"
+0,J Leach,11.0,5,1,1,220.00000000000003,BW Sanderson,['RI Keogh'],caught,J Leach,2016-06-10,Northamptonshire,Worcestershire,0,"County Ground, New Road"
+7,J Leach,6.0,9,0,0,66.66666666666666,SD Parry,['MJ Guptill'],caught,J Leach,2016-06-24,Worcestershire,Lancashire,0,Old Trafford
+7,J Leach,13.0,22,0,0,59.09090909090909,AL Hughes,0,bowled,J Leach,2016-07-01,Derbyshire,Derbyshire,0,"County Ground, New Road"
+0,J Leach,14.0,9,3,0,155.55555555555557,NL Buck,['JC Buttler'],caught,J Leach,2016-07-08,Lancashire,Lancashire,0,"County Ground, New Road"
+0,J Leach,18.0,11,2,1,163.63636363636365,JT Ball,['SJ Mullaney'],caught,J Leach,2016-07-09,Worcestershire,Nottinghamshire,0,Trent Bridge
+2,J Leach,3.0,6,0,0,50.0,RO Gordon,['JS Patel'],caught,J Leach,2016-07-15,Warwickshire,Worcestershire,0,"County Ground, New Road"
+0,J Leach,17.0,12,4,0,141.66666666666669,JDS Neesham,['CF Hughes'],caught,J Leach,2016-07-22,Worcestershire,Derbyshire,0,County Ground
+9,JD Shantry,1.0,4,0,0,25.0,notOut,notOut,notOut,notOut,2016-06-24,Worcestershire,Lancashire,0,Old Trafford
+10,JD Shantry,1.0,2,0,0,50.0,GA Edwards,0,bowled,JD Shantry,2016-07-08,Lancashire,Lancashire,0,"County Ground, New Road"
+9,JD Shantry,5.0,3,1,0,166.66666666666669,SJ Thakor,['NT Broom'],caught,JD Shantry,2016-07-22,Worcestershire,Derbyshire,0,County Ground
+2,JM Clarke,9.0,9,1,0,100.0,SG Borthwick,['CS MacLeod'],caught,JM Clarke,2016-05-20,Durham,Worcestershire,0,"County Ground, New Road"
+2,JM Clarke,6.0,10,0,0,60.0,RO Gordon,['LJ Evans'],caught,JM Clarke,2016-05-27,Worcestershire,Worcestershire,0,Edgbaston
+2,JM Clarke,34.0,23,3,1,147.82608695652172,AU Rashid,['GS Ballance'],caught,JM Clarke,2016-06-02,Yorkshire,Worcestershire,0,"County Ground, New Road"
+2,JM Clarke,14.0,12,3,0,116.66666666666667,Azharullah,0,bowled,JM Clarke,2016-06-03,Worcestershire,Northamptonshire,0,County Ground
+2,JM Clarke,1.0,2,0,0,50.0,Azharullah,['AM Rossington'],caught,JM Clarke,2016-06-10,Northamptonshire,Worcestershire,0,"County Ground, New Road"
+2,JM Clarke,69.0,48,5,1,143.75,notOut,notOut,notOut,notOut,2016-06-18,Nottinghamshire,Nottinghamshire,0,"County Ground, New Road"
+1,JM Clarke,9.0,12,1,0,75.0,NL Buck,['MJ Guptill'],caught,JM Clarke,2016-06-24,Worcestershire,Lancashire,0,Old Trafford
+1,JM Clarke,36.0,32,2,1,112.5,RD Pringle,0,bowled,JM Clarke,2016-06-30,Worcestershire,0,0,Riverside Ground
+2,JM Clarke,7.0,6,0,1,116.66666666666667,A Carter,['AL Hughes'],caught,JM Clarke,2016-07-01,Derbyshire,Derbyshire,0,"County Ground, New Road"
+2,JM Clarke,25.0,17,5,0,147.05882352941177,SD Parry,['JC Buttler'],caught,JM Clarke,2016-07-08,Lancashire,Lancashire,0,"County Ground, New Road"
+2,JM Clarke,7.0,14,1,0,50.0,DT Christian,['MH Wessels'],caught,JM Clarke,2016-07-09,Worcestershire,Nottinghamshire,0,Trent Bridge
+1,JM Clarke,10.0,6,2,0,166.66666666666669,OJ Hannon-Dalby,0,bowled,JM Clarke,2016-07-15,Warwickshire,Worcestershire,0,"County Ground, New Road"
+8,MJ Henry,0.0,1,0,0,0.0,SD Parry,['J Clark'],caught,MJ Henry,2016-06-24,Worcestershire,Lancashire,0,Old Trafford
+8,MJ Henry,35.0,15,3,2,233.33333333333334,notOut,notOut,notOut,notOut,2016-07-01,Derbyshire,Derbyshire,0,"County Ground, New Road"
+7,MJ Henry,4.0,5,0,0,80.0,notOut,notOut,notOut,notOut,2016-07-08,Lancashire,Lancashire,0,"County Ground, New Road"
+7,MJ Henry,0.0,2,0,0,0.0,HF Gurney,['CMW Read'],caught,MJ Henry,2016-07-09,Worcestershire,Nottinghamshire,0,Trent Bridge
+3,MJ Santner,1.0,3,0,0,33.33333333333333,SG Borthwick,['KK Jennings'],caught,MJ Santner,2016-05-20,Durham,Worcestershire,0,"County Ground, New Road"
+0,MM Ali,9.0,12,1,0,75.0,OP Stone,['AM Rossington'],caught,MM Ali,2016-06-03,Worcestershire,Northamptonshire,0,County Ground
+1,MM Ali,40.0,28,4,1,142.85714285714286,SJ Mullaney,['AD Russell'],caught,MM Ali,2016-06-18,Nottinghamshire,Nottinghamshire,0,"County Ground, New Road"
+6,OB Cox,2.0,3,0,0,66.66666666666666,U Arshad,['RD Pringle'],caught,OB Cox,2016-05-20,Durham,Worcestershire,0,"County Ground, New Road"
+7,OB Cox,10.0,4,2,0,250.0,notOut,notOut,notOut,notOut,2016-06-03,Worcestershire,Northamptonshire,0,County Ground
+6,OB Cox,42.0,25,6,1,168.0,notOut,notOut,notOut,notOut,2016-06-10,Northamptonshire,Worcestershire,0,"County Ground, New Road"
+6,OB Cox,1.0,2,0,0,50.0,notOut,notOut,notOut,notOut,2016-06-18,Nottinghamshire,Nottinghamshire,0,"County Ground, New Road"
+6,OB Cox,6.0,12,0,0,50.0,SD Parry,['KR Brown'],caught,OB Cox,2016-06-24,Worcestershire,Lancashire,0,Old Trafford
+6,OB Cox,1.0,2,0,0,50.0,notOut,notOut,notOut,notOut,2016-06-30,Worcestershire,0,0,Riverside Ground
+6,OB Cox,59.0,29,7,2,203.44827586206895,notOut,notOut,notOut,notOut,2016-07-01,Derbyshire,Derbyshire,0,"County Ground, New Road"
+6,OB Cox,44.0,24,7,1,183.33333333333331,LM Reece,0,bowled,OB Cox,2016-07-08,Lancashire,Lancashire,0,"County Ground, New Road"
+5,OB Cox,37.0,30,4,0,123.33333333333334,Imran Tahir,['JT Ball'],run out,DKH Mitchell,2016-07-09,Worcestershire,Nottinghamshire,0,Trent Bridge
+6,OB Cox,15.0,14,2,0,107.14285714285714,notOut,notOut,notOut,notOut,2016-07-15,Warwickshire,Worcestershire,0,"County Ground, New Road"
+6,OB Cox,17.0,9,0,2,188.88888888888889,MJJ Critchley,['WL Madsen'],caught,OB Cox,2016-07-22,Worcestershire,Derbyshire,0,County Ground
+4,RA Whiteley,19.0,19,0,1,100.0,BJ McCarthy,['MJ Richardson'],caught,RA Whiteley,2016-05-20,Durham,Worcestershire,0,"County Ground, New Road"
+5,RA Whiteley,23.0,18,0,2,127.77777777777777,RO Gordon,0,bowled,RA Whiteley,2016-05-27,Worcestershire,Worcestershire,0,Edgbaston
+5,RA Whiteley,23.0,17,2,1,135.29411764705884,SP Crook,['RI Keogh (sub)'],caught,RA Whiteley,2016-06-03,Worcestershire,Northamptonshire,0,County Ground
+5,RA Whiteley,8.0,11,1,0,72.72727272727273,S Prasanna,0,bowled,RA Whiteley,2016-06-10,Northamptonshire,Worcestershire,0,"County Ground, New Road"
+3,RA Whiteley,6.0,8,0,0,75.0,AD Russell,0,bowled,RA Whiteley,2016-06-18,Nottinghamshire,Nottinghamshire,0,"County Ground, New Road"
+5,RA Whiteley,1.0,5,0,0,20.0,SD Parry,['TJ Moores'],stumped,RA Whiteley,2016-06-24,Worcestershire,Lancashire,0,Old Trafford
+5,RA Whiteley,11.0,8,0,1,137.5,notOut,notOut,notOut,notOut,2016-06-30,Worcestershire,0,0,Riverside Ground
+5,RA Whiteley,18.0,15,0,2,120.0,AL Hughes,['WL Madsen'],caught,RA Whiteley,2016-07-01,Derbyshire,Derbyshire,0,"County Ground, New Road"
+5,RA Whiteley,38.0,18,4,2,211.11111111111111,J Clark,['AN Petersen'],run out,RA Whiteley,2016-07-08,Lancashire,Lancashire,0,"County Ground, New Road"
+4,RA Whiteley,10.0,10,1,0,100.0,SR Patel,['SJ Mullaney'],caught,RA Whiteley,2016-07-09,Worcestershire,Nottinghamshire,0,Trent Bridge
+5,RA Whiteley,42.0,20,3,4,210.0,notOut,notOut,notOut,notOut,2016-07-15,Warwickshire,Worcestershire,0,"County Ground, New Road"
+5,RA Whiteley,27.0,16,1,2,168.75,MJJ Critchley,['CF Hughes'],caught,RA Whiteley,2016-07-22,Worcestershire,Derbyshire,0,County Ground
+0,T Kohler-Cadmore,127.0,56,14,8,226.78571428571428,P Coughlin,['G Clark'],caught,T Kohler-Cadmore,2016-05-20,Durham,Worcestershire,0,"County Ground, New Road"
+0,T Kohler-Cadmore,8.0,9,1,0,88.88888888888889,MR Adair,['IR Bell'],caught,T Kohler-Cadmore,2016-05-27,Worcestershire,Worcestershire,0,Edgbaston
+0,T Kohler-Cadmore,19.0,18,1,1,105.55555555555556,LE Plunkett,0,bowled,T Kohler-Cadmore,2016-06-02,Yorkshire,Worcestershire,0,"County Ground, New Road"
+1,T Kohler-Cadmore,2.0,4,0,0,50.0,RK Kleinveldt,['JJ Cobb'],caught,T Kohler-Cadmore,2016-06-03,Worcestershire,Northamptonshire,0,County Ground
+1,T Kohler-Cadmore,60.0,51,5,2,117.64705882352942,BW Sanderson,['RI Keogh'],caught,T Kohler-Cadmore,2016-06-10,Northamptonshire,Worcestershire,0,"County Ground, New Road"
+0,T Kohler-Cadmore,30.0,21,3,1,142.85714285714286,SJ Mullaney,0,bowled,T Kohler-Cadmore,2016-06-18,Nottinghamshire,Nottinghamshire,0,"County Ground, New Road"
+0,T Kohler-Cadmore,0.0,1,0,0,0.0,NL Buck,['TJ Moores'],caught,T Kohler-Cadmore,2016-06-24,Worcestershire,Lancashire,0,Old Trafford
+0,T Kohler-Cadmore,0.0,2,0,0,0.0,C Rushworth,['P Mustard'],caught,T Kohler-Cadmore,2016-06-30,Worcestershire,0,0,Riverside Ground
+0,T Kohler-Cadmore,24.0,11,4,1,218.18181818181816,JDS Neesham,['HR Hosein'],caught,T Kohler-Cadmore,2016-07-01,Derbyshire,Derbyshire,0,"County Ground, New Road"
+1,T Kohler-Cadmore,18.0,14,0,2,128.57142857142858,J Clark,0,bowled,T Kohler-Cadmore,2016-07-08,Lancashire,Lancashire,0,"County Ground, New Road"
+1,T Kohler-Cadmore,22.0,28,2,0,78.57142857142857,SJ Mullaney,['MH Wessels'],caught,T Kohler-Cadmore,2016-07-09,Worcestershire,Nottinghamshire,0,Trent Bridge
+0,T Kohler-Cadmore,4.0,3,1,0,133.33333333333331,R Clarke,['A Javid'],caught,T Kohler-Cadmore,2016-07-15,Warwickshire,Worcestershire,0,"County Ground, New Road"
+1,T Kohler-Cadmore,9.0,6,2,0,150.0,BD Cotton,['HR Hosein'],caught,T Kohler-Cadmore,2016-07-22,Worcestershire,Derbyshire,0,County Ground

@@ -1,0 +1,467 @@
+,batsman,runs,balls,4s,6s,SR,bowler,fielders,kind,player_out,date,team2,winner,result,venue
+2,Afsar Zazai,9.0,22,0,0,40.909090909090914,HA Varaiya,['RR Patel'],caught,Afsar Zazai,2013-10-11,Kenya,Kenya,0,Sharjah Cricket Stadium
+8,Aftab Alam,1.0,3,0,0,33.33333333333333,notOut,notOut,notOut,notOut,2012-03-24,Ireland,Ireland,0,Dubai International Cricket Stadium
+11,Aftab Alam,0.0,1,0,0,0.0,notOut,notOut,notOut,notOut,2014-03-16,Afghanistan,Bangladesh,0,Shere Bangla National Stadium
+10,Amir Hamza,3.0,2,0,0,150.0,notOut,notOut,notOut,notOut,2013-11-24,Kenya,Afghanistan,0,Sharjah Cricket Stadium
+10,Amir Hamza,2.0,5,0,0,40.0,notOut,notOut,notOut,notOut,2013-11-30,Ireland,Ireland,0,Sheikh Zayed Stadium
+10,Amir Hamza,4.0,2,1,0,200.0,Rohan Mustafa,['SP Patil'],stumped,Amir Hamza,2016-02-19,United Arab Emirates,United Arab Emirates,0,Khan Shaheb Osman Ali Stadium
+9,Amir Hamza,3.0,7,0,0,42.857142857142854,notOut,notOut,notOut,notOut,2016-03-20,South Africa,South Africa,0,Wankhede Stadium
+10,Amir Hamza,1.0,2,0,0,50.0,notOut,notOut,notOut,notOut,2016-03-23,England,England,0,Feroz Shah Kotla
+10,Amir Hamza,21.0,17,1,1,123.52941176470588,KOK Williams,['CAK Walton'],caught,Amir Hamza,2017-06-02,Afghanistan,West Indies,0,"Warner Park, Basseterre"
+11,Amir Hamza,6.0,4,1,0,150.0,notOut,notOut,notOut,notOut,2017-06-03,Afghanistan,West Indies,0,"Warner Park, Basseterre"
+4,Asghar Stanikzai,30.0,34,0,3,88.23529411764706,P Kumar,['Z Khan'],caught,Asghar Stanikzai,2010-05-01,India,India,0,"Beausejour Stadium, Gros Islet"
+4,Asghar Stanikzai,3.0,6,0,0,50.0,CK Langeveldt,['DW Steyn'],caught,Asghar Stanikzai,2010-05-05,South Africa,South Africa,0,"Kensington Oval, Bridgetown"
+3,Asghar Stanikzai,6.0,9,0,0,66.66666666666666,Yuvraj Singh,['MS Dhoni'],caught,Asghar Stanikzai,2012-09-19,India,India,0,R Premadasa Stadium
+4,Asghar Stanikzai,4.0,11,0,0,36.36363636363637,SCJ Broad,"['JC Buttler', 'SCJ Broad']",run out,Karim Sadiq,2012-09-21,England,England,0,R Premadasa Stadium
+5,Asghar Stanikzai,4.0,11,0,0,36.36363636363637,SCJ Broad,['JM Bairstow'],caught,Asghar Stanikzai,2012-09-21,England,England,0,R Premadasa Stadium
+3,Asghar Stanikzai,30.0,37,2,1,81.08108108108108,NM Carter,['PL Mommsen'],caught,Asghar Stanikzai,2013-03-03,Scotland,Afghanistan,0,Sharjah Cricket Stadium
+2,Asghar Stanikzai,43.0,34,3,2,126.47058823529412,HA Varaiya,['MA Ouma'],stumped,Asghar Stanikzai,2013-09-30,Kenya,Afghanistan,0,Sharjah Cricket Stadium
+4,Asghar Stanikzai,16.0,34,1,0,47.05882352941176,E Otieno,['DM Gondaria'],caught,Asghar Stanikzai,2013-10-11,Kenya,Kenya,0,Sharjah Cricket Stadium
+2,Asghar Stanikzai,15.0,20,0,2,75.0,Bilawal Bhatti,0,bowled,Asghar Stanikzai,2013-12-08,Pakistan,Pakistan,0,Sharjah Cricket Stadium
+2,Asghar Stanikzai,13.0,21,0,0,61.904761904761905,Aizaz Khan,['Babar Hayat'],caught,Asghar Stanikzai,2014-03-18,Hong Kong,Afghanistan,0,Zahur Ahmed Chowdhury Stadium
+6,Asghar Stanikzai,49.0,36,4,1,136.11111111111111,Sompal Kami,['G Malla'],caught,Asghar Stanikzai,2014-03-20,Nepal,Nepal,0,Zahur Ahmed Chowdhury Stadium
+2,Asghar Stanikzai,2.0,5,0,0,40.0,Mudassar Bukhari,0,lbw,Asghar Stanikzai,2015-07-09,Netherlands,Afghanistan,0,"Grange Cricket Club Ground, Raeburn Place"
+2,Asghar Stanikzai,44.0,34,2,3,129.41176470588235,notOut,notOut,notOut,notOut,2015-07-10,United Arab Emirates,Afghanistan,0,"Grange Cricket Club Ground, Raeburn Place"
+2,Asghar Stanikzai,34.0,33,3,1,103.03030303030303,notOut,notOut,notOut,notOut,2015-07-12,Afghanistan,Afghanistan,0,"Grange Cricket Club Ground, Raeburn Place"
+2,Asghar Stanikzai,29.0,30,2,2,96.66666666666667,Aizaz Khan,0,bowled,Asghar Stanikzai,2015-07-21,Hong Kong,Hong Kong,0,"The Village, Malahide"
+1,Asghar Stanikzai,22.0,30,2,0,73.33333333333333,CJA Amini,['JNT Vare'],stumped,Asghar Stanikzai,2015-07-23,Papua New Guinea,Afghanistan,0,"The Village, Malahide"
+1,Asghar Stanikzai,0.0,7,0,0,0.0,RJ Ranpura,['Sultan Ahmed'],caught,Asghar Stanikzai,2015-07-25,Oman,Afghanistan,0,Clontarf Cricket Club Ground
+3,Asghar Stanikzai,18.0,9,0,2,200.0,SC Williams,"['CB Mpofu', 'R Mutumbami']",run out,Asghar Stanikzai,2015-10-26,Afghanistan,Afghanistan,0,Queens Sports Club
+2,Asghar Stanikzai,19.0,19,2,0,100.0,Zeeshan Maqsood,0,lbw,Asghar Stanikzai,2015-11-30,Oman,Afghanistan,0,Sheikh Zayed Stadium
+2,Asghar Stanikzai,8.0,8,0,1,100.0,AG Cremer,['Sikandar Raza'],caught,Asghar Stanikzai,2016-01-08,Zimbabwe,Afghanistan,0,Sharjah Cricket Stadium
+2,Asghar Stanikzai,18.0,12,2,1,150.0,LM Jongwe,0,bowled,Asghar Stanikzai,2016-01-10,Zimbabwe,Afghanistan,0,Sharjah Cricket Stadium
+2,Asghar Stanikzai,6.0,9,1,0,66.66666666666666,Amjad Javed,0,bowled,Asghar Stanikzai,2016-02-19,United Arab Emirates,United Arab Emirates,0,Khan Shaheb Osman Ali Stadium
+1,Asghar Stanikzai,34.0,18,5,1,188.88888888888889,Mehran Khan,['Bilal Khan'],caught,Asghar Stanikzai,2016-02-20,Oman,Afghanistan,0,Khan Shaheb Osman Ali Stadium
+2,Asghar Stanikzai,49.0,35,4,3,140.0,Tanveer Ahmed,['Babar Hayat'],caught,Asghar Stanikzai,2016-02-22,Hong Kong,Afghanistan,0,Shere Bangla National Stadium
+2,Asghar Stanikzai,55.0,56,2,1,98.21428571428571,AC Evans,['AC Evans'],run out,Mohammad Nabi,2016-03-08,Scotland,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+3,Asghar Stanikzai,55.0,56,2,1,98.21428571428571,JH Davey,"['MH Cross', 'JH Davey']",run out,Shafiqullah,2016-03-08,Scotland,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+2,Asghar Stanikzai,0.0,2,0,0,0.0,T Panyangara,['Sikandar Raza'],caught,Asghar Stanikzai,2016-03-12,Zimbabwe,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+2,Asghar Stanikzai,62.0,48,3,4,129.16666666666669,NLTC Perera,['LD Chandimal'],caught,Asghar Stanikzai,2016-03-17,Sri Lanka,Sri Lanka,0,Eden Gardens
+2,Asghar Stanikzai,7.0,6,0,1,116.66666666666667,CH Morris,['Q de Kock'],caught,Asghar Stanikzai,2016-03-20,South Africa,South Africa,0,Wankhede Stadium
+1,Asghar Stanikzai,1.0,4,0,0,25.0,CJ Jordan,['JE Root'],caught,Asghar Stanikzai,2016-03-23,England,England,0,Feroz Shah Kotla
+2,Asghar Stanikzai,16.0,22,0,1,72.72727272727273,S Badree,['DJ Bravo'],caught,Asghar Stanikzai,2016-03-27,West Indies,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+2,Asghar Stanikzai,13.0,13,1,0,100.0,Mohammad Naveed,0,bowled,Asghar Stanikzai,2016-12-14,Afghanistan,Afghanistan,0,ICC Academy
+3,Asghar Stanikzai,29.0,20,1,2,145.0,Amjad Javed,0,bowled,Asghar Stanikzai,2016-12-16,Afghanistan,Afghanistan,0,Dubai International Cricket Stadium
+2,Asghar Stanikzai,10.0,9,0,1,111.11111111111111,Rohan Mustafa,['Shaiman Anwar'],caught,Asghar Stanikzai,2016-12-18,Afghanistan,Afghanistan,0,ICC Academy
+2,Asghar Stanikzai,6.0,9,0,0,66.66666666666666,J Mulder,0,bowled,Asghar Stanikzai,2017-01-14,Ireland,Afghanistan,0,Sheikh Zayed Stadium
+2,Asghar Stanikzai,30.0,24,3,1,125.0,Ahmed Raza,0,bowled,Asghar Stanikzai,2017-01-16,Afghanistan,Afghanistan,0,Sheikh Zayed Stadium
+2,Asghar Stanikzai,25.0,18,2,1,138.88888888888889,notOut,notOut,notOut,notOut,2017-01-20,Oman,Afghanistan,0,Dubai International Cricket Stadium
+4,Asghar Stanikzai,20.0,14,2,1,142.85714285714286,notOut,notOut,notOut,notOut,2017-03-08,Ireland,Afghanistan,0,Greater Noida Sports Complex Ground
+2,Asghar Stanikzai,4.0,7,1,0,57.14285714285714,BJ McCarthy,['GJ Thompson'],caught,Asghar Stanikzai,2017-03-10,Ireland,Afghanistan,0,Greater Noida Sports Complex Ground
+3,Asghar Stanikzai,12.0,5,1,1,240.0,AR McBrine,['SR Thompson'],caught,Asghar Stanikzai,2017-03-12,Ireland,Afghanistan,0,Greater Noida Sports Complex Ground
+2,Asghar Stanikzai,5.0,8,1,0,62.5,KOK Williams,"['JE Taylor', 'CR Brathwaite', 'KOK Williams']",run out,Usman Ghani,2017-06-02,Afghanistan,West Indies,0,"Warner Park, Basseterre"
+3,Asghar Stanikzai,5.0,8,1,0,62.5,KOK Williams,0,caught and bowled,Asghar Stanikzai,2017-06-02,Afghanistan,West Indies,0,"Warner Park, Basseterre"
+4,Asghar Stanikzai,9.0,12,0,1,75.0,CR Brathwaite,['LMP Simmons'],caught,Asghar Stanikzai,2017-06-03,Afghanistan,West Indies,0,"Warner Park, Basseterre"
+2,Asghar Stanikzai,13.0,24,1,0,54.166666666666664,R Powell,['KOK Williams'],caught,Asghar Stanikzai,2017-06-05,Afghanistan,West Indies,0,"Warner Park, Basseterre"
+10,Dawlat Zadran,8.0,5,2,0,160.0,L Balaji,0,bowled,Dawlat Zadran,2012-09-19,India,India,0,R Premadasa Stadium
+9,Dawlat Zadran,0.0,3,0,0,0.0,SR Patel,['C Kieswetter'],stumped,Dawlat Zadran,2012-09-21,England,England,0,R Premadasa Stadium
+8,Dawlat Zadran,8.0,4,0,1,200.0,TJ Murtagh,0,bowled,Dawlat Zadran,2013-11-30,Ireland,Ireland,0,Sheikh Zayed Stadium
+8,Dawlat Zadran,0.0,1,0,0,0.0,Junaid Khan,0,bowled,Dawlat Zadran,2013-12-08,Pakistan,Pakistan,0,Sharjah Cricket Stadium
+10,Dawlat Zadran,1.0,7,0,0,14.285714285714285,Farhad Reza,['Mahmudullah'],caught,Dawlat Zadran,2014-03-16,Afghanistan,Bangladesh,0,Shere Bangla National Stadium
+8,Dawlat Zadran,9.0,4,2,0,225.0,Rohan Mustafa,0,bowled,Dawlat Zadran,2016-02-19,United Arab Emirates,United Arab Emirates,0,Khan Shaheb Osman Ali Stadium
+8,Dawlat Zadran,12.0,2,0,2,600.0,notOut,notOut,notOut,notOut,2016-02-20,Oman,Afghanistan,0,Khan Shaheb Osman Ali Stadium
+7,Dawlat Zadran,13.0,6,0,2,216.66666666666666,notOut,notOut,notOut,notOut,2016-02-22,Hong Kong,Afghanistan,0,Shere Bangla National Stadium
+7,Dawlat Zadran,3.0,2,0,0,150.0,notOut,notOut,notOut,notOut,2016-03-08,Scotland,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+7,Dawlat Zadran,0.0,2,0,0,0.0,notOut,notOut,notOut,notOut,2016-03-12,Zimbabwe,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+7,Dawlat Zadran,5.0,3,0,0,166.66666666666669,notOut,notOut,notOut,notOut,2016-03-17,Sri Lanka,Sri Lanka,0,Eden Gardens
+8,Dawlat Zadran,0.0,2,0,0,0.0,CH Morris,0,bowled,Dawlat Zadran,2016-03-20,South Africa,South Africa,0,Wankhede Stadium
+10,Dawlat Zadran,9.0,5,0,1,180.0,JE Taylor,0,bowled,Dawlat Zadran,2017-06-03,Afghanistan,West Indies,0,"Warner Park, Basseterre"
+1,Gulbadin Naib,5.0,16,0,0,31.25,PW Borren,['TN de Grooth'],caught,Gulbadin Naib,2012-03-14,Netherlands,Afghanistan,0,Dubai International Cricket Stadium
+6,Gulbadin Naib,13.0,10,0,1,130.0,H Osinde,"['RA Bhatti', 'H Osinde']",run out,Samiullah Shenwari,2012-03-18,Canada,Afghanistan,0,ICC Global Cricket Academy
+7,Gulbadin Naib,13.0,10,0,1,130.0,H Osinde,['TG Gordon'],caught,Gulbadin Naib,2012-03-18,Canada,Afghanistan,0,ICC Global Cricket Academy
+7,Gulbadin Naib,17.0,8,0,2,212.5,notOut,notOut,notOut,notOut,2012-03-24,Ireland,Ireland,0,Dubai International Cricket Stadium
+7,Gulbadin Naib,5.0,14,0,0,35.714285714285715,L Balaji,"['MS Dhoni', 'L Balaji']",run out,Najibullah Zadran,2012-09-19,India,India,0,R Premadasa Stadium
+8,Gulbadin Naib,5.0,14,0,0,35.714285714285715,L Balaji,['SK Raina'],caught,Gulbadin Naib,2012-09-19,India,India,0,R Premadasa Stadium
+8,Gulbadin Naib,44.0,33,5,3,133.33333333333331,JW Dernbach,['EJG Morgan'],caught,Gulbadin Naib,2012-09-21,England,England,0,R Premadasa Stadium
+4,Gulbadin Naib,15.0,10,1,1,150.0,MW Machan,0,bowled,Gulbadin Naib,2013-03-03,Scotland,Afghanistan,0,Sharjah Cricket Stadium
+7,Gulbadin Naib,9.0,16,0,0,56.25,Ahsan Malik,['PA van Meekeren'],caught,Gulbadin Naib,2013-11-15,Netherlands,Netherlands,0,Sharjah Cricket Stadium
+5,Gulbadin Naib,14.0,16,0,1,87.5,I Wardlaw,['CS MacLeod'],caught,Gulbadin Naib,2013-11-16,Scotland,Afghanistan,0,Sharjah Cricket Stadium
+5,Gulbadin Naib,43.0,20,3,4,215.0,DT Johnston,['JF Mooney'],caught,Gulbadin Naib,2013-11-30,Ireland,Ireland,0,Sheikh Zayed Stadium
+7,Gulbadin Naib,3.0,10,0,0,30.0,Sohail Tanvir,0,bowled,Gulbadin Naib,2013-12-08,Pakistan,Pakistan,0,Sharjah Cricket Stadium
+1,Gulbadin Naib,21.0,23,3,1,91.30434782608695,Shakib Al Hasan,['Sabbir Rahman'],caught,Gulbadin Naib,2014-03-16,Afghanistan,Bangladesh,0,Shere Bangla National Stadium
+3,Gulbadin Naib,56.0,32,7,0,175.0,T Muzarabani,['T Muzarabani'],run out,Karim Sadiq,2015-10-28,Afghanistan,Afghanistan,0,Queens Sports Club
+5,Gulbadin Naib,18.0,11,1,0,163.63636363636365,notOut,notOut,notOut,notOut,2015-11-30,Oman,Afghanistan,0,Sheikh Zayed Stadium
+4,Gulbadin Naib,37.0,22,2,3,168.1818181818182,notOut,notOut,notOut,notOut,2016-01-08,Zimbabwe,Afghanistan,0,Sharjah Cricket Stadium
+6,Gulbadin Naib,13.0,6,0,1,216.66666666666666,LM Jongwe,"['DT Tiripano', 'R Mutumbami']",run out,Gulbadin Naib,2016-01-10,Zimbabwe,Afghanistan,0,Sharjah Cricket Stadium
+5,Gulbadin Naib,5.0,7,0,0,71.42857142857143,Ahmed Raza,['SP Patil'],caught,Gulbadin Naib,2016-02-19,United Arab Emirates,United Arab Emirates,0,Khan Shaheb Osman Ali Stadium
+6,Gulbadin Naib,4.0,6,0,0,66.66666666666666,notOut,notOut,notOut,notOut,2016-02-20,Oman,Afghanistan,0,Khan Shaheb Osman Ali Stadium
+6,Gulbadin Naib,0.0,1,0,0,0.0,Aizaz Khan,['Babar Hayat'],caught,Gulbadin Naib,2016-02-22,Hong Kong,Afghanistan,0,Shere Bangla National Stadium
+4,Gulbadin Naib,12.0,11,1,0,109.09090909090908,JH Davey,['MW Machan'],caught,Gulbadin Naib,2016-03-08,Scotland,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+5,Gulbadin Naib,4.0,5,0,0,80.0,notOut,notOut,notOut,notOut,2016-03-10,Hong Kong,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+3,Gulbadin Naib,7.0,7,1,0,100.0,T Panyangara,0,bowled,Gulbadin Naib,2016-03-12,Zimbabwe,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+3,Gulbadin Naib,26.0,18,3,1,144.44444444444443,KJ Abbott,['Q de Kock'],caught,Gulbadin Naib,2016-03-20,South Africa,South Africa,0,Wankhede Stadium
+3,Gulbadin Naib,0.0,5,0,0,0.0,DJ Willey,['BA Stokes'],caught,Gulbadin Naib,2016-03-23,England,England,0,Feroz Shah Kotla
+3,Gulbadin Naib,8.0,14,0,0,57.14285714285714,DJG Sammy,['DJ Bravo'],caught,Gulbadin Naib,2016-03-27,West Indies,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+6,Gulbadin Naib,2.0,7,0,0,28.57142857142857,AR McBrine,0,bowled,Gulbadin Naib,2017-01-14,Ireland,Afghanistan,0,Sheikh Zayed Stadium
+1,Gulbadin Naib,12.0,9,3,0,133.33333333333331,S Badree,0,bowled,Gulbadin Naib,2017-06-02,Afghanistan,West Indies,0,"Warner Park, Basseterre"
+0,Gulbadin Naib,12.0,15,0,1,80.0,S Badree,0,bowled,Gulbadin Naib,2017-06-03,Afghanistan,West Indies,0,"Warner Park, Basseterre"
+7,Gulbadin Naib,7.0,5,0,1,140.0,notOut,notOut,notOut,notOut,2017-06-05,Afghanistan,West Indies,0,"Warner Park, Basseterre"
+9,Hamid Hassan,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2010-02-09,Ireland,Afghanistan,0,Dubai International Cricket Stadium
+10,Hamid Hassan,2.0,2,0,0,100.0,notOut,notOut,notOut,notOut,2010-02-12,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+8,Hamid Hassan,6.0,5,1,0,120.0,Z Khan,['A Nehra'],caught,Hamid Hassan,2010-05-01,India,India,0,"Beausejour Stadium, Gros Islet"
+10,Hamid Hassan,22.0,21,1,2,104.76190476190477,CK Langeveldt,['JH Kallis'],caught,Hamid Hassan,2010-05-05,South Africa,South Africa,0,"Kensington Oval, Bridgetown"
+8,Hamid Hassan,6.0,3,0,0,200.0,notOut,notOut,notOut,notOut,2013-03-03,Scotland,Afghanistan,0,Sharjah Cricket Stadium
+8,Hamid Hassan,4.0,3,1,0,133.33333333333331,notOut,notOut,notOut,notOut,2013-10-11,Kenya,Kenya,0,Sharjah Cricket Stadium
+8,Hamid Hassan,3.0,4,0,0,75.0,Mudassar Bukhari,['Mudassar Bukhari'],run out,Amir Hamza,2013-11-15,Netherlands,Netherlands,0,Sharjah Cricket Stadium
+9,Hamid Hassan,4.0,4,0,0,100.0,notOut,notOut,notOut,notOut,2013-12-08,Pakistan,Pakistan,0,Sharjah Cricket Stadium
+7,Hashmatullah Shahidi,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2013-09-30,Kenya,Afghanistan,0,Sharjah Cricket Stadium
+1,Hazratullah,18.0,26,1,0,69.23076923076923,Mohammad Shahzad (2),['Rameez Shahzad'],caught,Hazratullah,2016-12-16,Afghanistan,Afghanistan,0,Dubai International Cricket Stadium
+11,Izatullah Dawlatzai,0.0,3,0,0,0.0,notOut,notOut,notOut,notOut,2012-09-21,England,England,0,R Premadasa Stadium
+1,Javed Ahmadi,6.0,5,1,0,120.0,DT Johnston,['WB Rankin'],caught,Javed Ahmadi,2012-03-24,Ireland,Ireland,0,Dubai International Cricket Stadium
+1,Javed Ahmadi,0.0,2,0,0,0.0,S Badree,0,lbw,Javed Ahmadi,2017-06-05,Afghanistan,West Indies,0,"Warner Park, Basseterre"
+6,Karim Janat,25.0,24,2,1,104.16666666666667,notOut,notOut,notOut,notOut,2016-12-14,Afghanistan,Afghanistan,0,ICC Academy
+5,Karim Janat,22.0,20,1,1,110.00000000000001,notOut,notOut,notOut,notOut,2017-01-16,Afghanistan,Afghanistan,0,Sheikh Zayed Stadium
+5,Karim Janat,20.0,15,1,1,133.33333333333331,SR Thompson,['WTS Porterfield'],run out,Karim Janat,2017-03-10,Ireland,Afghanistan,0,Greater Noida Sports Complex Ground
+7,Karim Janat,6.0,2,0,1,300.0,KJ O'Brien,['J Mulder'],caught,Karim Janat,2017-03-12,Ireland,Afghanistan,0,Greater Noida Sports Complex Ground
+5,Karim Janat,8.0,12,1,0,66.66666666666666,CR Brathwaite,['CAK Walton'],caught,Karim Janat,2017-06-02,Afghanistan,West Indies,0,"Warner Park, Basseterre"
+6,Karim Janat,20.0,15,1,2,133.33333333333331,CR Brathwaite,['KOK Williams'],run out,Shafiqullah,2017-06-03,Afghanistan,West Indies,0,"Warner Park, Basseterre"
+7,Karim Janat,20.0,15,1,2,133.33333333333331,KOK Williams,['CR Brathwaite'],caught,Karim Janat,2017-06-03,Afghanistan,West Indies,0,"Warner Park, Basseterre"
+4,Karim Janat,8.0,17,0,0,47.05882352941176,JE Taylor,['E Lewis'],caught,Karim Janat,2017-06-05,Afghanistan,West Indies,0,"Warner Park, Basseterre"
+1,Karim Sadiq,4.0,5,1,0,80.0,DT Johnston,0,bowled,Karim Sadiq,2010-02-09,Ireland,Afghanistan,0,Dubai International Cricket Stadium
+0,Karim Sadiq,18.0,19,1,0,94.73684210526315,MBS Jonkman,['PM Seelaar'],caught,Karim Sadiq,2010-02-12,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+0,Karim Sadiq,34.0,17,4,1,200.0,DT Johnston,['AR White'],caught,Karim Sadiq,2010-02-13,Ireland,Afghanistan,0,Dubai International Cricket Stadium
+1,Karim Sadiq,0.0,4,0,0,0.0,A Nehra,['MS Dhoni'],caught,Karim Sadiq,2010-05-01,India,India,0,"Beausejour Stadium, Gros Islet"
+2,Karim Sadiq,2.0,8,0,0,25.0,M Morkel,['AB de Villiers'],caught,Karim Sadiq,2010-05-05,South Africa,South Africa,0,"Kensington Oval, Bridgetown"
+0,Karim Sadiq,11.0,9,2,0,122.22222222222223,Mudassar Bukhari,['PM Seelaar'],caught,Karim Sadiq,2012-03-14,Netherlands,Afghanistan,0,Dubai International Cricket Stadium
+0,Karim Sadiq,36.0,27,5,1,133.33333333333331,Zahid Hussain,['AS Hansra'],caught,Karim Sadiq,2012-03-18,Canada,Afghanistan,0,ICC Global Cricket Academy
+0,Karim Sadiq,16.0,10,2,1,160.0,WB Rankin,0,bowled,Karim Sadiq,2012-03-24,Ireland,Ireland,0,Dubai International Cricket Stadium
+2,Karim Sadiq,26.0,28,3,0,92.85714285714286,Yuvraj Singh,['G Gambhir'],caught,Karim Sadiq,2012-09-19,India,India,0,R Premadasa Stadium
+3,Karim Sadiq,5.0,8,0,0,62.5,notOut,notOut,notOut,notOut,2012-09-21,England,England,0,R Premadasa Stadium
+0,Karim Sadiq,4.0,5,1,0,80.0,NM Carter,['CS MacLeod'],caught,Karim Sadiq,2013-03-03,Scotland,Afghanistan,0,Sharjah Cricket Stadium
+0,Karim Sadiq,34.0,30,4,1,113.33333333333333,PL Mommsen,['D Murphy'],caught,Karim Sadiq,2013-03-04,Scotland,Afghanistan,0,Sharjah Cricket Stadium
+1,Karim Sadiq,4.0,7,0,0,57.14285714285714,NM Odhiambo,0,bowled,Karim Sadiq,2013-09-30,Kenya,Afghanistan,0,Sharjah Cricket Stadium
+1,Karim Sadiq,3.0,10,0,0,30.0,SO Ngoche,['CO Obuya'],caught,Karim Sadiq,2013-10-11,Kenya,Kenya,0,Sharjah Cricket Stadium
+2,Karim Sadiq,1.0,5,0,0,20.0,Mudassar Bukhari,['BN Cooper'],caught,Karim Sadiq,2013-11-15,Netherlands,Netherlands,0,Sharjah Cricket Stadium
+6,Karim Sadiq,1.0,3,0,0,33.33333333333333,I Wardlaw,0,bowled,Karim Sadiq,2013-11-16,Scotland,Afghanistan,0,Sharjah Cricket Stadium
+1,Karim Sadiq,30.0,21,5,0,142.85714285714286,SO Ngoche,['CO Obuya'],caught,Karim Sadiq,2013-11-24,Kenya,Afghanistan,0,Sharjah Cricket Stadium
+4,Karim Sadiq,0.0,1,0,0,0.0,AR Cusack,['DT Johnston'],caught,Karim Sadiq,2013-11-30,Ireland,Ireland,0,Sheikh Zayed Stadium
+5,Karim Sadiq,10.0,23,0,0,43.47826086956522,notOut,notOut,notOut,notOut,2014-03-16,Afghanistan,Bangladesh,0,Shere Bangla National Stadium
+1,Karim Sadiq,8.0,7,2,0,114.28571428571428,Sompal Kami,0,bowled,Karim Sadiq,2014-03-20,Nepal,Nepal,0,Zahur Ahmed Chowdhury Stadium
+2,Karim Sadiq,17.0,16,1,0,106.25,SC Williams,['R Mutumbami'],caught,Karim Sadiq,2015-10-26,Afghanistan,Afghanistan,0,Queens Sports Club
+5,Karim Sadiq,11.0,5,0,1,220.00000000000003,notOut,notOut,notOut,notOut,2015-10-28,Afghanistan,Afghanistan,0,Queens Sports Club
+3,Karim Sadiq,24.0,19,4,0,126.3157894736842,Zeeshan Maqsood,['Jatinder Singh'],caught,Karim Sadiq,2015-11-30,Oman,Afghanistan,0,Sheikh Zayed Stadium
+3,Karim Sadiq,16.0,17,2,0,94.11764705882352,AG Cremer,['CJ Chibhabha'],caught,Karim Sadiq,2016-01-08,Zimbabwe,Afghanistan,0,Sharjah Cricket Stadium
+3,Karim Sadiq,12.0,6,2,0,200.0,TS Chisoro,['PJ Moor'],caught,Karim Sadiq,2016-01-10,Zimbabwe,Afghanistan,0,Sharjah Cricket Stadium
+3,Karim Sadiq,72.0,50,8,1,144.0,Mohammad Naveed,0,bowled,Karim Sadiq,2016-02-19,United Arab Emirates,United Arab Emirates,0,Khan Shaheb Osman Ali Stadium
+3,Karim Sadiq,0.0,1,0,0,0.0,Mehran Khan,['Adnan Ilyas'],caught,Karim Sadiq,2016-02-20,Oman,Afghanistan,0,Khan Shaheb Osman Ali Stadium
+3,Karim Sadiq,10.0,9,1,0,111.11111111111111,Aizaz Khan,['Babar Hayat'],caught,Karim Sadiq,2016-02-22,Hong Kong,Afghanistan,0,Shere Bangla National Stadium
+3,Karim Sadiq,0.0,8,0,0,0.0,NLTC Perera,['LD Chandimal'],caught,Karim Sadiq,2016-03-17,Sri Lanka,Sri Lanka,0,Eden Gardens
+8,Mirwais Ashraf,1.0,1,0,0,100.0,AC Botha,"[""KJ O'Brien""]",run out,Mirwais Ashraf,2010-02-09,Ireland,Afghanistan,0,Dubai International Cricket Stadium
+9,Mirwais Ashraf,19.0,9,0,2,211.11111111111111,Mudassar Bukhari,"['DLS van Bunge', 'AF Buurman']",run out,Mirwais Ashraf,2010-02-12,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+8,Mirwais Ashraf,23.0,28,1,2,82.14285714285714,M Morkel,['AB de Villiers'],run out,Samiullah Shenwari,2010-05-05,South Africa,South Africa,0,"Kensington Oval, Bridgetown"
+9,Mirwais Ashraf,23.0,28,1,2,82.14285714285714,CK Langeveldt,0,bowled,Mirwais Ashraf,2010-05-05,South Africa,South Africa,0,"Kensington Oval, Bridgetown"
+6,Mirwais Ashraf,2.0,2,0,0,100.0,Mudassar Bukhari,0,bowled,Mirwais Ashraf,2012-03-14,Netherlands,Afghanistan,0,Dubai International Cricket Stadium
+8,Mirwais Ashraf,1.0,1,0,0,100.0,H Osinde,"['H Patel', 'RA Bhatti']",run out,Mirwais Ashraf,2012-03-18,Canada,Afghanistan,0,ICC Global Cricket Academy
+3,Mirwais Ashraf,9.0,8,0,1,112.5,KJ O'Brien,['WTS Porterfield'],caught,Mirwais Ashraf,2012-03-24,Ireland,Ireland,0,Dubai International Cricket Stadium
+7,Mirwais Ashraf,4.0,5,0,0,80.0,notOut,notOut,notOut,notOut,2013-03-03,Scotland,Afghanistan,0,Sharjah Cricket Stadium
+4,Mirwais Ashraf,4.0,9,0,0,44.44444444444444,notOut,notOut,notOut,notOut,2013-03-04,Scotland,Afghanistan,0,Sharjah Cricket Stadium
+6,Mirwais Ashraf,1.0,2,0,0,50.0,RG Aga,0,bowled,Mirwais Ashraf,2013-09-30,Kenya,Afghanistan,0,Sharjah Cricket Stadium
+7,Mirwais Ashraf,2.0,5,0,0,40.0,NN Odhiambo,0,lbw,Mirwais Ashraf,2013-10-11,Kenya,Kenya,0,Sharjah Cricket Stadium
+9,Mirwais Ashraf,0.0,1,0,0,0.0,DI Allan,['NN Odhiambo'],caught,Mirwais Ashraf,2013-11-24,Kenya,Afghanistan,0,Sharjah Cricket Stadium
+2,Mirwais Ashraf,22.0,17,2,1,129.41176470588235,MC Sorensen,['PR Stirling'],caught,Mirwais Ashraf,2013-11-30,Ireland,Ireland,0,Sheikh Zayed Stadium
+6,Mirwais Ashraf,28.0,23,2,1,121.73913043478262,notOut,notOut,notOut,notOut,2013-12-08,Pakistan,Pakistan,0,Sharjah Cricket Stadium
+8,Mirwais Ashraf,2.0,2,0,0,100.0,notOut,notOut,notOut,notOut,2014-03-20,Nepal,Nepal,0,Zahur Ahmed Chowdhury Stadium
+7,Mirwais Ashraf,0.0,1,0,0,0.0,Ahsan Malik,['RE van der Merwe'],caught,Mirwais Ashraf,2015-07-09,Netherlands,Afghanistan,0,"Grange Cricket Club Ground, Raeburn Place"
+7,Mirwais Ashraf,1.0,2,0,0,50.0,DT Tiripano,['R Mutumbami'],run out,Gulbadin Naib,2016-01-08,Zimbabwe,Afghanistan,0,Sharjah Cricket Stadium
+5,Mohammad Nabi,43.0,28,3,2,153.57142857142858,notOut,notOut,notOut,notOut,2010-02-09,Ireland,Afghanistan,0,Dubai International Cricket Stadium
+2,Mohammad Nabi,1.0,3,0,0,33.33333333333333,RN ten Doeschate,['PW Borren'],caught,Mohammad Nabi,2010-02-12,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+5,Mohammad Nabi,0.0,3,0,0,0.0,P Kumar,['MS Dhoni'],caught,Mohammad Nabi,2010-05-01,India,India,0,"Beausejour Stadium, Gros Islet"
+6,Mohammad Nabi,0.0,6,0,0,0.0,M Morkel,['JP Duminy'],caught,Mohammad Nabi,2010-05-05,South Africa,South Africa,0,"Kensington Oval, Bridgetown"
+4,Mohammad Nabi,22.0,13,3,0,169.23076923076923,MR Swart,['SJ Myburgh'],caught,Mohammad Nabi,2012-03-14,Netherlands,Afghanistan,0,Dubai International Cricket Stadium
+5,Mohammad Nabi,12.0,6,0,1,200.0,HS Baidwan,0,bowled,Mohammad Nabi,2012-03-18,Canada,Afghanistan,0,ICC Global Cricket Academy
+6,Mohammad Nabi,1.0,2,0,0,50.0,PR Stirling,['MC Sorensen'],caught,Mohammad Nabi,2012-03-24,Ireland,Ireland,0,Dubai International Cricket Stadium
+5,Mohammad Nabi,31.0,17,2,2,182.35294117647058,R Ashwin,['RG Sharma'],caught,Mohammad Nabi,2012-09-19,India,India,0,R Premadasa Stadium
+6,Mohammad Nabi,1.0,6,0,0,16.666666666666664,SR Patel,0,bowled,Mohammad Nabi,2012-09-21,England,England,0,R Premadasa Stadium
+5,Mohammad Nabi,7.0,7,1,0,100.0,MW Machan,['KJ Coetzer'],caught,Mohammad Nabi,2013-03-03,Scotland,Afghanistan,0,Sharjah Cricket Stadium
+4,Mohammad Nabi,26.0,25,1,2,104.0,SO Ngoche,['IA Karim'],caught,Mohammad Nabi,2013-09-30,Kenya,Afghanistan,0,Sharjah Cricket Stadium
+5,Mohammad Nabi,10.0,9,0,1,111.11111111111111,CO Obuya,0,lbw,Mohammad Nabi,2013-10-11,Kenya,Kenya,0,Sharjah Cricket Stadium
+5,Mohammad Nabi,6.0,7,1,0,85.71428571428571,PM Seelaar,['ES Szwarczynski'],caught,Mohammad Nabi,2013-11-15,Netherlands,Netherlands,0,Sharjah Cricket Stadium
+3,Mohammad Nabi,46.0,30,3,4,153.33333333333334,G Goudie,['MW Machan'],caught,Mohammad Nabi,2013-11-16,Scotland,Afghanistan,0,Sharjah Cricket Stadium
+5,Mohammad Nabi,6.0,9,0,0,66.66666666666666,RG Aga,['AA Obanda'],caught,Mohammad Nabi,2013-11-24,Kenya,Afghanistan,0,Sharjah Cricket Stadium
+3,Mohammad Nabi,6.0,6,1,0,100.0,AR Cusack,['PR Stirling'],caught,Mohammad Nabi,2013-11-30,Ireland,Ireland,0,Sheikh Zayed Stadium
+4,Mohammad Nabi,15.0,10,2,0,150.0,Shahid Afridi,0,bowled,Mohammad Nabi,2013-12-08,Pakistan,Pakistan,0,Sharjah Cricket Stadium
+3,Mohammad Nabi,3.0,9,0,0,33.33333333333333,Abdur Razzak,0,lbw,Mohammad Nabi,2014-03-16,Afghanistan,Bangladesh,0,Shere Bangla National Stadium
+4,Mohammad Nabi,6.0,5,0,0,120.0,notOut,notOut,notOut,notOut,2014-03-18,Hong Kong,Afghanistan,0,Zahur Ahmed Chowdhury Stadium
+5,Mohammad Nabi,1.0,2,0,0,50.0,SP Gauchan,0,lbw,Mohammad Nabi,2014-03-20,Nepal,Nepal,0,Zahur Ahmed Chowdhury Stadium
+4,Mohammad Nabi,33.0,29,1,2,113.79310344827587,RE van der Merwe,['Ahsan Malik'],caught,Mohammad Nabi,2015-07-09,Netherlands,Afghanistan,0,"Grange Cricket Club Ground, Raeburn Place"
+6,Mohammad Nabi,33.0,18,0,3,183.33333333333331,SM Sharif,['SM Sharif'],run out,Najibullah Zadran,2015-07-12,Afghanistan,Afghanistan,0,"Grange Cricket Club Ground, Raeburn Place"
+5,Mohammad Nabi,13.0,8,1,1,162.5,Haseeb Amjad,['MS Chapman'],caught,Mohammad Nabi,2015-07-21,Hong Kong,Hong Kong,0,"The Village, Malahide"
+4,Mohammad Nabi,11.0,9,1,0,122.22222222222223,N Vanua,['MD Dai'],caught,Mohammad Nabi,2015-07-23,Papua New Guinea,Afghanistan,0,"The Village, Malahide"
+4,Mohammad Nabi,27.0,24,4,0,112.5,Mohammad Nadeem,['Sultan Ahmed'],caught,Mohammad Nabi,2015-07-25,Oman,Afghanistan,0,Clontarf Cricket Club Ground
+4,Mohammad Nabi,33.0,25,0,2,132.0,notOut,notOut,notOut,notOut,2015-10-26,Afghanistan,Afghanistan,0,Queens Sports Club
+2,Mohammad Nabi,15.0,11,1,0,136.36363636363635,CJ Chibhabha,"['CB Mpofu', 'R Mutumbami']",run out,Mohammad Nabi,2015-10-28,Afghanistan,Afghanistan,0,Queens Sports Club
+5,Mohammad Nabi,26.0,11,1,3,236.36363636363637,TS Chisoro,['Sikandar Raza'],caught,Mohammad Nabi,2016-01-08,Zimbabwe,Afghanistan,0,Sharjah Cricket Stadium
+5,Mohammad Nabi,22.0,12,1,2,183.33333333333331,DT Tiripano,0,bowled,Mohammad Nabi,2016-01-10,Zimbabwe,Afghanistan,0,Sharjah Cricket Stadium
+4,Mohammad Nabi,23.0,18,0,2,127.77777777777777,Farhan Ahmed,['Shaiman Anwar'],caught,Mohammad Nabi,2016-02-19,United Arab Emirates,United Arab Emirates,0,Khan Shaheb Osman Ali Stadium
+4,Mohammad Nabi,11.0,12,1,0,91.66666666666666,Mehran Khan,['VS Wategaonkar'],caught,Mohammad Nabi,2016-02-20,Oman,Afghanistan,0,Khan Shaheb Osman Ali Stadium
+5,Mohammad Nabi,1.0,3,0,0,33.33333333333333,Aizaz Khan,['Anshuman Rath'],caught,Mohammad Nabi,2016-02-22,Hong Kong,Afghanistan,0,Shere Bangla National Stadium
+5,Mohammad Nabi,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2016-03-08,Scotland,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+2,Mohammad Nabi,17.0,11,2,0,154.54545454545453,RJ Campbell,0,bowled,Mohammad Nabi,2016-03-10,Hong Kong,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+5,Mohammad Nabi,52.0,35,4,2,148.57142857142858,notOut,notOut,notOut,notOut,2016-03-12,Zimbabwe,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+4,Mohammad Nabi,3.0,4,0,0,75.0,HMRKB Herath,0,lbw,Mohammad Nabi,2016-03-17,Sri Lanka,Sri Lanka,0,Eden Gardens
+4,Mohammad Nabi,11.0,14,1,0,78.57142857142857,Imran Tahir,['AB de Villiers'],caught,Mohammad Nabi,2016-03-20,South Africa,South Africa,0,Wankhede Stadium
+5,Mohammad Nabi,12.0,10,0,1,120.0,AU Rashid,['CJ Jordan'],caught,Mohammad Nabi,2016-03-23,England,England,0,Feroz Shah Kotla
+6,Mohammad Nabi,9.0,8,1,0,112.5,AD Russell,['MN Samuels'],caught,Mohammad Nabi,2016-03-27,West Indies,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+4,Mohammad Nabi,26.0,23,2,0,113.04347826086956,Mohammed Qasim,"['Amjad Gul', 'Ghulam Shabber']",run out,Karim Janat,2016-12-14,Afghanistan,Afghanistan,0,ICC Academy
+5,Mohammad Nabi,26.0,23,2,0,113.04347826086956,Mohammad Shahzad (2),['Muhammad Usman'],caught,Mohammad Nabi,2016-12-14,Afghanistan,Afghanistan,0,ICC Academy
+5,Mohammad Nabi,13.0,14,0,0,92.85714285714286,notOut,notOut,notOut,notOut,2016-12-16,Afghanistan,Afghanistan,0,Dubai International Cricket Stadium
+6,Mohammad Nabi,7.0,6,0,0,116.66666666666667,notOut,notOut,notOut,notOut,2016-12-18,Afghanistan,Afghanistan,0,ICC Academy
+5,Mohammad Nabi,26.0,17,1,2,152.94117647058823,notOut,notOut,notOut,notOut,2017-01-14,Ireland,Afghanistan,0,Sheikh Zayed Stadium
+4,Mohammad Nabi,11.0,8,1,0,137.5,Imran Haider,['Ghulam Shabber'],stumped,Mohammad Nabi,2017-01-16,Afghanistan,Afghanistan,0,Sheikh Zayed Stadium
+5,Mohammad Nabi,1.0,2,0,0,50.0,CA Young,['GH Dockrell'],caught,Mohammad Nabi,2017-03-08,Ireland,Afghanistan,0,Greater Noida Sports Complex Ground
+6,Mohammad Nabi,34.0,16,4,2,212.5,BJ McCarthy,['L Tucker'],caught,Mohammad Nabi,2017-03-10,Ireland,Afghanistan,0,Greater Noida Sports Complex Ground
+5,Mohammad Nabi,89.0,32,6,9,278.125,BJ McCarthy,['BJ McCarthy'],run out,Mohammad Nabi,2017-03-12,Ireland,Afghanistan,0,Greater Noida Sports Complex Ground
+6,Mohammad Nabi,2.0,6,0,0,33.33333333333333,CR Brathwaite,['JE Taylor'],caught,Mohammad Nabi,2017-06-02,Afghanistan,West Indies,0,"Warner Park, Basseterre"
+3,Mohammad Nabi,8.0,11,1,0,72.72727272727273,SP Narine,"['JE Taylor', 'CAK Walton']",run out,Mohammad Nabi,2017-06-03,Afghanistan,West Indies,0,"Warner Park, Basseterre"
+3,Mohammad Nabi,38.0,30,2,2,126.66666666666666,KOK Williams,['R Powell'],caught,Mohammad Nabi,2017-06-05,Afghanistan,West Indies,0,"Warner Park, Basseterre"
+3,Mohammad Shahzad,12.0,19,0,0,63.1578947368421,GH Dockrell,['JF Mooney'],run out,Mohammad Shahzad,2010-02-09,Ireland,Afghanistan,0,Dubai International Cricket Stadium
+3,Mohammad Shahzad,11.0,10,0,1,110.00000000000001,PW Borren,"['ES Szwarczynski', 'PW Borren']",run out,Mohammad Shahzad,2010-02-12,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+2,Mohammad Shahzad,65.0,49,6,1,132.6530612244898,notOut,notOut,notOut,notOut,2010-02-13,Ireland,Afghanistan,0,Dubai International Cricket Stadium
+2,Mohammad Shahzad,6.0,5,1,0,120.0,A Nehra,['MS Dhoni'],caught,Mohammad Shahzad,2010-05-01,India,India,0,"Beausejour Stadium, Gros Islet"
+1,Mohammad Shahzad,2.0,6,0,0,33.33333333333333,DW Steyn,['MV Boucher'],caught,Mohammad Shahzad,2010-05-05,South Africa,South Africa,0,"Kensington Oval, Bridgetown"
+2,Mohammad Shahzad,54.0,45,8,0,120.0,Ahsan Malik,0,lbw,Mohammad Shahzad,2012-03-14,Netherlands,Afghanistan,0,Dubai International Cricket Stadium
+2,Mohammad Shahzad,27.0,27,2,0,100.0,HS Baidwan,0,bowled,Mohammad Shahzad,2012-03-18,Canada,Afghanistan,0,ICC Global Cricket Academy
+2,Mohammad Shahzad,77.0,59,7,2,130.5084745762712,MC Sorensen,['WTS Porterfield'],caught,Mohammad Shahzad,2012-03-24,Ireland,Ireland,0,Dubai International Cricket Stadium
+0,Mohammad Shahzad,18.0,16,3,0,112.5,L Balaji,['Yuvraj Singh'],caught,Mohammad Shahzad,2012-09-19,India,India,0,R Premadasa Stadium
+0,Mohammad Shahzad,1.0,5,0,0,20.0,ST Finn,['SCJ Broad'],caught,Mohammad Shahzad,2012-09-21,England,England,0,R Premadasa Stadium
+2,Mohammad Shahzad,55.0,47,6,1,117.02127659574468,MW Machan,['KJ Coetzer'],caught,Mohammad Shahzad,2013-03-03,Scotland,Afghanistan,0,Sharjah Cricket Stadium
+2,Mohammad Shahzad,46.0,26,4,2,176.9230769230769,I Wardlaw,['GD Drummond'],caught,Mohammad Shahzad,2013-03-04,Scotland,Afghanistan,0,Sharjah Cricket Stadium
+0,Mohammad Shahzad,36.0,19,4,3,189.4736842105263,SO Ngoche,['CO Obuya'],caught,Mohammad Shahzad,2013-09-30,Kenya,Afghanistan,0,Sharjah Cricket Stadium
+0,Mohammad Shahzad,18.0,11,4,0,163.63636363636365,E Otieno,0,bowled,Mohammad Shahzad,2013-10-11,Kenya,Kenya,0,Sharjah Cricket Stadium
+0,Mohammad Shahzad,20.0,25,3,0,80.0,PW Borren,['MJG Rippon'],caught,Mohammad Shahzad,2013-11-15,Netherlands,Netherlands,0,Sharjah Cricket Stadium
+0,Mohammad Shahzad,42.0,24,6,2,175.0,I Wardlaw,['RML Taylor'],caught,Mohammad Shahzad,2013-11-16,Scotland,Afghanistan,0,Sharjah Cricket Stadium
+0,Mohammad Shahzad,1.0,3,0,0,33.33333333333333,NN Odhiambo,['RG Aga'],caught,Mohammad Shahzad,2013-11-24,Kenya,Afghanistan,0,Sharjah Cricket Stadium
+0,Mohammad Shahzad,38.0,18,8,1,211.11111111111111,GH Dockrell,['JNK Shannon'],caught,Mohammad Shahzad,2013-11-30,Ireland,Ireland,0,Sheikh Zayed Stadium
+0,Mohammad Shahzad,2.0,4,0,0,50.0,Sohail Tanvir,['Umar Akmal'],caught,Mohammad Shahzad,2013-12-08,Pakistan,Pakistan,0,Sharjah Cricket Stadium
+0,Mohammad Shahzad,0.0,1,0,0,0.0,Mashrafe Mortaza,['Mahmudullah'],caught,Mohammad Shahzad,2014-03-16,Afghanistan,Bangladesh,0,Shere Bangla National Stadium
+1,Mohammad Shahzad,68.0,55,6,3,123.63636363636363,Haseeb Amjad,['Irfan Ahmed'],caught,Mohammad Shahzad,2014-03-18,Hong Kong,Afghanistan,0,Zahur Ahmed Chowdhury Stadium
+0,Mohammad Shahzad,6.0,17,1,0,35.294117647058826,JK Mukhiya,['Sompal Kami'],caught,Mohammad Shahzad,2014-03-20,Nepal,Nepal,0,Zahur Ahmed Chowdhury Stadium
+0,Mohammad Shahzad,2.0,6,0,0,33.33333333333333,Mudassar Bukhari,0,bowled,Mohammad Shahzad,2015-07-09,Netherlands,Afghanistan,0,"Grange Cricket Club Ground, Raeburn Place"
+0,Mohammad Shahzad,74.0,38,7,5,194.73684210526315,Umair Ali,['Ahmed Raza'],caught,Mohammad Shahzad,2015-07-10,United Arab Emirates,Afghanistan,0,"Grange Cricket Club Ground, Raeburn Place"
+0,Mohammad Shahzad,75.0,37,5,7,202.7027027027027,CD de Lange,['MA Leask'],caught,Mohammad Shahzad,2015-07-12,Afghanistan,Afghanistan,0,"Grange Cricket Club Ground, Raeburn Place"
+0,Mohammad Shahzad,20.0,14,4,0,142.85714285714286,Haseeb Amjad,['Aizaz Khan'],caught,Mohammad Shahzad,2015-07-21,Hong Kong,Hong Kong,0,"The Village, Malahide"
+0,Mohammad Shahzad,0.0,1,0,0,0.0,N Vanua,['JNT Vare'],caught,Mohammad Shahzad,2015-07-23,Papua New Guinea,Afghanistan,0,"The Village, Malahide"
+0,Mohammad Shahzad,0.0,5,0,0,0.0,RJ Ranpura,['Jatinder Singh'],caught,Mohammad Shahzad,2015-07-25,Oman,Afghanistan,0,Clontarf Cricket Club Ground
+0,Mohammad Shahzad,34.0,21,6,0,161.9047619047619,TS Chisoro,['CR Ervine'],caught,Mohammad Shahzad,2015-10-26,Afghanistan,Afghanistan,0,Queens Sports Club
+0,Mohammad Shahzad,24.0,20,3,0,120.0,CJ Chibhabha,0,lbw,Mohammad Shahzad,2015-10-28,Afghanistan,Afghanistan,0,Queens Sports Club
+0,Mohammad Shahzad,60.0,47,4,3,127.65957446808511,Bilal Khan,0,bowled,Mohammad Shahzad,2015-11-30,Oman,Afghanistan,0,Sheikh Zayed Stadium
+0,Mohammad Shahzad,33.0,19,2,3,173.6842105263158,AG Cremer,0,bowled,Mohammad Shahzad,2016-01-08,Zimbabwe,Afghanistan,0,Sharjah Cricket Stadium
+0,Mohammad Shahzad,118.0,72,10,8,163.88888888888889,notOut,notOut,notOut,notOut,2016-01-10,Zimbabwe,Afghanistan,0,Sharjah Cricket Stadium
+0,Mohammad Shahzad,6.0,8,1,0,75.0,Farhan Ahmed,0,bowled,Mohammad Shahzad,2016-02-19,United Arab Emirates,United Arab Emirates,0,Khan Shaheb Osman Ali Stadium
+0,Mohammad Shahzad,4.0,6,1,0,66.66666666666666,Bilal Khan,['Adnan Ilyas'],caught,Mohammad Shahzad,2016-02-20,Oman,Afghanistan,0,Khan Shaheb Osman Ali Stadium
+0,Mohammad Shahzad,24.0,14,3,1,171.42857142857142,Tanwir Afzal,['Babar Hayat'],caught,Mohammad Shahzad,2016-02-22,Hong Kong,Afghanistan,0,Shere Bangla National Stadium
+0,Mohammad Shahzad,61.0,39,5,3,156.4102564102564,MRJ Watt,['CS MacLeod'],caught,Mohammad Shahzad,2016-03-08,Scotland,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+0,Mohammad Shahzad,41.0,40,4,2,102.49999999999999,RJ Campbell,['Anshuman Rath'],caught,Mohammad Shahzad,2016-03-10,Hong Kong,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+0,Mohammad Shahzad,40.0,23,7,1,173.91304347826087,SC Williams,['H Masakadza'],caught,Mohammad Shahzad,2016-03-12,Zimbabwe,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+0,Mohammad Shahzad,8.0,14,1,0,57.14285714285714,AD Mathews,['PVD Chameera'],caught,Mohammad Shahzad,2016-03-17,Sri Lanka,Sri Lanka,0,Eden Gardens
+0,Mohammad Shahzad,44.0,21,3,5,209.52380952380955,CH Morris,0,bowled,Mohammad Shahzad,2016-03-20,South Africa,South Africa,0,Wankhede Stadium
+0,Mohammad Shahzad,4.0,3,1,0,133.33333333333331,DJ Willey,0,lbw,Mohammad Shahzad,2016-03-23,England,England,0,Feroz Shah Kotla
+0,Mohammad Shahzad,24.0,22,2,1,109.09090909090908,S Badree,['SJ Benn'],caught,Mohammad Shahzad,2016-03-27,West Indies,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+1,Mohammad Shahzad,38.0,29,5,0,131.0344827586207,Mohammad Shahzad (2),['Amjad Gul'],caught,Mohammad Shahzad,2016-12-14,Afghanistan,Afghanistan,0,ICC Academy
+0,Mohammad Shahzad,31.0,12,7,0,258.33333333333337,Amjad Javed,0,bowled,Mohammad Shahzad,2016-12-16,Afghanistan,Afghanistan,0,Dubai International Cricket Stadium
+0,Mohammad Shahzad,44.0,30,7,1,146.66666666666666,Imran Haider,0,bowled,Mohammad Shahzad,2016-12-18,Afghanistan,Afghanistan,0,ICC Academy
+0,Mohammad Shahzad,29.0,27,5,0,107.40740740740742,J Mulder,0,bowled,Mohammad Shahzad,2017-01-14,Ireland,Afghanistan,0,Sheikh Zayed Stadium
+0,Mohammad Shahzad,15.0,12,3,0,125.0,Ahmed Raza,0,bowled,Mohammad Shahzad,2017-01-16,Afghanistan,Afghanistan,0,Sheikh Zayed Stadium
+0,Mohammad Shahzad,80.0,60,8,3,133.33333333333331,Bilal Khan,['Mohammad Nadeem'],caught,Mohammad Shahzad,2017-01-20,Oman,Afghanistan,0,Dubai International Cricket Stadium
+0,Mohammad Shahzad,47.0,42,6,1,111.90476190476191,notOut,notOut,notOut,notOut,2017-03-08,Ireland,Afghanistan,0,Greater Noida Sports Complex Ground
+0,Mohammad Shahzad,4.0,4,1,0,100.0,BJ McCarthy,"[""KJ O'Brien""]",caught,Mohammad Shahzad,2017-03-10,Ireland,Afghanistan,0,Greater Noida Sports Complex Ground
+0,Mohammad Shahzad,72.0,45,6,5,160.0,J Mulder,['GH Dockrell'],caught,Mohammad Shahzad,2017-03-12,Ireland,Afghanistan,0,Greater Noida Sports Complex Ground
+2,Najeeb Tarakai,7.0,12,1,0,58.333333333333336,Shakib Al Hasan,['Nasir Hossain'],caught,Najeeb Tarakai,2014-03-16,Afghanistan,Bangladesh,0,Shere Bangla National Stadium
+0,Najeeb Tarakai,7.0,6,1,0,116.66666666666667,Tanwir Afzal,['Nadeem Ahmed'],caught,Najeeb Tarakai,2014-03-18,Hong Kong,Afghanistan,0,Zahur Ahmed Chowdhury Stadium
+0,Najeeb Tarakai,11.0,17,0,1,64.70588235294117,Amjad Javed,['Rameez Shahzad'],caught,Najeeb Tarakai,2016-12-14,Afghanistan,Afghanistan,0,ICC Academy
+1,Najeeb Tarakai,40.0,25,5,1,160.0,Rohan Mustafa,['Muhammad Usman'],caught,Najeeb Tarakai,2016-12-18,Afghanistan,Afghanistan,0,ICC Academy
+1,Najeeb Tarakai,31.0,29,2,1,106.89655172413792,notOut,notOut,notOut,notOut,2017-01-14,Ireland,Afghanistan,0,Sheikh Zayed Stadium
+1,Najeeb Tarakai,0.0,3,0,0,0.0,Amjad Javed,['Zahoor Khan'],caught,Najeeb Tarakai,2017-01-16,Afghanistan,Afghanistan,0,Sheikh Zayed Stadium
+1,Najeeb Tarakai,27.0,15,3,2,180.0,KJ O'Brien,['GC Wilson'],caught,Najeeb Tarakai,2017-03-08,Ireland,Afghanistan,0,Greater Noida Sports Complex Ground
+1,Najeeb Tarakai,90.0,61,7,5,147.54098360655738,BJ McCarthy,['PR Stirling'],caught,Najeeb Tarakai,2017-03-10,Ireland,Afghanistan,0,Greater Noida Sports Complex Ground
+1,Najeeb Tarakai,3.0,5,0,0,60.0,KJ O'Brien,['GH Dockrell'],caught,Najeeb Tarakai,2017-03-12,Ireland,Afghanistan,0,Greater Noida Sports Complex Ground
+9,Najibullah Zadran,5.0,3,1,0,166.66666666666669,notOut,notOut,notOut,notOut,2012-09-19,India,India,0,R Premadasa Stadium
+6,Najibullah Zadran,19.0,29,1,0,65.51724137931035,Mudassar Bukhari,0,bowled,Najibullah Zadran,2013-11-15,Netherlands,Netherlands,0,Sharjah Cricket Stadium
+7,Najibullah Zadran,33.0,26,1,1,126.92307692307692,CO Obuya,['DI Allan'],caught,Najibullah Zadran,2013-11-24,Kenya,Afghanistan,0,Sharjah Cricket Stadium
+7,Najibullah Zadran,4.0,6,0,0,66.66666666666666,DT Johnston,['JF Mooney'],caught,Najibullah Zadran,2013-11-30,Ireland,Ireland,0,Sheikh Zayed Stadium
+3,Najibullah Zadran,38.0,30,3,2,126.66666666666666,Junaid Khan,0,bowled,Najibullah Zadran,2013-12-08,Pakistan,Pakistan,0,Sharjah Cricket Stadium
+2,Najibullah Zadran,5.0,4,1,0,125.0,JK Mukhiya,['S Vesawkar'],caught,Najibullah Zadran,2014-03-20,Nepal,Nepal,0,Zahur Ahmed Chowdhury Stadium
+5,Najibullah Zadran,33.0,12,0,4,275.0,Ahsan Malik,0,caught and bowled,Najibullah Zadran,2015-07-09,Netherlands,Afghanistan,0,"Grange Cricket Club Ground, Raeburn Place"
+5,Najibullah Zadran,37.0,22,1,3,168.1818181818182,notOut,notOut,notOut,notOut,2015-07-12,Afghanistan,Afghanistan,0,"Grange Cricket Club Ground, Raeburn Place"
+4,Najibullah Zadran,5.0,7,0,0,71.42857142857143,Irfan Ahmed,['KD Shah'],caught,Najibullah Zadran,2015-07-21,Hong Kong,Hong Kong,0,"The Village, Malahide"
+5,Najibullah Zadran,14.0,6,0,2,233.33333333333334,notOut,notOut,notOut,notOut,2015-07-23,Papua New Guinea,Afghanistan,0,"The Village, Malahide"
+5,Najibullah Zadran,44.0,33,4,2,133.33333333333331,M Ansari,['Khawar Ali'],caught,Najibullah Zadran,2015-07-25,Oman,Afghanistan,0,Clontarf Cricket Club Ground
+5,Najibullah Zadran,37.0,26,2,2,142.30769230769232,notOut,notOut,notOut,notOut,2015-10-26,Afghanistan,Afghanistan,0,Queens Sports Club
+4,Najibullah Zadran,2.0,5,0,0,40.0,T Muzarabani,0,bowled,Najibullah Zadran,2015-10-28,Afghanistan,Afghanistan,0,Queens Sports Club
+6,Najibullah Zadran,1.0,2,0,0,50.0,LM Jongwe,0,bowled,Najibullah Zadran,2016-01-08,Zimbabwe,Afghanistan,0,Sharjah Cricket Stadium
+6,Najibullah Zadran,21.0,14,0,1,150.0,Rohan Mustafa,['SP Patil'],run out,Najibullah Zadran,2016-02-19,United Arab Emirates,United Arab Emirates,0,Khan Shaheb Osman Ali Stadium
+5,Najibullah Zadran,23.0,22,1,0,104.54545454545455,Bilal Khan,0,lbw,Najibullah Zadran,2016-02-20,Oman,Afghanistan,0,Khan Shaheb Osman Ali Stadium
+4,Najibullah Zadran,60.0,36,3,4,166.66666666666669,Tanveer Ahmed,['Tanwir Afzal'],run out,Dawlat Zadran,2016-02-22,Hong Kong,Afghanistan,0,Shere Bangla National Stadium
+3,Najibullah Zadran,17.0,9,3,0,188.88888888888889,RJ Campbell,"['Babar Hayat', 'JJ Atkinson']",run out,Noor Ali Zadran,2016-03-10,Hong Kong,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+8,Najibullah Zadran,12.0,3,1,1,400.0,notOut,notOut,notOut,notOut,2016-03-17,Sri Lanka,Sri Lanka,0,Eden Gardens
+6,Najibullah Zadran,12.0,8,1,1,150.0,K Rabada,['Q de Kock'],caught,Najibullah Zadran,2016-03-20,South Africa,South Africa,0,Wankhede Stadium
+8,Najibullah Zadran,14.0,11,1,1,127.27272727272727,notOut,notOut,notOut,notOut,2016-03-23,England,England,0,Feroz Shah Kotla
+5,Najibullah Zadran,48.0,40,4,1,120.0,notOut,notOut,notOut,notOut,2016-03-27,West Indies,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+7,Najibullah Zadran,31.0,10,2,3,310.0,notOut,notOut,notOut,notOut,2016-12-14,Afghanistan,Afghanistan,0,ICC Academy
+6,Najibullah Zadran,55.0,25,5,3,220.00000000000003,notOut,notOut,notOut,notOut,2016-12-16,Afghanistan,Afghanistan,0,Dubai International Cricket Stadium
+5,Najibullah Zadran,18.0,11,1,1,163.63636363636365,notOut,notOut,notOut,notOut,2016-12-18,Afghanistan,Afghanistan,0,ICC Academy
+7,Najibullah Zadran,11.0,11,1,0,100.0,notOut,notOut,notOut,notOut,2017-01-14,Ireland,Afghanistan,0,Sheikh Zayed Stadium
+6,Najibullah Zadran,11.0,6,0,1,183.33333333333331,notOut,notOut,notOut,notOut,2017-01-16,Afghanistan,Afghanistan,0,Sheikh Zayed Stadium
+7,Najibullah Zadran,7.0,3,0,1,233.33333333333334,notOut,notOut,notOut,notOut,2017-03-10,Ireland,Afghanistan,0,Greater Noida Sports Complex Ground
+4,Najibullah Zadran,1.0,5,0,0,20.0,J Mulder,['GC Wilson'],caught,Najibullah Zadran,2017-03-12,Ireland,Afghanistan,0,Greater Noida Sports Complex Ground
+9,Najibullah Zadran,4.0,5,0,0,80.0,SP Narine,['CAK Walton'],caught,Najibullah Zadran,2017-06-02,Afghanistan,West Indies,0,"Warner Park, Basseterre"
+8,Najibullah Zadran,11.0,8,1,0,137.5,CR Brathwaite,0,bowled,Najibullah Zadran,2017-06-03,Afghanistan,West Indies,0,"Warner Park, Basseterre"
+6,Najibullah Zadran,10.0,9,1,0,111.11111111111111,notOut,notOut,notOut,notOut,2017-06-05,Afghanistan,West Indies,0,"Warner Park, Basseterre"
+4,Nawroz Mangal,13.0,11,0,1,118.18181818181819,GH Dockrell,"[""NJ O'Brien""]",stumped,Nawroz Mangal,2010-02-09,Ireland,Afghanistan,0,Dubai International Cricket Stadium
+1,Nawroz Mangal,10.0,12,1,0,83.33333333333334,MBS Jonkman,0,bowled,Nawroz Mangal,2010-02-12,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+3,Nawroz Mangal,21.0,20,3,0,105.0,notOut,notOut,notOut,notOut,2010-02-13,Ireland,Afghanistan,0,Dubai International Cricket Stadium
+3,Nawroz Mangal,5.0,12,1,0,41.66666666666667,RA Jadeja,['G Gambhir'],caught,Nawroz Mangal,2010-05-01,India,India,0,"Beausejour Stadium, Gros Islet"
+3,Nawroz Mangal,1.0,5,0,0,20.0,M Morkel,['JH Kallis'],caught,Nawroz Mangal,2010-05-05,South Africa,South Africa,0,"Kensington Oval, Bridgetown"
+3,Nawroz Mangal,26.0,19,2,1,136.8421052631579,Ahsan Malik,['TLW Cooper'],caught,Nawroz Mangal,2012-03-14,Netherlands,Afghanistan,0,Dubai International Cricket Stadium
+3,Nawroz Mangal,0.0,1,0,0,0.0,Zahid Hussain,['RA Bhatti'],stumped,Nawroz Mangal,2012-03-18,Canada,Afghanistan,0,ICC Global Cricket Academy
+4,Nawroz Mangal,10.0,15,0,0,66.66666666666666,KJ O'Brien,['MC Sorensen'],caught,Nawroz Mangal,2012-03-24,Ireland,Ireland,0,Dubai International Cricket Stadium
+1,Nawroz Mangal,22.0,18,1,1,122.22222222222223,Yuvraj Singh,0,lbw,Nawroz Mangal,2012-09-19,India,India,0,R Premadasa Stadium
+1,Nawroz Mangal,8.0,12,1,0,66.66666666666666,SCJ Broad,0,caught and bowled,Nawroz Mangal,2012-09-21,England,England,0,R Premadasa Stadium
+1,Nawroz Mangal,0.0,2,0,0,0.0,I Wardlaw,['MW Machan'],caught,Nawroz Mangal,2013-03-03,Scotland,Afghanistan,0,Sharjah Cricket Stadium
+1,Nawroz Mangal,20.0,20,3,0,100.0,I Wardlaw,0,bowled,Nawroz Mangal,2013-03-04,Scotland,Afghanistan,0,Sharjah Cricket Stadium
+3,Nawroz Mangal,9.0,19,0,0,47.368421052631575,CO Obuya,0,bowled,Nawroz Mangal,2013-09-30,Kenya,Afghanistan,0,Sharjah Cricket Stadium
+3,Nawroz Mangal,36.0,23,1,3,156.52173913043478,CO Obuya,['NN Odhiambo'],caught,Nawroz Mangal,2013-10-11,Kenya,Kenya,0,Sharjah Cricket Stadium
+1,Nawroz Mangal,8.0,6,1,0,133.33333333333331,PA van Meekeren,['W Barresi'],caught,Nawroz Mangal,2013-11-15,Netherlands,Netherlands,0,Sharjah Cricket Stadium
+1,Nawroz Mangal,20.0,10,0,3,200.0,G Goudie,['KJ Coetzer'],caught,Nawroz Mangal,2013-11-16,Scotland,Afghanistan,0,Sharjah Cricket Stadium
+4,Nawroz Mangal,7.0,7,0,1,100.0,TM Odoyo,['HA Varaiya'],caught,Nawroz Mangal,2013-11-24,Kenya,Afghanistan,0,Sharjah Cricket Stadium
+1,Nawroz Mangal,14.0,10,3,0,140.0,GH Dockrell,0,bowled,Nawroz Mangal,2013-11-30,Ireland,Ireland,0,Sheikh Zayed Stadium
+1,Nawroz Mangal,1.0,10,0,0,10.0,Zulfiqar Babar,['Sohaib Maqsood'],caught,Nawroz Mangal,2013-12-08,Pakistan,Pakistan,0,Sharjah Cricket Stadium
+4,Nawroz Mangal,0.0,1,0,0,0.0,Mahmudullah,['Sabbir Rahman'],run out,Nawroz Mangal,2014-03-16,Afghanistan,Bangladesh,0,Shere Bangla National Stadium
+4,Nawroz Mangal,5.0,7,1,0,71.42857142857143,SP Gauchan,['P Khadka'],caught,Nawroz Mangal,2014-03-20,Nepal,Nepal,0,Zahur Ahmed Chowdhury Stadium
+1,Nawroz Mangal,29.0,23,2,1,126.08695652173914,RE van der Merwe,0,lbw,Nawroz Mangal,2015-07-09,Netherlands,Afghanistan,0,"Grange Cricket Club Ground, Raeburn Place"
+1,Nawroz Mangal,15.0,14,1,1,107.14285714285714,Amjad Javed,0,bowled,Nawroz Mangal,2015-07-10,United Arab Emirates,Afghanistan,0,"Grange Cricket Club Ground, Raeburn Place"
+1,Nawroz Mangal,0.0,1,0,0,0.0,MA Leask,0,lbw,Nawroz Mangal,2015-07-12,Afghanistan,Afghanistan,0,"Grange Cricket Club Ground, Raeburn Place"
+1,Nawroz Mangal,53.0,36,6,2,147.22222222222223,Nadeem Ahmed,['KD Shah'],caught,Nawroz Mangal,2015-07-21,Hong Kong,Hong Kong,0,"The Village, Malahide"
+2,Nawroz Mangal,65.0,58,2,3,112.06896551724137,notOut,notOut,notOut,notOut,2015-07-23,Papua New Guinea,Afghanistan,0,"The Village, Malahide"
+2,Nawroz Mangal,4.0,9,1,0,44.44444444444444,M Ansari,['Sultan Ahmed'],caught,Nawroz Mangal,2015-07-25,Oman,Afghanistan,0,Clontarf Cricket Club Ground
+1,Nawroz Mangal,34.0,30,4,1,113.33333333333333,Khawar Ali,['Mohammad Nadeem'],caught,Nawroz Mangal,2017-01-20,Oman,Afghanistan,0,Dubai International Cricket Stadium
+0,Noor Ali Zadran,42.0,45,5,0,93.33333333333333,AC Botha,['PR Stirling'],caught,Noor Ali Zadran,2010-02-09,Ireland,Afghanistan,0,Dubai International Cricket Stadium
+5,Noor Ali Zadran,18.0,25,0,0,72.0,notOut,notOut,notOut,notOut,2010-02-12,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+1,Noor Ali Zadran,16.0,24,1,0,66.66666666666666,KJ O'Brien,0,lbw,Noor Ali Zadran,2010-02-13,Ireland,Afghanistan,0,Dubai International Cricket Stadium
+0,Noor Ali Zadran,50.0,49,4,0,102.04081632653062,A Nehra,['MS Dhoni'],caught,Noor Ali Zadran,2010-05-01,India,India,0,"Beausejour Stadium, Gros Islet"
+0,Noor Ali Zadran,0.0,4,0,0,0.0,DW Steyn,['MV Boucher'],caught,Noor Ali Zadran,2010-05-05,South Africa,South Africa,0,"Kensington Oval, Bridgetown"
+7,Noor Ali Zadran,11.0,5,2,0,220.00000000000003,notOut,notOut,notOut,notOut,2012-03-14,Netherlands,Afghanistan,0,Dubai International Cricket Stadium
+2,Noor Ali Zadran,9.0,13,0,0,69.23076923076923,RM Haq,0,bowled,Noor Ali Zadran,2013-11-16,Scotland,Afghanistan,0,Sharjah Cricket Stadium
+2,Noor Ali Zadran,50.0,49,4,1,102.04081632653062,TM Odoyo,['RR Patel'],run out,Samiullah Shenwari,2013-11-24,Kenya,Afghanistan,0,Sharjah Cricket Stadium
+3,Noor Ali Zadran,50.0,49,4,1,102.04081632653062,CO Obuya,0,lbw,Noor Ali Zadran,2013-11-24,Kenya,Afghanistan,0,Sharjah Cricket Stadium
+2,Noor Ali Zadran,63.0,44,8,0,143.1818181818182,Bilal Khan,0,lbw,Noor Ali Zadran,2016-02-20,Oman,Afghanistan,0,Khan Shaheb Osman Ali Stadium
+1,Noor Ali Zadran,9.0,17,1,0,52.94117647058824,MS Chapman,['Nadeem Ahmed'],caught,Noor Ali Zadran,2016-02-22,Hong Kong,Afghanistan,0,Shere Bangla National Stadium
+1,Noor Ali Zadran,17.0,12,2,1,141.66666666666669,AC Evans,['JH Davey'],caught,Noor Ali Zadran,2016-03-08,Scotland,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+1,Noor Ali Zadran,35.0,38,2,0,92.10526315789474,notOut,notOut,notOut,notOut,2016-03-10,Hong Kong,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+1,Noor Ali Zadran,10.0,15,1,0,66.66666666666666,T Panyangara,['Sikandar Raza'],caught,Noor Ali Zadran,2016-03-12,Zimbabwe,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+1,Noor Ali Zadran,20.0,24,3,0,83.33333333333334,HMRKB Herath,0,bowled,Noor Ali Zadran,2016-03-17,Sri Lanka,Sri Lanka,0,Eden Gardens
+1,Noor Ali Zadran,25.0,25,1,1,100.0,Imran Tahir,['Q de Kock'],stumped,Noor Ali Zadran,2016-03-20,South Africa,South Africa,0,Wankhede Stadium
+2,Noor Ali Zadran,17.0,20,0,0,85.0,AU Rashid,0,caught and bowled,Noor Ali Zadran,2016-03-23,England,England,0,Feroz Shah Kotla
+1,Noor Ali Zadran,6.0,6,1,0,100.0,KOK Williams,['JE Taylor'],caught,Noor Ali Zadran,2017-06-03,Afghanistan,West Indies,0,"Warner Park, Basseterre"
+0,Noor Ali Zadran,35.0,20,5,2,175.0,KOK Williams,0,bowled,Noor Ali Zadran,2017-06-05,Afghanistan,West Indies,0,"Warner Park, Basseterre"
+7,Raees Ahmadzai,9.0,5,0,1,180.0,AC Botha,"[""NJ O'Brien""]",stumped,Raees Ahmadzai,2010-02-09,Ireland,Afghanistan,0,Dubai International Cricket Stadium
+4,Raees Ahmadzai,23.0,23,2,0,100.0,Mohammad Kashif,['RN ten Doeschate'],caught,Raees Ahmadzai,2010-02-12,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+6,Raees Ahmadzai,5.0,5,0,0,100.0,notOut,notOut,notOut,notOut,2010-05-01,India,India,0,"Beausejour Stadium, Gros Islet"
+5,Raees Ahmadzai,4.0,2,1,0,200.0,M Morkel,['MV Boucher'],caught,Raees Ahmadzai,2010-05-05,South Africa,South Africa,0,"Kensington Oval, Bridgetown"
+8,Rashid Khan,14.0,5,1,1,280.0,notOut,notOut,notOut,notOut,2016-01-08,Zimbabwe,Afghanistan,0,Sharjah Cricket Stadium
+7,Rashid Khan,3.0,3,0,0,100.0,notOut,notOut,notOut,notOut,2016-02-19,United Arab Emirates,United Arab Emirates,0,Khan Shaheb Osman Ali Stadium
+7,Rashid Khan,11.0,7,2,0,157.14285714285714,CH Morris,0,bowled,Rashid Khan,2016-03-20,South Africa,South Africa,0,Wankhede Stadium
+4,Rashid Khan,15.0,20,1,1,75.0,MM Ali,['EJG Morgan'],caught,Rashid Khan,2016-03-23,England,England,0,Feroz Shah Kotla
+8,Rashid Khan,6.0,1,0,1,600.0,notOut,notOut,notOut,notOut,2016-03-27,West Indies,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+8,Rashid Khan,14.0,4,2,1,350.0,notOut,notOut,notOut,notOut,2016-12-14,Afghanistan,Afghanistan,0,ICC Academy
+8,Rashid Khan,1.0,2,0,0,50.0,BJ McCarthy,['BJ McCarthy'],run out,Rashid Khan,2017-03-10,Ireland,Afghanistan,0,Greater Noida Sports Complex Ground
+8,Rashid Khan,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2017-03-12,Ireland,Afghanistan,0,Greater Noida Sports Complex Ground
+7,Rashid Khan,33.0,27,2,2,122.22222222222223,JE Taylor,['SP Narine'],caught,Rashid Khan,2017-06-02,Afghanistan,West Indies,0,"Warner Park, Basseterre"
+9,Rashid Khan,2.0,4,0,0,50.0,SP Narine,0,bowled,Rashid Khan,2017-06-03,Afghanistan,West Indies,0,"Warner Park, Basseterre"
+6,Samiullah Shenwari,2.0,4,0,0,50.0,AR Cusack,"['AR Cusack', 'PC Connell']",run out,Samiullah Shenwari,2010-02-09,Ireland,Afghanistan,0,Dubai International Cricket Stadium
+8,Samiullah Shenwari,19.0,14,1,0,135.71428571428572,Mudassar Bukhari,"['RN ten Doeschate', 'AF Buurman']",run out,Samiullah Shenwari,2010-02-12,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+7,Samiullah Shenwari,7.0,6,1,0,116.66666666666667,A Nehra,"['RA Jadeja', 'MS Dhoni']",run out,Samiullah Shenwari,2010-05-01,India,India,0,"Beausejour Stadium, Gros Islet"
+7,Samiullah Shenwari,11.0,12,0,1,91.66666666666666,notOut,notOut,notOut,notOut,2010-05-05,South Africa,South Africa,0,"Kensington Oval, Bridgetown"
+5,Samiullah Shenwari,9.0,10,0,0,90.0,notOut,notOut,notOut,notOut,2012-03-14,Netherlands,Afghanistan,0,Dubai International Cricket Stadium
+4,Samiullah Shenwari,61.0,37,6,3,164.86486486486487,notOut,notOut,notOut,notOut,2012-03-18,Canada,Afghanistan,0,ICC Global Cricket Academy
+5,Samiullah Shenwari,11.0,12,0,1,91.66666666666666,MC Sorensen,['WB Rankin'],caught,Samiullah Shenwari,2012-03-24,Ireland,Ireland,0,Dubai International Cricket Stadium
+4,Samiullah Shenwari,1.0,2,0,0,50.0,R Ashwin,0,caught and bowled,Samiullah Shenwari,2012-09-19,India,India,0,R Premadasa Stadium
+7,Samiullah Shenwari,2.0,9,0,0,22.22222222222222,GP Swann,['ST Finn'],caught,Samiullah Shenwari,2012-09-21,England,England,0,R Premadasa Stadium
+6,Samiullah Shenwari,8.0,5,1,0,160.0,I Wardlaw,0,bowled,Samiullah Shenwari,2013-03-03,Scotland,Afghanistan,0,Sharjah Cricket Stadium
+3,Samiullah Shenwari,25.0,27,2,0,92.5925925925926,notOut,notOut,notOut,notOut,2013-03-04,Scotland,Afghanistan,0,Sharjah Cricket Stadium
+5,Samiullah Shenwari,39.0,14,2,4,278.57142857142856,notOut,notOut,notOut,notOut,2013-09-30,Kenya,Afghanistan,0,Sharjah Cricket Stadium
+6,Samiullah Shenwari,6.0,8,0,0,75.0,E Otieno,['CO Obuya'],caught,Samiullah Shenwari,2013-10-11,Kenya,Kenya,0,Sharjah Cricket Stadium
+3,Samiullah Shenwari,1.0,8,0,0,12.5,PA van Meekeren,['PM Seelaar'],caught,Samiullah Shenwari,2013-11-15,Netherlands,Netherlands,0,Sharjah Cricket Stadium
+4,Samiullah Shenwari,31.0,31,2,0,100.0,notOut,notOut,notOut,notOut,2013-11-16,Scotland,Afghanistan,0,Sharjah Cricket Stadium
+6,Samiullah Shenwari,2.0,2,0,0,100.0,notOut,notOut,notOut,notOut,2013-11-24,Kenya,Afghanistan,0,Sharjah Cricket Stadium
+6,Samiullah Shenwari,5.0,7,0,0,71.42857142857143,DT Johnston,['PR Stirling'],caught,Samiullah Shenwari,2013-11-30,Ireland,Ireland,0,Sheikh Zayed Stadium
+5,Samiullah Shenwari,16.0,10,1,1,160.0,Junaid Khan,['Ahmed Shehzad'],caught,Samiullah Shenwari,2013-12-08,Pakistan,Pakistan,0,Sharjah Cricket Stadium
+8,Samiullah Shenwari,1.0,3,0,0,33.33333333333333,Abdur Razzak,0,lbw,Samiullah Shenwari,2014-03-16,Afghanistan,Bangladesh,0,Shere Bangla National Stadium
+7,Samiullah Shenwari,15.0,13,1,0,115.38461538461537,JK Mukhiya,['P Khadka'],caught,Samiullah Shenwari,2014-03-20,Nepal,Nepal,0,Zahur Ahmed Chowdhury Stadium
+3,Samiullah Shenwari,44.0,42,3,1,104.76190476190477,Ahsan Malik,['RE van der Merwe'],caught,Samiullah Shenwari,2015-07-09,Netherlands,Afghanistan,0,"Grange Cricket Club Ground, Raeburn Place"
+3,Samiullah Shenwari,30.0,23,3,0,130.43478260869566,notOut,notOut,notOut,notOut,2015-07-10,United Arab Emirates,Afghanistan,0,"Grange Cricket Club Ground, Raeburn Place"
+3,Samiullah Shenwari,19.0,12,0,2,158.33333333333331,CD de Lange,"['KJ Coetzer', 'MH Cross']",run out,Asghar Stanikzai,2015-07-12,Afghanistan,Afghanistan,0,"Grange Cricket Club Ground, Raeburn Place"
+4,Samiullah Shenwari,19.0,12,0,2,158.33333333333331,MA Leask,['AC Evans'],caught,Samiullah Shenwari,2015-07-12,Afghanistan,Afghanistan,0,"Grange Cricket Club Ground, Raeburn Place"
+3,Samiullah Shenwari,21.0,19,3,0,110.5263157894737,Haseeb Amjad,['MS Chapman'],caught,Samiullah Shenwari,2015-07-21,Hong Kong,Hong Kong,0,"The Village, Malahide"
+3,Samiullah Shenwari,6.0,11,0,0,54.54545454545454,CJA Amini,['MD Dai'],caught,Samiullah Shenwari,2015-07-23,Papua New Guinea,Afghanistan,0,"The Village, Malahide"
+3,Samiullah Shenwari,40.0,44,3,1,90.9090909090909,notOut,notOut,notOut,notOut,2015-07-25,Oman,Afghanistan,0,Clontarf Cricket Club Ground
+7,Samiullah Shenwari,12.0,9,2,0,133.33333333333331,AV Lalcheta,['Adnan Ilyas'],caught,Samiullah Shenwari,2016-02-20,Oman,Afghanistan,0,Khan Shaheb Osman Ali Stadium
+8,Samiullah Shenwari,3.0,2,0,0,150.0,notOut,notOut,notOut,notOut,2016-02-22,Hong Kong,Afghanistan,0,Shere Bangla National Stadium
+4,Samiullah Shenwari,43.0,41,4,1,104.8780487804878,DT Tiripano,['V Sibanda'],caught,Samiullah Shenwari,2016-03-12,Zimbabwe,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+5,Samiullah Shenwari,31.0,14,3,2,221.42857142857144,KMDN Kulasekara,['NLTC Perera'],caught,Samiullah Shenwari,2016-03-17,Sri Lanka,Sri Lanka,0,Eden Gardens
+5,Samiullah Shenwari,25.0,16,3,0,156.25,KJ Abbott,['D Wiese'],caught,Samiullah Shenwari,2016-03-20,South Africa,South Africa,0,Wankhede Stadium
+6,Samiullah Shenwari,22.0,29,1,0,75.86206896551724,CJ Jordan,['CJ Jordan'],run out,Najibullah Zadran,2016-03-23,England,England,0,Feroz Shah Kotla
+7,Samiullah Shenwari,22.0,29,1,0,75.86206896551724,BA Stokes,['JE Root'],caught,Samiullah Shenwari,2016-03-23,England,England,0,Feroz Shah Kotla
+4,Samiullah Shenwari,1.0,3,0,0,33.33333333333333,SJ Benn,['DJG Sammy'],caught,Samiullah Shenwari,2016-03-27,West Indies,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+3,Samiullah Shenwari,0.0,1,0,0,0.0,Mohammad Shahzad (2),['Ghulam Shabber'],caught,Samiullah Shenwari,2016-12-14,Afghanistan,Afghanistan,0,ICC Academy
+4,Samiullah Shenwari,12.0,8,1,0,150.0,Atif Ali Khan,"['Muhammad Usman', 'Ghulam Shabber']",run out,Samiullah Shenwari,2016-12-16,Afghanistan,Afghanistan,0,Dubai International Cricket Stadium
+4,Samiullah Shenwari,39.0,23,2,3,169.56521739130434,Mohammad Naveed,0,bowled,Samiullah Shenwari,2016-12-18,Afghanistan,Afghanistan,0,ICC Academy
+3,Samiullah Shenwari,13.0,15,2,0,86.66666666666667,J Mulder,"['J Little', 'J Mulder']",run out,Najeeb Tarakai,2017-01-14,Ireland,Afghanistan,0,Sheikh Zayed Stadium
+4,Samiullah Shenwari,13.0,15,2,0,86.66666666666667,GH Dockrell,0,lbw,Samiullah Shenwari,2017-01-14,Ireland,Afghanistan,0,Sheikh Zayed Stadium
+3,Samiullah Shenwari,42.0,45,2,2,93.33333333333333,Mohammad Shahzad (2),['Ghulam Shabber'],caught,Samiullah Shenwari,2017-01-16,Afghanistan,Afghanistan,0,Sheikh Zayed Stadium
+3,Samiullah Shenwari,6.0,5,1,0,120.0,notOut,notOut,notOut,notOut,2017-01-20,Oman,Afghanistan,0,Dubai International Cricket Stadium
+2,Samiullah Shenwari,56.0,39,6,3,143.5897435897436,SR Thompson,['GH Dockrell'],run out,Mohammad Shahzad,2017-03-08,Ireland,Afghanistan,0,Greater Noida Sports Complex Ground
+3,Samiullah Shenwari,56.0,39,6,3,143.5897435897436,SR Thompson,['GH Dockrell'],caught,Samiullah Shenwari,2017-03-08,Ireland,Afghanistan,0,Greater Noida Sports Complex Ground
+3,Samiullah Shenwari,17.0,17,1,1,100.0,SR Thompson,['GC Wilson'],caught,Samiullah Shenwari,2017-03-10,Ireland,Afghanistan,0,Greater Noida Sports Complex Ground
+6,Samiullah Shenwari,13.0,11,1,0,118.18181818181819,KJ O'Brien,['GH Dockrell'],caught,Samiullah Shenwari,2017-03-12,Ireland,Afghanistan,0,Greater Noida Sports Complex Ground
+4,Samiullah Shenwari,7.0,20,0,0,35.0,SP Narine,0,lbw,Samiullah Shenwari,2017-06-02,Afghanistan,West Indies,0,"Warner Park, Basseterre"
+2,Samiullah Shenwari,0.0,1,0,0,0.0,KOK Williams,['CAK Walton'],caught,Samiullah Shenwari,2017-06-03,Afghanistan,West Indies,0,"Warner Park, Basseterre"
+1,Shabir Noori,15.0,18,1,0,83.33333333333334,Zahid Hussain,['H Patel'],caught,Shabir Noori,2012-03-18,Canada,Afghanistan,0,ICC Global Cricket Academy
+2,Shafiqullah,3.0,6,0,0,50.0,DT Johnston,['JF Mooney'],caught,Shafiqullah,2010-02-09,Ireland,Afghanistan,0,Dubai International Cricket Stadium
+6,Shafiqullah,2.0,6,0,0,33.33333333333333,MBS Jonkman,"['PW Borren', 'AF Buurman']",run out,Noor Ali Zadran,2010-02-12,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+7,Shafiqullah,2.0,6,0,0,33.33333333333333,PM Seelaar,['Mohammad Kashif'],caught,Shafiqullah,2010-02-12,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+6,Shafiqullah,8.0,9,0,1,88.88888888888889,IK Pathan,0,lbw,Shafiqullah,2012-09-19,India,India,0,R Premadasa Stadium
+2,Shafiqullah,0.0,1,0,0,0.0,JW Dernbach,['RS Bopara (sub)'],caught,Shafiqullah,2012-09-21,England,England,0,R Premadasa Stadium
+4,Shafiqullah,9.0,19,0,0,47.368421052631575,PM Seelaar,['ES Szwarczynski'],caught,Shafiqullah,2013-11-15,Netherlands,Netherlands,0,Sharjah Cricket Stadium
+8,Shafiqullah,8.0,5,0,1,160.0,DI Allan,['HA Varaiya'],caught,Shafiqullah,2013-11-24,Kenya,Afghanistan,0,Sharjah Cricket Stadium
+6,Shafiqullah,16.0,16,2,0,100.0,Abdur Razzak,['Farhad Reza'],run out,Karim Sadiq,2014-03-16,Afghanistan,Bangladesh,0,Shere Bangla National Stadium
+7,Shafiqullah,16.0,16,2,0,100.0,Mahmudullah,['Mushfiqur Rahim'],caught,Shafiqullah,2014-03-16,Afghanistan,Bangladesh,0,Shere Bangla National Stadium
+3,Shafiqullah,51.0,25,5,3,204.0,notOut,notOut,notOut,notOut,2014-03-18,Hong Kong,Afghanistan,0,Zahur Ahmed Chowdhury Stadium
+3,Shafiqullah,36.0,32,3,1,112.5,B Regmi,['Sagar Pun'],caught,Shafiqullah,2014-03-20,Nepal,Nepal,0,Zahur Ahmed Chowdhury Stadium
+6,Shafiqullah,13.0,3,0,2,433.3333333333333,notOut,notOut,notOut,notOut,2015-07-09,Netherlands,Afghanistan,0,"Grange Cricket Club Ground, Raeburn Place"
+7,Shafiqullah,6.0,1,0,1,600.0,notOut,notOut,notOut,notOut,2015-07-12,Afghanistan,Afghanistan,0,"Grange Cricket Club Ground, Raeburn Place"
+6,Shafiqullah,15.0,10,0,1,150.0,Haseeb Amjad,['Haseeb Amjad'],run out,Shafiqullah,2015-07-21,Hong Kong,Hong Kong,0,"The Village, Malahide"
+6,Shafiqullah,7.0,4,1,0,175.0,notOut,notOut,notOut,notOut,2015-10-28,Afghanistan,Afghanistan,0,Queens Sports Club
+4,Shafiqullah,32.0,18,1,2,177.77777777777777,notOut,notOut,notOut,notOut,2015-11-30,Oman,Afghanistan,0,Sheikh Zayed Stadium
+4,Shafiqullah,8.0,6,0,1,133.33333333333331,CJ Chibhabha,['PJ Moor'],caught,Shafiqullah,2016-01-10,Zimbabwe,Afghanistan,0,Sharjah Cricket Stadium
+6,Shafiqullah,14.0,5,3,0,280.0,notOut,notOut,notOut,notOut,2016-03-08,Scotland,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+4,Shafiqullah,3.0,7,0,0,42.857142857142854,Nadeem Ahmed,0,caught and bowled,Shafiqullah,2016-03-10,Hong Kong,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+6,Shafiqullah,9.0,5,0,1,180.0,TL Chatara,['R Mutumbami'],run out,Mohammad Nabi,2016-03-12,Zimbabwe,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+6,Shafiqullah,5.0,8,0,0,62.5,NLTC Perera,['HDRL Thirimanne'],caught,Shafiqullah,2016-03-17,Sri Lanka,Sri Lanka,0,Eden Gardens
+9,Shafiqullah,35.0,20,4,2,175.0,CJ Jordan,"['MM Ali', 'CJ Jordan']",run out,Amir Hamza,2016-03-23,England,England,0,Feroz Shah Kotla
+7,Shafiqullah,4.0,5,0,0,80.0,AD Russell,['ADS Fletcher'],caught,Shafiqullah,2016-03-27,West Indies,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+6,Shafiqullah,6.0,1,0,1,600.0,notOut,notOut,notOut,notOut,2017-03-08,Ireland,Afghanistan,0,Greater Noida Sports Complex Ground
+4,Shafiqullah,0.0,1,0,0,0.0,J Mulder,0,bowled,Shafiqullah,2017-03-10,Ireland,Afghanistan,0,Greater Noida Sports Complex Ground
+8,Shafiqullah,0.0,3,0,0,0.0,SP Narine,0,caught and bowled,Shafiqullah,2017-06-02,Afghanistan,West Indies,0,"Warner Park, Basseterre"
+5,Shafiqullah,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2017-06-03,Afghanistan,West Indies,0,"Warner Park, Basseterre"
+5,Shafiqullah,25.0,16,3,1,156.25,KOK Williams,0,bowled,Shafiqullah,2017-06-05,Afghanistan,West Indies,0,"Warner Park, Basseterre"
+11,Shapoor Zadran,1.0,8,0,0,12.5,notOut,notOut,notOut,notOut,2010-05-05,South Africa,South Africa,0,"Kensington Oval, Bridgetown"
+10,Shapoor Zadran,9.0,18,0,1,50.0,GP Swann,0,lbw,Shapoor Zadran,2012-09-21,England,England,0,R Premadasa Stadium
+9,Shapoor Zadran,1.0,2,0,0,50.0,notOut,notOut,notOut,notOut,2013-10-11,Kenya,Kenya,0,Sharjah Cricket Stadium
+9,Shapoor Zadran,0.0,2,0,0,0.0,Ahsan Malik,0,bowled,Shapoor Zadran,2013-11-15,Netherlands,Netherlands,0,Sharjah Cricket Stadium
+9,Shapoor Zadran,13.0,21,0,2,61.904761904761905,TJ Murtagh,0,bowled,Shapoor Zadran,2013-11-30,Ireland,Ireland,0,Sheikh Zayed Stadium
+9,Shapoor Zadran,1.0,11,0,0,9.090909090909092,Shakib Al Hasan,0,bowled,Shapoor Zadran,2014-03-16,Afghanistan,Bangladesh,0,Shere Bangla National Stadium
+9,Shapoor Zadran,0.0,1,0,0,0.0,Rohan Mustafa,0,bowled,Shapoor Zadran,2016-02-19,United Arab Emirates,United Arab Emirates,0,Khan Shaheb Osman Ali Stadium
+10,Shapoor Zadran,1.0,2,0,0,50.0,K Rabada,0,bowled,Shapoor Zadran,2016-03-20,South Africa,South Africa,0,Wankhede Stadium
+11,Shapoor Zadran,1.0,2,0,0,50.0,notOut,notOut,notOut,notOut,2017-06-02,Afghanistan,West Indies,0,"Warner Park, Basseterre"
+1,Usman Ghani,13.0,18,2,0,72.22222222222221,WP Masakadza,0,bowled,Usman Ghani,2015-10-26,Afghanistan,Afghanistan,0,Queens Sports Club
+1,Usman Ghani,65.0,49,6,3,132.6530612244898,CJ Chibhabha,['N Madziva'],caught,Usman Ghani,2015-10-28,Afghanistan,Afghanistan,0,Queens Sports Club
+1,Usman Ghani,5.0,7,1,0,71.42857142857143,Bilal Khan,['Mohammad Nadeem'],caught,Usman Ghani,2015-11-30,Oman,Afghanistan,0,Sheikh Zayed Stadium
+1,Usman Ghani,42.0,40,5,1,105.0,Sikandar Raza,['PJ Moor'],caught,Usman Ghani,2016-01-08,Zimbabwe,Afghanistan,0,Sharjah Cricket Stadium
+1,Usman Ghani,5.0,13,0,0,38.46153846153847,AG Cremer,0,bowled,Usman Ghani,2016-01-10,Zimbabwe,Afghanistan,0,Sharjah Cricket Stadium
+1,Usman Ghani,3.0,6,0,0,50.0,Mohammad Naveed,['Rohan Mustafa'],caught,Usman Ghani,2016-02-19,United Arab Emirates,United Arab Emirates,0,Khan Shaheb Osman Ali Stadium
+1,Usman Ghani,4.0,6,1,0,66.66666666666666,S Badree,0,bowled,Usman Ghani,2016-03-27,West Indies,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+2,Usman Ghani,18.0,18,1,0,100.0,Amjad Javed,['Ghulam Shabber'],caught,Usman Ghani,2016-12-16,Afghanistan,Afghanistan,0,Dubai International Cricket Stadium
+3,Usman Ghani,27.0,18,0,2,150.0,Ahmed Raza,['Amjad Gul'],caught,Usman Ghani,2016-12-18,Afghanistan,Afghanistan,0,ICC Academy
+2,Usman Ghani,23.0,21,3,0,109.52380952380953,KJ O'Brien,0,bowled,Usman Ghani,2017-03-12,Ireland,Afghanistan,0,Greater Noida Sports Complex Ground
+0,Usman Ghani,8.0,13,1,0,61.53846153846154,notOut,notOut,notOut,notOut,2017-06-02,Afghanistan,West Indies,0,"Warner Park, Basseterre"

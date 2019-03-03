@@ -1,0 +1,90 @@
+,batsman,runs,balls,4s,6s,SR,bowler,fielders,kind,player_out,date,team2,winner,result,venue
+8,AJ Tye,16.0,5,0,2,320.0,notOut,notOut,notOut,notOut,2016-06-10,Glamorgan,Glamorgan,0,County Ground
+7,AJ Tye,18.0,11,0,1,163.63636363636365,notOut,notOut,notOut,notOut,2016-06-17,Somerset,Gloucestershire,0,County Ground
+7,AJ Tye,2.0,5,0,0,40.0,K Rabada,0,bowled,AJ Tye,2016-07-08,Kent,Kent,0,County Ground
+7,AJ Tye,1.0,2,0,0,50.0,notOut,notOut,notOut,notOut,2016-07-29,Middlesex,Gloucestershire,0,County Ground
+9,AJ Tye,4.0,4,0,0,100.0,MA Wood,['U Arshad'],run out,AJ Tye,2016-08-10,Durham,Durham,0,County Ground
+4,BAC Howell,37.0,26,3,1,142.30769230769232,RH Patel,0,caught and bowled,BAC Howell,2016-06-02,Gloucestershire,Gloucestershire,0,Merchant Taylors' School Ground
+4,BAC Howell,4.0,8,0,0,50.0,notOut,notOut,notOut,notOut,2016-06-03,Gloucestershire,Gloucestershire,0,Kent County Cricket Ground
+4,BAC Howell,14.0,14,1,0,100.0,DA Cosker,['DW Steyn'],caught,BAC Howell,2016-06-10,Glamorgan,Glamorgan,0,County Ground
+4,BAC Howell,1.0,6,0,0,16.666666666666664,RE van der Merwe,0,bowled,BAC Howell,2016-06-17,Somerset,Gloucestershire,0,County Ground
+4,BAC Howell,23.0,8,0,3,287.5,A Shahzad,['LJ Wright'],caught,BAC Howell,2016-06-26,Gloucestershire,Gloucestershire,0,Arundel Castle Cricket Club Ground
+4,BAC Howell,0.0,1,0,0,0.0,notOut,notOut,notOut,notOut,2016-07-01,Gloucestershire,Gloucestershire,0,County Ground
+4,BAC Howell,13.0,8,2,0,162.5,CH Morris,0,bowled,BAC Howell,2016-07-06,Surrey,Gloucestershire,0,County Ground
+4,BAC Howell,37.0,23,3,1,160.8695652173913,DA Griffiths,['AJ Blake'],run out,BAC Howell,2016-07-08,Kent,Kent,0,County Ground
+4,BAC Howell,9.0,9,1,0,100.0,TS Roland-Jones,0,bowled,BAC Howell,2016-07-29,Middlesex,Gloucestershire,0,County Ground
+4,BAC Howell,12.0,15,0,0,80.0,KK Jennings,['MD Stoneman'],caught,BAC Howell,2016-08-10,Durham,Durham,0,County Ground
+3,CDJ Dent,45.0,41,3,0,109.75609756097562,PR Stirling,['JA Simpson'],stumped,CDJ Dent,2016-06-02,Gloucestershire,Gloucestershire,0,Merchant Taylors' School Ground
+3,CDJ Dent,11.0,7,0,1,157.14285714285714,notOut,notOut,notOut,notOut,2016-06-03,Gloucestershire,Gloucestershire,0,Kent County Cricket Ground
+3,CDJ Dent,12.0,14,2,0,85.71428571428571,GG Wagg,['T van der Gugten'],caught,CDJ Dent,2016-06-10,Glamorgan,Glamorgan,0,County Ground
+3,CDJ Dent,10.0,7,2,0,142.85714285714286,notOut,notOut,notOut,notOut,2016-06-16,Gloucestershire,Gloucestershire,0,County Ground
+3,CDJ Dent,22.0,20,2,0,110.00000000000001,RE van der Merwe,0,bowled,CDJ Dent,2016-06-17,Somerset,Gloucestershire,0,County Ground
+3,CDJ Dent,15.0,20,0,0,75.0,notOut,notOut,notOut,notOut,2016-06-26,Gloucestershire,Gloucestershire,0,Arundel Castle Cricket Club Ground
+3,CDJ Dent,11.0,8,1,0,137.5,notOut,notOut,notOut,notOut,2016-07-01,Gloucestershire,Gloucestershire,0,County Ground
+3,CDJ Dent,39.0,29,4,1,134.48275862068965,GJ Batty,['BT Foakes'],stumped,CDJ Dent,2016-07-06,Surrey,Gloucestershire,0,County Ground
+3,CDJ Dent,28.0,29,1,0,96.55172413793103,DA Griffiths,['SW Billings'],caught,CDJ Dent,2016-07-08,Kent,Kent,0,County Ground
+7,GH Roderick,11.0,3,1,1,366.66666666666663,notOut,notOut,notOut,notOut,2016-06-02,Gloucestershire,Gloucestershire,0,Merchant Taylors' School Ground
+7,GH Roderick,13.0,9,0,1,144.44444444444443,DW Steyn,['MG Hogan'],caught,GH Roderick,2016-06-10,Glamorgan,Glamorgan,0,County Ground
+6,GH Roderick,22.0,16,3,0,137.5,notOut,notOut,notOut,notOut,2016-06-17,Somerset,Gloucestershire,0,County Ground
+5,GH Roderick,4.0,1,1,0,400.0,notOut,notOut,notOut,notOut,2016-06-26,Gloucestershire,Gloucestershire,0,Arundel Castle Cricket Club Ground
+6,GH Roderick,3.0,4,0,0,75.0,DA Griffiths,0,bowled,GH Roderick,2016-07-08,Kent,Kent,0,County Ground
+6,GL van Buuren,1.0,3,0,0,33.33333333333333,notOut,notOut,notOut,notOut,2016-06-02,Gloucestershire,Gloucestershire,0,Merchant Taylors' School Ground
+6,GL van Buuren,12.0,8,0,1,150.0,OP Rayner,['NA Sowter'],caught,GL van Buuren,2016-07-29,Middlesex,Gloucestershire,0,County Ground
+2,GL van Buuren,14.0,20,2,0,70.0,SG Borthwick,['GJ Muchall'],caught,GL van Buuren,2016-08-10,Durham,Durham,0,County Ground
+0,HJH Marshall,12.0,8,1,1,150.0,A Shahzad,['DR Briggs'],caught,HJH Marshall,2016-05-20,Sussex,Sussex,0,County Ground
+0,HJH Marshall,10.0,8,2,0,125.0,TS Roland-Jones,['EJG Morgan'],caught,HJH Marshall,2016-06-02,Gloucestershire,Gloucestershire,0,Merchant Taylors' School Ground
+1,HJH Marshall,56.0,42,5,1,133.33333333333331,DI Stevens,0,bowled,HJH Marshall,2016-06-03,Gloucestershire,Gloucestershire,0,Kent County Cricket Ground
+0,HJH Marshall,3.0,6,0,0,50.0,DW Steyn,['CAJ Meschede'],caught,HJH Marshall,2016-06-10,Glamorgan,Glamorgan,0,County Ground
+1,HJH Marshall,42.0,36,3,1,116.66666666666667,MR Quinn,0,bowled,HJH Marshall,2016-06-16,Gloucestershire,Gloucestershire,0,County Ground
+0,HJH Marshall,0.0,1,0,0,0.0,Yasir Arafat,0,bowled,HJH Marshall,2016-06-17,Somerset,Gloucestershire,0,County Ground
+0,HJH Marshall,90.0,61,8,2,147.54098360655738,A Shahzad,['MW Machan'],caught,HJH Marshall,2016-06-26,Gloucestershire,Gloucestershire,0,Arundel Castle Cricket Club Ground
+1,HJH Marshall,9.0,7,1,0,128.57142857142858,J Overton,0,bowled,HJH Marshall,2016-07-01,Gloucestershire,Gloucestershire,0,County Ground
+0,HJH Marshall,8.0,5,2,0,160.0,SM Curran,['TK Curran'],caught,HJH Marshall,2016-07-06,Surrey,Gloucestershire,0,County Ground
+0,HJH Marshall,1.0,4,0,0,25.0,K Rabada,['K Rabada'],run out,HJH Marshall,2016-07-08,Kent,Kent,0,County Ground
+1,HJH Marshall,4.0,8,0,0,50.0,T van der Gugten,['MA Wallace'],caught,HJH Marshall,2016-07-10,Gloucestershire,Gloucestershire,0,Sophia Gardens
+1,HJH Marshall,43.0,28,7,0,153.57142857142858,RS Bopara,0,caught and bowled,HJH Marshall,2016-07-17,Essex,Gloucestershire,0,College Ground
+0,HJH Marshall,16.0,15,3,0,106.66666666666667,JAR Harris,['TS Roland-Jones'],run out,HJH Marshall,2016-07-29,Middlesex,Gloucestershire,0,County Ground
+0,HJH Marshall,4.0,11,0,0,36.36363636363637,MA Wood,['KK Jennings'],caught,HJH Marshall,2016-08-10,Durham,Durham,0,County Ground
+2,IA Cockbain,24.0,15,2,1,160.0,notOut,notOut,notOut,notOut,2016-05-20,Sussex,Sussex,0,County Ground
+2,IA Cockbain,40.0,28,6,0,142.85714285714286,JEC Franklin,['TS Roland-Jones'],caught,IA Cockbain,2016-06-02,Gloucestershire,Gloucestershire,0,Merchant Taylors' School Ground
+2,IA Cockbain,37.0,29,0,1,127.58620689655173,IAA Thomas,['SW Billings'],caught,IA Cockbain,2016-06-03,Gloucestershire,Gloucestershire,0,Kent County Cricket Ground
+2,IA Cockbain,37.0,23,1,2,160.8695652173913,CAJ Meschede,['CB Cooke'],caught,IA Cockbain,2016-06-10,Glamorgan,Glamorgan,0,County Ground
+2,IA Cockbain,15.0,13,2,0,115.38461538461537,notOut,notOut,notOut,notOut,2016-06-16,Gloucestershire,Gloucestershire,0,County Ground
+1,IA Cockbain,23.0,24,4,0,95.83333333333334,J Overton,['L Gregory'],caught,IA Cockbain,2016-06-17,Somerset,Gloucestershire,0,County Ground
+2,IA Cockbain,37.0,33,0,2,112.12121212121211,DR Briggs,['CD Nash'],caught,IA Cockbain,2016-06-26,Gloucestershire,Gloucestershire,0,Arundel Castle Cricket Club Ground
+2,IA Cockbain,41.0,31,3,1,132.25806451612902,J Overton,['C Overton'],caught,IA Cockbain,2016-07-01,Gloucestershire,Gloucestershire,0,County Ground
+1,IA Cockbain,73.0,59,5,1,123.72881355932203,notOut,notOut,notOut,notOut,2016-07-06,Surrey,Gloucestershire,0,County Ground
+2,IA Cockbain,8.0,14,1,0,57.14285714285714,ME Claydon,0,bowled,IA Cockbain,2016-07-08,Kent,Kent,0,County Ground
+2,IA Cockbain,53.0,40,8,1,132.5,notOut,notOut,notOut,notOut,2016-07-10,Gloucestershire,Gloucestershire,0,Sophia Gardens
+2,IA Cockbain,69.0,36,6,4,191.66666666666669,notOut,notOut,notOut,notOut,2016-07-17,Essex,Gloucestershire,0,College Ground
+2,IA Cockbain,42.0,40,5,0,105.0,TS Roland-Jones,['JEC Franklin'],caught,IA Cockbain,2016-07-29,Middlesex,Gloucestershire,0,County Ground
+1,IA Cockbain,0.0,2,0,0,0.0,MA Wood,['KK Jennings'],caught,IA Cockbain,2016-08-10,Durham,Durham,0,County Ground
+5,JMR Taylor,14.0,11,2,0,127.27272727272727,JK Fuller,0,bowled,JMR Taylor,2016-06-02,Gloucestershire,Gloucestershire,0,Merchant Taylors' School Ground
+6,JMR Taylor,23.0,22,3,0,104.54545454545455,MG Hogan,['GG Wagg'],caught,JMR Taylor,2016-06-10,Glamorgan,Glamorgan,0,County Ground
+5,JMR Taylor,44.0,23,2,4,191.30434782608697,notOut,notOut,notOut,notOut,2016-07-29,Middlesex,Gloucestershire,0,County Ground
+6,JMR Taylor,80.0,42,7,5,190.47619047619045,MA Wood,['MJ Richardson'],run out,JMR Taylor,2016-08-10,Durham,Durham,0,County Ground
+5,K Noema-Barnett,37.0,23,3,2,160.8695652173913,GG Wagg,['MG Hogan'],caught,K Noema-Barnett,2016-06-10,Glamorgan,Glamorgan,0,County Ground
+5,K Noema-Barnett,0.0,2,0,0,0.0,RE van der Merwe,['J Overton'],caught,K Noema-Barnett,2016-06-17,Somerset,Gloucestershire,0,County Ground
+5,K Noema-Barnett,1.0,2,0,0,50.0,notOut,notOut,notOut,notOut,2016-07-06,Surrey,Gloucestershire,0,County Ground
+5,K Noema-Barnett,3.0,8,0,0,37.5,ME Claydon,['TWM Latham'],caught,K Noema-Barnett,2016-07-08,Kent,Kent,0,County Ground
+5,K Noema-Barnett,3.0,5,0,0,60.0,KK Jennings,['MD Stoneman'],run out,K Noema-Barnett,2016-08-10,Durham,Durham,0,County Ground
+9,LC Norwell,2.0,2,0,0,100.0,notOut,notOut,notOut,notOut,2016-07-08,Kent,Kent,0,County Ground
+1,M Klinger,42.0,24,4,3,175.0,notOut,notOut,notOut,notOut,2016-05-20,Sussex,Sussex,0,County Ground
+1,M Klinger,0.0,2,0,0,0.0,TS Roland-Jones,0,bowled,M Klinger,2016-06-02,Gloucestershire,Gloucestershire,0,Merchant Taylors' School Ground
+0,M Klinger,27.0,34,3,0,79.41176470588235,JC Tredwell,['AJ Blake'],caught,M Klinger,2016-06-03,Gloucestershire,Gloucestershire,0,Kent County Cricket Ground
+1,M Klinger,5.0,7,1,0,71.42857142857143,T van der Gugten,['GG Wagg'],caught,M Klinger,2016-06-10,Glamorgan,Glamorgan,0,County Ground
+0,M Klinger,78.0,50,7,4,156.0,Wahab Riaz,['JS Foster'],caught,M Klinger,2016-06-16,Gloucestershire,Gloucestershire,0,County Ground
+2,M Klinger,60.0,44,6,1,136.36363636363635,L Gregory,0,bowled,M Klinger,2016-06-17,Somerset,Gloucestershire,0,County Ground
+1,M Klinger,2.0,4,0,0,50.0,A Shahzad,0,lbw,M Klinger,2016-06-26,Gloucestershire,Gloucestershire,0,Arundel Castle Cricket Club Ground
+0,M Klinger,101.0,73,10,4,138.35616438356163,J Overton,['PD Trego'],caught,M Klinger,2016-07-01,Gloucestershire,Gloucestershire,0,County Ground
+2,M Klinger,9.0,13,1,0,69.23076923076923,TK Curran,['AJ Finch'],caught,M Klinger,2016-07-06,Surrey,Gloucestershire,0,County Ground
+1,M Klinger,42.0,32,4,1,131.25,JC Tredwell,['SW Billings'],stumped,M Klinger,2016-07-08,Kent,Kent,0,County Ground
+0,M Klinger,56.0,53,6,0,105.66037735849056,notOut,notOut,notOut,notOut,2016-07-10,Gloucestershire,Gloucestershire,0,Sophia Gardens
+0,M Klinger,95.0,58,13,2,163.79310344827587,notOut,notOut,notOut,notOut,2016-07-17,Essex,Gloucestershire,0,College Ground
+1,M Klinger,13.0,17,1,0,76.47058823529412,NA Sowter,['ST Finn'],caught,M Klinger,2016-07-29,Middlesex,Gloucestershire,0,County Ground
+3,M Klinger,18.0,6,3,1,300.0,C Rushworth,['MJ Richardson'],caught,M Klinger,2016-08-10,Durham,Durham,0,County Ground
+10,MD Taylor,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2016-08-10,Durham,Durham,0,County Ground
+3,P Mustard,5.0,14,0,0,35.714285714285715,JEC Franklin,0,bowled,P Mustard,2016-07-29,Middlesex,Gloucestershire,0,County Ground
+8,PJ Grieshaber,9.0,11,0,0,81.81818181818183,C Rushworth,0,caught and bowled,PJ Grieshaber,2016-08-10,Durham,Durham,0,County Ground
+8,TMJ Smith,8.0,6,0,0,133.33333333333331,notOut,notOut,notOut,notOut,2016-07-08,Kent,Kent,0,County Ground
+7,TMJ Smith,1.0,3,0,0,33.33333333333333,MA Wood,['GJ Muchall'],run out,TMJ Smith,2016-08-10,Durham,Durham,0,County Ground

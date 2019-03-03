@@ -1,0 +1,244 @@
+,batsman,runs,balls,4s,6s,SR,bowler,fielders,kind,player_out,date,team2,winner,result,venue
+10,AC Evans,0.0,1,0,0,0.0,Mudassar Bukhari,0,bowled,AC Evans,2015-07-11,Netherlands,Netherlands,0,"Grange Cricket Club Ground, Raeburn Place"
+10,AC Evans,0.0,3,0,0,0.0,Hamid Hassan,0,bowled,AC Evans,2015-07-12,Afghanistan,Afghanistan,0,"Grange Cricket Club Ground, Raeburn Place"
+12,AC Evans,1.0,3,0,0,33.33333333333333,notOut,notOut,notOut,notOut,2016-02-04,Scotland,United Arab Emirates,0,ICC Academy
+10,AC Evans,0.0,1,0,0,0.0,DT Tiripano,0,bowled,AC Evans,2016-03-10,Zimbabwe,Zimbabwe,0,"Vidarbha Cricket Association Stadium, Jamtha"
+10,BTJ Wheal,2.0,2,0,0,100.0,notOut,notOut,notOut,notOut,2016-01-31,Scotland,Scotland,0,"Mission Road Ground, Mong Kok"
+8,CD Wallace,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2012-03-18,Scotland,Ireland,0,Dubai International Cricket Stadium
+4,CD Wallace,0.0,1,0,0,0.0,notOut,notOut,notOut,notOut,2017-01-14,Scotland,Scotland,0,Sheikh Zayed Stadium
+5,CD Wallace,21.0,21,2,0,100.0,T van der Gugten,['MJG Rippon'],caught,CD Wallace,2017-01-17,Scotland,Scotland,0,Sheikh Zayed Stadium
+4,CD Wallace,5.0,4,0,0,125.0,notOut,notOut,notOut,notOut,2017-01-19,Scotland,Scotland,0,Dubai International Cricket Stadium
+7,CD Wallace,1.0,4,0,0,25.0,J Mulder,['CA Young'],caught,CD Wallace,2017-01-20,Scotland,Ireland,0,Dubai International Cricket Stadium
+9,CD de Lange,1.0,2,0,0,50.0,Hamid Hassan,0,bowled,CD de Lange,2015-07-12,Afghanistan,Afghanistan,0,"Grange Cricket Club Ground, Raeburn Place"
+6,CD de Lange,22.0,10,0,2,220.00000000000003,MJG Rippon,0,bowled,CD de Lange,2017-01-17,Scotland,Scotland,0,Sheikh Zayed Stadium
+6,CD de Lange,12.0,10,2,0,120.0,KJ O'Brien,['GH Dockrell'],caught,CD de Lange,2017-01-20,Scotland,Ireland,0,Dubai International Cricket Stadium
+6,CJO Smith,11.0,7,2,0,157.14285714285714,Shahid Afridi,['Yasir Arafat'],caught,CJO Smith,2007-09-12,Scotland,Pakistan,0,Kingsmead
+3,CJO Smith,46.0,42,4,0,109.52380952380953,notOut,notOut,notOut,notOut,2008-08-03,Scotland,Scotland,0,"Civil Service Cricket Club, Stormont"
+3,CJO Smith,0.0,1,0,0,0.0,RN ten Doeschate,['PM Seelaar'],caught,CJO Smith,2008-08-04,Scotland,Netherlands,0,"Civil Service Cricket Club, Stormont"
+4,CJO Smith,0.0,1,0,0,0.0,IG Butler,0,bowled,CJO Smith,2009-06-06,Scotland,New Zealand,0,Kennington Oval
+5,CJO Smith,0.0,1,0,0,0.0,DW Steyn,0,bowled,CJO Smith,2009-06-07,South Africa,South Africa,0,Kennington Oval
+8,CM Wright,14.0,19,0,0,73.68421052631578,Umar Gul,0,bowled,CM Wright,2007-09-12,Scotland,Pakistan,0,Kingsmead
+11,CS MacLeod,0.0,3,0,0,0.0,JA Morkel,0,bowled,CS MacLeod,2009-06-07,South Africa,South Africa,0,Kennington Oval
+2,CS MacLeod,5.0,6,1,0,83.33333333333334,WB Rankin,0,lbw,CS MacLeod,2012-03-18,Scotland,Ireland,0,Dubai International Cricket Stadium
+1,CS MacLeod,2.0,3,0,0,66.66666666666666,Junaid Siddiqui,0,bowled,CS MacLeod,2012-03-23,Scotland,Scotland,0,Dubai International Cricket Stadium
+2,CS MacLeod,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2013-03-03,Scotland,Afghanistan,0,Sharjah Cricket Stadium
+2,CS MacLeod,31.0,38,2,0,81.57894736842105,Hamid Hassan,0,bowled,CS MacLeod,2013-03-04,Scotland,Afghanistan,0,Sharjah Cricket Stadium
+1,CS MacLeod,56.0,48,3,2,116.66666666666667,Dawlat Zadran,['Mohammad Shahzad'],caught,CS MacLeod,2013-11-16,Scotland,Afghanistan,0,Sharjah Cricket Stadium
+1,CS MacLeod,1.0,9,0,0,11.11111111111111,HA Varaiya,"['RR Patel', 'HA Varaiya']",run out,CS MacLeod,2013-11-19,Scotland,Kenya,0,ICC Academy
+1,CS MacLeod,3.0,6,0,0,50.0,Mudassar Bukhari,['W Barresi'],caught,CS MacLeod,2013-11-22,Scotland,Scotland,0,ICC Academy
+2,CS MacLeod,0.0,1,0,0,0.0,Mudassar Bukhari,0,bowled,CS MacLeod,2013-11-28,Scotland,Netherlands,0,Sheikh Zayed Stadium
+2,CS MacLeod,7.0,8,1,0,87.5,notOut,notOut,notOut,notOut,2015-07-09,United Arab Emirates,Scotland,0,"Grange Cricket Club Ground, Raeburn Place"
+3,CS MacLeod,18.0,24,2,0,75.0,PM Seelaar,['W Barresi'],caught,CS MacLeod,2015-07-11,Netherlands,Netherlands,0,"Grange Cricket Club Ground, Raeburn Place"
+2,CS MacLeod,19.0,12,2,1,158.33333333333331,notOut,notOut,notOut,notOut,2015-07-12,Afghanistan,Afghanistan,0,"Grange Cricket Club Ground, Raeburn Place"
+1,CS MacLeod,0.0,5,0,0,0.0,Haseeb Amjad,0,bowled,CS MacLeod,2015-07-25,Scotland,Scotland,0,"The Village, Malahide"
+7,CS MacLeod,16.0,14,0,1,114.28571428571428,Aizaz Khan,['Aizaz Khan'],run out,CS MacLeod,2016-01-30,Scotland,Hong Kong,0,"Mission Road Ground, Mong Kok"
+6,CS MacLeod,2.0,4,0,0,50.0,Haseeb Amjad,['Tanwir Afzal'],caught,CS MacLeod,2016-01-31,Scotland,Scotland,0,"Mission Road Ground, Mong Kok"
+2,CS MacLeod,15.0,15,2,0,100.0,Qadeer Ahmed,['Saqlain Haider'],caught,CS MacLeod,2016-02-04,Scotland,United Arab Emirates,0,ICC Academy
+3,CS MacLeod,2.0,3,0,0,66.66666666666666,Samiullah Shenwari,"['Gulbadin Naib', 'Samiullah Shenwari', 'Mohammad Shahzad']",run out,CS MacLeod,2016-03-08,Scotland,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+2,CS MacLeod,60.0,37,4,3,162.16216216216216,Ehsan Nawaz,['Ehsan Khan'],caught,CS MacLeod,2017-01-14,Scotland,Scotland,0,Sheikh Zayed Stadium
+3,CS MacLeod,20.0,18,2,0,111.11111111111111,MJG Rippon,0,hit wicket,CS MacLeod,2017-01-17,Scotland,Scotland,0,Sheikh Zayed Stadium
+3,CS MacLeod,35.0,30,2,1,116.66666666666667,notOut,notOut,notOut,notOut,2017-01-19,Scotland,Scotland,0,Dubai International Cricket Stadium
+2,CS MacLeod,2.0,7,0,0,28.57142857142857,J Mulder,['AR McBrine'],caught,CS MacLeod,2017-01-20,Scotland,Ireland,0,Dubai International Cricket Stadium
+8,D Murphy,6.0,5,0,0,120.0,notOut,notOut,notOut,notOut,2013-03-03,Scotland,Afghanistan,0,Sharjah Cricket Stadium
+6,D Murphy,4.0,5,0,0,80.0,notOut,notOut,notOut,notOut,2013-03-04,Scotland,Afghanistan,0,Sharjah Cricket Stadium
+6,D Murphy,5.0,4,1,0,125.0,notOut,notOut,notOut,notOut,2013-11-16,Scotland,Afghanistan,0,Sharjah Cricket Stadium
+4,D Murphy,20.0,21,0,0,95.23809523809523,SO Tikolo,['RR Patel'],caught,D Murphy,2013-11-19,Scotland,Kenya,0,ICC Academy
+0,DF Watts,46.0,36,9,0,127.77777777777777,Mohammad Hafeez,['Imran Nazir'],caught,DF Watts,2007-09-12,Scotland,Pakistan,0,Kingsmead
+0,DF Watts,7.0,11,1,0,63.63636363636363,GH O'Brien,0,lbw,DF Watts,2008-08-03,Scotland,Scotland,0,"Civil Service Cricket Club, Stormont"
+0,DF Watts,0.0,2,0,0,0.0,PC Connell,['AR Cusack'],caught,DF Watts,2010-02-11,Scotland,Ireland,0,Dubai International Cricket Stadium
+5,DF Watts,33.0,29,1,1,113.79310344827587,KJ O'Brien,['DT Johnston'],caught,DF Watts,2012-03-18,Scotland,Ireland,0,Dubai International Cricket Stadium
+5,DF Watts,18.0,16,1,0,112.5,Rizwan Cheema,['RA Bhatti'],caught,DF Watts,2012-03-23,Scotland,Scotland,0,Dubai International Cricket Stadium
+5,DR Brown,1.0,5,0,0,20.0,Shahid Afridi,['Imran Nazir'],caught,DR Brown,2007-09-12,Scotland,Pakistan,0,Kingsmead
+5,G Goudie,1.0,1,0,0,100.0,Shapoor Zadran,['Samiullah Shenwari'],run out,G Goudie,2013-11-16,Scotland,Afghanistan,0,Sharjah Cricket Stadium
+6,G Goudie,1.0,3,0,0,33.33333333333333,SO Tikolo,['TM Odoyo'],caught,G Goudie,2013-11-19,Scotland,Kenya,0,ICC Academy
+9,GA Rogers,1.0,3,0,0,33.33333333333333,notOut,notOut,notOut,notOut,2009-06-07,South Africa,South Africa,0,Kennington Oval
+6,GD Drummond,2.0,5,0,0,40.0,RN ten Doeschate,['E Schiferli'],run out,NS Poonia,2008-08-04,Scotland,Netherlands,0,"Civil Service Cricket Club, Stormont"
+7,GD Drummond,2.0,5,0,0,40.0,Mudassar Bukhari,['J Smits'],run out,RD Berrington,2008-08-04,Scotland,Netherlands,0,"Civil Service Cricket Club, Stormont"
+10,GD Drummond,1.0,2,0,0,50.0,JA Morkel,0,bowled,GD Drummond,2009-06-07,South Africa,South Africa,0,Kennington Oval
+6,GD Drummond,35.0,42,3,0,83.33333333333334,KJ O'Brien,['JF Mooney'],run out,SJS Smith,2010-02-11,Scotland,Ireland,0,Dubai International Cricket Stadium
+7,GD Drummond,35.0,42,3,0,83.33333333333334,GH Dockrell,['GC Wilson'],caught,GD Drummond,2010-02-11,Scotland,Ireland,0,Dubai International Cricket Stadium
+3,GM Hamilton,2.0,5,0,0,40.0,Shahid Afridi,['Umar Gul'],caught,GM Hamilton,2007-09-12,Scotland,Pakistan,0,Kingsmead
+4,GM Hamilton,7.0,11,0,0,63.63636363636363,RN ten Doeschate,['DJ Reekers'],caught,GM Hamilton,2008-08-04,Scotland,Netherlands,0,"Civil Service Cricket Club, Stormont"
+0,GM Hamilton,5.0,6,1,0,83.33333333333334,WD Parnell,['JP Duminy'],caught,GM Hamilton,2009-06-07,South Africa,South Africa,0,Kennington Oval
+1,GM Hamilton,5.0,3,1,0,166.66666666666669,PC Connell,0,lbw,GM Hamilton,2010-02-11,Scotland,Ireland,0,Dubai International Cricket Stadium
+0,HG Munsey,0.0,3,0,0,0.0,TE Kane,0,bowled,HG Munsey,2015-06-20,Scotland,Scotland,0,"Bready Cricket Club, Magheramason"
+0,HG Munsey,62.0,36,11,1,172.22222222222223,notOut,notOut,notOut,notOut,2015-07-09,United Arab Emirates,Scotland,0,"Grange Cricket Club Ground, Raeburn Place"
+0,HG Munsey,0.0,1,0,0,0.0,notOut,notOut,notOut,notOut,2015-07-11,Netherlands,Netherlands,0,"Grange Cricket Club Ground, Raeburn Place"
+0,HG Munsey,6.0,9,1,0,66.66666666666666,Mohammad Nabi,['Samiullah Shenwari'],caught,HG Munsey,2015-07-12,Afghanistan,Afghanistan,0,"Grange Cricket Club Ground, Raeburn Place"
+3,HG Munsey,25.0,20,4,0,125.0,notOut,notOut,notOut,notOut,2015-07-25,Scotland,Scotland,0,"The Village, Malahide"
+0,HG Munsey,17.0,10,2,1,170.0,Tanwir Afzal,['Babar Hayat'],caught,HG Munsey,2016-01-30,Scotland,Hong Kong,0,"Mission Road Ground, Mong Kok"
+0,HG Munsey,0.0,3,0,0,0.0,Haseeb Amjad,0,lbw,HG Munsey,2016-01-31,Scotland,Scotland,0,"Mission Road Ground, Mong Kok"
+0,HG Munsey,41.0,31,9,0,132.25806451612902,Rashid Khan,0,lbw,HG Munsey,2016-03-08,Scotland,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+0,HG Munsey,8.0,6,2,0,133.33333333333331,WP Masakadza,['R Mutumbami'],stumped,HG Munsey,2016-03-10,Zimbabwe,Zimbabwe,0,"Vidarbha Cricket Association Stadium, Jamtha"
+0,HG Munsey,19.0,11,4,0,172.72727272727272,Nadeem Ahmed,['RJ Campbell'],caught,HG Munsey,2016-03-12,Scotland,Scotland,0,"Vidarbha Cricket Association Stadium, Jamtha"
+0,HG Munsey,22.0,26,3,0,84.61538461538461,Ehsan Khan,0,lbw,HG Munsey,2017-01-14,Scotland,Scotland,0,Sheikh Zayed Stadium
+0,HG Munsey,4.0,4,1,0,100.0,RE van der Merwe,0,bowled,HG Munsey,2017-01-17,Scotland,Scotland,0,Sheikh Zayed Stadium
+0,HG Munsey,15.0,20,1,0,75.0,Khawar Ali,0,caught and bowled,HG Munsey,2017-01-19,Scotland,Scotland,0,Dubai International Cricket Stadium
+3,HG Munsey,1.0,3,0,0,33.33333333333333,GH Dockrell,0,caught and bowled,HG Munsey,2017-01-20,Scotland,Ireland,0,Dubai International Cricket Stadium
+9,I Wardlaw,1.0,3,0,0,33.33333333333333,SO Tikolo,['RG Aga'],caught,I Wardlaw,2013-11-19,Scotland,Kenya,0,ICC Academy
+9,JAR Blain,0.0,1,0,0,0.0,Umar Gul,0,bowled,JAR Blain,2007-09-12,Scotland,Pakistan,0,Kingsmead
+9,JAR Blain,3.0,2,0,0,150.0,Mudassar Bukhari,['PW Borren'],run out,GD Drummond,2008-08-04,Scotland,Netherlands,0,"Civil Service Cricket Club, Stormont"
+10,JD Nel,13.0,7,2,0,185.71428571428572,notOut,notOut,notOut,notOut,2007-09-12,Scotland,Pakistan,0,Kingsmead
+11,JD Nel,0.0,3,0,0,0.0,KJ O'Brien,0,bowled,JD Nel,2010-02-11,Scotland,Ireland,0,Dubai International Cricket Stadium
+7,JH Davey,8.0,7,1,0,114.28571428571428,RE van der Merwe,['BN Cooper'],caught,JH Davey,2015-07-11,Netherlands,Netherlands,0,"Grange Cricket Club Ground, Raeburn Place"
+6,JH Davey,4.0,3,0,0,133.33333333333331,notOut,notOut,notOut,notOut,2015-07-25,Scotland,Scotland,0,"The Village, Malahide"
+9,JH Davey,2.0,5,0,0,40.0,notOut,notOut,notOut,notOut,2016-02-04,Scotland,United Arab Emirates,0,ICC Academy
+8,JH Davey,24.0,13,1,2,184.6153846153846,T Panyangara,['Sikandar Raza'],caught,JH Davey,2016-03-10,Zimbabwe,Zimbabwe,0,"Vidarbha Cricket Association Stadium, Jamtha"
+8,JH Davey,9.0,8,1,0,112.5,notOut,notOut,notOut,notOut,2017-01-17,Scotland,Scotland,0,Sheikh Zayed Stadium
+8,JH Davey,1.0,3,0,0,33.33333333333333,KJ O'Brien,['WB Rankin'],caught,JH Davey,2017-01-20,Scotland,Ireland,0,Dubai International Cricket Stadium
+3,JH Stander,0.0,1,0,0,0.0,IG Butler,['PD McGlashan'],run out,NS Poonia,2009-06-06,Scotland,New Zealand,0,Kennington Oval
+7,JH Stander,2.0,6,0,0,33.33333333333333,J Botha,0,lbw,JH Stander,2009-06-07,South Africa,South Africa,0,Kennington Oval
+5,JH Stander,2.0,3,0,0,66.66666666666666,DT Johnston,['JF Mooney'],caught,JH Stander,2010-02-11,Scotland,Ireland,0,Dubai International Cricket Stadium
+4,JH Stander,21.0,14,1,1,150.0,MS Aulakh,0,bowled,JH Stander,2012-03-23,Scotland,Scotland,0,Dubai International Cricket Stadium
+1,KJ Coetzer,40.0,44,4,2,90.9090909090909,PM Seelaar,"['PW Borren', 'PM Seelaar']",run out,KJ Coetzer,2008-08-04,Scotland,Netherlands,0,"Civil Service Cricket Club, Stormont"
+2,KJ Coetzer,33.0,15,3,2,220.00000000000003,IG Butler,['PD McGlashan'],caught,KJ Coetzer,2009-06-06,Scotland,New Zealand,0,Kennington Oval
+3,KJ Coetzer,42.0,33,1,3,127.27272727272727,DW Steyn,"['WD Parnell', 'MV Boucher']",run out,NS Poonia,2009-06-07,South Africa,South Africa,0,Kennington Oval
+4,KJ Coetzer,42.0,33,1,3,127.27272727272727,RE van der Merwe,0,caught and bowled,KJ Coetzer,2009-06-07,South Africa,South Africa,0,Kennington Oval
+2,KJ Coetzer,43.0,39,3,1,110.25641025641026,AR Cusack,['WTS Porterfield'],caught,KJ Coetzer,2010-02-11,Scotland,Ireland,0,Dubai International Cricket Stadium
+3,KJ Coetzer,62.0,52,2,4,119.23076923076923,KJ O'Brien,"['WTS Porterfield', ""KJ O'Brien""]",run out,JH Stander,2012-03-18,Scotland,Ireland,0,Dubai International Cricket Stadium
+4,KJ Coetzer,62.0,52,2,4,119.23076923076923,KJ O'Brien,0,caught and bowled,KJ Coetzer,2012-03-18,Scotland,Ireland,0,Dubai International Cricket Stadium
+3,KJ Coetzer,22.0,30,1,0,73.33333333333333,AS Hansra,['HS Baidwan'],caught,KJ Coetzer,2012-03-23,Scotland,Scotland,0,Dubai International Cricket Stadium
+4,KJ Coetzer,16.0,22,2,0,72.72727272727273,Mohammad Nabi,['Mohammad Shahzad'],caught,KJ Coetzer,2013-03-03,Scotland,Afghanistan,0,Sharjah Cricket Stadium
+1,KJ Coetzer,9.0,13,1,0,69.23076923076923,Amir Hamza,['Gulbadin Naib'],caught,KJ Coetzer,2013-03-04,Scotland,Afghanistan,0,Sharjah Cricket Stadium
+3,KJ Coetzer,5.0,9,0,0,55.55555555555556,Shapoor Zadran,['Dawlat Zadran'],caught,KJ Coetzer,2013-11-16,Scotland,Afghanistan,0,Sharjah Cricket Stadium
+3,KJ Coetzer,15.0,5,2,1,300.0,HA Varaiya,0,bowled,KJ Coetzer,2013-11-19,Scotland,Kenya,0,ICC Academy
+4,KJ Coetzer,7.0,13,0,0,53.84615384615385,MR Swart,['BN Cooper'],caught,KJ Coetzer,2013-11-22,Scotland,Scotland,0,ICC Academy
+5,KJ Coetzer,7.0,6,1,0,116.66666666666667,Mudassar Bukhari,['TGJ Gruijters'],caught,KJ Coetzer,2013-11-28,Scotland,Netherlands,0,Sheikh Zayed Stadium
+2,KJ Coetzer,34.0,22,5,0,154.54545454545453,GH Dockrell,['SW Poynter'],stumped,KJ Coetzer,2015-06-20,Scotland,Scotland,0,"Bready Cricket Club, Magheramason"
+1,KJ Coetzer,39.0,16,9,0,243.75,Mohammad Naveed,0,bowled,KJ Coetzer,2015-07-09,United Arab Emirates,Scotland,0,"Grange Cricket Club Ground, Raeburn Place"
+1,KJ Coetzer,5.0,7,1,0,71.42857142857143,T van der Gugten,['T van der Gugten'],run out,HG Munsey,2015-07-11,Netherlands,Netherlands,0,"Grange Cricket Club Ground, Raeburn Place"
+2,KJ Coetzer,5.0,7,1,0,71.42857142857143,Mudassar Bukhari,['BN Cooper'],caught,KJ Coetzer,2015-07-11,Netherlands,Netherlands,0,"Grange Cricket Club Ground, Raeburn Place"
+1,KJ Coetzer,15.0,15,2,0,100.0,Mirwais Ashraf,['Mohammad Nabi'],caught,KJ Coetzer,2015-07-12,Afghanistan,Afghanistan,0,"Grange Cricket Club Ground, Raeburn Place"
+0,KJ Coetzer,33.0,19,5,1,173.6842105263158,Irfan Ahmed,['Anshuman Rath'],caught,KJ Coetzer,2015-07-25,Scotland,Scotland,0,"The Village, Malahide"
+1,KJ Coetzer,0.0,3,0,0,0.0,Haseeb Amjad,['JJ Atkinson'],caught,KJ Coetzer,2016-01-30,Scotland,Hong Kong,0,"Mission Road Ground, Mong Kok"
+2,KJ Coetzer,70.0,41,5,6,170.73170731707316,Aizaz Khan,['Nizakat Khan'],caught,KJ Coetzer,2016-01-31,Scotland,Scotland,0,"Mission Road Ground, Mong Kok"
+0,KJ Coetzer,0.0,2,0,0,0.0,Mohammad Naveed,['Saqlain Haider'],caught,KJ Coetzer,2016-02-04,Scotland,United Arab Emirates,0,ICC Academy
+1,KJ Coetzer,40.0,27,4,1,148.14814814814815,Samiullah Shenwari,['Najibullah Zadran'],caught,KJ Coetzer,2016-03-08,Scotland,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+1,KJ Coetzer,3.0,4,0,0,75.0,TL Chatara,['Sikandar Raza'],caught,KJ Coetzer,2016-03-10,Zimbabwe,Zimbabwe,0,"Vidarbha Cricket Association Stadium, Jamtha"
+1,KJ Coetzer,20.0,19,2,0,105.26315789473684,notOut,notOut,notOut,notOut,2016-03-12,Scotland,Scotland,0,"Vidarbha Cricket Association Stadium, Jamtha"
+1,KJ Coetzer,31.0,20,2,1,155.0,Ehsan Khan,['Aizaz Khan'],caught,KJ Coetzer,2017-01-14,Scotland,Scotland,0,Sheikh Zayed Stadium
+2,KJ Coetzer,4.0,7,1,0,57.14285714285714,PA van Meekeren,['RE van der Merwe'],caught,KJ Coetzer,2017-01-17,Scotland,Scotland,0,Sheikh Zayed Stadium
+1,KJ Coetzer,25.0,23,3,0,108.69565217391303,Zeeshan Maqsood,0,lbw,KJ Coetzer,2017-01-19,Scotland,Scotland,0,Dubai International Cricket Stadium
+0,KJ Coetzer,40.0,31,3,2,129.03225806451613,J Mulder,['WTS Porterfield'],caught,KJ Coetzer,2017-01-20,Scotland,Ireland,0,Dubai International Cricket Stadium
+3,MA Leask,4.0,6,0,0,66.66666666666666,PW Borren,0,bowled,MA Leask,2013-11-22,Scotland,Scotland,0,ICC Academy
+3,MA Leask,58.0,46,2,5,126.08695652173914,MR Swart,['BN Cooper'],caught,MA Leask,2013-11-28,Scotland,Netherlands,0,Sheikh Zayed Stadium
+3,MA Leask,13.0,11,2,0,118.18181818181819,GH Dockrell,0,bowled,MA Leask,2015-06-20,Scotland,Scotland,0,"Bready Cricket Club, Magheramason"
+8,MA Leask,1.0,3,0,0,33.33333333333333,MJG Rippon,['RE van der Merwe'],caught,MA Leask,2015-07-11,Netherlands,Netherlands,0,"Grange Cricket Club Ground, Raeburn Place"
+7,MA Leask,10.0,9,1,0,111.11111111111111,Mohammad Nabi,['Najibullah Zadran'],caught,MA Leask,2015-07-12,Afghanistan,Afghanistan,0,"Grange Cricket Club Ground, Raeburn Place"
+8,MA Leask,6.0,4,1,0,150.0,Mohammad Naveed,['SP Patil'],caught,MA Leask,2016-02-04,Scotland,United Arab Emirates,0,ICC Academy
+5,MA Leask,9.0,13,1,0,69.23076923076923,SC Williams,['R Mutumbami'],stumped,MA Leask,2016-03-10,Zimbabwe,Zimbabwe,0,"Vidarbha Cricket Association Stadium, Jamtha"
+6,MH Cross,1.0,2,0,0,50.0,Ahsan Malik,0,bowled,MH Cross,2013-11-28,Scotland,Netherlands,0,Sheikh Zayed Stadium
+1,MH Cross,48.0,31,6,1,154.83870967741936,GH Dockrell,['SW Poynter'],caught,MH Cross,2015-06-20,Scotland,Scotland,0,"Bready Cricket Club, Magheramason"
+4,MH Cross,22.0,15,5,0,146.66666666666666,RE van der Merwe,['Ahsan Malik'],caught,MH Cross,2015-07-11,Netherlands,Netherlands,0,"Grange Cricket Club Ground, Raeburn Place"
+3,MH Cross,37.0,22,2,3,168.1818181818182,Hamid Hassan,['Mohammad Nabi'],run out,CS MacLeod,2015-07-12,Afghanistan,Afghanistan,0,"Grange Cricket Club Ground, Raeburn Place"
+4,MH Cross,37.0,22,2,3,168.1818181818182,Mohammad Nabi,0,caught and bowled,MH Cross,2015-07-12,Afghanistan,Afghanistan,0,"Grange Cricket Club Ground, Raeburn Place"
+2,MH Cross,39.0,15,5,2,260.0,Tanwir Afzal,['Nadeem Ahmed'],caught,MH Cross,2015-07-25,Scotland,Scotland,0,"The Village, Malahide"
+2,MH Cross,7.0,5,1,0,140.0,Aizaz Khan,['JJ Atkinson'],caught,MH Cross,2016-01-30,Scotland,Hong Kong,0,"Mission Road Ground, Mong Kok"
+1,MH Cross,27.0,22,4,0,122.72727272727273,Nadeem Ahmed,['Nizakat Khan'],caught,MH Cross,2016-01-31,Scotland,Scotland,0,"Mission Road Ground, Mong Kok"
+1,MH Cross,20.0,20,1,2,100.0,Amjad Javed,['SP Patil'],caught,MH Cross,2016-02-04,Scotland,United Arab Emirates,0,ICC Academy
+6,MH Cross,2.0,2,0,0,100.0,notOut,notOut,notOut,notOut,2016-03-08,Scotland,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+2,MH Cross,0.0,1,0,0,0.0,TL Chatara,['R Mutumbami'],caught,MH Cross,2016-03-10,Zimbabwe,Zimbabwe,0,"Vidarbha Cricket Association Stadium, Jamtha"
+2,MH Cross,22.0,14,1,2,157.14285714285714,Aizaz Khan,['Nizakat Khan'],caught,MH Cross,2016-03-12,Scotland,Scotland,0,"Vidarbha Cricket Association Stadium, Jamtha"
+1,MH Cross,4.0,13,0,0,30.76923076923077,PA van Meekeren,['W Barresi'],caught,MH Cross,2017-01-17,Scotland,Scotland,0,Sheikh Zayed Stadium
+2,MH Cross,47.0,41,3,2,114.6341463414634,Bilal Khan,['A Poulose'],caught,MH Cross,2017-01-19,Scotland,Scotland,0,Dubai International Cricket Stadium
+1,MH Cross,35.0,16,3,3,218.75,WB Rankin,['AR McBrine'],caught,MH Cross,2017-01-20,Scotland,Ireland,0,Dubai International Cricket Stadium
+7,MM Iqbal,3.0,7,0,0,42.857142857142854,Aftab Alam,0,bowled,MM Iqbal,2013-03-03,Scotland,Afghanistan,0,Sharjah Cricket Stadium
+5,MM Iqbal,31.0,27,4,0,114.81481481481481,Hamid Hassan,0,bowled,MM Iqbal,2013-03-04,Scotland,Afghanistan,0,Sharjah Cricket Stadium
+11,MRJ Watt,0.0,2,0,0,0.0,Mudassar Bukhari,['RE van der Merwe'],caught,MRJ Watt,2015-07-11,Netherlands,Netherlands,0,"Grange Cricket Club Ground, Raeburn Place"
+11,MRJ Watt,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2015-07-12,Afghanistan,Afghanistan,0,"Grange Cricket Club Ground, Raeburn Place"
+9,MRJ Watt,11.0,6,0,1,183.33333333333331,notOut,notOut,notOut,notOut,2016-01-31,Scotland,Scotland,0,"Mission Road Ground, Mong Kok"
+11,MRJ Watt,4.0,3,1,0,133.33333333333331,Amjad Javed,0,bowled,MRJ Watt,2016-02-04,Scotland,United Arab Emirates,0,ICC Academy
+9,MRJ Watt,9.0,5,1,0,180.0,notOut,notOut,notOut,notOut,2016-03-10,Zimbabwe,Zimbabwe,0,"Vidarbha Cricket Association Stadium, Jamtha"
+9,MRJ Watt,6.0,4,1,0,150.0,GH Dockrell,0,lbw,MRJ Watt,2017-01-20,Scotland,Ireland,0,Dubai International Cricket Stadium
+5,MW Machan,42.0,38,6,0,110.5263157894737,notOut,notOut,notOut,notOut,2013-03-03,Scotland,Afghanistan,0,Sharjah Cricket Stadium
+3,MW Machan,39.0,29,3,1,134.48275862068965,Samiullah Shenwari,0,caught and bowled,MW Machan,2013-03-04,Scotland,Afghanistan,0,Sharjah Cricket Stadium
+2,MW Machan,54.0,39,4,2,138.46153846153845,Shapoor Zadran,0,lbw,MW Machan,2013-11-16,Scotland,Afghanistan,0,Sharjah Cricket Stadium
+2,MW Machan,13.0,6,3,0,216.66666666666666,SO Ngoche,0,caught and bowled,MW Machan,2013-11-19,Scotland,Kenya,0,ICC Academy
+2,MW Machan,67.0,48,6,1,139.58333333333331,notOut,notOut,notOut,notOut,2013-11-22,Scotland,Scotland,0,ICC Academy
+1,MW Machan,61.0,53,7,0,115.09433962264151,Ahsan Malik,['TGJ Gruijters'],caught,MW Machan,2013-11-28,Scotland,Netherlands,0,Sheikh Zayed Stadium
+3,MW Machan,10.0,7,1,0,142.85714285714286,notOut,notOut,notOut,notOut,2016-01-30,Scotland,Hong Kong,0,"Mission Road Ground, Mong Kok"
+3,MW Machan,6.0,9,1,0,66.66666666666666,Tanwir Afzal,['Nadeem Ahmed'],caught,MW Machan,2016-01-31,Scotland,Scotland,0,"Mission Road Ground, Mong Kok"
+3,MW Machan,12.0,10,2,0,120.0,notOut,notOut,notOut,notOut,2016-02-04,Scotland,United Arab Emirates,0,ICC Academy
+2,MW Machan,36.0,32,0,1,112.5,Mohammad Nabi,['Asghar Stanikzai'],caught,MW Machan,2016-03-08,Scotland,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+3,MW Machan,9.0,6,2,0,150.0,WP Masakadza,['CJ Chibhabha (sub)'],caught,MW Machan,2016-03-10,Zimbabwe,Zimbabwe,0,"Vidarbha Cricket Association Stadium, Jamtha"
+3,MW Machan,15.0,4,2,1,375.0,notOut,notOut,notOut,notOut,2016-03-12,Scotland,Scotland,0,"Vidarbha Cricket Association Stadium, Jamtha"
+4,NFI McCallum,0.0,2,0,0,0.0,Shahid Afridi,['Mohammad Asif'],caught,NFI McCallum,2007-09-12,Scotland,Pakistan,0,Kingsmead
+5,NFI McCallum,0.0,1,0,0,0.0,RN ten Doeschate,['E Schiferli'],caught,NFI McCallum,2008-08-04,Scotland,Netherlands,0,"Civil Service Cricket Club, Stormont"
+6,NFI McCallum,8.0,16,1,0,50.0,J Botha,0,bowled,NFI McCallum,2009-06-07,South Africa,South Africa,0,Kennington Oval
+4,NFI McCallum,0.0,2,0,0,0.0,DT Johnston,['AC Botha'],caught,NFI McCallum,2010-02-11,Scotland,Ireland,0,Dubai International Cricket Stadium
+3,NM Carter,3.0,7,0,0,42.857142857142854,Karim Sadiq,['Samiullah Shenwari'],caught,NM Carter,2013-03-03,Scotland,Afghanistan,0,Sharjah Cricket Stadium
+8,NM Carter,1.0,6,0,0,16.666666666666664,SO Ngoche,['HA Varaiya'],caught,NM Carter,2013-11-19,Scotland,Kenya,0,ICC Academy
+2,NS Poonia,4.0,6,0,0,66.66666666666666,Umar Gul,0,bowled,NS Poonia,2007-09-12,Scotland,Pakistan,0,Kingsmead
+2,NS Poonia,38.0,55,0,0,69.0909090909091,notOut,notOut,notOut,notOut,2008-08-03,Scotland,Scotland,0,"Civil Service Cricket Club, Stormont"
+2,NS Poonia,25.0,27,1,0,92.5925925925926,notOut,notOut,notOut,notOut,2008-08-04,Scotland,Netherlands,0,"Civil Service Cricket Club, Stormont"
+1,NS Poonia,27.0,15,2,1,180.0,notOut,notOut,notOut,notOut,2009-06-06,Scotland,New Zealand,0,Kennington Oval
+2,NS Poonia,0.0,1,0,0,0.0,notOut,notOut,notOut,notOut,2009-06-07,South Africa,South Africa,0,Kennington Oval
+1,PL Mommsen,13.0,12,3,0,108.33333333333333,DT Johnston,0,lbw,PL Mommsen,2012-03-18,Scotland,Ireland,0,Dubai International Cricket Stadium
+2,PL Mommsen,0.0,4,0,0,0.0,Junaid Siddiqui,0,bowled,PL Mommsen,2012-03-23,Scotland,Scotland,0,Dubai International Cricket Stadium
+6,PL Mommsen,13.0,23,0,0,56.52173913043478,Mohammad Nabi,['Nawroz Mangal'],caught,PL Mommsen,2013-03-03,Scotland,Afghanistan,0,Sharjah Cricket Stadium
+4,PL Mommsen,8.0,9,0,0,88.88888888888889,Mohammad Nabi,0,caught and bowled,PL Mommsen,2013-03-04,Scotland,Afghanistan,0,Sharjah Cricket Stadium
+5,PL Mommsen,47.0,31,5,1,151.61290322580646,notOut,notOut,notOut,notOut,2015-06-20,Scotland,Scotland,0,"Bready Cricket Club, Magheramason"
+6,PL Mommsen,68.0,44,5,3,154.54545454545453,Mudassar Bukhari,['Mudassar Bukhari'],run out,SM Sharif,2015-07-11,Netherlands,Netherlands,0,"Grange Cricket Club Ground, Raeburn Place"
+6,PL Mommsen,44.0,21,3,4,209.52380952380955,Hamid Hassan,['Shafiqullah'],caught,PL Mommsen,2015-07-12,Afghanistan,Afghanistan,0,"Grange Cricket Club Ground, Raeburn Place"
+5,PL Mommsen,10.0,8,0,1,125.0,Aizaz Khan,['JJ Atkinson'],caught,PL Mommsen,2015-07-25,Scotland,Scotland,0,"The Village, Malahide"
+6,PL Mommsen,4.0,7,0,0,57.14285714285714,Anshuman Rath,['JJ Atkinson'],run out,PL Mommsen,2016-01-30,Scotland,Hong Kong,0,"Mission Road Ground, Mong Kok"
+5,PL Mommsen,13.0,15,2,0,86.66666666666667,Anshuman Rath,0,lbw,PL Mommsen,2016-01-31,Scotland,Scotland,0,"Mission Road Ground, Mong Kok"
+4,PL Mommsen,56.0,42,4,2,133.33333333333331,Mohammad Shahzad (2),['Shaiman Anwar'],run out,MW Machan,2016-02-04,Scotland,United Arab Emirates,0,ICC Academy
+5,PL Mommsen,56.0,42,4,2,133.33333333333331,Amjad Javed,"['Mohammad Usman', 'Amjad Javed']",run out,JH Davey,2016-02-04,Scotland,United Arab Emirates,0,ICC Academy
+6,PL Mommsen,56.0,42,4,2,133.33333333333331,Rohan Mustafa,0,caught and bowled,PL Mommsen,2016-02-04,Scotland,United Arab Emirates,0,ICC Academy
+5,PL Mommsen,17.0,19,0,0,89.47368421052632,notOut,notOut,notOut,notOut,2016-03-08,Scotland,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+6,PL Mommsen,31.0,29,2,0,106.89655172413792,WP Masakadza,['CJ Chibhabha (sub)'],caught,PL Mommsen,2016-03-10,Zimbabwe,Zimbabwe,0,"Vidarbha Cricket Association Stadium, Jamtha"
+6,R Flannigan,18.0,13,1,0,138.46153846153845,KJ O'Brien,['DT Johnston'],caught,R Flannigan,2012-03-18,Scotland,Ireland,0,Dubai International Cricket Stadium
+6,R Flannigan,15.0,15,2,0,100.0,notOut,notOut,notOut,notOut,2012-03-23,Scotland,Scotland,0,Dubai International Cricket Stadium
+8,RD Berrington,2.0,3,0,0,66.66666666666666,notOut,notOut,notOut,notOut,2008-08-04,Scotland,Netherlands,0,"Civil Service Cricket Club, Stormont"
+3,RD Berrington,0.0,3,0,0,0.0,DT Johnston,['AC Botha'],caught,RD Berrington,2010-02-11,Scotland,Ireland,0,Dubai International Cricket Stadium
+0,RD Berrington,0.0,3,0,0,0.0,DT Johnston,0,bowled,RD Berrington,2012-03-18,Scotland,Ireland,0,Dubai International Cricket Stadium
+0,RD Berrington,47.0,38,7,0,123.6842105263158,PA Desai,0,lbw,RD Berrington,2012-03-23,Scotland,Scotland,0,Dubai International Cricket Stadium
+0,RD Berrington,15.0,20,2,0,75.0,Hamid Hassan,['Amir Hamza'],run out,CS MacLeod,2013-03-03,Scotland,Afghanistan,0,Sharjah Cricket Stadium
+1,RD Berrington,15.0,20,2,0,75.0,Samiullah Shenwari,['Nawroz Mangal'],caught,RD Berrington,2013-03-03,Scotland,Afghanistan,0,Sharjah Cricket Stadium
+0,RD Berrington,0.0,3,0,0,0.0,Hamid Hassan,0,bowled,RD Berrington,2013-03-04,Scotland,Afghanistan,0,Sharjah Cricket Stadium
+0,RD Berrington,19.0,15,3,0,126.66666666666666,Samiullah Shenwari,['Noor Ali Zadran'],caught,RD Berrington,2013-11-16,Scotland,Afghanistan,0,Sharjah Cricket Stadium
+0,RD Berrington,19.0,14,2,1,135.71428571428572,NN Odhiambo,['SO Ngoche'],caught,RD Berrington,2013-11-19,Scotland,Kenya,0,ICC Academy
+0,RD Berrington,38.0,32,4,1,118.75,Ahsan Malik,['BN Cooper'],caught,RD Berrington,2013-11-22,Scotland,Scotland,0,ICC Academy
+0,RD Berrington,0.0,3,0,0,0.0,TGJ Gruijters,0,bowled,RD Berrington,2013-11-28,Scotland,Netherlands,0,Sheikh Zayed Stadium
+4,RD Berrington,20.0,15,2,0,133.33333333333331,notOut,notOut,notOut,notOut,2015-06-20,Scotland,Scotland,0,"Bready Cricket Club, Magheramason"
+5,RD Berrington,2.0,3,0,0,66.66666666666666,PM Seelaar,['Mudassar Bukhari'],caught,RD Berrington,2015-07-11,Netherlands,Netherlands,0,"Grange Cricket Club Ground, Raeburn Place"
+5,RD Berrington,24.0,17,2,1,141.1764705882353,Mirwais Ashraf,['Shafiqullah'],caught,RD Berrington,2015-07-12,Afghanistan,Afghanistan,0,"Grange Cricket Club Ground, Raeburn Place"
+4,RD Berrington,3.0,6,0,0,50.0,Irfan Ahmed,['JJ Atkinson'],caught,RD Berrington,2015-07-25,Scotland,Scotland,0,"The Village, Malahide"
+4,RD Berrington,5.0,9,0,0,55.55555555555556,Nadeem Ahmed,['KD Shah'],run out,MW Machan,2016-01-30,Scotland,Hong Kong,0,"Mission Road Ground, Mong Kok"
+5,RD Berrington,5.0,9,0,0,55.55555555555556,Nadeem Ahmed,['Waqas Barkat'],caught,RD Berrington,2016-01-30,Scotland,Hong Kong,0,"Mission Road Ground, Mong Kok"
+4,RD Berrington,14.0,17,0,1,82.35294117647058,Nadeem Ahmed,['JJ Atkinson'],caught,RD Berrington,2016-01-31,Scotland,Scotland,0,"Mission Road Ground, Mong Kok"
+7,RD Berrington,16.0,13,0,1,123.07692307692308,Zaheer Maqsood,['Rohan Mustafa'],caught,RD Berrington,2016-02-04,Scotland,United Arab Emirates,0,ICC Academy
+4,RD Berrington,8.0,11,0,0,72.72727272727273,Rashid Khan,['Mohammad Shahzad'],stumped,RD Berrington,2016-03-08,Scotland,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+4,RD Berrington,36.0,40,1,1,90.0,DT Tiripano,['TL Chatara'],caught,RD Berrington,2016-03-10,Zimbabwe,Zimbabwe,0,"Vidarbha Cricket Association Stadium, Jamtha"
+3,RD Berrington,60.0,40,2,2,150.0,notOut,notOut,notOut,notOut,2017-01-14,Scotland,Scotland,0,Sheikh Zayed Stadium
+4,RD Berrington,38.0,30,4,0,126.66666666666666,RE van der Merwe,0,lbw,RD Berrington,2017-01-17,Scotland,Scotland,0,Sheikh Zayed Stadium
+4,RD Berrington,10.0,10,0,1,100.0,GH Dockrell,['J Mulder'],caught,RD Berrington,2017-01-20,Scotland,Ireland,0,Dubai International Cricket Stadium
+7,RM Haq,14.0,33,0,0,42.42424242424242,Mohammad Asif,0,bowled,RM Haq,2007-09-12,Scotland,Pakistan,0,Kingsmead
+8,RM Haq,15.0,20,0,0,75.0,RE van der Merwe,0,bowled,RM Haq,2009-06-07,South Africa,South Africa,0,Kennington Oval
+10,RM Haq,1.0,2,0,0,50.0,notOut,notOut,notOut,notOut,2010-02-11,Scotland,Ireland,0,Dubai International Cricket Stadium
+7,RM Haq,7.0,6,1,0,116.66666666666667,notOut,notOut,notOut,notOut,2012-03-18,Scotland,Ireland,0,Dubai International Cricket Stadium
+7,RM Haq,2.0,2,0,0,100.0,notOut,notOut,notOut,notOut,2012-03-23,Scotland,Scotland,0,Dubai International Cricket Stadium
+7,RM Haq,0.0,1,0,0,0.0,Hamid Hassan,0,bowled,RM Haq,2013-03-04,Scotland,Afghanistan,0,Sharjah Cricket Stadium
+4,RML Taylor,6.0,6,1,0,100.0,Dawlat Zadran,['Shafiqullah (sub)'],run out,RML Taylor,2013-11-16,Scotland,Afghanistan,0,Sharjah Cricket Stadium
+5,RML Taylor,17.0,13,0,2,130.76923076923077,TM Odoyo,['RR Patel'],caught,RML Taylor,2013-11-19,Scotland,Kenya,0,ICC Academy
+5,RML Taylor,41.0,19,4,2,215.78947368421052,notOut,notOut,notOut,notOut,2013-11-22,Scotland,Scotland,0,ICC Academy
+4,RML Taylor,7.0,8,0,0,87.5,notOut,notOut,notOut,notOut,2013-11-28,Scotland,Netherlands,0,Sheikh Zayed Stadium
+8,RML Taylor,6.0,6,0,0,100.0,notOut,notOut,notOut,notOut,2016-01-30,Scotland,Hong Kong,0,"Mission Road Ground, Mong Kok"
+7,RML Taylor,8.0,6,1,0,133.33333333333331,Haseeb Amjad,['Babar Hayat'],caught,RML Taylor,2016-01-31,Scotland,Scotland,0,"Mission Road Ground, Mong Kok"
+1,RR Watson,2.0,4,0,0,50.0,Umar Gul,['Mohammad Hafeez'],caught,RR Watson,2007-09-12,Scotland,Pakistan,0,Kingsmead
+1,RR Watson,0.0,1,0,0,0.0,GH O'Brien,['IH Romaine'],caught,RR Watson,2008-08-03,Scotland,Scotland,0,"Civil Service Cricket Club, Stormont"
+0,RR Watson,22.0,28,1,0,78.57142857142857,PW Borren,0,bowled,RR Watson,2008-08-04,Scotland,Netherlands,0,"Civil Service Cricket Club, Stormont"
+0,RR Watson,27.0,10,6,0,270.0,IG Butler,['LRPL Taylor'],caught,RR Watson,2009-06-06,Scotland,New Zealand,0,Kennington Oval
+1,RR Watson,4.0,5,1,0,80.0,DW Steyn,0,bowled,RR Watson,2009-06-07,South Africa,South Africa,0,Kennington Oval
+9,RT Lyons,0.0,2,0,0,0.0,GH Dockrell,['DT Johnston'],caught,RT Lyons,2010-02-11,Scotland,Ireland,0,Dubai International Cricket Stadium
+8,SJS Smith,8.0,11,1,0,72.72727272727273,notOut,notOut,notOut,notOut,2010-02-11,Scotland,Ireland,0,Dubai International Cricket Stadium
+7,SM Sharif,0.0,2,0,0,0.0,SO Tikolo,['RG Aga'],caught,SM Sharif,2013-11-19,Scotland,Kenya,0,ICC Academy
+7,SM Sharif,3.0,3,0,0,100.0,notOut,notOut,notOut,notOut,2013-11-28,Scotland,Netherlands,0,Sheikh Zayed Stadium
+9,SM Sharif,26.0,17,3,0,152.94117647058823,notOut,notOut,notOut,notOut,2015-07-11,Netherlands,Netherlands,0,"Grange Cricket Club Ground, Raeburn Place"
+8,SM Sharif,8.0,7,1,0,114.28571428571428,Dawlat Zadran,['Shafiqullah'],caught,SM Sharif,2015-07-12,Afghanistan,Afghanistan,0,"Grange Cricket Club Ground, Raeburn Place"
+8,SM Sharif,0.0,2,0,0,0.0,Nadeem Ahmed,['MS Chapman'],caught,SM Sharif,2016-01-31,Scotland,Scotland,0,"Mission Road Ground, Mong Kok"
+10,SM Sharif,5.0,5,0,0,100.0,notOut,notOut,notOut,notOut,2016-02-04,Scotland,United Arab Emirates,0,ICC Academy
+7,SM Sharif,1.0,3,0,0,33.33333333333333,WP Masakadza,['R Mutumbami'],stumped,SM Sharif,2016-03-10,Zimbabwe,Zimbabwe,0,"Vidarbha Cricket Association Stadium, Jamtha"
+7,SM Sharif,20.0,12,0,2,166.66666666666669,notOut,notOut,notOut,notOut,2017-01-17,Scotland,Scotland,0,Sheikh Zayed Stadium
+5,SM Sharif,2.0,4,0,0,50.0,J Mulder,['GH Dockrell'],caught,SM Sharif,2017-01-20,Scotland,Ireland,0,Dubai International Cricket Stadium

@@ -1,0 +1,106 @@
+,batsman,runs,balls,4s,6s,SR,bowler,fielders,kind,player_out,date,team2,winner,result,venue
+5,A Javid,8,10,1,0,80.0,MJ Henry,['AN Kervezee'],run out,MR Adair,2016-05-27,Worcestershire,Worcestershire,0,Edgbaston
+6,A Javid,8,10,1,0,80.0,MJ Henry,['T Kohler-Cadmore'],caught,A Javid,2016-05-27,Worcestershire,Worcestershire,0,Edgbaston
+7,A Javid,4,1,1,0,400.0,notOut,notOut,notOut,notOut,2016-06-17,Warwickshire,Warwickshire,0,County Ground
+6,A Javid,34,27,3,0,125.92592592592592,notOut,notOut,notOut,notOut,2016-07-01,Northamptonshire,Northamptonshire,0,Edgbaston
+6,A Javid,8,8,0,0,100.0,DJ Willey,['DJ Willey'],run out,R Clarke,2016-07-08,Warwickshire,Yorkshire,0,Headingley
+7,A Javid,8,8,0,0,100.0,TT Bresnan,['AJ Hodd'],run out,JE Poysden,2016-07-08,Warwickshire,Yorkshire,0,Headingley
+8,A Javid,8,8,0,0,100.0,TT Bresnan,['A Lyth'],run out,A Javid,2016-07-08,Warwickshire,Yorkshire,0,Headingley
+6,A Javid,6,5,0,0,120.0,GH Rhodes,['EG Barnard'],run out,A Javid,2016-07-15,Warwickshire,Worcestershire,0,"County Ground, New Road"
+5,A Javid,2,3,0,0,66.66666666666666,GG White,0,lbw,A Javid,2016-07-19,Warwickshire,Northamptonshire,0,County Ground
+6,A Javid,4,7,0,0,57.14285714285714,S Mahmood,['LS Livingstone'],caught,A Javid,2016-07-29,Warwickshire,Lancashire,0,Old Trafford
+4,AD Thomason,6,6,0,0,100.0,JDS Neesham,['SJ Thakor'],caught,AD Thomason,2016-06-17,Warwickshire,Warwickshire,0,County Ground
+5,AD Thomason,3,7,0,0,42.857142857142854,J Leach,['RA Whiteley'],caught,AD Thomason,2016-07-15,Warwickshire,Worcestershire,0,"County Ground, New Road"
+6,AD Thomason,3,5,0,0,60.0,S Prasanna,['AM Rossington'],stumped,AD Thomason,2016-07-19,Warwickshire,Northamptonshire,0,County Ground
+5,CR Woakes,16,12,1,1,133.33333333333331,notOut,notOut,notOut,notOut,2016-05-20,Warwickshire,Warwickshire,0,Trent Bridge
+5,CR Woakes,2,3,0,0,66.66666666666666,JDS Neesham,['MJJ Critchley'],run out,CR Woakes,2016-06-17,Warwickshire,Warwickshire,0,County Ground
+5,CR Woakes,13,13,0,0,100.0,AM Lilley,['LA Procter'],caught,CR Woakes,2016-06-19,Lancashire,Warwickshire,0,Edgbaston
+0,IR Bell,11,14,1,1,78.57142857142857,BA Hutton,['SR Patel'],caught,IR Bell,2016-05-20,Warwickshire,Warwickshire,0,Trent Bridge
+1,IR Bell,66,61,5,2,108.19672131147541,J Leach,"[""BL D'Oliveira""]",caught,IR Bell,2016-05-27,Worcestershire,Worcestershire,0,Edgbaston
+1,IR Bell,35,27,3,1,129.62962962962962,SG Borthwick,0,bowled,IR Bell,2016-06-03,Durham,Warwickshire,0,Edgbaston
+1,IR Bell,67,55,5,2,121.81818181818183,A Carter,['WL Madsen'],caught,IR Bell,2016-06-17,Warwickshire,Warwickshire,0,County Ground
+1,IR Bell,18,10,3,0,180.0,NL Buck,['MJ Guptill'],caught,IR Bell,2016-06-19,Lancashire,Warwickshire,0,Edgbaston
+1,IR Bell,36,39,3,1,92.3076923076923,notOut,notOut,notOut,notOut,2016-06-24,Warwickshire,Warwickshire,0,Grace Road
+1,IR Bell,2,2,0,0,100.0,RJ Gleeson,0,bowled,IR Bell,2016-07-01,Northamptonshire,Northamptonshire,0,Edgbaston
+2,IR Bell,30,23,4,0,130.43478260869566,AU Rashid,['AJ Hodd'],stumped,IR Bell,2016-07-08,Warwickshire,Yorkshire,0,Headingley
+1,IR Bell,12,12,2,0,100.0,MJ Henry,['T Kohler-Cadmore'],caught,IR Bell,2016-07-15,Warwickshire,Worcestershire,0,"County Ground, New Road"
+1,IR Bell,57,35,4,4,162.85714285714286,RML Taylor,"[""NJ O'Brien""]",caught,IR Bell,2016-07-17,Leicestershire,Warwickshire,0,Edgbaston
+1,IR Bell,62,39,11,0,158.97435897435898,GG White,['RI Keogh'],caught,IR Bell,2016-07-19,Warwickshire,Northamptonshire,0,County Ground
+1,IR Bell,80,56,3,5,142.85714285714286,HF Gurney,['SJ Mullaney'],caught,IR Bell,2016-07-22,Nottinghamshire,Nottinghamshire,0,Edgbaston
+1,IR Bell,13,7,2,0,185.71428571428572,S Mahmood,['TJ Moores'],caught,IR Bell,2016-07-29,Warwickshire,Lancashire,0,Old Trafford
+10,JE Poysden,1,1,0,0,100.0,notOut,notOut,notOut,notOut,2016-06-19,Lancashire,Warwickshire,0,Edgbaston
+9,JE Poysden,1,1,0,0,100.0,notOut,notOut,notOut,notOut,2016-07-15,Warwickshire,Worcestershire,0,"County Ground, New Road"
+10,JE Poysden,9,5,1,0,180.0,notOut,notOut,notOut,notOut,2016-07-19,Warwickshire,Northamptonshire,0,County Ground
+9,JE Poysden,1,1,0,0,100.0,notOut,notOut,notOut,notOut,2016-07-29,Warwickshire,Lancashire,0,Old Trafford
+8,JS Patel,0,1,0,0,0.0,notOut,notOut,notOut,notOut,2016-05-27,Worcestershire,Worcestershire,0,Edgbaston
+8,JS Patel,0,3,0,0,0.0,GA Edwards,['SJ Croft'],caught,JS Patel,2016-06-19,Lancashire,Warwickshire,0,Edgbaston
+8,JS Patel,7,8,0,0,87.5,GG White,['AM Rossington'],stumped,JS Patel,2016-07-01,Northamptonshire,Northamptonshire,0,Edgbaston
+9,JS Patel,0,1,0,0,0.0,DJ Willey,['JA Leaning'],caught,JS Patel,2016-07-08,Warwickshire,Yorkshire,0,Headingley
+7,JS Patel,0,2,0,0,0.0,GH Rhodes,['DKH Mitchell'],caught,JS Patel,2016-07-15,Warwickshire,Worcestershire,0,"County Ground, New Road"
+8,JS Patel,1,3,0,0,33.33333333333333,GG White,['RJ Gleeson'],caught,JS Patel,2016-07-19,Warwickshire,Northamptonshire,0,County Ground
+7,JS Patel,6,8,0,0,75.0,notOut,notOut,notOut,notOut,2016-07-29,Warwickshire,Lancashire,0,Old Trafford
+5,KHD Barker,4,8,0,0,50.0,notOut,notOut,notOut,notOut,2016-07-17,Leicestershire,Warwickshire,0,Edgbaston
+7,KHD Barker,1,2,0,0,50.0,GG White,['AM Rossington'],stumped,KHD Barker,2016-07-19,Warwickshire,Northamptonshire,0,County Ground
+4,L Ronchi,22,10,3,1,220.00000000000003,DT Christian,['SJ Mullaney'],caught,L Ronchi,2016-05-20,Warwickshire,Warwickshire,0,Trent Bridge
+4,L Ronchi,21,19,2,1,110.5263157894737,J Leach,['AN Kervezee'],caught,L Ronchi,2016-05-27,Worcestershire,Worcestershire,0,Edgbaston
+3,L Ronchi,9,9,1,0,100.0,AL Hughes,['CF Hughes'],caught,L Ronchi,2016-06-17,Warwickshire,Warwickshire,0,County Ground
+4,L Ronchi,53,36,3,4,147.22222222222223,NL Buck,['GA Edwards'],caught,L Ronchi,2016-06-19,Lancashire,Warwickshire,0,Edgbaston
+4,L Ronchi,7,6,1,0,116.66666666666667,RJ Gleeson,['RE Levi'],caught,L Ronchi,2016-07-01,Northamptonshire,Northamptonshire,0,Edgbaston
+3,LJ Evans,10,12,1,0,83.33333333333334,SKW Wood,0,lbw,LJ Evans,2016-05-20,Warwickshire,Warwickshire,0,Trent Bridge
+3,LJ Evans,2,5,0,0,40.0,BL D'Oliveira,0,lbw,LJ Evans,2016-05-27,Worcestershire,Worcestershire,0,Edgbaston
+2,LJ Evans,17,18,1,0,94.44444444444444,SJ Thakor,['JDS Neesham'],caught,LJ Evans,2016-06-17,Warwickshire,Warwickshire,0,County Ground
+3,LJ Evans,24,26,4,0,92.3076923076923,SD Parry,['JC Buttler'],stumped,LJ Evans,2016-06-19,Lancashire,Warwickshire,0,Edgbaston
+3,LJ Evans,52,30,8,2,173.33333333333334,notOut,notOut,notOut,notOut,2016-06-24,Warwickshire,Warwickshire,0,Grace Road
+3,LJ Evans,0,5,0,0,0.0,MA Ashraf,['RE Levi'],caught,LJ Evans,2016-07-01,Northamptonshire,Northamptonshire,0,Edgbaston
+4,LJ Evans,37,29,2,2,127.58620689655173,Azeem Rafiq,['KS Williamson'],caught,LJ Evans,2016-07-08,Warwickshire,Yorkshire,0,Headingley
+3,LJ Evans,8,11,1,0,72.72727272727273,GH Rhodes,"[""BL D'Oliveira""]",caught,LJ Evans,2016-07-15,Warwickshire,Worcestershire,0,"County Ground, New Road"
+3,LJ Evans,9,10,1,0,90.0,CS Delport,['BA Raine'],caught,LJ Evans,2016-07-17,Leicestershire,Warwickshire,0,Edgbaston
+3,LJ Evans,13,9,2,0,144.44444444444443,S Prasanna,0,bowled,LJ Evans,2016-07-19,Warwickshire,Northamptonshire,0,County Ground
+5,LJ Evans,7,14,0,0,50.0,AM Lilley,['TC Smith'],caught,LJ Evans,2016-07-29,Warwickshire,Lancashire,0,Old Trafford
+7,MR Adair,2,2,0,0,100.0,notOut,notOut,notOut,notOut,2016-05-27,Worcestershire,Worcestershire,0,Edgbaston
+7,MR Adair,7,9,1,0,77.77777777777779,NL Buck,['SJ Croft'],caught,MR Adair,2016-06-19,Lancashire,Warwickshire,0,Edgbaston
+7,MR Adair,2,5,0,0,40.0,JJ Cobb,0,bowled,MR Adair,2016-07-01,Northamptonshire,Northamptonshire,0,Edgbaston
+3,MS Wade,6,8,0,0,75.0,AU Rashid,['AZ Lees'],caught,MS Wade,2016-07-08,Warwickshire,Yorkshire,0,Headingley
+2,MS Wade,74,33,6,4,224.24242424242422,EG Barnard,['GH Rhodes'],caught,MS Wade,2016-07-15,Warwickshire,Worcestershire,0,"County Ground, New Road"
+2,MS Wade,5,3,1,0,166.66666666666669,CJ McKay,0,lbw,MS Wade,2016-07-17,Leicestershire,Warwickshire,0,Edgbaston
+2,MS Wade,0,1,0,0,0.0,RK Kleinveldt,['RE Levi'],caught,MS Wade,2016-07-19,Warwickshire,Northamptonshire,0,County Ground
+3,MS Wade,7,3,1,0,233.33333333333334,notOut,notOut,notOut,notOut,2016-07-22,Nottinghamshire,Nottinghamshire,0,Edgbaston
+3,MS Wade,16,21,0,0,76.19047619047619,SJ Croft,0,bowled,MS Wade,2016-07-29,Warwickshire,Lancashire,0,Old Trafford
+9,OJ Hannon-Dalby,3,4,0,0,75.0,notOut,notOut,notOut,notOut,2016-06-19,Lancashire,Warwickshire,0,Edgbaston
+9,OJ Hannon-Dalby,5,10,0,0,50.0,notOut,notOut,notOut,notOut,2016-07-01,Northamptonshire,Northamptonshire,0,Edgbaston
+11,OJ Hannon-Dalby,2,2,0,0,100.0,notOut,notOut,notOut,notOut,2016-07-08,Warwickshire,Yorkshire,0,Headingley
+10,OJ Hannon-Dalby,0,1,0,0,0.0,MJ Henry,['DKH Mitchell'],caught,OJ Hannon-Dalby,2016-07-15,Warwickshire,Worcestershire,0,"County Ground, New Road"
+9,OJ Hannon-Dalby,5,10,0,0,50.0,RK Kleinveldt,['AG Wakely'],caught,OJ Hannon-Dalby,2016-07-19,Warwickshire,Northamptonshire,0,County Ground
+6,R Clarke,1,2,0,0,50.0,notOut,notOut,notOut,notOut,2016-06-17,Warwickshire,Warwickshire,0,County Ground
+6,R Clarke,0,1,0,0,0.0,GA Edwards,0,bowled,R Clarke,2016-06-19,Lancashire,Warwickshire,0,Edgbaston
+5,R Clarke,15,18,2,0,83.33333333333334,GG White,0,bowled,R Clarke,2016-07-01,Northamptonshire,Northamptonshire,0,Edgbaston
+5,R Clarke,9,8,1,0,112.5,notOut,notOut,notOut,notOut,2016-07-08,Warwickshire,Yorkshire,0,Headingley
+4,R Clarke,1,2,0,0,50.0,GH Rhodes,['MJ Henry'],caught,R Clarke,2016-07-15,Warwickshire,Worcestershire,0,"County Ground, New Road"
+4,R Clarke,24,15,3,1,160.0,notOut,notOut,notOut,notOut,2016-07-17,Leicestershire,Warwickshire,0,Edgbaston
+4,R Clarke,7,9,1,0,77.77777777777779,S Prasanna,['AM Rossington'],stumped,R Clarke,2016-07-19,Warwickshire,Northamptonshire,0,County Ground
+4,R Clarke,10,15,0,0,66.66666666666666,AM Lilley,['LS Livingstone'],caught,R Clarke,2016-07-29,Warwickshire,Lancashire,0,Old Trafford
+10,RO Gordon,0,1,0,0,0.0,TT Bresnan,0,caught and bowled,RO Gordon,2016-07-08,Warwickshire,Yorkshire,0,Headingley
+8,RO Gordon,7,7,0,0,100.0,MJ Henry,['EG Barnard'],caught,RO Gordon,2016-07-15,Warwickshire,Worcestershire,0,"County Ground, New Road"
+8,RO Gordon,3,4,0,0,75.0,S Mahmood,['SD Parry'],caught,RO Gordon,2016-07-29,Warwickshire,Lancashire,0,Old Trafford
+1,SR Hain,92,57,12,2,161.4035087719298,notOut,notOut,notOut,notOut,2016-05-20,Warwickshire,Warwickshire,0,Trent Bridge
+0,SR Hain,24,18,4,0,133.33333333333331,JD Shantry,0,bowled,SR Hain,2016-05-27,Worcestershire,Worcestershire,0,Edgbaston
+0,SR Hain,28,30,4,0,93.33333333333333,MJJ Critchley,['AL Hughes'],caught,SR Hain,2016-06-17,Warwickshire,Warwickshire,0,County Ground
+0,SR Hain,2,8,0,0,25.0,NL Buck,['JC Buttler'],caught,SR Hain,2016-06-19,Lancashire,Warwickshire,0,Edgbaston
+0,SR Hain,26,23,4,0,113.04347826086956,KJ O'Brien,['Umar Akmal'],caught,SR Hain,2016-06-24,Warwickshire,Warwickshire,0,Grace Road
+0,SR Hain,5,8,0,0,62.5,RJ Gleeson,['AG Wakely'],caught,SR Hain,2016-07-01,Northamptonshire,Northamptonshire,0,Edgbaston
+0,SR Hain,0,2,0,0,0.0,DJ Willey,0,lbw,SR Hain,2016-07-08,Warwickshire,Yorkshire,0,Headingley
+0,SR Hain,46,40,4,1,114.99999999999999,GH Rhodes,['JD Shantry'],caught,SR Hain,2016-07-15,Warwickshire,Worcestershire,0,"County Ground, New Road"
+0,SR Hain,79,55,9,2,143.63636363636363,CS Delport,['BA Raine'],caught,SR Hain,2016-07-17,Leicestershire,Warwickshire,0,Edgbaston
+0,SR Hain,22,22,4,0,100.0,RK Kleinveldt,['GG White'],caught,SR Hain,2016-07-19,Warwickshire,Northamptonshire,0,County Ground
+0,SR Hain,19,18,2,0,105.55555555555556,JT Ball,0,lbw,SR Hain,2016-07-22,Nottinghamshire,Nottinghamshire,0,Edgbaston
+0,SR Hain,28,38,2,0,73.68421052631578,LS Livingstone,['TJ Moores'],caught,SR Hain,2016-07-29,Warwickshire,Lancashire,0,Old Trafford
+0,V Chopra,97,60,8,5,161.66666666666666,notOut,notOut,notOut,notOut,2016-06-03,Durham,Warwickshire,0,Edgbaston
+2,WTS Porterfield,26,18,2,1,144.44444444444443,SR Patel,0,bowled,WTS Porterfield,2016-05-20,Warwickshire,Warwickshire,0,Trent Bridge
+2,WTS Porterfield,12,12,2,0,100.0,EG Barnard,['AN Kervezee'],caught,WTS Porterfield,2016-05-27,Worcestershire,Worcestershire,0,Edgbaston
+2,WTS Porterfield,18,21,1,0,85.71428571428571,notOut,notOut,notOut,notOut,2016-06-03,Durham,Warwickshire,0,Edgbaston
+2,WTS Porterfield,11,17,0,0,64.70588235294117,SD Parry,['MJ Guptill'],caught,WTS Porterfield,2016-06-19,Lancashire,Warwickshire,0,Edgbaston
+2,WTS Porterfield,4,6,1,0,66.66666666666666,BA Raine,0,bowled,WTS Porterfield,2016-06-24,Warwickshire,Warwickshire,0,Grace Road
+2,WTS Porterfield,5,8,0,0,62.5,Azharullah,['AG Wakely'],caught,WTS Porterfield,2016-07-01,Northamptonshire,Northamptonshire,0,Edgbaston
+1,WTS Porterfield,48,44,5,0,109.09090909090908,TT Bresnan,['AJ Hodd'],caught,WTS Porterfield,2016-07-08,Warwickshire,Yorkshire,0,Headingley
+2,WTS Porterfield,61,46,5,2,132.6086956521739,notOut,notOut,notOut,notOut,2016-07-22,Nottinghamshire,Nottinghamshire,0,Edgbaston
+2,WTS Porterfield,5,6,1,0,83.33333333333334,AM Lilley,['SD Parry'],run out,WTS Porterfield,2016-07-29,Warwickshire,Lancashire,0,Old Trafford

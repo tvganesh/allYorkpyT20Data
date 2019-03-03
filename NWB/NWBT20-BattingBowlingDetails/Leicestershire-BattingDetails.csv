@@ -1,0 +1,89 @@
+,batsman,runs,balls,4s,6s,SR,bowler,fielders,kind,player_out,date,team2,winner,result,venue
+3,BA Raine,48,43,2,2,111.62790697674419,WMH Rhodes,['A Lyth'],caught,BA Raine,2016-05-27,Leicestershire,Leicestershire,0,Headingley
+3,BA Raine,20,21,2,0,95.23809523809523,MJJ Critchley,['NT Broom'],caught,BA Raine,2016-06-03,Leicestershire,Derbyshire,0,County Ground
+3,BA Raine,21,24,3,0,87.5,SG Borthwick,['CS MacLeod'],caught,BA Raine,2016-06-04,Durham,Leicestershire,0,Grace Road
+9,BA Raine,0,1,0,0,0.0,notOut,notOut,notOut,notOut,2016-06-24,Warwickshire,Warwickshire,0,Grace Road
+4,BA Raine,10,13,0,0,76.92307692307693,SG Borthwick,['BA Stokes'],caught,BA Raine,2016-07-10,Leicestershire,Durham,0,Riverside Ground
+8,BA Raine,2,2,0,0,100.0,notOut,notOut,notOut,notOut,2016-07-17,Leicestershire,Warwickshire,0,Edgbaston
+9,CJ McKay,15,19,0,0,78.94736842105263,notOut,notOut,notOut,notOut,2016-06-03,Leicestershire,Derbyshire,0,County Ground
+9,CJ McKay,0,1,0,0,0.0,OJ Hannon-Dalby,['OJ Hannon-Dalby'],run out,CJ McKay,2016-07-17,Leicestershire,Warwickshire,0,Edgbaston
+4,CS Delport,6,4,0,1,150.0,notOut,notOut,notOut,notOut,2016-06-10,Leicestershire,Lancashire,0,Old Trafford
+2,CS Delport,2,7,0,0,28.57142857142857,MR Adair,['MR Adair'],run out,KJ O'Brien,2016-06-24,Warwickshire,Warwickshire,0,Grace Road
+3,CS Delport,2,7,0,0,28.57142857142857,MR Adair,['R Clarke'],caught,CS Delport,2016-06-24,Warwickshire,Warwickshire,0,Grace Road
+2,CS Delport,6,9,1,0,66.66666666666666,RJ Gleeson,0,bowled,CS Delport,2016-06-26,Leicestershire,Northamptonshire,0,County Ground
+2,CS Delport,38,20,4,2,190.0,notOut,notOut,notOut,notOut,2016-07-08,Derbyshire,Leicestershire,0,Grace Road
+2,CS Delport,19,19,2,0,100.0,SG Borthwick,0,lbw,CS Delport,2016-07-10,Leicestershire,Durham,0,Riverside Ground
+2,CS Delport,68,36,2,6,188.88888888888889,GA Edwards,['LM Reece'],caught,CS Delport,2016-07-15,Lancashire,Leicestershire,0,Grace Road
+2,CS Delport,20,18,0,2,111.11111111111111,A Javid,['JS Patel'],caught,CS Delport,2016-07-17,Leicestershire,Warwickshire,0,Edgbaston
+2,CS Delport,19,13,1,1,146.15384615384613,SJ Mullaney,['CMW Read'],caught,CS Delport,2016-07-29,Leicestershire,Nottinghamshire,0,Trent Bridge
+3,F Behardien,29,31,2,0,93.54838709677419,SG Borthwick,0,bowled,F Behardien,2016-07-10,Leicestershire,Durham,0,Riverside Ground
+4,F Behardien,13,10,1,0,130.0,notOut,notOut,notOut,notOut,2016-07-15,Lancashire,Leicestershire,0,Grace Road
+4,F Behardien,18,12,1,1,150.0,R Clarke,['LJ Evans'],caught,F Behardien,2016-07-17,Leicestershire,Warwickshire,0,Edgbaston
+3,F Behardien,48,26,6,1,184.6153846153846,notOut,notOut,notOut,notOut,2016-07-29,Leicestershire,Nottinghamshire,0,Trent Bridge
+10,JKH Naik,5,5,0,0,100.0,A Carter,['WL Madsen'],run out,JKH Naik,2016-06-03,Leicestershire,Derbyshire,0,County Ground
+2,KJ O'Brien,14,11,0,1,127.27272727272727,S Prasanna,['JJ Cobb'],caught,KJ O'Brien,2016-05-20,Northamptonshire,Northamptonshire,0,Grace Road
+1,KJ O'Brien,21,16,3,0,131.25,LE Plunkett,['AU Rashid'],caught,KJ O'Brien,2016-05-27,Leicestershire,Leicestershire,0,Headingley
+2,KJ O'Brien,9,12,0,0,75.0,JDS Neesham,['AL Hughes'],caught,KJ O'Brien,2016-06-03,Leicestershire,Derbyshire,0,County Ground
+2,KJ O'Brien,28,26,4,0,107.6923076923077,SG Borthwick,['MJ Richardson'],caught,KJ O'Brien,2016-06-04,Durham,Leicestershire,0,Grace Road
+3,KJ O'Brien,12,9,2,0,133.33333333333331,J Clark,['AM Lilley'],caught,KJ O'Brien,2016-06-10,Leicestershire,Lancashire,0,Old Trafford
+4,KJ O'Brien,2,3,0,0,66.66666666666666,notOut,notOut,notOut,notOut,2016-06-24,Warwickshire,Warwickshire,0,Grace Road
+3,KJ O'Brien,29,28,3,0,103.57142857142858,JJ Cobb,['GG White'],caught,KJ O'Brien,2016-06-26,Leicestershire,Northamptonshire,0,County Ground
+5,KJ O'Brien,0,1,0,0,0.0,notOut,notOut,notOut,notOut,2016-07-29,Leicestershire,Nottinghamshire,0,Trent Bridge
+7,LJ Hill,24,10,0,3,240.0,notOut,notOut,notOut,notOut,2016-05-27,Leicestershire,Leicestershire,0,Headingley
+7,LJ Hill,18,13,1,1,138.46153846153845,SJ Thakor,['CF Hughes'],caught,LJ Hill,2016-06-03,Leicestershire,Derbyshire,0,County Ground
+6,LJ Hill,25,24,2,1,104.16666666666667,MR Adair,['L Ronchi'],caught,LJ Hill,2016-06-24,Warwickshire,Warwickshire,0,Grace Road
+5,LJ Hill,15,13,0,0,115.38461538461537,RJ Gleeson,0,hit wicket,LJ Hill,2016-06-26,Leicestershire,Northamptonshire,0,County Ground
+6,LJ Hill,31,17,4,1,182.35294117647058,notOut,notOut,notOut,notOut,2016-07-10,Leicestershire,Durham,0,Riverside Ground
+3,LJ Hill,15,9,1,1,166.66666666666669,notOut,notOut,notOut,notOut,2016-07-15,Lancashire,Leicestershire,0,Grace Road
+3,LJ Hill,29,21,2,1,138.0952380952381,JS Patel,['MS Wade'],stumped,LJ Hill,2016-07-17,Leicestershire,Warwickshire,0,Edgbaston
+4,LJ Hill,30,16,3,1,187.5,LJ Fletcher,['JT Ball'],caught,LJ Hill,2016-07-29,Leicestershire,Nottinghamshire,0,Trent Bridge
+1,MJ Cosgrove,27,18,4,1,150.0,Azharullah,0,lbw,MJ Cosgrove,2016-05-20,Northamptonshire,Northamptonshire,0,Grace Road
+2,MJ Cosgrove,20,12,4,0,166.66666666666669,JC Wainman,['BO Coad'],caught,MJ Cosgrove,2016-05-27,Leicestershire,Leicestershire,0,Headingley
+1,MJ Cosgrove,1,2,0,0,50.0,JDS Neesham,0,bowled,MJ Cosgrove,2016-06-03,Leicestershire,Derbyshire,0,County Ground
+1,MJ Cosgrove,0,1,0,0,0.0,C Rushworth,0,bowled,MJ Cosgrove,2016-06-04,Durham,Leicestershire,0,Grace Road
+1,MJ Cosgrove,66,47,8,0,140.4255319148936,notOut,notOut,notOut,notOut,2016-06-10,Leicestershire,Lancashire,0,Old Trafford
+1,MJ Cosgrove,3,10,0,0,30.0,R Clarke,['LJ Evans'],caught,MJ Cosgrove,2016-06-24,Warwickshire,Warwickshire,0,Grace Road
+1,MJ Cosgrove,2,3,0,0,66.66666666666666,RJ Gleeson,0,bowled,MJ Cosgrove,2016-06-26,Leicestershire,Northamptonshire,0,County Ground
+1,MJ Cosgrove,52,27,3,4,192.59259259259258,WJ Durston,0,caught and bowled,MJ Cosgrove,2016-07-08,Derbyshire,Leicestershire,0,Grace Road
+1,MJ Cosgrove,12,11,2,0,109.09090909090908,P Coughlin,['MJ Richardson'],caught,MJ Cosgrove,2016-07-10,Leicestershire,Durham,0,Riverside Ground
+1,MJ Cosgrove,16,17,2,0,94.11764705882352,NL Buck,['J Clark'],caught,MJ Cosgrove,2016-07-15,Lancashire,Leicestershire,0,Grace Road
+1,MJ Cosgrove,42,29,5,2,144.82758620689654,JS Patel,['LJ Evans'],caught,MJ Cosgrove,2016-07-17,Leicestershire,Warwickshire,0,Edgbaston
+0,MJ Cosgrove,53,35,6,1,151.42857142857142,Imran Tahir,['CMW Read'],stumped,MJ Cosgrove,2016-07-29,Leicestershire,Nottinghamshire,0,Trent Bridge
+0,ML Pettini,43,36,7,0,119.44444444444444,GG White,0,lbw,ML Pettini,2016-05-20,Northamptonshire,Northamptonshire,0,Grace Road
+0,ML Pettini,0,5,0,0,0.0,TT Bresnan,['WMH Rhodes'],caught,ML Pettini,2016-05-27,Leicestershire,Leicestershire,0,Headingley
+0,ML Pettini,5,3,1,0,166.66666666666669,WL Madsen,0,bowled,ML Pettini,2016-06-03,Leicestershire,Derbyshire,0,County Ground
+0,ML Pettini,8,8,1,0,100.0,C Rushworth,0,caught and bowled,ML Pettini,2016-06-04,Durham,Leicestershire,0,Grace Road
+0,ML Pettini,23,15,4,0,153.33333333333334,AM Lilley,['JC Buttler'],caught,ML Pettini,2016-06-10,Leicestershire,Lancashire,0,Old Trafford
+0,ML Pettini,6,8,1,0,75.0,OJ Hannon-Dalby,['SR Hain'],caught,ML Pettini,2016-06-24,Warwickshire,Warwickshire,0,Grace Road
+0,ML Pettini,56,41,6,1,136.58536585365854,GG White,0,lbw,ML Pettini,2016-06-26,Leicestershire,Northamptonshire,0,County Ground
+0,ML Pettini,71,50,11,0,142.0,notOut,notOut,notOut,notOut,2016-07-08,Derbyshire,Leicestershire,0,Grace Road
+0,ML Pettini,7,17,1,0,41.17647058823529,MA Wood,['P Mustard'],caught,ML Pettini,2016-07-10,Leicestershire,Durham,0,Riverside Ground
+0,ML Pettini,76,52,5,4,146.15384615384613,J Clark,0,lbw,ML Pettini,2016-07-15,Lancashire,Leicestershire,0,Grace Road
+0,ML Pettini,21,19,4,0,110.5263157894737,OJ Hannon-Dalby,['JS Patel'],caught,ML Pettini,2016-07-17,Leicestershire,Warwickshire,0,Edgbaston
+1,ML Pettini,15,19,2,0,78.94736842105263,SR Patel,['DT Christian'],caught,ML Pettini,2016-07-29,Leicestershire,Nottinghamshire,0,Trent Bridge
+8,NJ Dexter,5,2,1,0,250.0,notOut,notOut,notOut,notOut,2016-05-27,Leicestershire,Leicestershire,0,Headingley
+6,NJ Dexter,34,34,2,0,100.0,JDS Neesham,['NT Broom'],caught,NJ Dexter,2016-06-03,Leicestershire,Derbyshire,0,County Ground
+8,NJ Dexter,14,14,0,1,100.0,RO Gordon,['A Javid'],caught,NJ Dexter,2016-06-24,Warwickshire,Warwickshire,0,Grace Road
+4,NJ O'Brien,13,11,2,0,118.18181818181819,RK Kleinveldt,0,bowled,NJ O'Brien,2016-05-20,Northamptonshire,Northamptonshire,0,Grace Road
+5,NJ O'Brien,39,21,0,4,185.71428571428572,BO Coad,['TT Bresnan'],caught,NJ O'Brien,2016-05-27,Leicestershire,Leicestershire,0,Headingley
+5,NJ O'Brien,4,10,0,0,40.0,AL Hughes,['CF Hughes'],caught,NJ O'Brien,2016-06-03,Leicestershire,Derbyshire,0,County Ground
+5,NJ O'Brien,33,22,3,1,150.0,notOut,notOut,notOut,notOut,2016-06-04,Durham,Leicestershire,0,Grace Road
+5,NJ O'Brien,9,12,0,0,75.0,OJ Hannon-Dalby,['JS Patel'],caught,NJ O'Brien,2016-07-17,Leicestershire,Warwickshire,0,Edgbaston
+4,PJ Horton,29,26,3,0,111.53846153846155,RJ Gleeson,0,retired hurt,PJ Horton,2016-06-26,Leicestershire,Northamptonshire,0,County Ground
+10,RJ Sayer,1,1,0,0,100.0,notOut,notOut,notOut,notOut,2016-07-17,Leicestershire,Warwickshire,0,Edgbaston
+7,RML Taylor,1,2,0,0,50.0,notOut,notOut,notOut,notOut,2016-06-26,Leicestershire,Northamptonshire,0,County Ground
+7,RML Taylor,17,9,1,1,188.88888888888889,notOut,notOut,notOut,notOut,2016-07-10,Leicestershire,Durham,0,Riverside Ground
+7,RML Taylor,8,5,0,1,160.0,R Clarke,['KHD Barker'],caught,RML Taylor,2016-07-17,Leicestershire,Warwickshire,0,Edgbaston
+5,TJ Wells,21,15,2,1,140.0,OP Stone,['RI Keogh (sub)'],caught,TJ Wells,2016-05-20,Northamptonshire,Northamptonshire,0,Grace Road
+6,TJ Wells,3,4,0,0,75.0,TT Bresnan,['BO Coad'],caught,TJ Wells,2016-05-27,Leicestershire,Leicestershire,0,Headingley
+8,TJ Wells,1,2,0,0,50.0,SJ Thakor,0,bowled,TJ Wells,2016-06-03,Leicestershire,Derbyshire,0,County Ground
+7,TJ Wells,26,23,2,0,113.04347826086956,notOut,notOut,notOut,notOut,2016-06-24,Warwickshire,Warwickshire,0,Grace Road
+6,TJ Wells,1,3,0,0,33.33333333333333,notOut,notOut,notOut,notOut,2016-06-26,Leicestershire,Northamptonshire,0,County Ground
+5,TJ Wells,6,10,0,0,60.0,SG Borthwick,['MJ Richardson'],caught,TJ Wells,2016-07-10,Leicestershire,Durham,0,Riverside Ground
+6,TJ Wells,2,2,0,0,100.0,R Clarke,['R Clarke'],run out,TJ Wells,2016-07-17,Leicestershire,Warwickshire,0,Edgbaston
+3,Umar Akmal,52,34,3,3,152.94117647058823,notOut,notOut,notOut,notOut,2016-05-20,Northamptonshire,Northamptonshire,0,Grace Road
+4,Umar Akmal,8,10,1,0,80.0,LE Plunkett,['GS Ballance'],caught,Umar Akmal,2016-05-27,Leicestershire,Leicestershire,0,Headingley
+4,Umar Akmal,0,3,0,0,0.0,SJ Thakor,['JDS Neesham'],caught,Umar Akmal,2016-06-03,Leicestershire,Derbyshire,0,County Ground
+4,Umar Akmal,26,21,2,1,123.80952380952381,notOut,notOut,notOut,notOut,2016-06-04,Durham,Leicestershire,0,Grace Road
+2,Umar Akmal,17,11,1,1,154.54545454545453,SJ Croft,0,bowled,Umar Akmal,2016-06-10,Leicestershire,Lancashire,0,Old Trafford
+5,Umar Akmal,31,37,4,0,83.78378378378379,JS Patel,['A Javid'],caught,Umar Akmal,2016-06-24,Warwickshire,Warwickshire,0,Grace Road

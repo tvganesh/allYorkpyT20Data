@@ -1,0 +1,567 @@
+,batsman,runs,balls,4s,6s,SR,bowler,fielders,kind,player_out,date,team2,winner,result,venue
+2,A Balbirnie,31.0,26,3,0,119.23076923076923,notOut,notOut,notOut,notOut,2015-06-20,Scotland,Scotland,0,"Bready Cricket Club, Magheramason"
+4,A Balbirnie,6.0,11,1,0,54.54545454545454,JB Reva,0,bowled,A Balbirnie,2015-07-15,Papua New Guinea,Papua New Guinea,0,"Civil Service Cricket Club, Stormont"
+0,A Balbirnie,9.0,10,2,0,90.0,Haseeb Amjad,['Aizaz Khan'],caught,A Balbirnie,2015-07-17,Hong Kong,Hong Kong,0,"The Village, Malahide"
+2,A Balbirnie,31.0,31,3,0,100.0,PA van Meekeren,['W Barresi'],caught,A Balbirnie,2015-07-25,Netherlands,Netherlands,0,"The Village, Malahide"
+1,A Balbirnie,0.0,1,0,0,0.0,A Vala,['N Vanua'],caught,A Balbirnie,2016-02-07,Papua New Guinea,Ireland,0,Tony Ireland Stadium
+1,A Balbirnie,5.0,11,0,0,45.45454545454545,CA Soper,['L Siaka'],caught,A Balbirnie,2016-02-09,Papua New Guinea,Papua New Guinea,0,Tony Ireland Stadium
+5,A Balbirnie,2.0,6,0,0,33.33333333333333,Ahmed Raza,['SP Patil'],stumped,A Balbirnie,2016-02-16,Ireland,United Arab Emirates,0,Sheikh Zayed Stadium
+3,AC Botha,22.0,35,2,0,62.857142857142854,JK Kamande,0,bowled,AC Botha,2008-08-04,Kenya,Ireland,0,"Civil Service Cricket Club, Stormont"
+3,AC Botha,8.0,5,1,0,160.0,Z Khan,['YK Pathan'],caught,AC Botha,2009-06-10,Ireland,India,0,Trent Bridge
+4,AC Botha,28.0,17,5,0,164.70588235294116,NL McCullum,"['SB Styris', 'PD McGlashan']",run out,AC Botha,2009-06-11,New Zealand,New Zealand,0,Trent Bridge
+6,AC Botha,0.0,1,0,0,0.0,SL Malinga,0,bowled,AC Botha,2009-06-14,Sri Lanka,Sri Lanka,0,Lord's
+3,AC Botha,0.0,2,0,0,0.0,Karim Sadiq,0,bowled,AC Botha,2010-02-09,Ireland,Afghanistan,0,Dubai International Cricket Stadium
+2,AC Botha,13.0,13,2,0,100.0,RT Lyons,['SJS Smith'],stumped,AC Botha,2010-02-11,Scotland,Ireland,0,Dubai International Cricket Stadium
+8,AC Botha,4.0,11,0,0,36.36363636363637,notOut,notOut,notOut,notOut,2010-04-30,Ireland,West Indies,0,Providence Stadium
+5,AD Poynter,23.0,17,2,1,135.29411764705884,notOut,notOut,notOut,notOut,2012-03-24,Ireland,Ireland,0,Dubai International Cricket Stadium
+4,AD Poynter,32.0,31,6,0,103.2258064516129,SP Narine,0,bowled,AD Poynter,2014-02-19,Ireland,Ireland,0,"Sabina Park, Kingston"
+4,AD Poynter,2.0,5,0,0,40.0,DJG Sammy,['MN Samuels'],caught,AD Poynter,2014-02-21,Ireland,West Indies,0,"Sabina Park, Kingston"
+3,AD Poynter,23.0,15,3,0,153.33333333333334,T Panyangara,['E Chigumbura'],caught,AD Poynter,2014-03-17,Zimbabwe,Ireland,0,Sylhet Stadium
+4,AD Poynter,4.0,5,1,0,80.0,Amjad Javed,0,bowled,AD Poynter,2014-03-19,United Arab Emirates,Ireland,0,Sylhet Stadium
+3,AD Poynter,57.0,39,4,4,146.15384615384613,Mudassar Bukhari,['W Barresi'],run out,EC Joyce,2014-03-21,Netherlands,Netherlands,0,Sylhet Stadium
+4,AD Poynter,57.0,39,4,4,146.15384615384613,Ahsan Malik,['LV van Beek'],caught,AD Poynter,2014-03-21,Netherlands,Netherlands,0,Sylhet Stadium
+3,AD Poynter,36.0,25,3,2,144.0,MA Leask,['SM Sharif'],caught,AD Poynter,2015-06-20,Scotland,Scotland,0,"Bready Cricket Club, Magheramason"
+5,AD Poynter,6.0,6,0,0,100.0,notOut,notOut,notOut,notOut,2016-02-07,Papua New Guinea,Ireland,0,Tony Ireland Stadium
+5,AD Poynter,11.0,10,0,1,110.00000000000001,notOut,notOut,notOut,notOut,2016-03-09,Oman,Oman,0,Himachal Pradesh Cricket Association Stadium
+5,AD Poynter,0.0,1,0,0,0.0,RE van der Merwe,['BN Cooper'],caught,AD Poynter,2016-03-13,Netherlands,Netherlands,0,Himachal Pradesh Cricket Association Stadium
+10,AJ Kenealy,5.0,3,1,0,166.66666666666669,Sana Mir,['Nain Abidi'],caught,AJ Kenealy,2014-03-31,Pakistan,Pakistan,0,Sylhet Stadium
+10,AJ Kenealy,0.0,2,0,0,0.0,Fahima Khatun,['Shamima Sultana'],stumped,AJ Kenealy,2014-04-03,Ireland,Bangladesh,0,Sylhet Stadium
+8,AJ Kenealy,4.0,4,0,0,100.0,I Ranaweera,['LE Kaushalya'],caught,AJ Kenealy,2016-03-20,Ireland,Sri Lanka,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+9,AJ Kenealy,9.0,12,1,0,75.0,notOut,notOut,notOut,notOut,2016-03-23,South Africa,South Africa,0,"MA Chidambaram Stadium, Chepauk"
+8,AJ Kenealy,0.0,1,0,0,0.0,Khadija Tul Kubra,['Nigar Sultana'],stumped,AJ Kenealy,2016-09-05,Bangladesh,Ireland,0,"Bready Cricket Club, Magheramason"
+5,AR Cusack,2.0,2,0,0,100.0,RG Aga,['AA Obanda'],caught,AR Cusack,2008-08-04,Kenya,Ireland,0,"Civil Service Cricket Club, Stormont"
+8,AR Cusack,12.0,6,2,0,200.0,notOut,notOut,notOut,notOut,2009-06-10,Ireland,India,0,Trent Bridge
+7,AR Cusack,20.0,12,1,1,166.66666666666669,NL McCullum,['BB McCullum'],caught,AR Cusack,2009-06-11,New Zealand,New Zealand,0,Trent Bridge
+7,AR Cusack,2.0,4,0,0,50.0,notOut,notOut,notOut,notOut,2009-06-14,Sri Lanka,Sri Lanka,0,Lord's
+7,AR Cusack,2.0,2,0,0,100.0,Saeed Ajmal,['Kamran Akmal'],stumped,AR Cusack,2009-06-15,Pakistan,Pakistan,0,Kennington Oval
+5,AR Cusack,15.0,13,0,0,115.38461538461537,notOut,notOut,notOut,notOut,2010-02-09,Ireland,Afghanistan,0,Dubai International Cricket Stadium
+3,AR Cusack,2.0,4,0,0,50.0,RM Haq,0,lbw,AR Cusack,2010-02-11,Scotland,Ireland,0,Dubai International Cricket Stadium
+2,AR Cusack,28.0,23,1,1,121.73913043478262,Samiullah Shenwari,['Mohammad Shahzad'],stumped,AR Cusack,2010-02-13,Ireland,Afghanistan,0,Dubai International Cricket Stadium
+2,AR Cusack,65.0,44,3,3,147.72727272727272,MBS Jonkman,['DLS van Bunge'],caught,AR Cusack,2010-02-13,Netherlands,Ireland,0,Dubai International Cricket Stadium
+4,AR Cusack,2.0,4,0,0,50.0,R Rampaul,['DJG Sammy'],caught,AR Cusack,2010-04-30,Ireland,West Indies,0,Providence Stadium
+1,AR Cusack,14.0,11,2,0,127.27272727272727,NN Odhiambo,['SO Ngoche'],caught,AR Cusack,2012-02-22,Ireland,Ireland,0,Mombasa Sports Club Ground
+3,AR Cusack,22.0,14,5,0,157.14285714285714,RM Haq,['CD Wallace'],stumped,AR Cusack,2012-03-18,Scotland,Ireland,0,Dubai International Cricket Stadium
+7,AR Cusack,1.0,7,0,0,14.285714285714285,Elias Sunny,0,bowled,AR Cusack,2012-07-18,Bangladesh,Bangladesh,0,"Civil Service Cricket Club, Stormont"
+6,AR Cusack,15.0,14,1,0,107.14285714285714,notOut,notOut,notOut,notOut,2012-09-19,Ireland,Australia,0,R Premadasa Stadium
+8,AR Cusack,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2013-11-30,Ireland,Ireland,0,Sheikh Zayed Stadium
+8,AR Cusack,8.0,6,1,0,133.33333333333331,notOut,notOut,notOut,notOut,2014-02-21,Ireland,West Indies,0,"Sabina Park, Kingston"
+8,AR Cusack,0.0,1,0,0,0.0,notOut,notOut,notOut,notOut,2014-03-17,Zimbabwe,Ireland,0,Sylhet Stadium
+10,AR Cusack,13.0,4,1,1,325.0,notOut,notOut,notOut,notOut,2015-07-15,Papua New Guinea,Papua New Guinea,0,"Civil Service Cricket Club, Stormont"
+9,AR Cusack,0.0,1,0,0,0.0,notOut,notOut,notOut,notOut,2015-07-25,Netherlands,Netherlands,0,"The Village, Malahide"
+8,AR McBrine,10.0,9,0,0,111.11111111111111,notOut,notOut,notOut,notOut,2016-02-09,Papua New Guinea,Papua New Guinea,0,Tony Ireland Stadium
+7,AR McBrine,1.0,4,0,0,25.0,Mohammad Shahzad (2),0,bowled,AR McBrine,2016-02-14,Ireland,Ireland,0,Sheikh Zayed Stadium
+6,AR McBrine,10.0,4,2,0,250.0,notOut,notOut,notOut,notOut,2016-03-09,Oman,Oman,0,Himachal Pradesh Cricket Association Stadium
+8,AR McBrine,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2016-03-13,Netherlands,Netherlands,0,Himachal Pradesh Cricket Association Stadium
+6,AR McBrine,10.0,9,1,0,111.11111111111111,Nadeem Ahmed,['C Carter'],stumped,AR McBrine,2016-09-05,Hong Kong,Hong Kong,0,"Bready Cricket Club, Magheramason"
+7,AR McBrine,7.0,12,1,0,58.333333333333336,notOut,notOut,notOut,notOut,2017-01-14,Ireland,Afghanistan,0,Sheikh Zayed Stadium
+6,AR McBrine,14.0,13,2,0,107.6923076923077,notOut,notOut,notOut,notOut,2017-01-18,Ireland,Ireland,0,Dubai International Cricket Stadium
+6,AR McBrine,0.0,2,0,0,0.0,Amir Hamza,0,bowled,AR McBrine,2017-01-20,Ireland,Afghanistan,0,Dubai International Cricket Stadium
+5,AR McBrine,6.0,7,0,0,85.71428571428571,JH Davey,['HG Munsey'],caught,AR McBrine,2017-01-20,Scotland,Ireland,0,Dubai International Cricket Stadium
+5,AR McBrine,1.0,2,0,0,50.0,Karim Janat,['Mohammad Nabi'],caught,AR McBrine,2017-03-10,Ireland,Afghanistan,0,Greater Noida Sports Complex Ground
+5,AR McBrine,13.0,8,0,1,162.5,Karim Janat,0,lbw,AR McBrine,2017-03-12,Ireland,Afghanistan,0,Greater Noida Sports Complex Ground
+4,AR White,1.0,3,0,0,33.33333333333333,RG Aga,['HA Varaiya'],caught,AR White,2008-08-04,Kenya,Ireland,0,"Civil Service Cricket Club, Stormont"
+6,AR White,29.0,25,3,1,115.99999999999999,Z Khan,['MS Dhoni'],caught,AR White,2009-06-10,Ireland,India,0,Trent Bridge
+2,AR White,22.0,21,1,1,104.76190476190477,KMDN Kulasekara,['KC Sangakkara'],caught,AR White,2009-06-14,Sri Lanka,Sri Lanka,0,Lord's
+6,AR White,5.0,7,0,0,71.42857142857143,Umar Gul,0,bowled,AR White,2009-06-15,Pakistan,Pakistan,0,Kennington Oval
+5,AR White,19.0,23,1,0,82.6086956521739,KJ Coetzer,['DF Watts'],caught,AR White,2010-02-11,Scotland,Ireland,0,Dubai International Cricket Stadium
+8,AR White,7.0,9,0,0,77.77777777777779,notOut,notOut,notOut,notOut,2010-02-13,Ireland,Afghanistan,0,Dubai International Cricket Stadium
+7,AR White,14.0,8,1,0,175.0,notOut,notOut,notOut,notOut,2010-02-13,Netherlands,Ireland,0,Dubai International Cricket Stadium
+8,AR White,5.0,5,1,0,100.0,SO Ngoche,0,bowled,AR White,2012-02-24,Ireland,Ireland,0,Mombasa Sports Club Ground
+6,AR White,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2012-03-24,Ireland,Ireland,0,Dubai International Cricket Stadium
+8,BJ McCarthy,0.0,1,0,0,0.0,Rashid Khan,0,lbw,BJ McCarthy,2017-03-10,Ireland,Afghanistan,0,Greater Noida Sports Complex Ground
+10,CA Young,0.0,1,0,0,0.0,T van der Gugten,"['W Barresi', 'T van der Gugten']",run out,AR Cusack,2015-07-25,Netherlands,Netherlands,0,"The Village, Malahide"
+10,CA Young,2.0,4,0,0,50.0,notOut,notOut,notOut,notOut,2016-09-05,Hong Kong,Hong Kong,0,"Bready Cricket Club, Magheramason"
+10,CA Young,2.0,2,0,0,100.0,Mohammad Nabi,0,bowled,CA Young,2017-01-20,Ireland,Afghanistan,0,Dubai International Cricket Stadium
+3,CC Dalton,5.0,8,0,0,62.5,Nahida Akter,0,bowled,CC Dalton,2015-12-05,Ireland,Ireland,0,Terdthai Cricket Ground
+2,CC Dalton,1.0,6,0,0,16.666666666666664,LM Kasperek,['SW Bates'],caught,CC Dalton,2016-03-18,New Zealand,New Zealand,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+2,CC Dalton,5.0,8,1,0,62.5,BMSM Kumari,['MADD Surangika'],caught,CC Dalton,2016-03-20,Ireland,Sri Lanka,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+2,CC Dalton,3.0,14,0,0,21.428571428571427,M Daniels,0,bowled,CC Dalton,2016-03-23,South Africa,South Africa,0,"MA Chidambaram Stadium, Chepauk"
+11,CJ Metcalfe,1.0,7,0,0,14.285714285714285,notOut,notOut,notOut,notOut,2016-03-23,South Africa,South Africa,0,"MA Chidambaram Stadium, Chepauk"
+0,CMA Shillington,33.0,27,6,0,122.22222222222223,Nida Dar,0,bowled,CMA Shillington,2013-07-16,Pakistan,Pakistan,0,YMCA Cricket Club
+0,CMA Shillington,5.0,12,0,0,41.66666666666667,Qanita Jalil,['Nahida Khan'],run out,CMA Shillington,2013-07-29,Pakistan,Pakistan,0,YMCA Cricket Club
+0,CMA Shillington,15.0,20,0,1,75.0,Sadia Yousuf,0,bowled,CMA Shillington,2014-01-19,Pakistan,Ireland,0,West End Park International Cricket Stadium
+0,CMA Shillington,10.0,13,0,0,76.92307692307693,M Kapp,['S Ismail'],caught,CMA Shillington,2014-01-20,South Africa,South Africa,0,West End Park International Cricket Stadium
+0,CMA Shillington,28.0,26,6,0,107.6923076923077,FL Mackay,0,caught and bowled,CMA Shillington,2014-03-25,New Zealand,New Zealand,0,Sylhet Stadium
+0,CMA Shillington,1.0,4,0,0,25.0,S Ismail,0,bowled,CMA Shillington,2014-03-29,South Africa,South Africa,0,Sylhet Stadium
+0,CMA Shillington,19.0,23,1,0,82.6086956521739,Qanita Jalil,0,bowled,CMA Shillington,2014-03-31,Pakistan,Pakistan,0,Sylhet Stadium
+0,CMA Shillington,0.0,2,0,0,0.0,Salma Khatun,['Lata Mondal'],run out,CMA Shillington,2014-04-03,Ireland,Bangladesh,0,Sylhet Stadium
+0,CMA Shillington,3.0,7,0,0,42.857142857142854,JL Jonassen,0,bowled,CMA Shillington,2015-08-19,Australia,Australia,0,YMCA Cricket Club
+0,CMA Shillington,4.0,12,0,0,33.33333333333333,RM Farrell,['JL Jonassen'],caught,CMA Shillington,2015-08-21,Australia,Australia,0,YMCA Cricket Club
+0,CMA Shillington,0.0,3,0,0,0.0,ML Schutt,['SJ Coyte'],caught,CMA Shillington,2015-08-22,Australia,Australia,0,YMCA Cricket Club
+0,CMA Shillington,12.0,7,2,0,171.42857142857142,Rumana Ahmed,0,bowled,CMA Shillington,2015-12-05,Ireland,Ireland,0,Terdthai Cricket Ground
+0,CMA Shillington,15.0,24,1,0,62.5,EM Bermingham,0,bowled,CMA Shillington,2016-03-18,New Zealand,New Zealand,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+0,CMA Shillington,1.0,5,0,0,20.0,BMSM Kumari,0,bowled,CMA Shillington,2016-03-20,Ireland,Sri Lanka,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+0,CMA Shillington,34.0,28,4,1,121.42857142857142,notOut,notOut,notOut,notOut,2016-03-23,South Africa,South Africa,0,"MA Chidambaram Stadium, Chepauk"
+0,CMA Shillington,22.0,20,3,1,110.00000000000001,ML Schutt,['BL Mooney'],caught,CMA Shillington,2016-03-26,Ireland,Australia,0,Feroz Shah Kotla
+0,CMA Shillington,26.0,18,4,0,144.44444444444443,Fahima Khatun,0,bowled,CMA Shillington,2016-09-05,Bangladesh,Ireland,0,"Bready Cricket Club, Magheramason"
+3,CNIM Joyce,7.0,16,1,0,43.75,Sadia Yousuf,0,lbw,CNIM Joyce,2013-07-29,Pakistan,Pakistan,0,YMCA Cricket Club
+4,CNIM Joyce,30.0,42,1,0,71.42857142857143,notOut,notOut,notOut,notOut,2014-01-19,Pakistan,Ireland,0,West End Park International Cricket Stadium
+4,CNIM Joyce,39.0,28,5,0,139.28571428571428,FL Mackay,['FL Mackay'],run out,LN McCarthy,2014-03-25,New Zealand,New Zealand,0,Sylhet Stadium
+5,CNIM Joyce,3.0,4,0,0,75.0,Sana Mir,['Javeria Khan'],run out,CNIM Joyce,2014-03-31,Pakistan,Pakistan,0,Sylhet Stadium
+4,CNIM Joyce,19.0,32,0,0,59.375,Rumana Ahmed,['Panna Ghosh'],run out,EJ Tice,2014-04-03,Ireland,Bangladesh,0,Sylhet Stadium
+5,CNIM Joyce,19.0,32,0,0,59.375,Salma Khatun,0,lbw,CNIM Joyce,2014-04-03,Ireland,Bangladesh,0,Sylhet Stadium
+2,CNIM Joyce,26.0,25,2,0,104.0,GM Harris,['AJ Healy'],stumped,CNIM Joyce,2015-08-19,Australia,Australia,0,YMCA Cricket Club
+2,CNIM Joyce,0.0,6,0,0,0.0,EA Perry,['AJ Blackwell'],run out,CNIM Joyce,2015-08-21,Australia,Australia,0,YMCA Cricket Club
+1,CNIM Joyce,12.0,13,2,0,92.3076923076923,ML Schutt,['ML Schutt'],run out,IMHC Joyce,2015-08-22,Australia,Australia,0,YMCA Cricket Club
+2,CNIM Joyce,12.0,13,2,0,92.3076923076923,JL Jonassen,0,lbw,CNIM Joyce,2015-08-22,Australia,Australia,0,YMCA Cricket Club
+1,CNIM Joyce,32.0,30,2,1,106.66666666666667,Rumana Ahmed,['Lata Mondal'],caught,CNIM Joyce,2015-12-05,Ireland,Ireland,0,Terdthai Cricket Ground
+1,CNIM Joyce,6.0,5,1,0,120.0,MJG Nielsen,['RH Priest'],stumped,CNIM Joyce,2016-03-18,New Zealand,New Zealand,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+1,CNIM Joyce,29.0,30,4,0,96.66666666666667,OU Ranasinghe,['NND de Silva'],caught,CNIM Joyce,2016-03-20,Ireland,Sri Lanka,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+1,CNIM Joyce,2.0,7,0,0,28.57142857142857,M Kapp,['T Chetty'],caught,CNIM Joyce,2016-03-23,South Africa,South Africa,0,"MA Chidambaram Stadium, Chepauk"
+1,CNIM Joyce,23.0,31,3,0,74.19354838709677,RM Farrell,['KM Beams'],caught,CNIM Joyce,2016-03-26,Ireland,Australia,0,Feroz Shah Kotla
+1,DA Rankin,15.0,17,1,1,88.23529411764706,Tanwir Afzal,0,bowled,DA Rankin,2016-09-05,Hong Kong,Hong Kong,0,"Bready Cricket Club, Magheramason"
+7,DT Johnston,8.0,14,0,0,57.14285714285714,notOut,notOut,notOut,notOut,2008-08-04,Kenya,Ireland,0,"Civil Service Cricket Club, Stormont"
+8,DT Johnston,14.0,9,0,1,155.55555555555557,JDP Oram,['BB McCullum'],run out,DT Johnston,2009-06-11,New Zealand,New Zealand,0,Trent Bridge
+5,DT Johnston,9.0,6,0,1,150.0,SL Malinga,0,bowled,DT Johnston,2009-06-14,Sri Lanka,Sri Lanka,0,Lord's
+5,DT Johnston,0.0,1,0,0,0.0,Umar Gul,0,bowled,DT Johnston,2009-06-15,Pakistan,Pakistan,0,Kennington Oval
+8,DT Johnston,18.0,17,1,0,105.88235294117648,Mohammad Nabi,['Samiullah Shenwari'],caught,DT Johnston,2010-02-09,Ireland,Afghanistan,0,Dubai International Cricket Stadium
+7,DT Johnston,10.0,8,0,0,125.0,notOut,notOut,notOut,notOut,2010-02-11,Scotland,Ireland,0,Dubai International Cricket Stadium
+7,DT Johnston,15.0,13,1,0,115.38461538461537,Shapoor Zadran,['Nawroz Mangal'],caught,DT Johnston,2010-02-13,Ireland,Afghanistan,0,Dubai International Cricket Stadium
+3,DT Johnston,2.0,4,0,0,50.0,PM Seelaar,['MBS Jonkman'],caught,DT Johnston,2010-02-13,Netherlands,Ireland,0,Dubai International Cricket Stadium
+6,DT Johnston,5.0,10,0,0,50.0,DJ Bravo,0,bowled,DT Johnston,2010-04-30,Ireland,West Indies,0,Providence Stadium
+8,DT Johnston,7.0,5,1,0,140.0,Elias Sunny,['Abdur Razzak'],caught,DT Johnston,2012-07-18,Bangladesh,Bangladesh,0,"Civil Service Cricket Club, Stormont"
+7,DT Johnston,7.0,7,1,0,100.0,MA Starc,0,bowled,DT Johnston,2012-09-19,Ireland,Australia,0,R Premadasa Stadium
+6,DT Johnston,15.0,10,0,1,150.0,notOut,notOut,notOut,notOut,2012-09-24,West Indies,0,0,R Premadasa Stadium
+4,DT Johnston,39.0,24,3,2,162.5,notOut,notOut,notOut,notOut,2013-11-16,Ireland,Ireland,0,Sheikh Zayed Stadium
+3,DT Johnston,62.0,34,5,4,182.35294117647058,Shapoor Zadran,0,bowled,DT Johnston,2013-11-30,Ireland,Ireland,0,Sheikh Zayed Stadium
+2,EAJ Richardson,34.0,34,3,0,100.0,Sadia Yousuf,['Batool Fatima'],caught,EAJ Richardson,2013-07-16,Pakistan,Pakistan,0,YMCA Cricket Club
+7,EAJ Richardson,4.0,13,0,0,30.76923076923077,Bismah Maroof,0,bowled,EAJ Richardson,2013-07-29,Pakistan,Pakistan,0,YMCA Cricket Club
+6,EAJ Richardson,0.0,3,0,0,0.0,S Ismail,0,bowled,EAJ Richardson,2014-03-29,South Africa,South Africa,0,Sylhet Stadium
+7,EAJ Richardson,13.0,14,1,0,92.85714285714286,Nida Dar,['Sana Mir'],run out,LN McCarthy,2014-03-31,Pakistan,Pakistan,0,Sylhet Stadium
+8,EAJ Richardson,13.0,14,1,0,92.85714285714286,Asmavia Iqbal,0,lbw,EAJ Richardson,2014-03-31,Pakistan,Pakistan,0,Sylhet Stadium
+4,EC Joyce,24.0,22,3,0,109.09090909090908,CO Obuya,0,caught and bowled,EC Joyce,2012-02-22,Ireland,Ireland,0,Mombasa Sports Club Ground
+4,EC Joyce,38.0,49,3,0,77.55102040816327,CO Obuya,['CO Obuya'],run out,GC Wilson,2012-02-24,Ireland,Ireland,0,Mombasa Sports Club Ground
+5,EC Joyce,38.0,49,3,0,77.55102040816327,SO Ngoche,0,bowled,EC Joyce,2012-02-24,Ireland,Ireland,0,Mombasa Sports Club Ground
+2,EC Joyce,78.0,59,6,3,132.20338983050848,notOut,notOut,notOut,notOut,2012-03-18,Scotland,Ireland,0,Dubai International Cricket Stadium
+2,EC Joyce,25.0,34,1,0,73.52941176470588,notOut,notOut,notOut,notOut,2012-03-23,Netherlands,Ireland,0,Dubai International Cricket Stadium
+1,EC Joyce,11.0,18,2,0,61.111111111111114,Aftab Alam,['Mohammad Nabi'],caught,EC Joyce,2012-03-24,Ireland,Ireland,0,Dubai International Cricket Stadium
+2,EC Joyce,11.0,20,0,0,55.00000000000001,Elias Sunny,['Mohammad Ashraful'],caught,EC Joyce,2012-07-18,Bangladesh,Bangladesh,0,"Civil Service Cricket Club, Stormont"
+2,EC Joyce,16.0,18,3,0,88.88888888888889,GJ Maxwell,['DA Warner'],caught,EC Joyce,2012-09-19,Ireland,Australia,0,R Premadasa Stadium
+1,EC Joyce,17.0,19,3,0,89.47368421052632,SP Narine,0,bowled,EC Joyce,2012-09-24,West Indies,0,0,R Premadasa Stadium
+1,EC Joyce,40.0,49,2,0,81.63265306122449,notOut,notOut,notOut,notOut,2014-02-19,Ireland,Ireland,0,"Sabina Park, Kingston"
+2,EC Joyce,10.0,14,1,0,71.42857142857143,SP Narine,['D Ramdin'],caught,EC Joyce,2014-02-21,Ireland,West Indies,0,"Sabina Park, Kingston"
+2,EC Joyce,22.0,28,0,0,78.57142857142857,T Panyangara,0,bowled,EC Joyce,2014-03-17,Zimbabwe,Ireland,0,Sylhet Stadium
+2,EC Joyce,43.0,39,4,1,110.25641025641026,Sharif Asadullah,['Khurram Khan'],caught,EC Joyce,2014-03-19,United Arab Emirates,Ireland,0,Sylhet Stadium
+2,EC Joyce,28.0,25,1,1,112.00000000000001,notOut,notOut,notOut,notOut,2014-03-21,Netherlands,Netherlands,0,Sylhet Stadium
+8,EJ Tice,4.0,8,0,0,50.0,Bismah Maroof,['Batool Fatima'],stumped,EJ Tice,2013-07-16,Pakistan,Pakistan,0,YMCA Cricket Club
+6,EJ Tice,0.0,1,0,0,0.0,Sadia Yousuf,['Batool Fatima'],stumped,EJ Tice,2013-07-29,Pakistan,Pakistan,0,YMCA Cricket Club
+3,EJ Tice,1.0,2,0,0,50.0,Sadia Yousuf,['Sania Khan'],run out,EJ Tice,2014-01-19,Pakistan,Ireland,0,West End Park International Cricket Stadium
+2,EJ Tice,4.0,14,0,0,28.57142857142857,D van Niekerk,['S Ismail'],caught,EJ Tice,2014-01-20,South Africa,South Africa,0,West End Park International Cricket Stadium
+3,EJ Tice,11.0,13,2,0,84.61538461538461,SW Bates,['HR Huddleston'],run out,EJ Tice,2014-03-25,New Zealand,New Zealand,0,Sylhet Stadium
+4,EJ Tice,4.0,7,0,0,57.14285714285714,S Ismail,0,bowled,EJ Tice,2014-03-29,South Africa,South Africa,0,Sylhet Stadium
+3,EJ Tice,17.0,21,1,0,80.95238095238095,Asmavia Iqbal,0,bowled,EJ Tice,2014-03-31,Pakistan,Pakistan,0,Sylhet Stadium
+3,EJ Tice,9.0,15,1,0,60.0,notOut,notOut,notOut,notOut,2014-04-03,Ireland,Bangladesh,0,Sylhet Stadium
+10,EJ Tice,1.0,3,0,0,33.33333333333333,notOut,notOut,notOut,notOut,2015-08-19,Australia,Australia,0,YMCA Cricket Club
+1,ELC Flanagan,9.0,16,1,0,56.25,Sania Khan,0,lbw,ELC Flanagan,2014-01-19,Pakistan,Ireland,0,West End Park International Cricket Stadium
+1,ELC Flanagan,12.0,18,1,0,66.66666666666666,M Daniels,['CL Tryon'],run out,ELC Flanagan,2014-01-20,South Africa,South Africa,0,West End Park International Cricket Stadium
+1,ELC Flanagan,5.0,7,1,0,71.42857142857143,MJG Nielsen,0,bowled,ELC Flanagan,2014-03-25,New Zealand,New Zealand,0,Sylhet Stadium
+10,G Dockrell,0.0,8,0,0,0.0,DJG Sammy,['D Ramdin'],caught,G Dockrell,2010-04-30,Ireland,West Indies,0,Providence Stadium
+1,GC Wilson,0.0,9,0,0,0.0,TM Odoyo,['AO Suji'],caught,GC Wilson,2008-08-04,Kenya,Ireland,0,"Civil Service Cricket Club, Stormont"
+3,GC Wilson,10.0,15,0,0,66.66666666666666,Mashrafe Mortaza,['Mohammad Ashraful'],caught,GC Wilson,2009-06-08,Ireland,Ireland,0,Trent Bridge
+2,GC Wilson,19.0,23,1,0,82.6086956521739,Harbhajan Singh,0,bowled,GC Wilson,2009-06-10,Ireland,India,0,Trent Bridge
+1,GC Wilson,23.0,29,2,0,79.3103448275862,KD Mills,['KD Mills'],run out,WTS Porterfield,2009-06-11,New Zealand,New Zealand,0,Trent Bridge
+2,GC Wilson,23.0,29,2,0,79.3103448275862,SB Styris,['JEC Franklin'],caught,GC Wilson,2009-06-11,New Zealand,New Zealand,0,Trent Bridge
+6,GC Wilson,8.0,10,0,0,80.0,Hamid Hassan,['Nawroz Mangal'],run out,AR Cusack,2010-02-09,Ireland,Afghanistan,0,Dubai International Cricket Stadium
+7,GC Wilson,8.0,10,0,0,80.0,Mohammad Nabi,['Mohammad Shahzad'],caught,GC Wilson,2010-02-09,Ireland,Afghanistan,0,Dubai International Cricket Stadium
+4,GC Wilson,19.0,22,2,0,86.36363636363636,RM Haq,0,lbw,GC Wilson,2010-02-11,Scotland,Ireland,0,Dubai International Cricket Stadium
+5,GC Wilson,5.0,8,1,0,62.5,Nawroz Mangal,['Hamid Hassan'],caught,GC Wilson,2010-02-13,Ireland,Afghanistan,0,Dubai International Cricket Stadium
+4,GC Wilson,29.0,24,4,0,120.83333333333333,Mudassar Bukhari,0,bowled,GC Wilson,2010-02-13,Netherlands,Ireland,0,Dubai International Cricket Stadium
+3,GC Wilson,17.0,37,0,0,45.94594594594595,DJ Bravo,['DJG Sammy'],caught,GC Wilson,2010-04-30,Ireland,West Indies,0,Providence Stadium
+3,GC Wilson,22.0,22,2,1,100.0,notOut,notOut,notOut,notOut,2012-02-23,Ireland,Ireland,0,Mombasa Sports Club Ground
+3,GC Wilson,32.0,38,4,0,84.21052631578947,notOut,notOut,notOut,notOut,2012-02-24,Ireland,Ireland,0,Mombasa Sports Club Ground
+5,GC Wilson,26.0,27,1,1,96.29629629629629,RM Haq,['KJ Coetzer'],caught,GC Wilson,2012-03-18,Scotland,Ireland,0,Dubai International Cricket Stadium
+3,GC Wilson,0.0,1,0,0,0.0,MR Swart,['PW Borren'],caught,GC Wilson,2012-03-23,Netherlands,Ireland,0,Dubai International Cricket Stadium
+3,GC Wilson,32.0,39,2,0,82.05128205128204,Aftab Alam,['Mirwais Ashraf'],caught,GC Wilson,2012-03-24,Ireland,Ireland,0,Dubai International Cricket Stadium
+4,GC Wilson,41.0,36,4,1,113.88888888888889,notOut,notOut,notOut,notOut,2012-07-18,Bangladesh,Bangladesh,0,"Civil Service Cricket Club, Stormont"
+4,GC Wilson,5.0,5,1,0,100.0,GB Hogg,0,lbw,GC Wilson,2012-09-19,Ireland,Australia,0,R Premadasa Stadium
+4,GC Wilson,21.0,22,3,0,95.45454545454545,CH Gayle,['D Ramdin'],caught,GC Wilson,2012-09-24,West Indies,0,0,R Premadasa Stadium
+5,GC Wilson,24.0,18,0,0,133.33333333333331,HS Baidwan,['H Patel'],caught,GC Wilson,2013-11-16,Ireland,Ireland,0,Sheikh Zayed Stadium
+4,GC Wilson,2.0,3,0,0,66.66666666666666,Dawlat Zadran,0,bowled,GC Wilson,2013-11-30,Ireland,Ireland,0,Sheikh Zayed Stadium
+3,GC Wilson,18.0,18,3,0,100.0,S Badree,0,bowled,GC Wilson,2014-02-19,Ireland,Ireland,0,"Sabina Park, Kingston"
+3,GC Wilson,35.0,39,4,0,89.74358974358975,DJ Bravo,0,caught and bowled,GC Wilson,2014-02-21,Ireland,West Indies,0,"Sabina Park, Kingston"
+4,GC Wilson,0.0,2,0,0,0.0,T Panyangara,['H Masakadza'],caught,GC Wilson,2014-03-17,Zimbabwe,Ireland,0,Sylhet Stadium
+5,GC Wilson,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2014-03-19,United Arab Emirates,Ireland,0,Sylhet Stadium
+5,GC Wilson,10.0,12,0,0,83.33333333333334,A Vala,['JNT Vare'],stumped,GC Wilson,2015-07-15,Papua New Guinea,Papua New Guinea,0,"Civil Service Cricket Club, Stormont"
+5,GC Wilson,16.0,17,2,0,94.11764705882352,Aizaz Khan,['JJ Atkinson'],caught,GC Wilson,2015-07-17,Hong Kong,Hong Kong,0,"The Village, Malahide"
+3,GC Wilson,20.0,25,2,0,80.0,RE van der Merwe,0,bowled,GC Wilson,2015-07-25,Netherlands,Netherlands,0,"The Village, Malahide"
+3,GC Wilson,13.0,12,0,0,108.33333333333333,P Raho,['L Siaka'],caught,GC Wilson,2016-02-07,Papua New Guinea,Ireland,0,Tony Ireland Stadium
+3,GC Wilson,15.0,16,2,0,93.75,CJA Amini,['A Vala'],caught,GC Wilson,2016-02-09,Papua New Guinea,Papua New Guinea,0,Tony Ireland Stadium
+4,GC Wilson,0.0,3,0,0,0.0,Amjad Javed,0,bowled,GC Wilson,2016-02-14,Ireland,Ireland,0,Sheikh Zayed Stadium
+3,GC Wilson,1.0,3,0,0,33.33333333333333,Mohammad Naveed,0,lbw,GC Wilson,2016-02-16,Ireland,United Arab Emirates,0,Sheikh Zayed Stadium
+2,GC Wilson,38.0,34,5,0,111.76470588235294,M Ansari,0,bowled,GC Wilson,2016-03-09,Oman,Oman,0,Himachal Pradesh Cricket Association Stadium
+3,GC Wilson,4.0,4,1,0,100.0,RE van der Merwe,['T van der Gugten'],caught,GC Wilson,2016-03-13,Netherlands,Netherlands,0,Himachal Pradesh Cricket Association Stadium
+4,GC Wilson,23.0,19,2,0,121.05263157894737,Rashid Khan,0,lbw,GC Wilson,2017-01-14,Ireland,Afghanistan,0,Sheikh Zayed Stadium
+4,GC Wilson,26.0,17,2,2,152.94117647058823,Zahoor Khan,['Ghulam Shabber'],caught,GC Wilson,2017-01-18,Ireland,Ireland,0,Dubai International Cricket Stadium
+5,GC Wilson,3.0,6,0,0,50.0,Amir Hamza,0,lbw,GC Wilson,2017-01-20,Ireland,Afghanistan,0,Dubai International Cricket Stadium
+4,GC Wilson,65.0,29,8,3,224.13793103448273,notOut,notOut,notOut,notOut,2017-01-20,Scotland,Ireland,0,Dubai International Cricket Stadium
+4,GC Wilson,41.0,27,3,1,151.85185185185185,Mohammad Nabi,"['Rashid Khan', 'Mohammad Shahzad']",run out,L Tucker,2017-03-08,Ireland,Afghanistan,0,Greater Noida Sports Complex Ground
+4,GC Wilson,1.0,2,0,0,50.0,Rashid Khan,['Mohammad Shahzad'],stumped,GC Wilson,2017-03-10,Ireland,Afghanistan,0,Greater Noida Sports Complex Ground
+4,GC Wilson,59.0,35,5,2,168.57142857142858,Rashid Khan,['Samiullah Shenwari'],caught,GC Wilson,2017-03-12,Ireland,Afghanistan,0,Greater Noida Sports Complex Ground
+11,GH Dockrell,2.0,2,0,0,100.0,notOut,notOut,notOut,notOut,2012-02-24,Ireland,Ireland,0,Mombasa Sports Club Ground
+8,GH Dockrell,10.0,6,1,0,166.66666666666669,notOut,notOut,notOut,notOut,2015-06-20,Scotland,Scotland,0,"Bready Cricket Club, Magheramason"
+8,GH Dockrell,8.0,8,0,0,100.0,N Vanua,"['TP Ura', 'JNT Vare']",run out,GH Dockrell,2015-07-15,Papua New Guinea,Papua New Guinea,0,"Civil Service Cricket Club, Stormont"
+9,GH Dockrell,0.0,2,0,0,0.0,Irfan Ahmed,['Babar Hayat'],caught,GH Dockrell,2015-07-17,Hong Kong,Hong Kong,0,"The Village, Malahide"
+8,GH Dockrell,8.0,5,0,1,160.0,T van der Gugten,['PW Borren'],caught,GH Dockrell,2015-07-25,Netherlands,Netherlands,0,"The Village, Malahide"
+9,GH Dockrell,7.0,6,1,0,116.66666666666667,N Vanua,['A Vala'],caught,GH Dockrell,2016-02-09,Papua New Guinea,Papua New Guinea,0,Tony Ireland Stadium
+7,GH Dockrell,5.0,5,0,0,100.0,Mohammad Shahzad (2),['Ahmed Raza'],run out,MC Sorensen,2016-02-16,Ireland,United Arab Emirates,0,Sheikh Zayed Stadium
+8,GH Dockrell,5.0,5,0,0,100.0,Mohammad Shahzad (2),0,bowled,GH Dockrell,2016-02-16,Ireland,United Arab Emirates,0,Sheikh Zayed Stadium
+7,GH Dockrell,0.0,1,0,0,0.0,PA van Meekeren,0,bowled,GH Dockrell,2016-03-13,Netherlands,Netherlands,0,Himachal Pradesh Cricket Association Stadium
+6,GH Dockrell,13.0,10,1,0,130.0,notOut,notOut,notOut,notOut,2017-01-14,Ireland,Afghanistan,0,Sheikh Zayed Stadium
+7,GH Dockrell,7.0,4,0,0,175.0,notOut,notOut,notOut,notOut,2017-01-18,Ireland,Ireland,0,Dubai International Cricket Stadium
+7,GH Dockrell,8.0,15,0,0,53.333333333333336,Fareed Ahmad,['Samiullah Shenwari'],caught,GH Dockrell,2017-01-20,Ireland,Afghanistan,0,Dubai International Cricket Stadium
+7,GH Dockrell,3.0,3,0,0,100.0,notOut,notOut,notOut,notOut,2017-01-20,Scotland,Ireland,0,Dubai International Cricket Stadium
+10,GH Dockrell,5.0,2,1,0,250.0,notOut,notOut,notOut,notOut,2017-03-10,Ireland,Afghanistan,0,Greater Noida Sports Complex Ground
+7,GH Dockrell,2.0,3,0,0,66.66666666666666,Mohammad Nabi,['Najibullah Zadran'],run out,BJ McCarthy,2017-03-12,Ireland,Afghanistan,0,Greater Noida Sports Complex Ground
+8,GH Dockrell,2.0,3,0,0,66.66666666666666,Mohammad Nabi,['Usman Ghani'],caught,GH Dockrell,2017-03-12,Ireland,Afghanistan,0,Greater Noida Sports Complex Ground
+5,GH Lewis,23.0,30,2,0,76.66666666666667,EA Osborne,['EA Osborne'],run out,KJ Garth,2015-08-19,Australia,Australia,0,YMCA Cricket Club
+6,GH Lewis,23.0,30,2,0,76.66666666666667,EA Perry,['MM Lanning'],run out,GH Lewis,2015-08-19,Australia,Australia,0,YMCA Cricket Club
+6,GH Lewis,4.0,6,0,0,66.66666666666666,EA Osborne,0,caught and bowled,GH Lewis,2015-08-21,Australia,Australia,0,YMCA Cricket Club
+4,GH Lewis,10.0,10,2,0,100.0,GM Harris,['AJ Healy'],stumped,GH Lewis,2015-08-22,Australia,Australia,0,YMCA Cricket Club
+6,GH Lewis,11.0,13,0,0,84.61538461538461,notOut,notOut,notOut,notOut,2015-12-05,Ireland,Ireland,0,Terdthai Cricket Ground
+5,GH Lewis,16.0,23,1,0,69.56521739130434,notOut,notOut,notOut,notOut,2016-03-18,New Zealand,New Zealand,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+5,GH Lewis,4.0,10,0,0,40.0,BMSM Kumari,['MADD Surangika'],stumped,GH Lewis,2016-03-20,Ireland,Sri Lanka,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+1,GH Lewis,4.0,6,0,0,66.66666666666666,Ritu Moni,['Ayasha Rahman'],caught,GH Lewis,2016-09-05,Bangladesh,Ireland,0,"Bready Cricket Club, Magheramason"
+4,GJ Thompson,44.0,32,7,0,137.5,Aizaz Khan,['Nadeem Ahmed'],caught,GJ Thompson,2016-09-05,Hong Kong,Hong Kong,0,"Bready Cricket Club, Magheramason"
+5,GJ Thompson,3.0,10,0,0,30.0,Mohammad Nabi,0,lbw,GJ Thompson,2017-01-14,Ireland,Afghanistan,0,Sheikh Zayed Stadium
+5,GJ Thompson,17.0,15,1,1,113.33333333333333,Mohammad Naveed,0,bowled,GJ Thompson,2017-01-18,Ireland,Ireland,0,Dubai International Cricket Stadium
+4,GJ Thompson,10.0,16,1,0,62.5,notOut,notOut,notOut,notOut,2017-01-20,Ireland,Afghanistan,0,Dubai International Cricket Stadium
+6,GJ Thompson,0.0,2,0,0,0.0,SM Sharif,0,bowled,GJ Thompson,2017-01-20,Scotland,Ireland,0,Dubai International Cricket Stadium
+7,GJ Thompson,1.0,4,0,0,25.0,Rashid Khan,['Mohammad Shahzad'],stumped,GJ Thompson,2017-03-10,Ireland,Afghanistan,0,Greater Noida Sports Complex Ground
+9,GJ Thompson,0.0,1,0,0,0.0,Rashid Khan,0,bowled,GJ Thompson,2017-03-12,Ireland,Afghanistan,0,Greater Noida Sports Complex Ground
+1,IMHC Joyce,0.0,3,0,0,0.0,Asmavia Iqbal,['Nahida Khan'],caught,IMHC Joyce,2013-07-16,Pakistan,Pakistan,0,YMCA Cricket Club
+1,IMHC Joyce,0.0,2,0,0,0.0,Sumaiya Siddiqi,0,bowled,IMHC Joyce,2013-07-29,Pakistan,Pakistan,0,YMCA Cricket Club
+2,IMHC Joyce,28.0,34,1,0,82.35294117647058,Sania Khan,0,lbw,IMHC Joyce,2014-01-19,Pakistan,Ireland,0,West End Park International Cricket Stadium
+3,IMHC Joyce,7.0,15,0,0,46.666666666666664,D van Niekerk,['S Luus'],caught,IMHC Joyce,2014-01-20,South Africa,South Africa,0,West End Park International Cricket Stadium
+2,IMHC Joyce,24.0,28,3,0,85.71428571428571,MJG Nielsen,['FL Mackay'],caught,IMHC Joyce,2014-03-25,New Zealand,New Zealand,0,Sylhet Stadium
+2,IMHC Joyce,15.0,22,1,0,68.18181818181817,D van Niekerk,0,lbw,IMHC Joyce,2014-03-29,South Africa,South Africa,0,Sylhet Stadium
+2,IMHC Joyce,32.0,39,3,0,82.05128205128204,Nida Dar,['Nahida Khan'],caught,IMHC Joyce,2014-03-31,Pakistan,Pakistan,0,Sylhet Stadium
+1,IMHC Joyce,4.0,9,1,0,44.44444444444444,Salma Khatun,0,lbw,IMHC Joyce,2014-04-03,Ireland,Bangladesh,0,Sylhet Stadium
+1,IMHC Joyce,4.0,7,1,0,57.14285714285714,EA Perry,0,bowled,IMHC Joyce,2015-08-19,Australia,Australia,0,YMCA Cricket Club
+1,IMHC Joyce,24.0,29,4,0,82.75862068965517,notOut,notOut,notOut,notOut,2015-08-21,Australia,Australia,0,YMCA Cricket Club
+4,IMHC Joyce,8.0,12,0,0,66.66666666666666,Khadija Tul Kubra,['Jahanara Alam'],run out,IMHC Joyce,2015-12-05,Ireland,Ireland,0,Terdthai Cricket Ground
+3,IMHC Joyce,28.0,33,2,0,84.84848484848484,SFM Devine,0,bowled,IMHC Joyce,2016-03-18,New Zealand,New Zealand,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+3,IMHC Joyce,24.0,29,2,0,82.75862068965517,AC Jayangani,['LE Kaushalya'],run out,IMHC Joyce,2016-03-20,Ireland,Sri Lanka,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+3,IMHC Joyce,22.0,23,2,0,95.65217391304348,S Luus,0,bowled,IMHC Joyce,2016-03-23,South Africa,South Africa,0,"MA Chidambaram Stadium, Chepauk"
+3,IMHC Joyce,8.0,13,0,0,61.53846153846154,ML Schutt,0,lbw,IMHC Joyce,2016-03-26,Ireland,Australia,0,Feroz Shah Kotla
+6,IMHC Joyce,1.0,3,0,0,33.33333333333333,Khadija Tul Kubra,['Jahanara Alam'],caught,IMHC Joyce,2016-09-05,Bangladesh,Ireland,0,"Bready Cricket Club, Magheramason"
+1,J Anderson,3.0,5,0,0,60.0,GT Main,['HG Munsey'],caught,J Anderson,2015-06-20,Scotland,Scotland,0,"Bready Cricket Club, Magheramason"
+5,J Gray,6.0,7,0,0,85.71428571428571,D van Niekerk,['T Chetty'],stumped,J Gray,2014-03-29,South Africa,South Africa,0,Sylhet Stadium
+6,J Gray,2.0,3,0,0,66.66666666666666,Sana Mir,['Batool Fatima'],stumped,J Gray,2014-03-31,Pakistan,Pakistan,0,Sylhet Stadium
+7,J Gray,6.0,12,0,0,50.0,Panna Ghosh,['Shohely Akhter (sub)'],caught,J Gray,2014-04-03,Ireland,Bangladesh,0,Sylhet Stadium
+3,J Gray,1.0,5,0,0,20.0,Panna Ghosh,['Lata Mondal'],caught,J Gray,2016-09-05,Bangladesh,Ireland,0,"Bready Cricket Club, Magheramason"
+9,J Little,0.0,3,0,0,0.0,Tanveer Ahmed,0,bowled,J Little,2016-09-05,Hong Kong,Hong Kong,0,"Bready Cricket Club, Magheramason"
+8,J Mulder,1.0,5,0,0,20.0,Aizaz Khan,0,bowled,J Mulder,2016-09-05,Hong Kong,Hong Kong,0,"Bready Cricket Club, Magheramason"
+8,J Mulder,0.0,1,0,0,0.0,Karim Janat,['Mohammad Shahzad'],caught,J Mulder,2017-01-20,Ireland,Afghanistan,0,Dubai International Cricket Stadium
+9,J Mulder,5.0,5,0,0,100.0,notOut,notOut,notOut,notOut,2017-03-10,Ireland,Afghanistan,0,Greater Noida Sports Complex Ground
+4,JF Mooney,17.0,14,2,0,121.42857142857142,notOut,notOut,notOut,notOut,2009-06-08,Ireland,Ireland,0,Trent Bridge
+5,JF Mooney,19.0,22,1,0,86.36363636363636,PP Ojha,['Yuvraj Singh'],caught,JF Mooney,2009-06-10,Ireland,India,0,Trent Bridge
+5,JF Mooney,12.0,14,1,0,85.71428571428571,JEC Franklin,['BB McCullum'],run out,JF Mooney,2009-06-11,New Zealand,New Zealand,0,Trent Bridge
+4,JF Mooney,31.0,21,4,0,147.61904761904762,SL Malinga,['KC Sangakkara'],run out,AR Cusack,2009-06-14,Sri Lanka,Sri Lanka,0,Lord's
+4,JF Mooney,2.0,8,0,0,25.0,Saeed Ajmal,['Abdul Razzaq'],caught,JF Mooney,2009-06-15,Pakistan,Pakistan,0,Kennington Oval
+9,JF Mooney,9.0,14,1,0,64.28571428571429,Hamid Hassan,0,bowled,JF Mooney,2010-02-09,Ireland,Afghanistan,0,Dubai International Cricket Stadium
+6,JF Mooney,10.0,13,0,0,76.92307692307693,KJ Coetzer,['DF Watts'],caught,JF Mooney,2010-02-11,Scotland,Ireland,0,Dubai International Cricket Stadium
+6,JF Mooney,5.0,9,0,0,55.55555555555556,Hamid Hassan,0,bowled,JF Mooney,2010-02-13,Ireland,Afghanistan,0,Dubai International Cricket Stadium
+6,JF Mooney,17.0,13,2,0,130.76923076923077,notOut,notOut,notOut,notOut,2010-02-13,Netherlands,Ireland,0,Dubai International Cricket Stadium
+7,JF Mooney,1.0,4,0,0,25.0,NO Miller,0,lbw,JF Mooney,2010-04-30,Ireland,West Indies,0,Providence Stadium
+5,JF Mooney,16.0,9,3,0,177.77777777777777,notOut,notOut,notOut,notOut,2012-02-22,Ireland,Ireland,0,Mombasa Sports Club Ground
+6,JF Mooney,5.0,8,0,0,62.5,HA Varaiya,['DI Allan'],caught,JF Mooney,2012-02-24,Ireland,Ireland,0,Mombasa Sports Club Ground
+6,JF Mooney,4.0,4,0,0,100.0,notOut,notOut,notOut,notOut,2012-03-18,Scotland,Ireland,0,Dubai International Cricket Stadium
+6,JF Mooney,1.0,7,0,0,14.285714285714285,Elias Sunny,0,bowled,JF Mooney,2012-07-18,Bangladesh,Bangladesh,0,"Civil Service Cricket Club, Stormont"
+6,JF Mooney,14.0,7,2,0,200.0,notOut,notOut,notOut,notOut,2013-11-16,Ireland,Ireland,0,Sheikh Zayed Stadium
+5,JF Mooney,12.0,8,2,0,150.0,Shapoor Zadran,['Mohammad Shahzad'],caught,JF Mooney,2013-11-30,Ireland,Ireland,0,Sheikh Zayed Stadium
+7,JF Mooney,5.0,3,1,0,166.66666666666669,L Nou,['N Vanua'],caught,JF Mooney,2015-07-15,Papua New Guinea,Papua New Guinea,0,"Civil Service Cricket Club, Stormont"
+8,JF Mooney,18.0,9,2,1,200.0,notOut,notOut,notOut,notOut,2015-07-17,Hong Kong,Hong Kong,0,"The Village, Malahide"
+5,JF Mooney,4.0,7,0,0,57.14285714285714,T van der Gugten,['MR Swart'],caught,JF Mooney,2015-07-25,Netherlands,Netherlands,0,"The Village, Malahide"
+6,JNK Shannon,2.0,3,0,0,66.66666666666666,Amir Hamza,['Gulbadin Naib'],caught,JNK Shannon,2013-11-30,Ireland,Ireland,0,Sheikh Zayed Stadium
+3,JNK Shannon,0.0,5,0,0,0.0,Aizaz Khan,['Nadeem Ahmed'],caught,JNK Shannon,2016-09-05,Hong Kong,Hong Kong,0,"Bready Cricket Club, Magheramason"
+0,JP Bray,2.0,10,0,0,20.0,Mashrafe Mortaza,['Raqibul Hasan'],caught,JP Bray,2009-06-08,Ireland,Ireland,0,Trent Bridge
+1,JP Bray,0.0,7,0,0,0.0,Z Khan,0,bowled,JP Bray,2009-06-10,Ireland,India,0,Trent Bridge
+6,K McKenna,8.0,23,0,0,34.78260869565217,D van Niekerk,['SA Fritz'],run out,MEMO Scott-Hayward,2014-01-20,South Africa,South Africa,0,West End Park International Cricket Stadium
+8,K McKenna,0.0,3,0,0,0.0,D van Niekerk,['S Loubser'],caught,K McKenna,2014-03-29,South Africa,South Africa,0,Sylhet Stadium
+6,KJ Garth,4.0,8,0,0,50.0,Bismah Maroof,['Sana Mir'],run out,KJ Garth,2013-07-16,Pakistan,Pakistan,0,YMCA Cricket Club
+2,KJ Garth,38.0,56,2,0,67.85714285714286,Nida Dar,['Nahida Khan'],run out,LK O'Reilly,2013-07-29,Pakistan,Pakistan,0,YMCA Cricket Club
+8,KJ Garth,15.0,18,2,0,83.33333333333334,notOut,notOut,notOut,notOut,2015-08-19,Australia,Australia,0,YMCA Cricket Club
+8,KJ Garth,15.0,15,1,0,100.0,notOut,notOut,notOut,notOut,2015-08-21,Australia,Australia,0,YMCA Cricket Club
+5,KJ Garth,30.0,36,4,0,83.33333333333334,notOut,notOut,notOut,notOut,2015-08-22,Australia,Australia,0,YMCA Cricket Club
+2,KJ Garth,2.0,7,0,0,28.57142857142857,Nahida Akter,0,bowled,KJ Garth,2015-12-05,Ireland,Ireland,0,Terdthai Cricket Ground
+6,KJ Garth,6.0,10,0,0,60.0,notOut,notOut,notOut,notOut,2016-03-18,New Zealand,New Zealand,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+6,KJ Garth,11.0,11,0,0,100.0,notOut,notOut,notOut,notOut,2016-03-20,Ireland,Sri Lanka,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+7,KJ Garth,7.0,14,0,0,50.0,S Luus,['MM Letsoalo'],caught,KJ Garth,2016-03-23,South Africa,South Africa,0,"MA Chidambaram Stadium, Chepauk"
+2,KJ Garth,27.0,46,0,0,58.69565217391305,ML Schutt,['BL Mooney'],caught,KJ Garth,2016-03-26,Ireland,Australia,0,Feroz Shah Kotla
+5,KJ Garth,6.0,3,1,0,200.0,notOut,notOut,notOut,notOut,2016-09-05,Bangladesh,Ireland,0,"Bready Cricket Club, Magheramason"
+6,KJ O'Brien,17.0,16,1,1,106.25,notOut,notOut,notOut,notOut,2008-08-04,Kenya,Ireland,0,"Civil Service Cricket Club, Stormont"
+5,KJ O'Brien,39.0,18,4,2,216.66666666666666,notOut,notOut,notOut,notOut,2009-06-08,Ireland,Ireland,0,Trent Bridge
+4,KJ O'Brien,2.0,4,0,0,50.0,PP Ojha,0,bowled,KJ O'Brien,2009-06-10,Ireland,India,0,Trent Bridge
+6,KJ O'Brien,2.0,3,0,0,66.66666666666666,NL McCullum,['JEC Franklin'],caught,KJ O'Brien,2009-06-11,New Zealand,New Zealand,0,Trent Bridge
+3,KJ O'Brien,0.0,2,0,0,0.0,BAW Mendis,['TM Dilshan'],caught,KJ O'Brien,2009-06-14,Sri Lanka,Sri Lanka,0,Lord's
+3,KJ O'Brien,26.0,32,1,0,81.25,Saeed Ajmal,['Kamran Akmal'],stumped,KJ O'Brien,2009-06-15,Pakistan,Pakistan,0,Kennington Oval
+4,KJ O'Brien,7.0,9,0,0,77.77777777777779,Karim Sadiq,['Nawroz Mangal'],caught,KJ O'Brien,2010-02-09,Ireland,Afghanistan,0,Dubai International Cricket Stadium
+8,KJ O'Brien,10.0,4,0,1,250.0,notOut,notOut,notOut,notOut,2010-02-11,Scotland,Ireland,0,Dubai International Cricket Stadium
+3,KJ O'Brien,2.0,3,0,0,66.66666666666666,Nawroz Mangal,['Raees Ahmadzai'],caught,KJ O'Brien,2010-02-13,Ireland,Afghanistan,0,Dubai International Cricket Stadium
+5,KJ O'Brien,0.0,2,0,0,0.0,MBS Jonkman,0,caught and bowled,KJ O'Brien,2010-02-13,Netherlands,Ireland,0,Dubai International Cricket Stadium
+5,KJ O'Brien,9.0,19,1,0,47.368421052631575,DJG Sammy,['ADS Fletcher'],caught,KJ O'Brien,2010-04-30,Ireland,West Indies,0,Providence Stadium
+3,KJ O'Brien,30.0,39,3,0,76.92307692307693,notOut,notOut,notOut,notOut,2012-02-22,Ireland,Ireland,0,Mombasa Sports Club Ground
+2,KJ O'Brien,9.0,9,1,0,100.0,HA Varaiya,0,bowled,KJ O'Brien,2012-02-23,Ireland,Ireland,0,Mombasa Sports Club Ground
+2,KJ O'Brien,4.0,4,1,0,100.0,SO Ngoche,['HA Varaiya'],caught,KJ O'Brien,2012-02-24,Ireland,Ireland,0,Mombasa Sports Club Ground
+4,KJ O'Brien,16.0,15,0,1,106.66666666666667,PL Mommsen,0,bowled,KJ O'Brien,2012-03-18,Scotland,Ireland,0,Dubai International Cricket Stadium
+4,KJ O'Brien,30.0,22,1,3,136.36363636363635,notOut,notOut,notOut,notOut,2012-03-23,Netherlands,Ireland,0,Dubai International Cricket Stadium
+4,KJ O'Brien,0.0,1,0,0,0.0,Dawlat Zadran,['Mohammad Shahzad'],caught,KJ O'Brien,2012-03-24,Ireland,Ireland,0,Dubai International Cricket Stadium
+5,KJ O'Brien,0.0,2,0,0,0.0,Abdur Razzak,0,bowled,KJ O'Brien,2012-07-18,Bangladesh,Bangladesh,0,"Civil Service Cricket Club, Stormont"
+5,KJ O'Brien,35.0,29,5,0,120.6896551724138,SR Watson,['MS Wade'],caught,KJ O'Brien,2012-09-19,Ireland,Australia,0,R Premadasa Stadium
+5,KJ O'Brien,13.0,17,0,1,76.47058823529412,R Rampaul,0,bowled,KJ O'Brien,2012-09-24,West Indies,0,0,R Premadasa Stadium
+3,KJ O'Brien,31.0,25,2,1,124.0,AS Hansra,['A Bagai'],caught,KJ O'Brien,2013-11-16,Ireland,Ireland,0,Sheikh Zayed Stadium
+2,KJ O'Brien,20.0,12,2,1,166.66666666666669,Karim Sadiq,['Dawlat Zadran'],caught,KJ O'Brien,2013-11-30,Ireland,Ireland,0,Sheikh Zayed Stadium
+5,KJ O'Brien,15.0,14,2,0,107.14285714285714,notOut,notOut,notOut,notOut,2014-02-19,Ireland,Ireland,0,"Sabina Park, Kingston"
+5,KJ O'Brien,3.0,5,0,0,60.0,DJG Sammy,0,bowled,KJ O'Brien,2014-02-21,Ireland,West Indies,0,"Sabina Park, Kingston"
+5,KJ O'Brien,17.0,11,2,1,154.54545454545453,T Panyangara,['SC Williams'],caught,KJ O'Brien,2014-03-17,Zimbabwe,Ireland,0,Sylhet Stadium
+3,KJ O'Brien,0.0,2,0,0,0.0,Sharif Asadullah,['V Shetty'],caught,KJ O'Brien,2014-03-19,United Arab Emirates,Ireland,0,Sylhet Stadium
+5,KJ O'Brien,42.0,16,2,4,262.5,notOut,notOut,notOut,notOut,2014-03-21,Netherlands,Netherlands,0,Sylhet Stadium
+4,KJ O'Brien,36.0,30,2,1,120.0,MRJ Watt,['SM Sharif'],run out,A Balbirnie,2015-06-20,Scotland,Scotland,0,"Bready Cricket Club, Magheramason"
+5,KJ O'Brien,36.0,30,2,1,120.0,SM Sharif,['MA Leask'],caught,KJ O'Brien,2015-06-20,Scotland,Scotland,0,"Bready Cricket Club, Magheramason"
+3,KJ O'Brien,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2015-07-13,Ireland,Ireland,0,"Civil Service Cricket Club, Stormont"
+3,KJ O'Brien,4.0,2,1,0,200.0,WT Gavera,['MD Dai'],caught,KJ O'Brien,2015-07-15,Papua New Guinea,Papua New Guinea,0,"Civil Service Cricket Club, Stormont"
+4,KJ O'Brien,5.0,10,0,0,50.0,notOut,notOut,notOut,notOut,2015-07-17,Hong Kong,Hong Kong,0,"The Village, Malahide"
+4,KJ O'Brien,33.0,18,0,3,183.33333333333331,PA van Meekeren,['PM Seelaar'],caught,KJ O'Brien,2015-07-25,Netherlands,Netherlands,0,"The Village, Malahide"
+4,KJ O'Brien,0.0,1,0,0,0.0,CJA Amini,['N Vanua'],caught,KJ O'Brien,2016-02-09,Papua New Guinea,Papua New Guinea,0,Tony Ireland Stadium
+6,KJ O'Brien,23.0,29,2,0,79.3103448275862,Mohammad Naveed,0,bowled,KJ O'Brien,2016-02-14,Ireland,Ireland,0,Sheikh Zayed Stadium
+4,KJ O'Brien,14.0,12,1,0,116.66666666666667,M Ansari,0,bowled,KJ O'Brien,2016-03-09,Oman,Oman,0,Himachal Pradesh Cricket Association Stadium
+2,KJ O'Brien,0.0,3,0,0,0.0,PA van Meekeren,['PM Seelaar'],caught,KJ O'Brien,2016-03-13,Netherlands,Netherlands,0,Himachal Pradesh Cricket Association Stadium
+5,KJ O'Brien,32.0,26,3,1,123.07692307692308,Ehsan Khan,['Tanveer Ahmed'],caught,KJ O'Brien,2016-09-05,Hong Kong,Hong Kong,0,"Bready Cricket Club, Magheramason"
+3,KJ O'Brien,12.0,9,2,0,133.33333333333331,Rashid Khan,0,lbw,KJ O'Brien,2017-01-14,Ireland,Afghanistan,0,Sheikh Zayed Stadium
+3,KJ O'Brien,40.0,27,1,3,148.14814814814815,Zahoor Khan,['Imran Haider'],caught,KJ O'Brien,2017-01-18,Ireland,Ireland,0,Dubai International Cricket Stadium
+3,KJ O'Brien,5.0,6,1,0,83.33333333333334,Mohammad Nabi,0,bowled,KJ O'Brien,2017-01-20,Ireland,Afghanistan,0,Dubai International Cricket Stadium
+3,KJ O'Brien,30.0,24,0,2,125.0,MRJ Watt,['MH Cross'],stumped,KJ O'Brien,2017-01-20,Scotland,Ireland,0,Dubai International Cricket Stadium
+3,KJ O'Brien,11.0,14,1,0,78.57142857142857,Rashid Khan,['Mohammad Shahzad'],stumped,KJ O'Brien,2017-03-08,Ireland,Afghanistan,0,Greater Noida Sports Complex Ground
+3,KJ O'Brien,5.0,8,0,0,62.5,Rashid Khan,0,bowled,KJ O'Brien,2017-03-10,Ireland,Afghanistan,0,Greater Noida Sports Complex Ground
+3,KJ O'Brien,3.0,6,0,0,50.0,Karim Janat,['Mohammad Nabi'],caught,KJ O'Brien,2017-03-12,Ireland,Afghanistan,0,Greater Noida Sports Complex Ground
+5,L Delany,7.0,17,0,0,41.17647058823529,Sana Mir,0,bowled,L Delany,2013-07-16,Pakistan,Pakistan,0,YMCA Cricket Club
+5,L Delany,4.0,9,0,0,44.44444444444444,Sadia Yousuf,['Batool Fatima'],stumped,L Delany,2013-07-29,Pakistan,Pakistan,0,YMCA Cricket Club
+5,L Delany,5.0,9,0,0,55.55555555555556,D van Niekerk,0,caught and bowled,L Delany,2014-01-20,South Africa,South Africa,0,West End Park International Cricket Stadium
+9,L Delany,14.0,10,1,0,140.0,notOut,notOut,notOut,notOut,2014-04-03,Ireland,Bangladesh,0,Sylhet Stadium
+3,L Delany,9.0,19,0,0,47.368421052631575,RM Farrell,0,caught and bowled,L Delany,2015-08-19,Australia,Australia,0,YMCA Cricket Club
+3,L Delany,12.0,28,1,0,42.857142857142854,JL Jonassen,['JL Jonassen'],run out,IMHC Joyce,2015-08-21,Australia,Australia,0,YMCA Cricket Club
+4,L Delany,12.0,28,1,0,42.857142857142854,EA Osborne,['GM Harris'],caught,L Delany,2015-08-21,Australia,Australia,0,YMCA Cricket Club
+3,L Delany,7.0,11,1,0,63.63636363636363,EA Osborne,['AJ Blackwell'],run out,L Delany,2015-08-22,Australia,Australia,0,YMCA Cricket Club
+5,L Delany,26.0,36,0,0,72.22222222222221,Khadija Tul Kubra,"['Khadija Tul Kubra', 'Jahanara Alam']",run out,GH Lewis,2015-12-05,Ireland,Ireland,0,Terdthai Cricket Ground
+4,L Delany,9.0,21,1,0,42.857142857142854,EM Bermingham,['RH Priest'],stumped,L Delany,2016-03-18,New Zealand,New Zealand,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+4,L Delany,29.0,24,2,0,120.83333333333333,AC Jayangani,['BMSM Kumari'],run out,L Delany,2016-03-20,Ireland,Sri Lanka,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+4,L Delany,3.0,8,0,0,37.5,D van Niekerk,['M Daniels'],run out,CMA Shillington,2016-03-23,South Africa,South Africa,0,"MA Chidambaram Stadium, Chepauk"
+5,L Delany,3.0,8,0,0,37.5,S Luus,0,caught and bowled,L Delany,2016-03-23,South Africa,South Africa,0,"MA Chidambaram Stadium, Chepauk"
+4,L Delany,0.0,1,0,0,0.0,RM Farrell,['JL Jonassen'],run out,L Delany,2016-03-26,Ireland,Australia,0,Feroz Shah Kotla
+7,L Delany,2.0,2,0,0,100.0,Khadija Tul Kubra,['Nigar Sultana'],run out,L Delany,2016-09-05,Bangladesh,Ireland,0,"Bready Cricket Club, Magheramason"
+7,L Tucker,4.0,9,0,0,44.44444444444444,Tanveer Ahmed,0,bowled,L Tucker,2016-09-05,Hong Kong,Hong Kong,0,"Bready Cricket Club, Magheramason"
+5,L Tucker,14.0,13,2,0,107.6923076923077,notOut,notOut,notOut,notOut,2017-03-08,Ireland,Afghanistan,0,Greater Noida Sports Complex Ground
+6,L Tucker,9.0,6,2,0,150.0,Rashid Khan,['Najibullah Zadran'],caught,L Tucker,2017-03-10,Ireland,Afghanistan,0,Greater Noida Sports Complex Ground
+6,L Tucker,16.0,14,0,1,114.28571428571428,Rashid Khan,0,bowled,L Tucker,2017-03-12,Ireland,Afghanistan,0,Greater Noida Sports Complex Ground
+9,LK O'Reilly,4.0,4,0,0,100.0,Sadia Yousuf,['Batool Fatima'],stumped,LK O'Reilly,2013-07-16,Pakistan,Pakistan,0,YMCA Cricket Club
+9,LK O'Reilly,2.0,5,0,0,40.0,notOut,notOut,notOut,notOut,2013-07-29,Pakistan,Pakistan,0,YMCA Cricket Club
+9,LK O'Reilly,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2014-01-20,South Africa,South Africa,0,West End Park International Cricket Stadium
+11,LK O'Reilly,1.0,2,0,0,50.0,notOut,notOut,notOut,notOut,2014-03-31,Pakistan,Pakistan,0,Sylhet Stadium
+11,LK O'Reilly,7.0,8,0,0,87.5,Salma Khatun,['Shamima Sultana'],run out,LK O'Reilly,2014-04-03,Ireland,Bangladesh,0,Sylhet Stadium
+9,LK O'Reilly,13.0,12,1,0,108.33333333333333,notOut,notOut,notOut,notOut,2015-08-19,Australia,Australia,0,YMCA Cricket Club
+9,LK O'Reilly,10.0,18,1,0,55.55555555555556,notOut,notOut,notOut,notOut,2015-08-21,Australia,Australia,0,YMCA Cricket Club
+7,LK O'Reilly,14.0,27,1,0,51.85185185185185,ML Schutt,['EA Osborne'],run out,LK O'Reilly,2015-08-22,Australia,Australia,0,YMCA Cricket Club
+9,LK O'Reilly,2.0,3,0,0,66.66666666666666,notOut,notOut,notOut,notOut,2015-12-05,Ireland,Ireland,0,Terdthai Cricket Ground
+10,LK O'Reilly,0.0,2,0,0,0.0,S Luus,['D van Niekerk'],caught,LK O'Reilly,2016-03-23,South Africa,South Africa,0,"MA Chidambaram Stadium, Chepauk"
+10,LN McCarthy,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2013-07-16,Pakistan,Pakistan,0,YMCA Cricket Club
+10,LN McCarthy,0.0,1,0,0,0.0,Nida Dar,['Batool Fatima'],stumped,LN McCarthy,2013-07-29,Pakistan,Pakistan,0,YMCA Cricket Club
+8,LN McCarthy,3.0,6,0,0,50.0,S Ismail,['Y Potgieter'],caught,LN McCarthy,2014-01-20,South Africa,South Africa,0,West End Park International Cricket Stadium
+6,LN McCarthy,7.0,10,0,0,70.0,notOut,notOut,notOut,notOut,2014-03-25,New Zealand,New Zealand,0,Sylhet Stadium
+7,LN McCarthy,5.0,6,0,0,83.33333333333334,M Kapp,['T Chetty'],caught,LN McCarthy,2014-03-29,South Africa,South Africa,0,Sylhet Stadium
+9,LN McCarthy,2.0,1,0,0,200.0,notOut,notOut,notOut,notOut,2014-03-31,Pakistan,Pakistan,0,Sylhet Stadium
+8,LN McCarthy,0.0,1,0,0,0.0,Panna Ghosh,['Ayasha Rahman'],caught,LN McCarthy,2014-04-03,Ireland,Bangladesh,0,Sylhet Stadium
+9,MC Sorensen,12.0,13,0,1,92.3076923076923,notOut,notOut,notOut,notOut,2012-07-18,Bangladesh,Bangladesh,0,"Civil Service Cricket Club, Stormont"
+7,MC Sorensen,6.0,6,1,0,100.0,notOut,notOut,notOut,notOut,2013-11-30,Ireland,Ireland,0,Sheikh Zayed Stadium
+7,MC Sorensen,9.0,18,0,0,50.0,DJ Bravo,['DJ Bravo'],run out,AR Cusack,2014-02-21,Ireland,West Indies,0,"Sabina Park, Kingston"
+7,MC Sorensen,0.0,1,0,0,0.0,T Panyangara,['SC Williams'],run out,MC Sorensen,2014-03-17,Zimbabwe,Ireland,0,Sylhet Stadium
+6,MC Sorensen,4.0,3,0,0,133.33333333333331,notOut,notOut,notOut,notOut,2016-02-07,Papua New Guinea,Ireland,0,Tony Ireland Stadium
+7,MC Sorensen,1.0,2,0,0,50.0,MD Dai,0,bowled,MC Sorensen,2016-02-09,Papua New Guinea,Papua New Guinea,0,Tony Ireland Stadium
+8,MC Sorensen,26.0,15,1,1,173.33333333333334,Amjad Javed,0,lbw,MC Sorensen,2016-02-14,Ireland,Ireland,0,Sheikh Zayed Stadium
+9,MC Sorensen,2.0,2,0,0,100.0,notOut,notOut,notOut,notOut,2016-02-16,Ireland,United Arab Emirates,0,Sheikh Zayed Stadium
+6,MC Sorensen,9.0,7,0,0,128.57142857142858,PA van Meekeren,0,bowled,MC Sorensen,2016-03-13,Netherlands,Netherlands,0,Himachal Pradesh Cricket Association Stadium
+3,MEMO Scott-Hayward,1.0,2,0,0,50.0,Bismah Maroof,['Batool Fatima'],stumped,MEMO Scott-Hayward,2013-07-16,Pakistan,Pakistan,0,YMCA Cricket Club
+8,MEMO Scott-Hayward,0.0,1,0,0,0.0,Sana Mir,['Batool Fatima'],caught,MEMO Scott-Hayward,2013-07-29,Pakistan,Pakistan,0,YMCA Cricket Club
+5,MEMO Scott-Hayward,7.0,8,0,0,87.5,notOut,notOut,notOut,notOut,2014-01-19,Pakistan,Ireland,0,West End Park International Cricket Stadium
+4,MEMO Scott-Hayward,6.0,8,0,0,75.0,notOut,notOut,notOut,notOut,2014-01-20,South Africa,South Africa,0,West End Park International Cricket Stadium
+5,MEMO Scott-Hayward,9.0,10,1,0,90.0,SW Bates,['ML Green'],caught,MEMO Scott-Hayward,2014-03-25,New Zealand,New Zealand,0,Sylhet Stadium
+3,MEMO Scott-Hayward,14.0,10,1,0,140.0,MM Letsoalo,['Y van der Westhuizen'],caught,MEMO Scott-Hayward,2014-03-29,South Africa,South Africa,0,Sylhet Stadium
+4,MEMO Scott-Hayward,6.0,5,1,0,120.0,Anam Amin,0,bowled,MEMO Scott-Hayward,2014-03-31,Pakistan,Pakistan,0,Sylhet Stadium
+6,MEMO Scott-Hayward,16.0,16,1,0,100.0,Panna Ghosh,['Shohely Akhter (sub)'],caught,MEMO Scott-Hayward,2014-04-03,Ireland,Bangladesh,0,Sylhet Stadium
+4,MV Waldron,7.0,9,1,0,77.77777777777779,Nida Dar,['Batool Fatima'],stumped,MV Waldron,2013-07-16,Pakistan,Pakistan,0,YMCA Cricket Club
+4,MV Waldron,2.0,5,0,0,40.0,Sadia Yousuf,['Batool Fatima'],stumped,MV Waldron,2013-07-29,Pakistan,Pakistan,0,YMCA Cricket Club
+7,MV Waldron,13.0,15,1,0,86.66666666666667,M Kapp,0,bowled,MV Waldron,2014-01-20,South Africa,South Africa,0,West End Park International Cricket Stadium
+1,MV Waldron,33.0,30,7,0,110.00000000000001,MM Letsoalo,['T Chetty'],stumped,MV Waldron,2014-03-29,South Africa,South Africa,0,Sylhet Stadium
+1,MV Waldron,0.0,5,0,0,0.0,Asmavia Iqbal,0,bowled,MV Waldron,2014-03-31,Pakistan,Pakistan,0,Sylhet Stadium
+2,MV Waldron,9.0,13,1,0,69.23076923076923,Rumana Ahmed,['Shamima Sultana'],stumped,MV Waldron,2014-04-03,Ireland,Bangladesh,0,Sylhet Stadium
+4,MV Waldron,0.0,2,0,0,0.0,GM Harris,0,lbw,MV Waldron,2015-08-19,Australia,Australia,0,YMCA Cricket Club
+5,MV Waldron,1.0,5,0,0,20.0,JL Jonassen,0,lbw,MV Waldron,2015-08-21,Australia,Australia,0,YMCA Cricket Club
+6,MV Waldron,9.0,25,1,0,36.0,JL Jonassen,0,bowled,MV Waldron,2015-08-22,Australia,Australia,0,YMCA Cricket Club
+7,MV Waldron,1.0,3,0,0,33.33333333333333,Salma Khatun,0,caught and bowled,MV Waldron,2015-12-05,Ireland,Ireland,0,Terdthai Cricket Ground
+7,MV Waldron,3.0,3,0,0,100.0,OU Ranasinghe,['AC Jayangani'],run out,MV Waldron,2016-03-20,Ireland,Sri Lanka,0,"Punjab Cricket Association IS Bindra Stadium, Mohali"
+8,MV Waldron,2.0,2,0,0,100.0,S Luus,['CL Tryon'],run out,MV Waldron,2016-03-23,South Africa,South Africa,0,"MA Chidambaram Stadium, Chepauk"
+7,MV Waldron,0.0,2,0,0,0.0,RM Farrell,['EJ Villani'],run out,MV Waldron,2016-03-26,Ireland,Australia,0,Feroz Shah Kotla
+4,MV Waldron,7.0,10,0,0,70.0,Khadija Tul Kubra,0,caught and bowled,MV Waldron,2016-09-05,Bangladesh,Ireland,0,"Bready Cricket Club, Magheramason"
+4,NG Jones,14.0,15,1,0,93.33333333333333,Nawroz Mangal,0,bowled,NG Jones,2010-02-13,Ireland,Afghanistan,0,Dubai International Cricket Stadium
+7,NG Jones,0.0,3,0,0,0.0,HA Varaiya,['SO Ngoche'],caught,NG Jones,2012-02-24,Ireland,Ireland,0,Mombasa Sports Club Ground
+8,NG Jones,14.0,11,0,1,127.27272727272727,notOut,notOut,notOut,notOut,2012-09-19,Ireland,Australia,0,R Premadasa Stadium
+7,NG Jones,14.0,11,0,1,127.27272727272727,notOut,notOut,notOut,notOut,2012-09-24,West Indies,0,0,R Premadasa Stadium
+2,NJ O'Brien,11.0,31,0,0,35.483870967741936,JK Kamande,['SO Tikolo'],caught,NJ O'Brien,2008-08-04,Kenya,Ireland,0,"Civil Service Cricket Club, Stormont"
+2,NJ O'Brien,40.0,25,3,3,160.0,Shakib Al Hasan,['Rubel Hossain'],caught,NJ O'Brien,2009-06-08,Ireland,Ireland,0,Trent Bridge
+3,NJ O'Brien,3.0,4,0,0,75.0,KD Mills,['JDP Oram'],caught,NJ O'Brien,2009-06-11,New Zealand,New Zealand,0,Trent Bridge
+1,NJ O'Brien,31.0,38,4,0,81.57894736842105,BAW Mendis,['KC Sangakkara'],stumped,NJ O'Brien,2009-06-14,Sri Lanka,Sri Lanka,0,Lord's
+1,NJ O'Brien,7.0,10,1,0,70.0,Mohammad Amir,0,caught and bowled,NJ O'Brien,2009-06-15,Pakistan,Pakistan,0,Kennington Oval
+1,NJ O'Brien,2.0,7,0,0,28.57142857142857,Shapoor Zadran,['Noor Ali Zadran'],caught,NJ O'Brien,2010-02-09,Ireland,Afghanistan,0,Dubai International Cricket Stadium
+1,NJ O'Brien,17.0,16,3,0,106.25,GD Drummond,['DF Watts'],caught,NJ O'Brien,2010-02-11,Scotland,Ireland,0,Dubai International Cricket Stadium
+1,NJ O'Brien,28.0,27,3,0,103.7037037037037,Mohammad Nabi,['Samiullah Shenwari'],run out,NJ O'Brien,2010-02-13,Ireland,Afghanistan,0,Dubai International Cricket Stadium
+1,NJ O'Brien,11.0,15,0,0,73.33333333333333,Mohammad Kashif,['PW Borren'],caught,NJ O'Brien,2010-02-13,Netherlands,Ireland,0,Dubai International Cricket Stadium
+1,NJ O'Brien,6.0,5,1,0,120.0,R Rampaul,['D Ramdin'],caught,NJ O'Brien,2010-04-30,Ireland,West Indies,0,Providence Stadium
+2,NJ O'Brien,9.0,5,2,0,180.0,notOut,notOut,notOut,notOut,2010-05-04,Ireland,0,0,Providence Stadium
+3,NJ O'Brien,8.0,8,0,1,100.0,Elias Sunny,['Mushfiqur Rahim'],stumped,NJ O'Brien,2012-07-18,Bangladesh,Bangladesh,0,"Civil Service Cricket Club, Stormont"
+3,NJ O'Brien,20.0,24,2,0,83.33333333333334,SR Watson,0,bowled,NJ O'Brien,2012-09-19,Ireland,Australia,0,R Premadasa Stadium
+3,NJ O'Brien,25.0,21,0,1,119.04761904761905,CH Gayle,0,bowled,NJ O'Brien,2012-09-24,West Indies,0,0,R Premadasa Stadium
+2,NJ O'Brien,27.0,24,3,0,112.5,AS Hansra,['A Bagai'],stumped,NJ O'Brien,2013-11-16,Ireland,Ireland,0,Sheikh Zayed Stadium
+0,NJ O'Brien,3.0,7,0,0,42.857142857142854,Sompal Kami,0,bowled,NJ O'Brien,2015-07-13,Ireland,Ireland,0,"Civil Service Cricket Club, Stormont"
+0,NJ O'Brien,9.0,12,1,0,75.0,WT Gavera,0,bowled,NJ O'Brien,2015-07-15,Papua New Guinea,Papua New Guinea,0,"Civil Service Cricket Club, Stormont"
+2,NJ O'Brien,27.0,32,2,0,84.375,A Vala,['S Bau'],caught,NJ O'Brien,2016-02-09,Papua New Guinea,Papua New Guinea,0,Tony Ireland Stadium
+5,NJ O'Brien,38.0,29,2,1,131.0344827586207,Rohan Mustafa,['SP Patil'],stumped,NJ O'Brien,2016-02-14,Ireland,Ireland,0,Sheikh Zayed Stadium
+4,NJ O'Brien,4.0,6,0,0,66.66666666666666,Mohammad Naveed,0,bowled,NJ O'Brien,2016-02-16,Ireland,United Arab Emirates,0,Sheikh Zayed Stadium
+3,NJ O'Brien,16.0,11,1,0,145.45454545454547,M Ansari,['Mehran Khan'],caught,NJ O'Brien,2016-03-09,Oman,Oman,0,Himachal Pradesh Cricket Association Stadium
+4,NJ O'Brien,4.0,8,0,0,50.0,notOut,notOut,notOut,notOut,2016-03-13,Netherlands,Netherlands,0,Himachal Pradesh Cricket Association Stadium
+11,PC Connell,1.0,2,0,0,50.0,notOut,notOut,notOut,notOut,2009-06-11,New Zealand,New Zealand,0,Trent Bridge
+10,PC Connell,0.0,1,0,0,0.0,Hamid Hassan,['Hamid Hassan'],run out,PC Connell,2010-02-09,Ireland,Afghanistan,0,Dubai International Cricket Stadium
+9,PC Connell,3.0,4,0,0,75.0,notOut,notOut,notOut,notOut,2010-02-13,Ireland,Afghanistan,0,Dubai International Cricket Stadium
+2,PR Stirling,17.0,16,2,0,106.25,Shahid Afridi,0,bowled,PR Stirling,2009-06-15,Pakistan,Pakistan,0,Kennington Oval
+2,PR Stirling,21.0,24,2,0,87.5,Hamid Hassan,['Nawroz Mangal'],caught,PR Stirling,2010-02-09,Ireland,Afghanistan,0,Dubai International Cricket Stadium
+2,PR Stirling,0.0,5,0,0,0.0,R Rampaul,['DJG Sammy'],caught,PR Stirling,2010-04-30,Ireland,West Indies,0,Providence Stadium
+1,PR Stirling,0.0,6,0,0,0.0,RJ Sidebottom,['MJ Lumb'],caught,PR Stirling,2010-05-04,Ireland,0,0,Providence Stadium
+2,PR Stirling,12.0,15,2,0,80.0,JO Ngoche,['RG Aga'],caught,PR Stirling,2012-02-22,Ireland,Ireland,0,Mombasa Sports Club Ground
+1,PR Stirling,65.0,55,9,0,118.18181818181819,notOut,notOut,notOut,notOut,2012-02-23,Ireland,Ireland,0,Mombasa Sports Club Ground
+1,PR Stirling,0.0,1,0,0,0.0,MA Parker,['PL Mommsen'],caught,PR Stirling,2012-03-18,Scotland,Ireland,0,Dubai International Cricket Stadium
+1,PR Stirling,33.0,27,4,0,122.22222222222223,MR Swart,0,lbw,PR Stirling,2012-03-23,Netherlands,Ireland,0,Dubai International Cricket Stadium
+2,PR Stirling,79.0,39,9,3,202.56410256410254,Dawlat Zadran,['Gulbadin Naib'],caught,PR Stirling,2012-03-24,Ireland,Ireland,0,Dubai International Cricket Stadium
+1,PR Stirling,4.0,8,0,0,50.0,Shakib Al Hasan,['Abdur Razzak'],run out,PR Stirling,2012-07-18,Bangladesh,Bangladesh,0,"Civil Service Cricket Club, Stormont"
+1,PR Stirling,7.0,12,1,0,58.333333333333336,MA Starc,['SR Watson'],caught,PR Stirling,2012-09-19,Ireland,Australia,0,R Premadasa Stadium
+2,PR Stirling,19.0,16,3,0,118.75,DJG Sammy,['CH Gayle'],caught,PR Stirling,2012-09-24,West Indies,0,0,R Premadasa Stadium
+1,PR Stirling,16.0,13,4,0,123.07692307692308,HS Baidwan,0,lbw,PR Stirling,2013-11-16,Ireland,Ireland,0,Sheikh Zayed Stadium
+1,PR Stirling,76.0,45,8,4,168.88888888888889,Amir Hamza,['Mohammad Nabi'],caught,PR Stirling,2013-11-30,Ireland,Ireland,0,Sheikh Zayed Stadium
+2,PR Stirling,0.0,2,0,0,0.0,R Rampaul,['AD Russell'],caught,PR Stirling,2014-02-19,Ireland,Ireland,0,"Sabina Park, Kingston"
+1,PR Stirling,2.0,5,0,0,40.0,K Santokie,0,bowled,PR Stirling,2014-02-21,Ireland,West Indies,0,"Sabina Park, Kingston"
+1,PR Stirling,60.0,34,9,1,176.47058823529412,TL Chatara,['Sikandar Raza'],caught,PR Stirling,2014-03-17,Zimbabwe,Ireland,0,Sylhet Stadium
+1,PR Stirling,8.0,6,2,0,133.33333333333331,notOut,notOut,notOut,notOut,2014-03-19,United Arab Emirates,Ireland,0,Sylhet Stadium
+1,PR Stirling,7.0,9,1,0,77.77777777777779,T van der Gugten,['PW Borren'],caught,PR Stirling,2014-03-21,Netherlands,Netherlands,0,Sylhet Stadium
+1,PR Stirling,29.0,23,4,1,126.08695652173914,Sompal Kami,0,bowled,PR Stirling,2015-07-13,Ireland,Ireland,0,"Civil Service Cricket Club, Stormont"
+1,PR Stirling,1.0,3,0,0,33.33333333333333,N Vanua,0,bowled,PR Stirling,2015-07-15,Papua New Guinea,Papua New Guinea,0,"Civil Service Cricket Club, Stormont"
+1,PR Stirling,34.0,26,4,1,130.76923076923077,Irfan Ahmed,['Nadeem Ahmed'],caught,PR Stirling,2015-07-17,Hong Kong,Hong Kong,0,"The Village, Malahide"
+1,PR Stirling,18.0,15,2,1,120.0,Mudassar Bukhari,['BN Cooper'],caught,PR Stirling,2015-07-25,Netherlands,Netherlands,0,"The Village, Malahide"
+0,PR Stirling,8.0,9,1,0,88.88888888888889,CA Soper,['MD Dai'],caught,PR Stirling,2016-02-09,Papua New Guinea,Papua New Guinea,0,Tony Ireland Stadium
+1,PR Stirling,2.0,6,0,0,33.33333333333333,Mohammad Naveed,['Qadeer Ahmed'],run out,WTS Porterfield,2016-02-14,Ireland,Ireland,0,Sheikh Zayed Stadium
+2,PR Stirling,2.0,6,0,0,33.33333333333333,Amjad Javed,0,bowled,PR Stirling,2016-02-14,Ireland,Ireland,0,Sheikh Zayed Stadium
+1,PR Stirling,28.0,19,6,0,147.36842105263156,Amjad Javed,0,bowled,PR Stirling,2016-02-16,Ireland,United Arab Emirates,0,Sheikh Zayed Stadium
+1,PR Stirling,29.0,22,6,0,131.8181818181818,Aamir Kaleem,['Zeeshan Maqsood'],caught,PR Stirling,2016-03-09,Oman,Oman,0,Himachal Pradesh Cricket Association Stadium
+1,PR Stirling,15.0,7,0,2,214.28571428571428,PA van Meekeren,['RE van der Merwe'],caught,PR Stirling,2016-03-13,Netherlands,Netherlands,0,Himachal Pradesh Cricket Association Stadium
+0,PR Stirling,25.0,24,3,0,104.16666666666667,Amir Hamza,['Gulbadin Naib'],caught,PR Stirling,2017-01-14,Ireland,Afghanistan,0,Sheikh Zayed Stadium
+0,PR Stirling,39.0,31,5,2,125.80645161290323,Imran Haider,0,bowled,PR Stirling,2017-01-18,Ireland,Ireland,0,Dubai International Cricket Stadium
+0,PR Stirling,17.0,18,2,0,94.44444444444444,Mohammad Nabi,['Gulbadin Naib'],caught,PR Stirling,2017-01-20,Ireland,Afghanistan,0,Dubai International Cricket Stadium
+0,PR Stirling,60.0,38,5,3,157.89473684210526,CD de Lange,0,caught and bowled,PR Stirling,2017-01-20,Scotland,Ireland,0,Dubai International Cricket Stadium
+1,PR Stirling,0.0,2,0,0,0.0,Amir Hamza,0,bowled,PR Stirling,2017-03-08,Ireland,Afghanistan,0,Greater Noida Sports Complex Ground
+1,PR Stirling,34.0,15,1,4,226.66666666666666,Karim Janat,0,bowled,PR Stirling,2017-03-10,Ireland,Afghanistan,0,Greater Noida Sports Complex Ground
+0,PR Stirling,49.0,20,6,3,245.00000000000003,Shapoor Zadran,['Mohammad Nabi'],caught,PR Stirling,2017-03-12,Ireland,Afghanistan,0,Greater Noida Sports Complex Ground
+8,RA Lewis,4.0,4,0,0,100.0,Fahima Khatun,"['Fahima Khatun', 'Rumana Ahmed']",run out,RA Lewis,2015-12-05,Ireland,Ireland,0,Terdthai Cricket Ground
+6,RA Lewis,1.0,3,0,0,33.33333333333333,S Luus,['D van Niekerk'],caught,RA Lewis,2016-03-23,South Africa,South Africa,0,"MA Chidambaram Stadium, Chepauk"
+6,RA Lewis,0.0,1,0,0,0.0,RM Farrell,0,lbw,RA Lewis,2016-03-26,Ireland,Australia,0,Feroz Shah Kotla
+9,RD McCann,1.0,2,0,0,50.0,NM Odhiambo,0,bowled,RD McCann,2012-02-24,Ireland,Ireland,0,Mombasa Sports Club Ground
+7,RM West,1.0,1,0,0,100.0,PP Ojha,"['SK Raina', 'MS Dhoni']",run out,RM West,2009-06-10,Ireland,India,0,Trent Bridge
+10,RM West,8.0,8,1,0,100.0,KD Mills,0,bowled,RM West,2009-06-11,New Zealand,New Zealand,0,Trent Bridge
+8,RM West,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2009-06-14,Sri Lanka,Sri Lanka,0,Lord's
+8,RM West,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2009-06-15,Pakistan,Pakistan,0,Kennington Oval
+7,SM Kavanagh,0.0,2,0,0,0.0,Bismah Maroof,['Nain Abidi'],caught,SM Kavanagh,2013-07-16,Pakistan,Pakistan,0,YMCA Cricket Club
+7,SM Kavanagh,2.0,5,0,0,40.0,RM Farrell,['AJ Healy'],run out,SM Kavanagh,2015-08-19,Australia,Australia,0,YMCA Cricket Club
+7,SM Kavanagh,0.0,6,0,0,0.0,JL Jonassen,0,bowled,SM Kavanagh,2015-08-21,Australia,Australia,0,YMCA Cricket Club
+5,SM Kavanagh,8.0,7,1,0,114.28571428571428,notOut,notOut,notOut,notOut,2016-03-26,Ireland,Australia,0,Feroz Shah Kotla
+2,SM Kavanagh,7.0,12,0,0,58.333333333333336,Rumana Ahmed,['Nigar Sultana'],stumped,SM Kavanagh,2016-09-05,Bangladesh,Ireland,0,"Bready Cricket Club, Magheramason"
+2,SP Terry,4.0,6,0,0,66.66666666666666,Tanwir Afzal,0,bowled,SP Terry,2016-09-05,Hong Kong,Hong Kong,0,"Bready Cricket Club, Magheramason"
+6,SR Thompson,7.0,8,1,0,87.5,DJG Sammy,['DR Smith'],caught,SR Thompson,2014-02-21,Ireland,West Indies,0,"Sabina Park, Kingston"
+6,SR Thompson,3.0,6,0,0,50.0,notOut,notOut,notOut,notOut,2014-03-17,Zimbabwe,Ireland,0,Sylhet Stadium
+6,SR Thompson,6.0,3,1,0,200.0,RD Berrington,['MA Leask'],caught,SR Thompson,2015-06-20,Scotland,Scotland,0,"Bready Cricket Club, Magheramason"
+6,SR Thompson,6.0,4,1,0,150.0,notOut,notOut,notOut,notOut,2015-07-15,Papua New Guinea,Papua New Guinea,0,"Civil Service Cricket Club, Stormont"
+7,SR Thompson,0.0,1,0,0,0.0,Haseeb Amjad,['Tanwir Afzal'],run out,SR Thompson,2015-07-17,Hong Kong,Hong Kong,0,"The Village, Malahide"
+7,SR Thompson,4.0,5,1,0,80.0,Mudassar Bukhari,"[""MP O'Dowd""]",caught,SR Thompson,2015-07-25,Netherlands,Netherlands,0,"The Village, Malahide"
+4,SR Thompson,5.0,6,1,0,83.33333333333334,P Raho,['L Siaka'],caught,SR Thompson,2016-02-07,Papua New Guinea,Ireland,0,Tony Ireland Stadium
+6,SR Thompson,10.0,7,0,1,142.85714285714286,MD Dai,['S Bau'],caught,SR Thompson,2016-02-09,Papua New Guinea,Papua New Guinea,0,Tony Ireland Stadium
+6,SR Thompson,2.0,2,0,0,100.0,Mohammad Shahzad (2),['Ahmed Raza'],caught,SR Thompson,2016-02-16,Ireland,United Arab Emirates,0,Sheikh Zayed Stadium
+0,SR Thompson,56.0,35,6,2,160.0,Amir Hamza,['Najibullah Zadran'],caught,SR Thompson,2017-03-08,Ireland,Afghanistan,0,Greater Noida Sports Complex Ground
+0,SR Thompson,5.0,7,1,0,71.42857142857143,Shapoor Zadran,['Najibullah Zadran'],caught,SR Thompson,2017-03-10,Ireland,Afghanistan,0,Greater Noida Sports Complex Ground
+1,SR Thompson,43.0,18,2,5,238.88888888888889,Amir Hamza,0,bowled,SR Thompson,2017-03-12,Ireland,Afghanistan,0,Greater Noida Sports Complex Ground
+0,SW Poynter,11.0,12,2,0,91.66666666666666,SM Sharif,['MH Cross'],caught,SW Poynter,2015-06-20,Scotland,Scotland,0,"Bready Cricket Club, Magheramason"
+6,SW Poynter,7.0,8,1,0,87.5,Irfan Ahmed,['JJ Atkinson'],caught,SW Poynter,2015-07-17,Hong Kong,Hong Kong,0,"The Village, Malahide"
+6,SW Poynter,3.0,4,0,0,75.0,Mudassar Bukhari,['PA van Meekeren'],caught,SW Poynter,2015-07-25,Netherlands,Netherlands,0,"The Village, Malahide"
+2,SW Poynter,35.0,24,1,2,145.83333333333331,P Raho,['L Siaka'],caught,SW Poynter,2016-02-07,Papua New Guinea,Ireland,0,Tony Ireland Stadium
+5,SW Poynter,9.0,15,0,0,60.0,N Pokana,['L Siaka'],caught,SW Poynter,2016-02-09,Papua New Guinea,Papua New Guinea,0,Tony Ireland Stadium
+3,SW Poynter,1.0,9,0,0,11.11111111111111,Qadeer Ahmed,0,bowled,SW Poynter,2016-02-14,Ireland,Ireland,0,Sheikh Zayed Stadium
+2,SW Poynter,10.0,13,0,0,76.92307692307693,Ahmed Raza,0,bowled,SW Poynter,2016-02-16,Ireland,United Arab Emirates,0,Sheikh Zayed Stadium
+1,SW Poynter,18.0,20,3,0,90.0,Mohammad Nabi,0,bowled,SW Poynter,2017-01-14,Ireland,Afghanistan,0,Sheikh Zayed Stadium
+1,SW Poynter,5.0,7,0,0,71.42857142857143,Amjad Javed,['Shaiman Anwar'],caught,SW Poynter,2017-01-18,Ireland,Ireland,0,Dubai International Cricket Stadium
+1,SW Poynter,8.0,3,2,0,266.66666666666663,Fareed Ahmad,['Rashid Khan'],caught,SW Poynter,2017-01-20,Ireland,Afghanistan,0,Dubai International Cricket Stadium
+1,SW Poynter,39.0,19,7,1,205.26315789473685,CD de Lange,['CS MacLeod'],caught,SW Poynter,2017-01-20,Scotland,Ireland,0,Dubai International Cricket Stadium
+7,TE Kane,26.0,17,3,0,152.94117647058823,notOut,notOut,notOut,notOut,2015-06-20,Scotland,Scotland,0,"Bready Cricket Club, Magheramason"
+9,TE Kane,2.0,3,0,0,66.66666666666666,WT Gavera,['CJA Amini'],caught,TE Kane,2015-07-15,Papua New Guinea,Papua New Guinea,0,"Civil Service Cricket Club, Stormont"
+9,TJ Murtagh,2.0,2,0,0,100.0,notOut,notOut,notOut,notOut,2014-02-21,Ireland,West Indies,0,"Sabina Park, Kingston"
+10,TJ Murtagh,8.0,9,0,0,88.88888888888889,CA Soper,['A Vala'],caught,TJ Murtagh,2016-02-09,Papua New Guinea,Papua New Guinea,0,Tony Ireland Stadium
+9,TJ Murtagh,12.0,8,0,1,150.0,notOut,notOut,notOut,notOut,2016-02-14,Ireland,Ireland,0,Sheikh Zayed Stadium
+11,TJ Murtagh,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2016-02-16,Ireland,United Arab Emirates,0,Sheikh Zayed Stadium
+10,WB Rankin,5.0,6,0,0,83.33333333333334,notOut,notOut,notOut,notOut,2009-06-15,Pakistan,Pakistan,0,Kennington Oval
+9,WB Rankin,1.0,5,0,0,20.0,DJG Sammy,['D Ramdin'],caught,WB Rankin,2010-04-30,Ireland,West Indies,0,Providence Stadium
+10,WB Rankin,7.0,6,1,0,116.66666666666667,notOut,notOut,notOut,notOut,2012-02-24,Ireland,Ireland,0,Mombasa Sports Club Ground
+10,WB Rankin,16.0,9,1,1,177.77777777777777,notOut,notOut,notOut,notOut,2016-02-14,Ireland,Ireland,0,Sheikh Zayed Stadium
+10,WB Rankin,0.0,3,0,0,0.0,notOut,notOut,notOut,notOut,2016-02-16,Ireland,United Arab Emirates,0,Sheikh Zayed Stadium
+9,WB Rankin,2.0,5,0,0,40.0,Karim Janat,0,bowled,WB Rankin,2017-01-20,Ireland,Afghanistan,0,Dubai International Cricket Stadium
+9,WK McCallan,9.0,7,1,0,128.57142857142858,notOut,notOut,notOut,notOut,2009-06-10,Ireland,India,0,Trent Bridge
+9,WK McCallan,0.0,2,0,0,0.0,NL McCullum,0,lbw,WK McCallan,2009-06-11,New Zealand,New Zealand,0,Trent Bridge
+9,WK McCallan,2.0,6,0,0,33.33333333333333,Umar Gul,['Umar Gul'],run out,RM West,2009-06-15,Pakistan,Pakistan,0,Kennington Oval
+0,WTS Porterfield,0.0,9,0,0,0.0,TM Odoyo,['SO Tikolo'],caught,WTS Porterfield,2008-08-04,Kenya,Ireland,0,"Civil Service Cricket Club, Stormont"
+1,WTS Porterfield,23.0,31,3,0,74.19354838709677,Abdur Razzak,0,caught and bowled,WTS Porterfield,2009-06-08,Ireland,Ireland,0,Trent Bridge
+0,WTS Porterfield,5.0,10,0,0,50.0,Z Khan,['YK Pathan'],caught,WTS Porterfield,2009-06-10,Ireland,India,0,Trent Bridge
+0,WTS Porterfield,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2009-06-11,New Zealand,New Zealand,0,Trent Bridge
+0,WTS Porterfield,31.0,30,5,0,103.33333333333334,M Muralitharan,['KC Sangakkara'],caught,WTS Porterfield,2009-06-14,Sri Lanka,Sri Lanka,0,Lord's
+0,WTS Porterfield,40.0,36,2,0,111.11111111111111,Saeed Ajmal,['Younis Khan'],caught,WTS Porterfield,2009-06-15,Pakistan,Pakistan,0,Kennington Oval
+0,WTS Porterfield,35.0,23,3,2,152.17391304347828,Karim Sadiq,0,bowled,WTS Porterfield,2010-02-09,Ireland,Afghanistan,0,Dubai International Cricket Stadium
+0,WTS Porterfield,18.0,21,2,0,85.71428571428571,RT Lyons,['RT Lyons'],run out,WTS Porterfield,2010-02-11,Scotland,Ireland,0,Dubai International Cricket Stadium
+0,WTS Porterfield,20.0,16,3,0,125.0,Mohammad Nabi,['Mirwais Ashraf'],caught,WTS Porterfield,2010-02-13,Ireland,Afghanistan,0,Dubai International Cricket Stadium
+0,WTS Porterfield,6.0,11,1,0,54.54545454545454,RN ten Doeschate,['AN Kervezee'],caught,WTS Porterfield,2010-02-13,Netherlands,Ireland,0,Dubai International Cricket Stadium
+0,WTS Porterfield,4.0,2,1,0,200.0,KAJ Roach,['DJG Sammy'],caught,WTS Porterfield,2010-04-30,Ireland,West Indies,0,Providence Stadium
+0,WTS Porterfield,4.0,11,0,0,36.36363636363637,notOut,notOut,notOut,notOut,2010-05-04,Ireland,0,0,Providence Stadium
+0,WTS Porterfield,1.0,3,0,0,33.33333333333333,SO Ngoche,['RR Patel'],run out,WTS Porterfield,2012-02-22,Ireland,Ireland,0,Mombasa Sports Club Ground
+0,WTS Porterfield,23.0,23,3,1,100.0,RG Aga,['CO Obuya'],caught,WTS Porterfield,2012-02-23,Ireland,Ireland,0,Mombasa Sports Club Ground
+0,WTS Porterfield,3.0,8,0,0,37.5,SO Ngoche,['HA Varaiya'],run out,PR Stirling,2012-02-24,Ireland,Ireland,0,Mombasa Sports Club Ground
+1,WTS Porterfield,3.0,8,0,0,37.5,SO Ngoche,['T Mishra'],caught,WTS Porterfield,2012-02-24,Ireland,Ireland,0,Mombasa Sports Club Ground
+0,WTS Porterfield,2.0,5,0,0,40.0,SM Sharif,0,bowled,WTS Porterfield,2012-03-18,Scotland,Ireland,0,Dubai International Cricket Stadium
+0,WTS Porterfield,17.0,20,2,0,85.0,PM Seelaar,['TLW Cooper'],caught,WTS Porterfield,2012-03-23,Netherlands,Ireland,0,Dubai International Cricket Stadium
+0,WTS Porterfield,0.0,1,0,0,0.0,Dawlat Zadran,0,bowled,WTS Porterfield,2012-03-24,Ireland,Ireland,0,Dubai International Cricket Stadium
+0,WTS Porterfield,26.0,17,2,2,152.94117647058823,Abdur Razzak,['Mushfiqur Rahim'],stumped,WTS Porterfield,2012-07-18,Bangladesh,Bangladesh,0,"Civil Service Cricket Club, Stormont"
+0,WTS Porterfield,0.0,1,0,0,0.0,SR Watson,['MA Starc'],caught,WTS Porterfield,2012-09-19,Ireland,Australia,0,R Premadasa Stadium
+0,WTS Porterfield,0.0,1,0,0,0.0,FH Edwards,0,bowled,WTS Porterfield,2012-09-24,West Indies,0,0,R Premadasa Stadium
+0,WTS Porterfield,5.0,12,1,0,41.66666666666667,Junaid Siddiqui,['Rizwan Cheema'],caught,WTS Porterfield,2013-11-16,Ireland,Ireland,0,Sheikh Zayed Stadium
+0,WTS Porterfield,27.0,14,4,1,192.85714285714286,Amir Hamza,0,bowled,WTS Porterfield,2013-11-30,Ireland,Ireland,0,Sheikh Zayed Stadium
+0,WTS Porterfield,4.0,4,1,0,100.0,S Badree,0,lbw,WTS Porterfield,2014-02-19,Ireland,Ireland,0,"Sabina Park, Kingston"
+0,WTS Porterfield,5.0,18,0,0,27.77777777777778,S Badree,0,bowled,WTS Porterfield,2014-02-21,Ireland,West Indies,0,"Sabina Park, Kingston"
+0,WTS Porterfield,31.0,25,3,1,124.0,SC Williams,['T Maruma'],caught,WTS Porterfield,2014-03-17,Zimbabwe,Ireland,0,Sylhet Stadium
+0,WTS Porterfield,33.0,36,2,1,91.66666666666666,Kamran Shazad,0,retired hurt,PR Stirling,2014-03-19,United Arab Emirates,Ireland,0,Sylhet Stadium
+0,WTS Porterfield,47.0,33,5,2,142.42424242424244,Ahsan Malik,0,bowled,WTS Porterfield,2014-03-21,Netherlands,Netherlands,0,Sylhet Stadium
+2,WTS Porterfield,18.0,20,3,0,90.0,notOut,notOut,notOut,notOut,2015-07-13,Ireland,Ireland,0,"Civil Service Cricket Club, Stormont"
+2,WTS Porterfield,57.0,59,4,1,96.61016949152543,A Vala,"['MD Dai', 'A Vala']",run out,SR Thompson,2015-07-15,Papua New Guinea,Papua New Guinea,0,"Civil Service Cricket Club, Stormont"
+2,WTS Porterfield,28.0,41,2,0,68.29268292682927,Nizakat Khan,"['Irfan Ahmed', 'Nizakat Khan']",run out,KJ O'Brien,2015-07-17,Hong Kong,Hong Kong,0,"The Village, Malahide"
+3,WTS Porterfield,28.0,41,2,0,68.29268292682927,Haseeb Amjad,0,bowled,WTS Porterfield,2015-07-17,Hong Kong,Hong Kong,0,"The Village, Malahide"
+0,WTS Porterfield,4.0,7,0,0,57.14285714285714,Mudassar Bukhari,['PW Borren'],caught,WTS Porterfield,2015-07-25,Netherlands,Netherlands,0,"The Village, Malahide"
+0,WTS Porterfield,30.0,15,3,1,200.0,A Vala,0,bowled,WTS Porterfield,2016-02-07,Papua New Guinea,Ireland,0,Tony Ireland Stadium
+0,WTS Porterfield,8.0,12,2,0,66.66666666666666,notOut,notOut,notOut,notOut,2016-02-14,Ireland,Ireland,0,Sheikh Zayed Stadium
+0,WTS Porterfield,72.0,60,8,1,120.0,Amjad Javed,['SP Patil'],run out,WTS Porterfield,2016-02-16,Ireland,United Arab Emirates,0,Sheikh Zayed Stadium
+0,WTS Porterfield,29.0,29,3,1,100.0,Khawar Ali,['Sultan Ahmed'],stumped,WTS Porterfield,2016-03-09,Oman,Oman,0,Himachal Pradesh Cricket Association Stadium
+0,WTS Porterfield,5.0,6,1,0,83.33333333333334,T van der Gugten,['BN Cooper'],caught,WTS Porterfield,2016-03-13,Netherlands,Netherlands,0,Himachal Pradesh Cricket Association Stadium
+0,WTS Porterfield,4.0,5,0,0,80.0,Nadeem Ahmed,['Tanwir Afzal'],caught,WTS Porterfield,2016-09-05,Hong Kong,Hong Kong,0,"Bready Cricket Club, Magheramason"
+2,WTS Porterfield,17.0,17,1,0,100.0,Amir Hamza,0,bowled,WTS Porterfield,2017-01-14,Ireland,Afghanistan,0,Sheikh Zayed Stadium
+2,WTS Porterfield,0.0,10,0,0,0.0,Amjad Javed,['Rameez Shahzad'],caught,WTS Porterfield,2017-01-18,Ireland,Ireland,0,Dubai International Cricket Stadium
+2,WTS Porterfield,9.0,8,0,1,112.5,Mohammad Nabi,['Mohammad Shahzad'],stumped,WTS Porterfield,2017-01-20,Ireland,Afghanistan,0,Dubai International Cricket Stadium
+2,WTS Porterfield,2.0,2,0,0,100.0,JH Davey,['KJ Coetzer'],caught,WTS Porterfield,2017-01-20,Scotland,Ireland,0,Dubai International Cricket Stadium
+2,WTS Porterfield,39.0,30,5,0,130.0,Rashid Khan,['Rashid Khan'],run out,WTS Porterfield,2017-03-08,Ireland,Afghanistan,0,Greater Noida Sports Complex Ground
+2,WTS Porterfield,22.0,16,1,2,137.5,Karim Janat,['Rashid Khan'],caught,WTS Porterfield,2017-03-10,Ireland,Afghanistan,0,Greater Noida Sports Complex Ground
+2,WTS Porterfield,16.0,14,1,0,114.28571428571428,Amir Hamza,['Mohammad Nabi'],caught,WTS Porterfield,2017-03-12,Ireland,Afghanistan,0,Greater Noida Sports Complex Ground

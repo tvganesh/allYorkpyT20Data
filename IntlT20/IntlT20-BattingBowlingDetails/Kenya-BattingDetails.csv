@@ -1,0 +1,184 @@
+,batsman,runs,balls,4s,6s,SR,bowler,fielders,kind,player_out,date,team2,winner,result,venue
+6,AA Obanda,5.0,17,0,0,29.411764705882355,Younis Khan,['Kamran Akmal'],stumped,AA Obanda,2007-09-04,Pakistan,Pakistan,0,Gymkhana Club Ground
+7,AA Obanda,4.0,13,0,0,30.76923076923077,DL Vettori,0,bowled,AA Obanda,2007-09-12,New Zealand,New Zealand,0,Kingsmead
+6,AA Obanda,21.0,25,2,0,84.0,G Wijekoon,"['ST Jayasuriya', 'G Wijekoon']",run out,DO Obuya,2007-09-14,Sri Lanka,Sri Lanka,0,New Wanderers Stadium
+7,AA Obanda,21.0,25,2,0,84.0,TM Dilshan,['KC Sangakkara'],stumped,AA Obanda,2007-09-14,Sri Lanka,Sri Lanka,0,New Wanderers Stadium
+4,AA Obanda,0.0,5,0,0,0.0,PC Connell,['WK McCallan'],caught,AA Obanda,2008-08-04,Kenya,Ireland,0,"Civil Service Cricket Club, Stormont"
+0,AA Obanda,79.0,49,11,1,161.22448979591837,S Dhaniram,0,lbw,AA Obanda,2010-02-10,Kenya,Kenya,0,Dubai International Cricket Stadium
+6,AA Obanda,2.0,3,0,0,66.66666666666666,MC Sorensen,['EC Joyce'],caught,AA Obanda,2012-02-22,Ireland,Ireland,0,Mombasa Sports Club Ground
+6,AA Obanda,14.0,10,1,1,140.0,JF Mooney,['MC Sorensen'],run out,NN Odhiambo,2012-02-23,Ireland,Ireland,0,Mombasa Sports Club Ground
+6,AA Obanda,3.0,7,0,0,42.857142857142854,JF Mooney,['WTS Porterfield'],caught,AA Obanda,2012-02-24,Ireland,Ireland,0,Mombasa Sports Club Ground
+1,AA Obanda,0.0,2,0,0,0.0,WB Rankin,['GC Wilson'],caught,AA Obanda,2012-03-14,Kenya,Ireland,0,Dubai International Cricket Stadium
+0,AA Obanda,22.0,16,3,1,137.5,H Osinde,['Hamza Tariq'],caught,AA Obanda,2013-03-15,Kenya,Canada,0,ICC Global Cricket Academy
+0,AA Obanda,12.0,15,2,0,80.0,MS Aulakh,['Rizwan Cheema'],caught,AA Obanda,2013-03-16,Kenya,Kenya,0,ICC Global Cricket Academy
+0,AA Obanda,47.0,40,7,1,117.5,Ahsan Malik,['TGJ Gruijters'],caught,AA Obanda,2013-04-19,Netherlands,Kenya,0,Wanderers Cricket Ground
+0,AA Obanda,28.0,20,4,1,140.0,Mudassar Bukhari,0,bowled,AA Obanda,2013-04-20,Netherlands,Kenya,0,Wanderers Cricket Ground
+0,AA Obanda,6.0,6,1,0,100.0,Shapoor Zadran,['Mohammad Shahzad'],caught,AA Obanda,2013-09-30,Kenya,Afghanistan,0,Sharjah Cricket Stadium
+1,AA Obanda,25.0,17,5,0,147.05882352941177,SM Sharif,['RML Taylor'],caught,AA Obanda,2013-11-19,Scotland,Kenya,0,ICC Academy
+3,AA Obanda,2.0,9,0,0,22.22222222222222,MR Swart,0,bowled,AA Obanda,2013-11-23,Netherlands,Netherlands,0,ICC Academy
+2,AA Obanda,0.0,1,0,0,0.0,Samiullah Shenwari,['Mohammad Nabi'],caught,AA Obanda,2013-11-24,Kenya,Afghanistan,0,Sharjah Cricket Stadium
+5,AO Suji,4.0,8,0,0,50.0,Abdur Rehman,0,bowled,AO Suji,2007-09-04,Pakistan,Pakistan,0,Gymkhana Club Ground
+8,AO Suji,7.0,18,0,0,38.88888888888889,notOut,notOut,notOut,notOut,2008-08-04,Kenya,Ireland,0,"Civil Service Cricket Club, Stormont"
+5,CO Obuya,14.0,10,1,0,140.0,notOut,notOut,notOut,notOut,2007-09-01,Bangladesh,Bangladesh,0,Gymkhana Club Ground
+3,CO Obuya,17.0,23,0,0,73.91304347826086,Mohammad Hafeez,0,bowled,CO Obuya,2007-09-04,Pakistan,Pakistan,0,Gymkhana Club Ground
+4,CO Obuya,18.0,28,2,0,64.28571428571429,DL Vettori,['BB McCullum'],stumped,CO Obuya,2007-09-12,New Zealand,New Zealand,0,Kingsmead
+5,CO Obuya,2.0,4,0,0,50.0,SL Malinga,0,caught and bowled,CO Obuya,2007-09-14,Sri Lanka,Sri Lanka,0,New Wanderers Stadium
+2,CO Obuya,6.0,8,1,0,75.0,notOut,notOut,notOut,notOut,2010-02-10,Kenya,Kenya,0,Dubai International Cricket Stadium
+2,CO Obuya,3.0,5,0,0,60.0,WB Rankin,0,lbw,CO Obuya,2012-02-22,Ireland,Ireland,0,Mombasa Sports Club Ground
+2,CO Obuya,13.0,15,1,0,86.66666666666667,JF Mooney,['NG Jones'],caught,CO Obuya,2012-02-23,Ireland,Ireland,0,Mombasa Sports Club Ground
+2,CO Obuya,42.0,39,5,0,107.6923076923077,WB Rankin,0,bowled,CO Obuya,2012-02-24,Ireland,Ireland,0,Mombasa Sports Club Ground
+3,CO Obuya,0.0,4,0,0,0.0,WB Rankin,['AR Cusack'],caught,CO Obuya,2012-03-14,Kenya,Ireland,0,Dubai International Cricket Stadium
+4,CO Obuya,0.0,1,0,0,0.0,H Osinde,['Hamza Tariq'],caught,CO Obuya,2013-03-15,Kenya,Canada,0,ICC Global Cricket Academy
+3,CO Obuya,11.0,17,0,0,64.70588235294117,H Patel,0,lbw,CO Obuya,2013-03-16,Kenya,Kenya,0,ICC Global Cricket Academy
+3,CO Obuya,75.0,37,7,4,202.7027027027027,notOut,notOut,notOut,notOut,2013-04-19,Netherlands,Kenya,0,Wanderers Cricket Ground
+3,CO Obuya,19.0,21,2,0,90.47619047619048,notOut,notOut,notOut,notOut,2013-04-20,Netherlands,Kenya,0,Wanderers Cricket Ground
+4,CO Obuya,1.0,6,0,0,16.666666666666664,Hamid Hassan,0,lbw,CO Obuya,2013-09-30,Kenya,Afghanistan,0,Sharjah Cricket Stadium
+0,CO Obuya,60.0,49,7,1,122.44897959183673,notOut,notOut,notOut,notOut,2013-10-11,Kenya,Kenya,0,Sharjah Cricket Stadium
+3,CO Obuya,36.0,34,2,0,105.88235294117648,notOut,notOut,notOut,notOut,2013-11-19,Scotland,Kenya,0,ICC Academy
+2,CO Obuya,1.0,6,0,0,16.666666666666664,Mudassar Bukhari,['W Barresi'],caught,CO Obuya,2013-11-23,Netherlands,Netherlands,0,ICC Academy
+4,CO Obuya,12.0,26,0,0,46.15384615384615,Samiullah Shenwari,['Mohammad Shahzad'],stumped,CO Obuya,2013-11-24,Kenya,Afghanistan,0,Sharjah Cricket Stadium
+2,CO Obuya,40.0,36,0,3,111.11111111111111,JOA Gordon,['A Bagai'],caught,CO Obuya,2013-11-26,Kenya,Kenya,0,Sharjah Cricket Stadium
+1,DI Allan,4.0,8,1,0,50.0,GH Dockrell,['DT Johnston'],caught,DI Allan,2012-02-22,Ireland,Ireland,0,Mombasa Sports Club Ground
+1,DI Allan,6.0,15,0,0,40.0,PR Stirling,0,bowled,DI Allan,2012-02-23,Ireland,Ireland,0,Mombasa Sports Club Ground
+1,DI Allan,1.0,7,0,0,14.285714285714285,GH Dockrell,['RD McCann'],stumped,DI Allan,2012-02-24,Ireland,Ireland,0,Mombasa Sports Club Ground
+0,DI Allan,3.0,9,0,0,33.33333333333333,WB Rankin,0,bowled,DI Allan,2012-03-14,Kenya,Ireland,0,Dubai International Cricket Stadium
+1,DI Allan,3.0,10,0,0,30.0,H Osinde,['Hamza Tariq'],caught,DI Allan,2013-03-15,Kenya,Canada,0,ICC Global Cricket Academy
+3,DI Allan,1.0,4,0,0,25.0,Samiullah Shenwari,0,lbw,DI Allan,2013-11-24,Kenya,Afghanistan,0,Sharjah Cricket Stadium
+3,DI Allan,18.0,22,2,0,81.81818181818183,HS Baidwan,['Rizwan Cheema'],caught,DI Allan,2013-11-26,Kenya,Kenya,0,Sharjah Cricket Stadium
+0,DO Obuya,23.0,21,4,0,109.52380952380953,Mashrafe Mortaza,['Farhad Reza'],caught,DO Obuya,2007-09-01,Bangladesh,Bangladesh,0,Gymkhana Club Ground
+0,DO Obuya,4.0,3,1,0,133.33333333333331,Shoaib Akhtar,['Misbah-ul-Haq'],caught,DO Obuya,2007-09-04,Pakistan,Pakistan,0,Gymkhana Club Ground
+3,DO Obuya,0.0,1,0,0,0.0,MR Gillespie,0,hit wicket,DO Obuya,2007-09-12,New Zealand,New Zealand,0,Kingsmead
+2,DO Obuya,18.0,35,1,0,51.42857142857142,notOut,notOut,notOut,notOut,2007-09-14,Sri Lanka,Sri Lanka,0,New Wanderers Stadium
+0,DO Obuya,28.0,36,2,0,77.77777777777779,PR Stirling,0,lbw,DO Obuya,2012-02-23,Ireland,Ireland,0,Mombasa Sports Club Ground
+0,DO Obuya,3.0,10,0,0,30.0,WB Rankin,0,lbw,DO Obuya,2012-02-24,Ireland,Ireland,0,Mombasa Sports Club Ground
+7,DO Obuya,8.0,22,0,0,36.36363636363637,JF Mooney,['GC Wilson'],caught,DO Obuya,2012-03-14,Kenya,Ireland,0,Dubai International Cricket Stadium
+10,E Otieno,2.0,6,0,0,33.33333333333333,AR Cusack,0,bowled,E Otieno,2012-02-22,Ireland,Ireland,0,Mombasa Sports Club Ground
+9,E Otieno,4.0,6,0,0,66.66666666666666,AS Hansra,['Junaid Siddiqui'],caught,E Otieno,2013-03-15,Kenya,Canada,0,ICC Global Cricket Academy
+11,E Otieno,8.0,10,0,1,80.0,Samiullah Shenwari,['Mohammad Shahzad'],stumped,E Otieno,2013-09-30,Kenya,Afghanistan,0,Sharjah Cricket Stadium
+10,E Otieno,5.0,11,0,0,45.45454545454545,notOut,notOut,notOut,notOut,2013-11-23,Netherlands,Netherlands,0,ICC Academy
+9,HA Varaiya,5.0,8,0,0,62.5,notOut,notOut,notOut,notOut,2007-09-04,Pakistan,Pakistan,0,Gymkhana Club Ground
+10,HA Varaiya,6.0,13,0,0,46.15384615384615,WK McCallan,['WTS Porterfield'],run out,AO Suji,2008-08-04,Kenya,Ireland,0,"Civil Service Cricket Club, Stormont"
+8,HA Varaiya,3.0,9,0,0,33.33333333333333,notOut,notOut,notOut,notOut,2012-03-14,Kenya,Ireland,0,Dubai International Cricket Stadium
+10,HA Varaiya,7.0,16,0,0,43.75,notOut,notOut,notOut,notOut,2013-09-30,Kenya,Afghanistan,0,Sharjah Cricket Stadium
+9,HA Varaiya,18.0,18,1,0,100.0,notOut,notOut,notOut,notOut,2013-11-23,Netherlands,Netherlands,0,ICC Academy
+9,HA Varaiya,2.0,4,0,0,50.0,Mirwais Ashraf,['Mohammad Nabi'],caught,HA Varaiya,2013-11-24,Kenya,Afghanistan,0,Sharjah Cricket Stadium
+1,IA Karim,15.0,18,2,0,83.33333333333334,AS Hansra,['Raza-ur-Rehman'],caught,IA Karim,2013-03-16,Kenya,Kenya,0,ICC Global Cricket Academy
+2,IA Karim,0.0,1,0,0,0.0,Hamid Hassan,0,bowled,IA Karim,2013-09-30,Kenya,Afghanistan,0,Sharjah Cricket Stadium
+3,IA Karim,14.0,23,0,1,60.86956521739131,Amir Hamza,0,bowled,IA Karim,2013-10-11,Kenya,Kenya,0,Sharjah Cricket Stadium
+6,IA Karim,3.0,6,0,0,50.0,Samiullah Shenwari,['Mirwais Ashraf'],caught,IA Karim,2013-11-24,Kenya,Afghanistan,0,Sharjah Cricket Stadium
+7,IA Karim,0.0,1,0,0,0.0,JOA Gordon,['AS Dean'],caught,IA Karim,2013-11-26,Kenya,Kenya,0,Sharjah Cricket Stadium
+6,JK Kamande,6.0,6,1,0,100.0,Abdur Razzak,['Mushfiqur Rahim'],stumped,JK Kamande,2007-09-01,Bangladesh,Bangladesh,0,Gymkhana Club Ground
+2,JK Kamande,0.0,8,0,0,0.0,Shoaib Akhtar,['Salman Butt'],caught,JK Kamande,2007-09-04,Pakistan,Pakistan,0,Gymkhana Club Ground
+8,JK Kamande,14.0,14,1,0,100.0,MR Gillespie,0,bowled,JK Kamande,2007-09-12,New Zealand,New Zealand,0,Kingsmead
+8,JK Kamande,4.0,10,0,0,40.0,G Wijekoon,0,lbw,JK Kamande,2007-09-14,Sri Lanka,Sri Lanka,0,New Wanderers Stadium
+7,JK Kamande,0.0,2,0,0,0.0,AR Cusack,0,bowled,JK Kamande,2008-08-04,Kenya,Ireland,0,"Civil Service Cricket Club, Stormont"
+11,JO Ngoche,1.0,2,0,0,50.0,notOut,notOut,notOut,notOut,2012-02-22,Ireland,Ireland,0,Mombasa Sports Club Ground
+10,JO Ngoche,2.0,14,0,0,14.285714285714285,GH Dockrell,['GC Wilson'],stumped,JO Ngoche,2012-03-14,Kenya,Ireland,0,Dubai International Cricket Stadium
+1,JS Jesani,1.0,5,0,0,20.0,Mashrafe Mortaza,['Syed Rasel'],caught,JS Jesani,2007-09-01,Bangladesh,Bangladesh,0,Gymkhana Club Ground
+1,KO Otieno,7.0,10,0,0,70.0,KJ O'Brien,['PC Connell'],caught,KO Otieno,2008-08-04,Kenya,Ireland,0,"Civil Service Cricket Club, Stormont"
+8,LN Onyango,4.0,4,0,0,100.0,notOut,notOut,notOut,notOut,2007-09-01,Bangladesh,Bangladesh,0,Gymkhana Club Ground
+8,LN Onyango,4.0,8,0,0,50.0,Mohammad Hafeez,['Kamran Akmal'],stumped,LN Onyango,2007-09-04,Pakistan,Pakistan,0,Gymkhana Club Ground
+9,LN Onyango,4.0,4,0,0,100.0,notOut,notOut,notOut,notOut,2007-09-14,Sri Lanka,Sri Lanka,0,New Wanderers Stadium
+0,MA Ouma,0.0,2,0,0,0.0,SE Bond,0,bowled,MA Ouma,2007-09-12,New Zealand,New Zealand,0,Kingsmead
+0,MA Ouma,0.0,3,0,0,0.0,WPUJC Vaas,0,lbw,MA Ouma,2007-09-14,Sri Lanka,Sri Lanka,0,New Wanderers Stadium
+0,MA Ouma,6.0,5,1,0,120.0,PC Connell,['AR Cusack'],caught,MA Ouma,2008-08-04,Kenya,Ireland,0,"Civil Service Cricket Club, Stormont"
+0,MA Ouma,4.0,6,1,0,66.66666666666666,GH Dockrell,['DT Johnston'],caught,MA Ouma,2012-02-22,Ireland,Ireland,0,Mombasa Sports Club Ground
+2,MA Ouma,6.0,7,1,0,85.71428571428571,Junaid Siddiqui,0,lbw,MA Ouma,2013-03-15,Kenya,Canada,0,ICC Global Cricket Academy
+2,MA Ouma,13.0,15,2,0,86.66666666666667,H Patel,0,bowled,MA Ouma,2013-03-16,Kenya,Kenya,0,ICC Global Cricket Academy
+2,MA Ouma,3.0,9,0,0,33.33333333333333,MR Swart,['PM Seelaar'],caught,MA Ouma,2013-04-19,Netherlands,Kenya,0,Wanderers Cricket Ground
+2,MA Ouma,11.0,12,2,0,91.66666666666666,PM Seelaar,['Ahsan Malik'],run out,MA Ouma,2013-04-20,Netherlands,Kenya,0,Wanderers Cricket Ground
+1,MA Ouma,0.0,2,0,0,0.0,Hamid Hassan,0,bowled,MA Ouma,2013-09-30,Kenya,Afghanistan,0,Sharjah Cricket Stadium
+4,MA Ouma,14.0,13,1,0,107.6923076923077,Hamid Hassan,['Samiullah Shenwari'],caught,MA Ouma,2013-10-11,Kenya,Kenya,0,Sharjah Cricket Stadium
+4,MA Ouma,5.0,4,1,0,125.0,I Wardlaw,['KJ Coetzer'],caught,MA Ouma,2013-11-19,Scotland,Kenya,0,ICC Academy
+4,MA Ouma,2.0,8,0,0,25.0,MR Swart,['Ahsan Malik'],caught,MA Ouma,2013-11-23,Netherlands,Netherlands,0,ICC Academy
+6,MA Ouma,9.0,8,1,0,112.5,notOut,notOut,notOut,notOut,2013-11-26,Kenya,Kenya,0,Sharjah Cricket Stadium
+8,NM Odhiambo,6.0,4,1,0,150.0,notOut,notOut,notOut,notOut,2012-02-23,Ireland,Ireland,0,Mombasa Sports Club Ground
+7,NM Odhiambo,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2012-02-24,Ireland,Ireland,0,Mombasa Sports Club Ground
+7,NM Odhiambo,26.0,31,2,1,83.87096774193549,AS Hansra,0,caught and bowled,NM Odhiambo,2013-03-15,Kenya,Canada,0,ICC Global Cricket Academy
+6,NM Odhiambo,13.0,38,1,0,34.21052631578947,Samiullah Shenwari,['Shapoor Zadran'],run out,SO Ngoche,2013-09-30,Kenya,Afghanistan,0,Sharjah Cricket Stadium
+7,NM Odhiambo,13.0,38,1,0,34.21052631578947,Samiullah Shenwari,['Mirwais Ashraf'],caught,NM Odhiambo,2013-09-30,Kenya,Afghanistan,0,Sharjah Cricket Stadium
+6,NN Odhiambo,0.0,6,0,0,0.0,CS Martin,['LRPL Taylor'],caught,NN Odhiambo,2007-09-12,New Zealand,New Zealand,0,Kingsmead
+1,NN Odhiambo,5.0,9,1,0,55.55555555555556,WPUJC Vaas,0,bowled,NN Odhiambo,2007-09-14,Sri Lanka,Sri Lanka,0,New Wanderers Stadium
+2,NN Odhiambo,1.0,3,0,0,33.33333333333333,KJ O'Brien,0,lbw,NN Odhiambo,2008-08-04,Kenya,Ireland,0,"Civil Service Cricket Club, Stormont"
+7,NN Odhiambo,13.0,13,1,0,100.0,MC Sorensen,['WTS Porterfield'],run out,RG Aga,2012-02-22,Ireland,Ireland,0,Mombasa Sports Club Ground
+8,NN Odhiambo,13.0,13,1,0,100.0,AR Cusack,['DT Johnston'],caught,NN Odhiambo,2012-02-22,Ireland,Ireland,0,Mombasa Sports Club Ground
+7,NN Odhiambo,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2012-02-23,Ireland,Ireland,0,Mombasa Sports Club Ground
+2,NN Odhiambo,4.0,13,1,0,30.76923076923077,DT Johnston,0,bowled,NN Odhiambo,2012-03-14,Kenya,Ireland,0,Dubai International Cricket Stadium
+7,NN Odhiambo,1.0,4,0,0,25.0,notOut,notOut,notOut,notOut,2013-03-16,Kenya,Kenya,0,ICC Global Cricket Academy
+6,NN Odhiambo,3.0,1,0,0,300.0,notOut,notOut,notOut,notOut,2013-04-19,Netherlands,Kenya,0,Wanderers Cricket Ground
+8,NN Odhiambo,0.0,1,0,0,0.0,Mirwais Ashraf,0,bowled,NN Odhiambo,2013-09-30,Kenya,Afghanistan,0,Sharjah Cricket Stadium
+1,NN Odhiambo,41.0,33,4,2,124.24242424242425,Samiullah Shenwari,0,bowled,NN Odhiambo,2013-10-11,Kenya,Kenya,0,Sharjah Cricket Stadium
+2,NN Odhiambo,26.0,14,3,1,185.71428571428572,RM Haq,0,lbw,NN Odhiambo,2013-11-19,Scotland,Kenya,0,ICC Academy
+1,NN Odhiambo,0.0,1,0,0,0.0,Mudassar Bukhari,0,bowled,NN Odhiambo,2013-11-23,Netherlands,Netherlands,0,ICC Academy
+1,NN Odhiambo,7.0,4,0,1,175.0,Samiullah Shenwari,['Mohammad Shahzad'],stumped,NN Odhiambo,2013-11-24,Kenya,Afghanistan,0,Sharjah Cricket Stadium
+0,NN Odhiambo,15.0,15,3,0,100.0,Rizwan Cheema,['Raza-ur-Rehman'],caught,NN Odhiambo,2013-11-26,Kenya,Kenya,0,Sharjah Cricket Stadium
+10,PJ Ongondo,16.0,7,1,1,228.57142857142856,Younis Khan,['Abdur Rehman'],caught,PJ Ongondo,2007-09-04,Pakistan,Pakistan,0,Gymkhana Club Ground
+10,PJ Ongondo,0.0,2,0,0,0.0,MR Gillespie,0,bowled,PJ Ongondo,2007-09-12,New Zealand,New Zealand,0,Kingsmead
+10,PJ Ongondo,3.0,5,0,0,60.0,TM Dilshan,['DPMD Jayawardene'],caught,PJ Ongondo,2007-09-14,Sri Lanka,Sri Lanka,0,New Wanderers Stadium
+9,PJ Ongondo,0.0,1,0,0,0.0,AC Botha,0,bowled,PJ Ongondo,2008-08-04,Kenya,Ireland,0,"Civil Service Cricket Club, Stormont"
+6,RG Aga,5.0,7,1,0,71.42857142857143,AR Cusack,0,bowled,RG Aga,2008-08-04,Kenya,Ireland,0,"Civil Service Cricket Club, Stormont"
+5,RG Aga,25.0,27,2,0,92.5925925925926,notOut,notOut,notOut,notOut,2012-02-22,Ireland,Ireland,0,Mombasa Sports Club Ground
+5,RG Aga,9.0,11,1,0,81.81818181818183,MC Sorensen,['JF Mooney'],caught,RG Aga,2012-02-23,Ireland,Ireland,0,Mombasa Sports Club Ground
+5,RG Aga,12.0,12,0,0,100.0,GH Dockrell,0,caught and bowled,RG Aga,2012-02-24,Ireland,Ireland,0,Mombasa Sports Club Ground
+6,RG Aga,3.0,8,0,0,37.5,AR Cusack,0,lbw,RG Aga,2012-03-14,Kenya,Ireland,0,Dubai International Cricket Stadium
+5,RG Aga,6.0,6,1,0,100.0,Junaid Siddiqui,0,bowled,RG Aga,2013-03-15,Kenya,Canada,0,ICC Global Cricket Academy
+5,RG Aga,31.0,23,2,1,134.7826086956522,Rizwan Cheema,['H Osinde'],caught,RG Aga,2013-03-16,Kenya,Kenya,0,ICC Global Cricket Academy
+5,RG Aga,2.0,2,0,0,100.0,Mudassar Bukhari,['MJG Rippon'],caught,RG Aga,2013-04-19,Netherlands,Kenya,0,Wanderers Cricket Ground
+5,RG Aga,3.0,4,0,0,75.0,Amir Hamza,['Nawroz Mangal'],caught,RG Aga,2013-09-30,Kenya,Afghanistan,0,Sharjah Cricket Stadium
+7,RG Aga,52.0,25,7,1,208.0,I Wardlaw,['CS MacLeod'],run out,CO Obuya,2013-11-19,Scotland,Kenya,0,ICC Academy
+6,RG Aga,4.0,8,0,0,50.0,MJG Rippon,['W Barresi'],caught,RG Aga,2013-11-23,Netherlands,Netherlands,0,ICC Academy
+8,RG Aga,2.0,4,0,0,50.0,Shapoor Zadran,['Karim Sadiq'],caught,RG Aga,2013-11-24,Kenya,Afghanistan,0,Sharjah Cricket Stadium
+5,RG Aga,3.0,5,0,0,60.0,AS Hansra,['Rizwan Cheema'],caught,RG Aga,2013-11-26,Kenya,Kenya,0,Sharjah Cricket Stadium
+7,RL Bhudia,0.0,2,0,0,0.0,Abdur Razzak,['Mushfiqur Rahim'],stumped,RL Bhudia,2007-09-01,Bangladesh,Bangladesh,0,Gymkhana Club Ground
+7,RL Bhudia,9.0,9,0,1,100.0,Younis Khan,0,bowled,RL Bhudia,2007-09-04,Pakistan,Pakistan,0,Gymkhana Club Ground
+9,RL Bhudia,11.0,9,0,1,122.22222222222223,notOut,notOut,notOut,notOut,2007-09-12,New Zealand,New Zealand,0,Kingsmead
+4,RR Patel,14.0,14,1,1,100.0,MC Sorensen,0,bowled,RR Patel,2012-02-22,Ireland,Ireland,0,Mombasa Sports Club Ground
+4,RR Patel,27.0,22,2,2,122.72727272727273,GH Dockrell,['MC Sorensen'],caught,RR Patel,2012-02-23,Ireland,Ireland,0,Mombasa Sports Club Ground
+4,RR Patel,1.0,3,0,0,33.33333333333333,AR White,['RD McCann'],stumped,RR Patel,2012-02-24,Ireland,Ireland,0,Mombasa Sports Club Ground
+5,RR Patel,2.0,5,0,0,40.0,AR Cusack,['GC Wilson'],caught,RR Patel,2012-03-14,Kenya,Ireland,0,Dubai International Cricket Stadium
+6,RR Patel,48.0,35,2,2,137.14285714285714,notOut,notOut,notOut,notOut,2013-03-15,Kenya,Canada,0,ICC Global Cricket Academy
+6,RR Patel,23.0,19,2,1,121.05263157894737,MS Aulakh,0,bowled,RR Patel,2013-03-16,Kenya,Kenya,0,ICC Global Cricket Academy
+4,RR Patel,36.0,22,1,3,163.63636363636365,Ahsan Malik,['PM Seelaar'],caught,RR Patel,2013-04-19,Netherlands,Kenya,0,Wanderers Cricket Ground
+4,RR Patel,46.0,20,2,5,229.99999999999997,notOut,notOut,notOut,notOut,2013-04-20,Netherlands,Kenya,0,Wanderers Cricket Ground
+3,RR Patel,11.0,20,2,0,55.00000000000001,Mirwais Ashraf,['Shapoor Zadran'],caught,RR Patel,2013-09-30,Kenya,Afghanistan,0,Sharjah Cricket Stadium
+2,RR Patel,8.0,5,0,1,160.0,Karim Sadiq,['Afsar Zazai'],stumped,RR Patel,2013-10-11,Kenya,Kenya,0,Sharjah Cricket Stadium
+6,RR Patel,12.0,16,1,0,75.0,RM Haq,['RML Taylor'],caught,RR Patel,2013-11-19,Scotland,Kenya,0,ICC Academy
+7,RR Patel,16.0,21,0,0,76.19047619047619,Ahsan Malik,0,lbw,RR Patel,2013-11-23,Netherlands,Netherlands,0,ICC Academy
+5,RR Patel,52.0,39,2,3,133.33333333333331,Shapoor Zadran,['Najibullah Zadran'],caught,RR Patel,2013-11-24,Kenya,Afghanistan,0,Sharjah Cricket Stadium
+4,RR Patel,11.0,11,0,1,100.0,Raza-ur-Rehman,0,bowled,RR Patel,2013-11-26,Kenya,Kenya,0,Sharjah Cricket Stadium
+9,SO Ngoche,3.0,7,0,0,42.857142857142854,GH Dockrell,"[""KJ O'Brien""]",caught,SO Ngoche,2012-02-22,Ireland,Ireland,0,Mombasa Sports Club Ground
+8,SO Ngoche,2.0,2,0,0,100.0,notOut,notOut,notOut,notOut,2012-02-24,Ireland,Ireland,0,Mombasa Sports Club Ground
+9,SO Ngoche,0.0,2,0,0,0.0,GH Dockrell,0,lbw,SO Ngoche,2012-03-14,Kenya,Ireland,0,Dubai International Cricket Stadium
+8,SO Ngoche,2.0,7,0,0,28.57142857142857,Rizwan Cheema,['MS Aulakh'],caught,SO Ngoche,2013-03-15,Kenya,Canada,0,ICC Global Cricket Academy
+9,SO Ngoche,3.0,10,0,0,30.0,notOut,notOut,notOut,notOut,2013-09-30,Kenya,Afghanistan,0,Sharjah Cricket Stadium
+8,SO Ngoche,38.0,28,2,2,135.71428571428572,PW Borren,['W Barresi'],caught,SO Ngoche,2013-11-23,Netherlands,Netherlands,0,ICC Academy
+10,SO Ngoche,1.0,2,0,0,50.0,notOut,notOut,notOut,notOut,2013-11-24,Kenya,Afghanistan,0,Sharjah Cricket Stadium
+8,SO Ngoche,0.0,1,0,0,0.0,notOut,notOut,notOut,notOut,2013-11-26,Kenya,Kenya,0,Sharjah Cricket Stadium
+3,SO Tikolo,24.0,21,2,0,114.28571428571428,Mohammad Ashraful,['Mahmudullah'],caught,SO Tikolo,2007-09-01,Bangladesh,Bangladesh,0,Gymkhana Club Ground
+2,SO Tikolo,0.0,2,0,0,0.0,MR Gillespie,0,lbw,SO Tikolo,2007-09-12,New Zealand,New Zealand,0,Kingsmead
+4,SO Tikolo,4.0,4,0,0,100.0,SL Malinga,['DPMD Jayawardene'],caught,SO Tikolo,2007-09-14,Sri Lanka,Sri Lanka,0,New Wanderers Stadium
+3,SO Tikolo,13.0,26,1,0,50.0,AC Botha,0,lbw,SO Tikolo,2008-08-04,Kenya,Ireland,0,"Civil Service Cricket Club, Stormont"
+1,SO Tikolo,50.0,36,5,1,138.88888888888889,notOut,notOut,notOut,notOut,2010-02-10,Kenya,Kenya,0,Dubai International Cricket Stadium
+0,SO Tikolo,20.0,11,2,2,181.8181818181818,G Goudie,['NM Carter'],caught,SO Tikolo,2013-11-19,Scotland,Kenya,0,ICC Academy
+0,SO Tikolo,0.0,4,0,0,0.0,Mudassar Bukhari,['W Barresi'],caught,SO Tikolo,2013-11-23,Netherlands,Netherlands,0,ICC Academy
+0,SO Tikolo,25.0,16,5,0,156.25,Amir Hamza,0,bowled,SO Tikolo,2013-11-24,Kenya,Afghanistan,0,Sharjah Cricket Stadium
+1,SO Tikolo,40.0,25,8,0,160.0,Raza-ur-Rehman,['A Bagai'],stumped,SO Tikolo,2013-11-26,Kenya,Kenya,0,Sharjah Cricket Stadium
+2,T Mishra,38.0,43,2,1,88.37209302325581,Farhad Reza,0,bowled,T Mishra,2007-09-01,Bangladesh,Bangladesh,0,Gymkhana Club Ground
+1,T Mishra,13.0,27,2,0,48.148148148148145,Fawad Alam,0,lbw,T Mishra,2007-09-04,Pakistan,Pakistan,0,Gymkhana Club Ground
+1,T Mishra,0.0,3,0,0,0.0,SE Bond,['JDP Oram'],caught,T Mishra,2007-09-12,New Zealand,New Zealand,0,Kingsmead
+3,T Mishra,16.0,24,0,1,66.66666666666666,ST Jayasuriya,['KC Sangakkara'],stumped,T Mishra,2007-09-14,Sri Lanka,Sri Lanka,0,New Wanderers Stadium
+3,T Mishra,34.0,30,2,2,113.33333333333333,PR Stirling,['JF Mooney'],caught,T Mishra,2012-02-22,Ireland,Ireland,0,Mombasa Sports Club Ground
+3,T Mishra,13.0,11,2,0,118.18181818181819,KJ O'Brien,['RD McCann'],caught,T Mishra,2012-02-23,Ireland,Ireland,0,Mombasa Sports Club Ground
+3,T Mishra,37.0,42,2,0,88.09523809523809,AR White,['WTS Porterfield'],caught,T Mishra,2012-02-24,Ireland,Ireland,0,Mombasa Sports Club Ground
+4,T Mishra,28.0,32,3,0,87.5,JF Mooney,['AR Cusack'],caught,T Mishra,2012-03-14,Kenya,Ireland,0,Dubai International Cricket Stadium
+3,T Mishra,2.0,4,0,0,50.0,Junaid Siddiqui,['H Patel'],caught,T Mishra,2013-03-15,Kenya,Canada,0,ICC Global Cricket Academy
+4,T Mishra,19.0,15,1,0,126.66666666666666,Junaid Siddiqui,0,caught and bowled,T Mishra,2013-03-16,Kenya,Kenya,0,ICC Global Cricket Academy
+1,T Mishra,1.0,3,0,0,33.33333333333333,TGJ Gruijters,['Mudassar Bukhari'],caught,T Mishra,2013-04-19,Netherlands,Kenya,0,Wanderers Cricket Ground
+1,T Mishra,5.0,5,1,0,100.0,Mudassar Bukhari,0,lbw,T Mishra,2013-04-20,Netherlands,Kenya,0,Wanderers Cricket Ground
+4,TM Odoyo,22.0,13,2,1,169.23076923076923,Farhad Reza,0,bowled,TM Odoyo,2007-09-01,Bangladesh,Bangladesh,0,Gymkhana Club Ground
+4,TM Odoyo,5.0,7,0,0,71.42857142857143,Abdur Rehman,['Kamran Akmal'],stumped,TM Odoyo,2007-09-04,Pakistan,Pakistan,0,Gymkhana Club Ground
+5,TM Odoyo,18.0,27,3,0,66.66666666666666,CS Martin,['LRPL Taylor'],caught,TM Odoyo,2007-09-12,New Zealand,New Zealand,0,Kingsmead
+5,TM Odoyo,10.0,16,1,0,62.5,AC Botha,0,bowled,TM Odoyo,2008-08-04,Kenya,Ireland,0,"Civil Service Cricket Club, Stormont"
+5,TM Odoyo,0.0,1,0,0,0.0,I Wardlaw,0,lbw,TM Odoyo,2013-11-19,Scotland,Kenya,0,ICC Academy
+5,TM Odoyo,3.0,12,0,0,25.0,PA van Meekeren,['TGJ Gruijters'],caught,TM Odoyo,2013-11-23,Netherlands,Netherlands,0,ICC Academy
+7,TM Odoyo,7.0,5,0,1,140.0,Mirwais Ashraf,0,bowled,TM Odoyo,2013-11-24,Kenya,Afghanistan,0,Sharjah Cricket Stadium

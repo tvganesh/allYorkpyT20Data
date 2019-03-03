@@ -1,0 +1,426 @@
+,batsman,runs,balls,4s,6s,SR,bowler,fielders,kind,player_out,date,team2,winner,result,venue
+7,AG Cremer,2.0,3,0,0,66.66666666666666,R Rampaul,0,bowled,AG Cremer,2010-02-28,Zimbabwe,Zimbabwe,0,"Queen's Park Oval, Port of Spain"
+8,AG Cremer,0.0,1,0,0,0.0,SB Styris,0,bowled,AG Cremer,2010-05-04,Zimbabwe,New Zealand,0,Providence Stadium
+8,AG Cremer,2.0,2,0,0,100.0,notOut,notOut,notOut,notOut,2010-10-10,Zimbabwe,South Africa,0,De Beers Diamond Oval
+6,AG Cremer,17.0,21,2,0,80.95238095238095,BMAJ Mendis,0,bowled,AG Cremer,2012-09-18,Zimbabwe,Sri Lanka,0,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa"
+6,AG Cremer,6.0,11,0,0,54.54545454545454,JH Kallis,['AB de Villiers'],caught,AG Cremer,2012-09-20,Zimbabwe,South Africa,0,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa"
+7,AG Cremer,2.0,2,0,0,100.0,notOut,notOut,notOut,notOut,2015-05-22,Zimbabwe,Pakistan,0,Gaddafi Stadium
+7,AG Cremer,9.0,14,0,0,64.28571428571429,MM Sharma,0,bowled,AG Cremer,2015-07-17,India,India,0,Harare Sports Club
+8,AG Cremer,0.0,1,0,0,0.0,notOut,notOut,notOut,notOut,2015-07-19,India,Zimbabwe,0,Harare Sports Club
+7,AG Cremer,5.0,7,0,0,71.42857142857143,MJ McClenaghan,['JDS Neesham'],caught,AG Cremer,2015-08-09,New Zealand,New Zealand,0,Harare Sports Club
+8,AG Cremer,0.0,1,0,0,0.0,Wahab Riaz,['Shahid Afridi'],caught,AG Cremer,2015-09-27,Pakistan,Pakistan,0,Harare Sports Club
+9,AG Cremer,3.0,4,0,0,75.0,Al-Amin Hossain,0,bowled,AG Cremer,2015-11-13,Zimbabwe,Bangladesh,0,Shere Bangla National Stadium
+8,AG Cremer,3.0,4,0,0,75.0,Sayed Shirzad,['Usman Ghani'],caught,AG Cremer,2016-01-10,Zimbabwe,Afghanistan,0,Sharjah Cricket Stadium
+7,AG Cremer,8.0,12,0,0,66.66666666666666,Sabbir Rahman,0,caught and bowled,AG Cremer,2016-01-17,Zimbabwe,Bangladesh,0,Sheikh Abu Naser Stadium
+8,AG Cremer,4.0,5,0,0,80.0,JJ Bumrah,['R Dhawan'],caught,AG Cremer,2016-06-18,India,Zimbabwe,0,Harare Sports Club
+7,AG Cremer,4.0,6,0,0,66.66666666666666,DS Kulkarni,['AT Rayudu'],caught,AG Cremer,2016-06-20,India,India,0,Harare Sports Club
+2,AM Blignaut,8.0,9,1,0,88.88888888888889,DL Vettori,0,bowled,AM Blignaut,2010-05-04,Zimbabwe,New Zealand,0,Providence Stadium
+1,BRM Taylor,60.0,45,4,2,133.33333333333331,notOut,notOut,notOut,notOut,2007-09-12,Zimbabwe,Zimbabwe,0,Newlands
+1,BRM Taylor,47.0,39,4,2,120.51282051282051,AD Mascarenhas,0,bowled,BRM Taylor,2007-09-13,Zimbabwe,England,0,Newlands
+4,BRM Taylor,0.0,3,0,0,0.0,SJ Benn,0,bowled,BRM Taylor,2010-02-28,Zimbabwe,Zimbabwe,0,"Queen's Park Oval, Port of Spain"
+2,BRM Taylor,11.0,11,0,0,100.0,notOut,notOut,notOut,notOut,2010-05-03,Zimbabwe,Sri Lanka,0,Providence Stadium
+1,BRM Taylor,15.0,9,2,1,166.66666666666669,R Vinay Kumar,0,lbw,BRM Taylor,2010-06-12,India,India,0,Harare Sports Club
+1,BRM Taylor,27.0,33,3,0,81.81818181818183,A Mishra,['YK Pathan'],caught,BRM Taylor,2010-06-13,India,India,0,Harare Sports Club
+1,BRM Taylor,0.0,5,0,0,0.0,WD Parnell,0,lbw,BRM Taylor,2010-10-08,Zimbabwe,South Africa,0,OUTsurance Oval
+1,BRM Taylor,59.0,41,4,3,143.90243902439025,RJ Peterson,['J Theron'],caught,BRM Taylor,2010-10-10,Zimbabwe,South Africa,0,De Beers Diamond Oval
+3,BRM Taylor,10.0,7,0,1,142.85714285714286,Sohail Tanvir,['Yasir Shah'],caught,BRM Taylor,2011-09-16,Pakistan,Pakistan,0,Harare Sports Club
+4,BRM Taylor,10.0,11,1,0,90.9090909090909,Mohammad Hafeez,['Misbah-ul-Haq'],caught,BRM Taylor,2011-09-18,Pakistan,Pakistan,0,Harare Sports Club
+2,BRM Taylor,50.0,47,5,0,106.38297872340425,JDP Oram,['JDP Oram'],run out,P Utseya,2011-10-15,New Zealand,New Zealand,0,Harare Sports Club
+2,BRM Taylor,1.0,5,0,0,20.0,GW Aldridge,0,bowled,BRM Taylor,2011-10-17,New Zealand,New Zealand,0,Harare Sports Club
+0,BRM Taylor,3.0,6,0,0,50.0,MD Bates,0,bowled,BRM Taylor,2012-02-11,Zimbabwe,New Zealand,0,Eden Park
+2,BRM Taylor,75.0,43,6,3,174.41860465116278,notOut,notOut,notOut,notOut,2012-02-14,Zimbabwe,New Zealand,0,Seddon Park
+2,BRM Taylor,0.0,1,0,0,0.0,BAW Mendis,['KC Sangakkara'],stumped,BRM Taylor,2012-09-18,Zimbabwe,Sri Lanka,0,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa"
+2,BRM Taylor,4.0,4,0,0,100.0,M Morkel,['AB de Villiers'],caught,BRM Taylor,2012-09-20,Zimbabwe,South Africa,0,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa"
+2,BRM Taylor,0.0,3,0,0,0.0,S Badree,['D Ramdin'],caught,BRM Taylor,2013-03-02,Zimbabwe,West Indies,0,"Sir Vivian Richards Stadium, North Sound"
+3,BRM Taylor,4.0,5,0,0,80.0,S Badree,['DJG Sammy'],caught,BRM Taylor,2013-03-03,Zimbabwe,West Indies,0,"Sir Vivian Richards Stadium, North Sound"
+2,BRM Taylor,40.0,26,6,1,153.84615384615387,Shakib Al Hasan,['Tamim Iqbal'],caught,BRM Taylor,2013-05-11,Bangladesh,Zimbabwe,0,Queens Sports Club
+2,BRM Taylor,15.0,10,3,0,150.0,Shakib Al Hasan,['Nasir Hossain'],caught,BRM Taylor,2013-05-12,Bangladesh,Bangladesh,0,Queens Sports Club
+2,BRM Taylor,32.0,31,3,0,103.2258064516129,notOut,notOut,notOut,notOut,2013-08-23,Pakistan,Pakistan,0,Harare Sports Club
+2,BRM Taylor,3.0,4,0,0,75.0,Mohammad Hafeez,['Sarfraz Ahmed'],caught,BRM Taylor,2013-08-24,Pakistan,Pakistan,0,Harare Sports Club
+2,BRM Taylor,59.0,47,6,2,125.53191489361701,GH Dockrell,['EC Joyce'],caught,BRM Taylor,2014-03-17,Zimbabwe,Ireland,0,Sylhet Stadium
+2,BRM Taylor,49.0,40,2,1,122.50000000000001,T van der Gugten,['PW Borren'],caught,BRM Taylor,2014-03-19,Zimbabwe,Zimbabwe,0,Sylhet Stadium
+2,BRM Taylor,15.0,7,2,1,214.28571428571428,EHSN Silva,['Shaiman Anwar'],caught,BRM Taylor,2014-03-21,Zimbabwe,Zimbabwe,0,Sylhet Stadium
+9,BV Vitori,7.0,4,0,0,175.0,notOut,notOut,notOut,notOut,2012-09-18,Zimbabwe,Sri Lanka,0,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa"
+11,BV Vitori,1.0,3,0,0,33.33333333333333,notOut,notOut,notOut,notOut,2013-05-12,Bangladesh,Bangladesh,0,Queens Sports Club
+2,C Zhuwao,0.0,1,0,0,0.0,Sohail Khan,['Umar Akmal'],caught,C Zhuwao,2011-09-16,Pakistan,Pakistan,0,Harare Sports Club
+2,C Zhuwao,12.0,14,2,0,85.71428571428571,Mohammad Hafeez,0,bowled,C Zhuwao,2011-09-18,Pakistan,Pakistan,0,Harare Sports Club
+10,CB Mpofu,3.0,2,0,0,150.0,notOut,notOut,notOut,notOut,2010-06-12,India,India,0,Harare Sports Club
+11,CB Mpofu,4.0,4,0,0,100.0,notOut,notOut,notOut,notOut,2011-09-16,Pakistan,Pakistan,0,Harare Sports Club
+10,CB Mpofu,0.0,1,0,0,0.0,DAJ Bracewell,['GW Aldridge'],caught,CB Mpofu,2011-10-17,New Zealand,New Zealand,0,Harare Sports Club
+10,CB Mpofu,0.0,2,0,0,0.0,SL Malinga,['LD Chandimal (sub)'],caught,CB Mpofu,2012-09-18,Zimbabwe,Sri Lanka,0,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa"
+9,CB Mpofu,6.0,3,0,1,200.0,notOut,notOut,notOut,notOut,2015-08-09,New Zealand,New Zealand,0,Harare Sports Club
+2,CJ Chibhabha,15.0,14,3,0,107.14285714285714,SR Clark,['AC Gilchrist'],caught,CJ Chibhabha,2007-09-12,Zimbabwe,Zimbabwe,0,Newlands
+3,CJ Chibhabha,5.0,8,0,0,62.5,CP Schofield,0,caught and bowled,CJ Chibhabha,2007-09-13,Zimbabwe,England,0,Newlands
+2,CJ Chibhabha,40.0,31,5,1,129.03225806451613,PP Chawla,0,lbw,CJ Chibhabha,2010-06-12,India,India,0,Harare Sports Club
+2,CJ Chibhabha,7.0,17,1,0,41.17647058823529,PP Ojha,0,bowled,CJ Chibhabha,2010-06-13,India,India,0,Harare Sports Club
+2,CJ Chibhabha,52.0,32,6,2,162.5,WD Parnell,['J Botha'],caught,CJ Chibhabha,2010-10-08,Zimbabwe,South Africa,0,OUTsurance Oval
+2,CJ Chibhabha,59.0,43,6,2,137.2093023255814,J Botha,['WD Parnell'],caught,CJ Chibhabha,2010-10-10,Zimbabwe,South Africa,0,De Beers Diamond Oval
+1,CJ Chibhabha,28.0,30,2,0,93.33333333333333,Mohammad Hafeez,0,lbw,CJ Chibhabha,2011-09-16,Pakistan,Pakistan,0,Harare Sports Club
+1,CJ Chibhabha,10.0,10,2,0,100.0,Saeed Ajmal,['Yasir Shah'],caught,CJ Chibhabha,2011-09-18,Pakistan,Pakistan,0,Harare Sports Club
+1,CJ Chibhabha,9.0,12,2,0,75.0,KD Mills,['BB McCullum'],caught,CJ Chibhabha,2011-10-15,New Zealand,New Zealand,0,Harare Sports Club
+1,CJ Chibhabha,65.0,39,4,5,166.66666666666669,NL McCullum,['BB McCullum'],stumped,CJ Chibhabha,2011-10-17,New Zealand,New Zealand,0,Harare Sports Club
+5,CJ Chibhabha,8.0,9,1,0,88.88888888888889,TL Best,0,bowled,CJ Chibhabha,2013-03-02,Zimbabwe,West Indies,0,"Sir Vivian Richards Stadium, North Sound"
+0,CJ Chibhabha,13.0,15,2,0,86.66666666666667,S Badree,0,bowled,CJ Chibhabha,2013-03-03,Zimbabwe,West Indies,0,"Sir Vivian Richards Stadium, North Sound"
+1,CJ Chibhabha,23.0,28,2,1,82.14285714285714,Harbhajan Singh,['MK Pandey'],caught,CJ Chibhabha,2015-07-17,India,India,0,Harare Sports Club
+1,CJ Chibhabha,67.0,52,9,0,128.84615384615387,B Kumar,0,bowled,CJ Chibhabha,2015-07-19,India,Zimbabwe,0,Harare Sports Club
+1,CJ Chibhabha,6.0,6,1,0,100.0,JDS Neesham,0,bowled,CJ Chibhabha,2015-08-09,New Zealand,New Zealand,0,Harare Sports Club
+1,CJ Chibhabha,0.0,2,0,0,0.0,Imad Wasim,0,bowled,CJ Chibhabha,2015-09-27,Pakistan,Pakistan,0,Harare Sports Club
+1,CJ Chibhabha,3.0,7,0,0,42.857142857142854,Sohail Tanvir,0,lbw,CJ Chibhabha,2015-09-29,Pakistan,Pakistan,0,Harare Sports Club
+1,CJ Chibhabha,54.0,47,6,0,114.89361702127661,Dawlat Zadran,0,bowled,CJ Chibhabha,2015-10-26,Afghanistan,Afghanistan,0,Queens Sports Club
+0,CJ Chibhabha,0.0,2,0,0,0.0,Dawlat Zadran,0,bowled,CJ Chibhabha,2015-10-28,Afghanistan,Afghanistan,0,Queens Sports Club
+1,CJ Chibhabha,18.0,12,3,0,150.0,Dawlat Zadran,['Rashid Khan'],caught,CJ Chibhabha,2016-01-08,Zimbabwe,Afghanistan,0,Sharjah Cricket Stadium
+0,CJ Chibhabha,3.0,6,0,0,50.0,Dawlat Zadran,['Mohammad Nabi'],caught,CJ Chibhabha,2016-01-10,Zimbabwe,Afghanistan,0,Sharjah Cricket Stadium
+0,CJ Chibhabha,20.0,19,3,0,105.26315789473684,R Dhawan,0,bowled,CJ Chibhabha,2016-06-18,India,Zimbabwe,0,Harare Sports Club
+0,CJ Chibhabha,10.0,11,2,0,90.9090909090909,BB Sran,['AT Rayudu'],caught,CJ Chibhabha,2016-06-20,India,India,0,Harare Sports Club
+0,CJ Chibhabha,5.0,11,1,0,45.45454545454545,BB Sran,['YS Chahal'],caught,CJ Chibhabha,2016-06-22,India,India,0,Harare Sports Club
+5,CK Coventry,0.0,2,0,0,0.0,NL McCullum,0,caught and bowled,CK Coventry,2010-05-04,Zimbabwe,New Zealand,0,Providence Stadium
+4,CK Coventry,28.0,13,3,2,215.3846153846154,AB Dinda,0,bowled,CK Coventry,2010-06-13,India,India,0,Harare Sports Club
+4,CK Coventry,12.0,7,1,1,171.42857142857142,J Theron,['CA Ingram'],run out,H Masakadza,2010-10-08,Zimbabwe,South Africa,0,OUTsurance Oval
+3,CK Coventry,8.0,6,0,1,133.33333333333331,RJ Peterson,['J Botha'],caught,CK Coventry,2010-10-10,Zimbabwe,South Africa,0,De Beers Diamond Oval
+5,CK Coventry,30.0,13,4,1,230.76923076923075,Saeed Ajmal,['Umar Akmal'],caught,CK Coventry,2011-09-16,Pakistan,Pakistan,0,Harare Sports Club
+6,CK Coventry,9.0,4,2,0,225.0,Junaid Khan,0,bowled,CK Coventry,2011-09-18,Pakistan,Pakistan,0,Harare Sports Club
+5,CK Coventry,10.0,13,1,0,76.92307692307693,NL McCullum,['LRPL Taylor'],caught,CK Coventry,2011-10-15,New Zealand,New Zealand,0,Harare Sports Club
+4,CK Coventry,0.0,2,0,0,0.0,NL McCullum,0,caught and bowled,CK Coventry,2011-10-17,New Zealand,New Zealand,0,Harare Sports Club
+2,CK Coventry,14.0,7,3,0,200.0,Wahab Riaz,['Sarfraz Ahmed'],caught,CK Coventry,2015-05-22,Zimbabwe,Pakistan,0,Gaddafi Stadium
+4,CK Coventry,2.0,3,0,0,66.66666666666666,notOut,notOut,notOut,notOut,2015-05-24,Zimbabwe,Pakistan,0,Gaddafi Stadium
+2,CK Coventry,10.0,10,0,1,100.0,Harbhajan Singh,['AM Rahane'],caught,CK Coventry,2015-07-17,India,India,0,Harare Sports Club
+4,CK Coventry,4.0,10,0,0,40.0,STR Binny,0,lbw,CK Coventry,2015-07-19,India,Zimbabwe,0,Harare Sports Club
+4,CR Ervine,1.0,5,0,0,20.0,NL McCullum,['GJ Hopkins'],stumped,CR Ervine,2010-05-04,Zimbabwe,New Zealand,0,Providence Stadium
+4,CR Ervine,30.0,42,2,0,71.42857142857143,AB Dinda,0,bowled,CR Ervine,2010-06-12,India,India,0,Harare Sports Club
+4,CR Ervine,10.0,13,0,1,76.92307692307693,BMAJ Mendis,['KC Sangakkara'],stumped,CR Ervine,2012-09-18,Zimbabwe,Sri Lanka,0,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa"
+3,CR Ervine,37.0,43,4,0,86.04651162790698,JH Kallis,['AB de Villiers'],caught,CR Ervine,2012-09-20,Zimbabwe,South Africa,0,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa"
+3,CR Ervine,34.0,39,5,0,87.17948717948718,SP Narine,['D Ramdin'],stumped,CR Ervine,2013-03-02,Zimbabwe,West Indies,0,"Sir Vivian Richards Stadium, North Sound"
+4,CR Ervine,15.0,16,1,0,93.75,DJ Bravo,0,caught and bowled,CR Ervine,2013-03-03,Zimbabwe,West Indies,0,"Sir Vivian Richards Stadium, North Sound"
+6,CR Ervine,2.0,8,0,0,25.0,notOut,notOut,notOut,notOut,2015-07-17,India,India,0,Harare Sports Club
+5,CR Ervine,7.0,12,1,0,58.333333333333336,B Kumar,0,bowled,CR Ervine,2015-07-19,India,Zimbabwe,0,Harare Sports Club
+2,CR Ervine,42.0,46,4,0,91.30434782608695,GD Elliott,0,bowled,CR Ervine,2015-08-09,New Zealand,New Zealand,0,Harare Sports Club
+2,CR Ervine,11.0,14,1,0,78.57142857142857,Sohail Tanvir,0,lbw,CR Ervine,2015-09-27,Pakistan,Pakistan,0,Harare Sports Club
+2,CR Ervine,1.0,3,0,0,33.33333333333333,notOut,notOut,notOut,notOut,2015-09-29,Pakistan,Pakistan,0,Harare Sports Club
+4,CR Ervine,0.0,1,0,0,0.0,Dawlat Zadran,0,bowled,CR Ervine,2015-10-26,Afghanistan,Afghanistan,0,Queens Sports Club
+5,CR Ervine,4.0,3,1,0,133.33333333333331,Dawlat Zadran,['Gulbadin Naib'],caught,CR Ervine,2015-10-28,Afghanistan,Afghanistan,0,Queens Sports Club
+4,CR Ervine,20.0,32,2,0,62.5,Mahmudullah,0,bowled,CR Ervine,2015-11-13,Zimbabwe,Bangladesh,0,Shere Bangla National Stadium
+3,CR Ervine,15.0,17,0,1,88.23529411764706,notOut,notOut,notOut,notOut,2015-11-15,Zimbabwe,Zimbabwe,0,Shere Bangla National Stadium
+7,CT Mutombodzi,2.0,3,0,0,66.66666666666666,DJ Bravo,['AD Russell'],caught,CT Mutombodzi,2013-03-02,Zimbabwe,West Indies,0,"Sir Vivian Richards Stadium, North Sound"
+6,CT Mutombodzi,1.0,4,0,0,25.0,DJ Bravo,0,caught and bowled,CT Mutombodzi,2013-03-03,Zimbabwe,West Indies,0,"Sir Vivian Richards Stadium, North Sound"
+6,CT Mutombodzi,12.0,9,1,0,133.33333333333331,notOut,notOut,notOut,notOut,2013-05-11,Bangladesh,Zimbabwe,0,Queens Sports Club
+5,CT Mutombodzi,3.0,8,0,0,37.5,AR Patel,"['MK Pandey', 'AR Patel']",run out,Sikandar Raza,2016-06-18,India,Zimbabwe,0,Harare Sports Club
+6,CT Mutombodzi,3.0,8,0,0,37.5,AR Patel,['R Dhawan'],caught,CT Mutombodzi,2016-06-18,India,Zimbabwe,0,Harare Sports Club
+4,CT Mutombodzi,0.0,1,0,0,0.0,BB Sran,0,lbw,CT Mutombodzi,2016-06-20,India,India,0,Harare Sports Club
+10,DT Tiripano,2.0,2,0,0,100.0,Amir Hamza,['Gulbadin Naib'],run out,TS Chisoro,2016-01-10,Zimbabwe,Afghanistan,0,Sharjah Cricket Stadium
+8,DT Tiripano,0.0,2,0,0,0.0,Nadeem Ahmed,0,lbw,DT Tiripano,2016-03-08,Zimbabwe,Zimbabwe,0,"Vidarbha Cricket Association Stadium, Jamtha"
+8,DT Tiripano,2.0,4,0,0,50.0,Dawlat Zadran,['Samiullah Shenwari'],run out,DT Tiripano,2016-03-12,Zimbabwe,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+9,DT Tiripano,11.0,15,0,1,73.33333333333333,notOut,notOut,notOut,notOut,2016-06-20,India,India,0,Harare Sports Club
+6,E Chigumbura,4.0,3,0,0,133.33333333333331,notOut,notOut,notOut,notOut,2007-09-12,Zimbabwe,Zimbabwe,0,Newlands
+6,E Chigumbura,8.0,5,0,1,160.0,PD Collingwood,['LJ Wright'],caught,E Chigumbura,2007-09-13,Zimbabwe,England,0,Newlands
+6,E Chigumbura,34.0,20,2,2,170.0,DJG Sammy,['AB Barath'],caught,E Chigumbura,2010-02-28,Zimbabwe,Zimbabwe,0,"Queen's Park Oval, Port of Spain"
+3,E Chigumbura,3.0,4,0,0,75.0,NL McCullum,['MJ Guptill'],caught,E Chigumbura,2010-05-04,Zimbabwe,New Zealand,0,Providence Stadium
+5,E Chigumbura,3.0,9,0,0,33.33333333333333,PP Ojha,['M Vijay'],caught,E Chigumbura,2010-06-12,India,India,0,Harare Sports Club
+5,E Chigumbura,18.0,6,1,2,300.0,R Ashwin,['SK Raina'],caught,E Chigumbura,2010-06-13,India,India,0,Harare Sports Club
+3,E Chigumbura,10.0,9,1,0,111.11111111111111,J Theron,0,bowled,E Chigumbura,2010-10-08,Zimbabwe,South Africa,0,OUTsurance Oval
+4,E Chigumbura,26.0,15,3,1,173.33333333333334,WD Parnell,"['J Theron', 'HG Kuhn']",run out,E Chigumbura,2010-10-10,Zimbabwe,South Africa,0,De Beers Diamond Oval
+6,E Chigumbura,1.0,3,0,0,33.33333333333333,Mohammad Hafeez,['Sohail Tanvir'],caught,E Chigumbura,2011-09-16,Pakistan,Pakistan,0,Harare Sports Club
+7,E Chigumbura,24.0,20,3,1,120.0,Sohail Tanvir,['Asad Shafiq'],caught,E Chigumbura,2011-09-18,Pakistan,Pakistan,0,Harare Sports Club
+6,E Chigumbura,14.0,15,1,0,93.33333333333333,DAJ Bracewell,['LRPL Taylor'],caught,E Chigumbura,2011-10-15,New Zealand,New Zealand,0,Harare Sports Club
+3,E Chigumbura,39.0,23,4,2,169.56521739130434,NL McCullum,0,caught and bowled,E Chigumbura,2011-10-17,New Zealand,New Zealand,0,Harare Sports Club
+5,E Chigumbura,48.0,25,3,4,192.0,MD Bates,['MJ Guptill'],caught,E Chigumbura,2012-02-11,Zimbabwe,New Zealand,0,Eden Park
+3,E Chigumbura,29.0,16,5,0,181.25,notOut,notOut,notOut,notOut,2012-02-14,Zimbabwe,New Zealand,0,Seddon Park
+3,E Chigumbura,19.0,20,1,1,95.0,BAW Mendis,0,bowled,E Chigumbura,2012-09-18,Zimbabwe,Sri Lanka,0,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa"
+5,E Chigumbura,0.0,1,0,0,0.0,JH Kallis,0,lbw,E Chigumbura,2012-09-20,Zimbabwe,South Africa,0,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa"
+5,E Chigumbura,6.0,5,1,0,120.0,Shahid Afridi,0,bowled,E Chigumbura,2013-08-23,Pakistan,Pakistan,0,Harare Sports Club
+4,E Chigumbura,35.0,19,2,2,184.21052631578948,notOut,notOut,notOut,notOut,2013-08-24,Pakistan,Pakistan,0,Harare Sports Club
+5,E Chigumbura,22.0,13,0,2,169.23076923076923,notOut,notOut,notOut,notOut,2014-03-17,Zimbabwe,Ireland,0,Sylhet Stadium
+3,E Chigumbura,0.0,2,0,0,0.0,PM Seelaar,['PW Borren'],caught,E Chigumbura,2014-03-19,Zimbabwe,Zimbabwe,0,Sylhet Stadium
+5,E Chigumbura,53.0,21,6,3,252.38095238095238,notOut,notOut,notOut,notOut,2014-03-21,Zimbabwe,Zimbabwe,0,Sylhet Stadium
+3,E Chigumbura,54.0,37,8,1,145.94594594594594,Wahab Riaz,0,bowled,E Chigumbura,2015-05-22,Zimbabwe,Pakistan,0,Gaddafi Stadium
+3,E Chigumbura,21.0,9,0,3,233.33333333333334,Mohammad Sami,['Ahmed Shehzad'],caught,E Chigumbura,2015-05-24,Zimbabwe,Pakistan,0,Gaddafi Stadium
+3,E Chigumbura,1.0,3,0,0,33.33333333333333,AR Patel,0,bowled,E Chigumbura,2015-07-17,India,India,0,Harare Sports Club
+4,E Chigumbura,2.0,6,0,0,33.33333333333333,NL McCullum,['JDS Neesham'],caught,E Chigumbura,2015-08-09,New Zealand,New Zealand,0,Harare Sports Club
+5,E Chigumbura,31.0,29,2,1,106.89655172413792,Wahab Riaz,"['Imad Wasim', 'Mohammad Rizwan']",run out,LM Jongwe,2015-09-27,Pakistan,Pakistan,0,Harare Sports Club
+7,E Chigumbura,17.0,8,0,2,212.5,Mohammad Irfan,['Shoaib Malik'],caught,E Chigumbura,2015-09-29,Pakistan,Pakistan,0,Harare Sports Club
+3,E Chigumbura,12.0,7,0,1,171.42857142857142,Mohammad Nabi,['Gulbadin Naib'],caught,E Chigumbura,2015-10-26,Afghanistan,Afghanistan,0,Queens Sports Club
+4,E Chigumbura,33.0,28,3,0,117.85714285714286,Amir Hamza,['Najibullah Zadran'],caught,E Chigumbura,2015-10-28,Afghanistan,Afghanistan,0,Queens Sports Club
+3,E Chigumbura,0.0,1,0,0,0.0,Mashrafe Mortaza,0,bowled,E Chigumbura,2015-11-13,Zimbabwe,Bangladesh,0,Shere Bangla National Stadium
+6,E Chigumbura,0.0,2,0,0,0.0,Arafat Sunny,['Mahmudullah'],caught,E Chigumbura,2015-11-15,Zimbabwe,Zimbabwe,0,Shere Bangla National Stadium
+6,E Chigumbura,8.0,8,0,1,100.0,Dawlat Zadran,"['Gulbadin Naib', 'Mohammad Shahzad']",run out,E Chigumbura,2016-01-08,Zimbabwe,Afghanistan,0,Sharjah Cricket Stadium
+5,E Chigumbura,0.0,2,0,0,0.0,Mohammad Nabi,"['Usman Ghani', 'Mohammad Shahzad']",run out,E Chigumbura,2016-01-10,Zimbabwe,Afghanistan,0,Sharjah Cricket Stadium
+5,E Chigumbura,3.0,3,0,0,100.0,Mustafizur Rahman,0,bowled,E Chigumbura,2016-01-15,Zimbabwe,Bangladesh,0,Sheikh Abu Naser Stadium
+5,E Chigumbura,5.0,9,0,0,55.55555555555556,notOut,notOut,notOut,notOut,2016-01-22,Zimbabwe,Zimbabwe,0,Sheikh Abu Naser Stadium
+7,E Chigumbura,30.0,13,0,3,230.76923076923075,Haseeb Amjad,"['Haseeb Amjad', 'Babar Hayat']",run out,WP Masakadza,2016-03-08,Zimbabwe,Zimbabwe,0,"Vidarbha Cricket Association Stadium, Jamtha"
+7,E Chigumbura,20.0,18,1,1,111.11111111111111,SM Sharif,['PL Mommsen'],caught,E Chigumbura,2016-03-10,Zimbabwe,Zimbabwe,0,"Vidarbha Cricket Association Stadium, Jamtha"
+6,E Chigumbura,10.0,10,0,1,100.0,Rashid Khan,['Shafiqullah'],caught,E Chigumbura,2016-03-12,Zimbabwe,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+7,E Chigumbura,54.0,28,1,7,192.85714285714286,notOut,notOut,notOut,notOut,2016-06-18,India,Zimbabwe,0,Harare Sports Club
+6,E Chigumbura,8.0,20,1,0,40.0,JJ Bumrah,0,bowled,E Chigumbura,2016-06-20,India,India,0,Harare Sports Club
+5,E Chigumbura,16.0,16,2,0,100.0,BB Sran,['YS Chahal'],caught,E Chigumbura,2016-06-22,India,India,0,Harare Sports Club
+9,EC Rainsford,1.0,2,0,0,50.0,notOut,notOut,notOut,notOut,2010-06-12,India,India,0,Harare Sports Club
+3,F Mutizwa,16.0,16,1,0,100.0,LJ Woodcock,0,lbw,F Mutizwa,2011-10-15,New Zealand,New Zealand,0,Harare Sports Club
+5,F Mutizwa,22.0,17,2,0,129.41176470588235,notOut,notOut,notOut,notOut,2011-10-17,New Zealand,New Zealand,0,Harare Sports Club
+2,F Mutizwa,0.0,3,0,0,0.0,KD Mills,['MJ Guptill'],caught,F Mutizwa,2012-02-11,Zimbabwe,New Zealand,0,Eden Park
+5,GA Lamb,11.0,28,0,0,39.285714285714285,DJG Sammy,0,bowled,GA Lamb,2010-02-28,Zimbabwe,Zimbabwe,0,"Queen's Park Oval, Port of Spain"
+6,GA Lamb,14.0,22,0,0,63.63636363636363,notOut,notOut,notOut,notOut,2010-05-04,Zimbabwe,New Zealand,0,Providence Stadium
+6,GA Lamb,0.0,1,0,0,0.0,PP Ojha,0,lbw,GA Lamb,2010-06-12,India,India,0,Harare Sports Club
+6,GA Lamb,7.0,4,1,0,175.0,notOut,notOut,notOut,notOut,2010-06-13,India,India,0,Harare Sports Club
+5,H Masakadza,27.0,28,2,0,96.42857142857143,B Lee,0,lbw,H Masakadza,2007-09-12,Zimbabwe,Zimbabwe,0,Newlands
+5,H Masakadza,27.0,24,1,0,112.5,SCJ Broad,['LJ Wright'],caught,H Masakadza,2007-09-13,Zimbabwe,England,0,Newlands
+2,H Masakadza,44.0,59,3,1,74.57627118644068,DJG Sammy,['D Ramdin'],caught,H Masakadza,2010-02-28,Zimbabwe,Zimbabwe,0,"Queen's Park Oval, Port of Spain"
+0,H Masakadza,4.0,6,0,0,66.66666666666666,notOut,notOut,notOut,notOut,2010-05-03,Zimbabwe,Sri Lanka,0,Providence Stadium
+1,H Masakadza,20.0,22,2,0,90.9090909090909,NL McCullum,"['JDP Oram', 'GJ Hopkins']",run out,H Masakadza,2010-05-04,Zimbabwe,New Zealand,0,Providence Stadium
+0,H Masakadza,1.0,3,0,0,33.33333333333333,R Vinay Kumar,['SK Raina'],caught,H Masakadza,2010-06-12,India,India,0,Harare Sports Club
+0,H Masakadza,2.0,10,0,0,20.0,AB Dinda,['RG Sharma'],caught,H Masakadza,2010-06-13,India,India,0,Harare Sports Club
+0,H Masakadza,72.0,65,7,2,110.76923076923077,notOut,notOut,notOut,notOut,2010-10-08,Zimbabwe,South Africa,0,OUTsurance Oval
+0,H Masakadza,10.0,7,2,0,142.85714285714286,LL Tsotsobe,['J Botha'],caught,H Masakadza,2010-10-10,Zimbabwe,South Africa,0,De Beers Diamond Oval
+4,H Masakadza,12.0,14,1,0,85.71428571428571,Mohammad Hafeez,['Yasir Shah'],caught,H Masakadza,2011-09-16,Pakistan,Pakistan,0,Harare Sports Club
+3,H Masakadza,3.0,5,0,0,60.0,Mohammad Hafeez,0,caught and bowled,H Masakadza,2011-09-18,Pakistan,Pakistan,0,Harare Sports Club
+0,H Masakadza,9.0,7,0,1,128.57142857142858,KD Mills,['NL McCullum'],caught,H Masakadza,2011-10-15,New Zealand,New Zealand,0,Harare Sports Club
+0,H Masakadza,9.0,5,2,0,180.0,DAJ Bracewell,['BB McCullum'],caught,H Masakadza,2011-10-17,New Zealand,New Zealand,0,Harare Sports Club
+1,H Masakadza,53.0,36,3,3,147.22222222222223,KS Williamson,['JEC Franklin'],caught,H Masakadza,2012-02-11,Zimbabwe,New Zealand,0,Eden Park
+0,H Masakadza,62.0,42,3,4,147.61904761904762,MD Bates,['C de Grandhomme'],caught,H Masakadza,2012-02-14,Zimbabwe,New Zealand,0,Seddon Park
+0,H Masakadza,20.0,24,3,0,83.33333333333334,BAW Mendis,0,bowled,H Masakadza,2012-09-18,Zimbabwe,Sri Lanka,0,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa"
+0,H Masakadza,6.0,17,1,0,35.294117647058826,JA Morkel,['RE Levi'],caught,H Masakadza,2012-09-20,Zimbabwe,South Africa,0,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa"
+1,H Masakadza,9.0,13,0,1,69.23076923076923,TL Best,['KA Pollard'],caught,H Masakadza,2013-03-02,Zimbabwe,West Indies,0,"Sir Vivian Richards Stadium, North Sound"
+2,H Masakadza,53.0,53,6,0,100.0,notOut,notOut,notOut,notOut,2013-03-03,Zimbabwe,West Indies,0,"Sir Vivian Richards Stadium, North Sound"
+0,H Masakadza,59.0,52,4,1,113.46153846153845,Shakib Al Hasan,['Sohag Gazi'],caught,H Masakadza,2013-05-11,Bangladesh,Zimbabwe,0,Queens Sports Club
+0,H Masakadza,2.0,5,0,0,40.0,Abdur Razzak,0,bowled,H Masakadza,2013-05-12,Bangladesh,Bangladesh,0,Queens Sports Club
+0,H Masakadza,18.0,16,3,0,112.5,Anwar Ali,0,lbw,H Masakadza,2013-08-23,Pakistan,Pakistan,0,Harare Sports Club
+1,H Masakadza,41.0,33,4,1,124.24242424242425,Mohammad Hafeez,['Umar Amin'],caught,H Masakadza,2013-08-24,Pakistan,Pakistan,0,Harare Sports Club
+0,H Masakadza,21.0,17,3,0,123.52941176470588,AR McBrine,['WTS Porterfield'],caught,H Masakadza,2014-03-17,Zimbabwe,Ireland,0,Sylhet Stadium
+0,H Masakadza,43.0,48,3,1,89.58333333333334,PM Seelaar,0,bowled,H Masakadza,2014-03-19,Zimbabwe,Zimbabwe,0,Sylhet Stadium
+0,H Masakadza,2.0,4,0,0,50.0,AM Guruge,0,bowled,H Masakadza,2014-03-21,Zimbabwe,Zimbabwe,0,Sylhet Stadium
+0,H Masakadza,43.0,28,7,1,153.57142857142858,Mohammad Sami,0,bowled,H Masakadza,2015-05-22,Zimbabwe,Pakistan,0,Gaddafi Stadium
+1,H Masakadza,39.0,33,4,1,118.18181818181819,Shoaib Malik,['Anwar Ali'],caught,H Masakadza,2015-05-24,Zimbabwe,Pakistan,0,Gaddafi Stadium
+0,H Masakadza,28.0,25,1,2,112.00000000000001,AR Patel,['KM Jadhav'],caught,H Masakadza,2015-07-17,India,India,0,Harare Sports Club
+0,H Masakadza,19.0,18,1,1,105.55555555555556,Sandeep Sharma,['RV Uthappa'],caught,H Masakadza,2015-07-19,India,Zimbabwe,0,Harare Sports Club
+0,H Masakadza,6.0,10,1,0,60.0,AF Milne,['L Ronchi'],caught,H Masakadza,2015-08-09,New Zealand,New Zealand,0,Harare Sports Club
+0,H Masakadza,25.0,26,2,0,96.15384615384616,Imad Wasim,['Mukhtar Ahmed'],caught,H Masakadza,2015-09-27,Pakistan,Pakistan,0,Harare Sports Club
+0,H Masakadza,9.0,14,0,1,64.28571428571429,Mohammad Irfan,['Imran Khan (1)'],caught,H Masakadza,2015-09-29,Pakistan,Pakistan,0,Harare Sports Club
+2,H Masakadza,33.0,24,3,2,137.5,Mohammad Nabi,0,bowled,H Masakadza,2016-01-08,Zimbabwe,Afghanistan,0,Sharjah Cricket Stadium
+1,H Masakadza,63.0,46,2,5,136.95652173913044,Rashid Khan,0,bowled,H Masakadza,2016-01-10,Zimbabwe,Afghanistan,0,Sharjah Cricket Stadium
+1,H Masakadza,79.0,54,9,2,146.2962962962963,Mashrafe Mortaza,"['Sabbir Rahman', 'Nurul Hasan']",run out,MN Waller,2016-01-15,Zimbabwe,Bangladesh,0,Sheikh Abu Naser Stadium
+1,H Masakadza,30.0,28,3,2,107.14285714285714,Sabbir Rahman,['Mahmudullah'],caught,H Masakadza,2016-01-17,Zimbabwe,Bangladesh,0,Sheikh Abu Naser Stadium
+0,H Masakadza,20.0,14,5,0,142.85714285714286,Mohammad Shahid,['Mosaddek Hossain'],caught,H Masakadza,2016-01-20,Zimbabwe,Zimbabwe,0,Sheikh Abu Naser Stadium
+2,H Masakadza,93.0,60,8,5,155.0,notOut,notOut,notOut,notOut,2016-01-22,Zimbabwe,Zimbabwe,0,Sheikh Abu Naser Stadium
+0,H Masakadza,20.0,13,3,1,153.84615384615387,Tanwir Afzal,['Babar Hayat'],run out,H Masakadza,2016-03-08,Zimbabwe,Zimbabwe,0,"Vidarbha Cricket Association Stadium, Jamtha"
+2,H Masakadza,12.0,10,3,0,120.0,notOut,notOut,notOut,notOut,2016-03-10,Zimbabwe,Zimbabwe,0,"Vidarbha Cricket Association Stadium, Jamtha"
+1,H Masakadza,11.0,9,0,1,122.22222222222223,Hamid Hassan,0,bowled,H Masakadza,2016-03-12,Zimbabwe,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+1,H Masakadza,25.0,15,1,3,166.66666666666669,JJ Bumrah,['MS Dhoni'],caught,H Masakadza,2016-06-18,India,Zimbabwe,0,Harare Sports Club
+1,H Masakadza,10.0,14,2,0,71.42857142857143,BB Sran,0,bowled,H Masakadza,2016-06-20,India,India,0,Harare Sports Club
+1,H Masakadza,15.0,21,2,0,71.42857142857143,AR Patel,0,lbw,H Masakadza,2016-06-22,India,India,0,Harare Sports Club
+5,KM Dabengwa,12.0,5,1,1,240.0,notOut,notOut,notOut,notOut,2010-10-08,Zimbabwe,South Africa,0,OUTsurance Oval
+5,KM Dabengwa,1.0,3,0,0,33.33333333333333,J Theron,['JP Duminy'],caught,KM Dabengwa,2010-10-10,Zimbabwe,South Africa,0,De Beers Diamond Oval
+10,KM Jarvis,0.0,2,0,0,0.0,Aizaz Cheema,['Yasir Shah'],caught,KM Jarvis,2011-09-16,Pakistan,Pakistan,0,Harare Sports Club
+9,KM Jarvis,0.0,1,0,0,0.0,DAJ Bracewell,['BB McCullum'],caught,KM Jarvis,2011-10-17,New Zealand,New Zealand,0,Harare Sports Club
+8,KM Jarvis,0.0,3,0,0,0.0,BAW Mendis,0,lbw,KM Jarvis,2012-09-18,Zimbabwe,Sri Lanka,0,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa"
+9,KM Jarvis,9.0,12,0,0,75.0,notOut,notOut,notOut,notOut,2012-09-20,Zimbabwe,South Africa,0,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa"
+7,KO Meth,6.0,6,0,0,100.0,notOut,notOut,notOut,notOut,2012-02-11,Zimbabwe,New Zealand,0,Eden Park
+7,LM Jongwe,2.0,6,0,0,33.33333333333333,notOut,notOut,notOut,notOut,2015-09-27,Pakistan,Pakistan,0,Harare Sports Club
+8,LM Jongwe,8.0,7,1,0,114.28571428571428,Imran Khan (1),0,caught and bowled,LM Jongwe,2015-09-29,Pakistan,Pakistan,0,Harare Sports Club
+6,LM Jongwe,0.0,5,0,0,0.0,Jubair Hossain,0,lbw,LM Jongwe,2015-11-13,Zimbabwe,Bangladesh,0,Shere Bangla National Stadium
+4,LM Jongwe,34.0,38,1,0,89.47368421052632,Nasir Hossain,"['Mashrafe Mortaza', 'Nasir Hossain']",run out,CR Ervine,2015-11-15,Zimbabwe,Zimbabwe,0,Shere Bangla National Stadium
+5,LM Jongwe,34.0,38,1,0,89.47368421052632,Al-Amin Hossain,['Imrul Kayes'],caught,LM Jongwe,2015-11-15,Zimbabwe,Zimbabwe,0,Shere Bangla National Stadium
+7,LM Jongwe,11.0,5,1,1,220.00000000000003,Dawlat Zadran,['Gulbadin Naib'],caught,LM Jongwe,2016-01-08,Zimbabwe,Afghanistan,0,Sharjah Cricket Stadium
+7,LM Jongwe,5.0,3,1,0,166.66666666666669,Sayed Shirzad,['Asghar Stanikzai'],caught,LM Jongwe,2016-01-10,Zimbabwe,Afghanistan,0,Sharjah Cricket Stadium
+6,LM Jongwe,0.0,1,0,0,0.0,Mustafizur Rahman,0,bowled,LM Jongwe,2016-01-15,Zimbabwe,Bangladesh,0,Sheikh Abu Naser Stadium
+4,MN Waller,10.0,10,0,1,100.0,NL McCullum,['LJ Woodcock'],caught,MN Waller,2011-10-15,New Zealand,New Zealand,0,Harare Sports Club
+6,MN Waller,12.0,6,2,0,200.0,JDP Oram,['LRPL Taylor'],caught,MN Waller,2011-10-17,New Zealand,New Zealand,0,Harare Sports Club
+4,MN Waller,11.0,14,1,0,78.57142857142857,KD Mills,['MJ Guptill'],caught,MN Waller,2012-02-11,Zimbabwe,New Zealand,0,Eden Park
+5,MN Waller,0.0,2,0,0,0.0,BMAJ Mendis,0,lbw,MN Waller,2012-09-18,Zimbabwe,Sri Lanka,0,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa"
+4,MN Waller,49.0,36,4,2,136.11111111111111,SP Narine,0,bowled,MN Waller,2013-03-02,Zimbabwe,West Indies,0,"Sir Vivian Richards Stadium, North Sound"
+5,MN Waller,7.0,10,0,0,70.0,DJ Bravo,"['LMP Simmons', 'D Ramdin']",run out,MN Waller,2013-03-03,Zimbabwe,West Indies,0,"Sir Vivian Richards Stadium, North Sound"
+5,MN Waller,26.0,14,3,1,185.71428571428572,notOut,notOut,notOut,notOut,2013-05-11,Bangladesh,Zimbabwe,0,Queens Sports Club
+6,MN Waller,10.0,10,1,0,100.0,Abdur Razzak,['Mominul Haque'],caught,MN Waller,2013-05-12,Bangladesh,Bangladesh,0,Queens Sports Club
+6,MN Waller,14.0,7,1,1,200.0,notOut,notOut,notOut,notOut,2013-08-23,Pakistan,Pakistan,0,Harare Sports Club
+6,MN Waller,20.0,15,2,1,133.33333333333331,Anwar Ali,['Shahid Afridi'],caught,MN Waller,2013-08-24,Pakistan,Pakistan,0,Harare Sports Club
+6,MN Waller,6.0,6,0,0,100.0,notOut,notOut,notOut,notOut,2015-07-19,India,Zimbabwe,0,Harare Sports Club
+5,MN Waller,5.0,2,1,0,250.0,notOut,notOut,notOut,notOut,2015-10-26,Afghanistan,Afghanistan,0,Queens Sports Club
+6,MN Waller,12.0,9,0,1,133.33333333333331,Gulbadin Naib,['Shafiqullah'],caught,MN Waller,2015-10-28,Afghanistan,Afghanistan,0,Queens Sports Club
+5,MN Waller,68.0,31,4,6,219.3548387096774,Mustafizur Rahman,['Liton Das'],caught,MN Waller,2015-11-13,Zimbabwe,Bangladesh,0,Shere Bangla National Stadium
+7,MN Waller,40.0,28,2,3,142.85714285714286,Nasir Hossain,['Sabbir Rahman'],caught,MN Waller,2015-11-15,Zimbabwe,Zimbabwe,0,Shere Bangla National Stadium
+4,MN Waller,49.0,40,2,2,122.50000000000001,notOut,notOut,notOut,notOut,2016-01-08,Zimbabwe,Afghanistan,0,Sharjah Cricket Stadium
+3,MN Waller,0.0,1,0,0,0.0,Amir Hamza,0,lbw,MN Waller,2016-01-10,Zimbabwe,Afghanistan,0,Sharjah Cricket Stadium
+2,MN Waller,14.0,8,2,0,175.0,notOut,notOut,notOut,notOut,2016-01-15,Zimbabwe,Bangladesh,0,Sheikh Abu Naser Stadium
+4,MN Waller,29.0,22,3,1,131.8181818181818,Al-Amin Hossain,['Soumya Sarkar'],caught,MN Waller,2016-01-17,Zimbabwe,Bangladesh,0,Sheikh Abu Naser Stadium
+4,MN Waller,49.0,24,2,4,204.16666666666666,Shakib Al Hasan,['Soumya Sarkar'],caught,MN Waller,2016-01-20,Zimbabwe,Zimbabwe,0,Sheikh Abu Naser Stadium
+3,MN Waller,36.0,20,1,3,180.0,Taskin Ahmed,0,bowled,MN Waller,2016-01-22,Zimbabwe,Zimbabwe,0,Sheikh Abu Naser Stadium
+6,MN Waller,26.0,30,1,0,86.66666666666667,Aizaz Khan,['KD Shah'],caught,MN Waller,2016-03-08,Zimbabwe,Zimbabwe,0,"Vidarbha Cricket Association Stadium, Jamtha"
+6,MN Waller,13.0,13,1,0,100.0,MRJ Watt,['MA Leask'],caught,MN Waller,2016-03-10,Zimbabwe,Zimbabwe,0,"Vidarbha Cricket Association Stadium, Jamtha"
+4,MN Waller,7.0,10,0,0,70.0,Samiullah Shenwari,0,bowled,MN Waller,2016-03-12,Zimbabwe,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+4,MN Waller,30.0,22,4,0,136.36363636363635,YS Chahal,0,bowled,MN Waller,2016-06-18,India,Zimbabwe,0,Harare Sports Club
+5,MN Waller,14.0,20,1,0,70.0,YS Chahal,['AR Patel'],caught,MN Waller,2016-06-20,India,India,0,Harare Sports Club
+4,MN Waller,10.0,17,0,0,58.82352941176471,DS Kulkarni,['JJ Bumrah'],caught,MN Waller,2016-06-22,India,India,0,Harare Sports Club
+8,N M'shangwe,5.0,3,1,0,166.66666666666669,notOut,notOut,notOut,notOut,2013-03-02,Zimbabwe,West Indies,0,"Sir Vivian Richards Stadium, North Sound"
+9,N M'shangwe,0.0,1,0,0,0.0,Shakib Al Hasan,0,bowled,N M'shangwe,2013-05-12,Bangladesh,Bangladesh,0,Queens Sports Club
+9,N Madziva,14.0,10,1,1,140.0,notOut,notOut,notOut,notOut,2015-07-17,India,India,0,Harare Sports Club
+7,N Madziva,11.0,7,0,0,157.14285714285714,notOut,notOut,notOut,notOut,2015-10-28,Afghanistan,Afghanistan,0,Queens Sports Club
+7,N Madziva,1.0,3,0,0,33.33333333333333,Jubair Hossain,['Nasir Hossain'],caught,N Madziva,2015-11-13,Zimbabwe,Bangladesh,0,Shere Bangla National Stadium
+8,N Madziva,28.0,19,3,2,147.36842105263156,notOut,notOut,notOut,notOut,2015-11-15,Zimbabwe,Zimbabwe,0,Shere Bangla National Stadium
+6,N Madziva,0.0,5,0,0,0.0,Mustafizur Rahman,0,bowled,N Madziva,2016-01-17,Zimbabwe,Bangladesh,0,Sheikh Abu Naser Stadium
+9,N Madziva,5.0,5,0,0,100.0,notOut,notOut,notOut,notOut,2016-06-18,India,Zimbabwe,0,Harare Sports Club
+8,N Madziva,1.0,2,0,0,50.0,JJ Bumrah,0,bowled,N Madziva,2016-06-20,India,India,0,Harare Sports Club
+7,P Utseya,13.0,10,1,0,130.0,notOut,notOut,notOut,notOut,2007-09-13,Zimbabwe,England,0,Newlands
+9,P Utseya,0.0,2,0,0,0.0,DJG Sammy,0,bowled,P Utseya,2010-02-28,Zimbabwe,Zimbabwe,0,"Queen's Park Oval, Port of Spain"
+9,P Utseya,0.0,1,0,0,0.0,SB Styris,0,lbw,P Utseya,2010-05-04,Zimbabwe,New Zealand,0,Providence Stadium
+7,P Utseya,6.0,15,0,0,40.0,R Vinay Kumar,0,bowled,P Utseya,2010-06-12,India,India,0,Harare Sports Club
+8,P Utseya,2.0,7,0,0,28.57142857142857,notOut,notOut,notOut,notOut,2011-09-18,Pakistan,Pakistan,0,Harare Sports Club
+8,P Utseya,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2011-10-15,New Zealand,New Zealand,0,Harare Sports Club
+7,P Utseya,2.0,2,0,0,100.0,DAJ Bracewell,"['JDP Oram', 'BB McCullum']",run out,F Mutizwa,2011-10-17,New Zealand,New Zealand,0,Harare Sports Club
+8,P Utseya,0.0,1,0,0,0.0,MD Bates,['JEC Franklin'],caught,P Utseya,2012-02-11,Zimbabwe,New Zealand,0,Eden Park
+7,P Utseya,1.0,3,0,0,33.33333333333333,BAW Mendis,['DPMD Jayawardene'],caught,P Utseya,2012-09-18,Zimbabwe,Sri Lanka,0,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa"
+7,P Utseya,5.0,10,0,0,50.0,DW Steyn,['AB de Villiers'],caught,P Utseya,2012-09-20,Zimbabwe,South Africa,0,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa"
+6,P Utseya,2.0,6,0,0,33.33333333333333,DJ Bravo,['AD Russell'],caught,P Utseya,2013-03-02,Zimbabwe,West Indies,0,"Sir Vivian Richards Stadium, North Sound"
+7,P Utseya,11.0,12,2,0,91.66666666666666,notOut,notOut,notOut,notOut,2013-03-03,Zimbabwe,West Indies,0,"Sir Vivian Richards Stadium, North Sound"
+8,P Utseya,6.0,8,0,0,75.0,Shafiul Islam,0,bowled,P Utseya,2013-05-12,Bangladesh,Bangladesh,0,Queens Sports Club
+8,P Utseya,13.0,8,1,1,162.5,notOut,notOut,notOut,notOut,2015-07-17,India,India,0,Harare Sports Club
+7,P Utseya,1.0,2,0,0,50.0,MM Sharma,['AR Patel'],caught,P Utseya,2015-07-19,India,Zimbabwe,0,Harare Sports Club
+8,P Utseya,2.0,2,0,0,100.0,notOut,notOut,notOut,notOut,2015-08-09,New Zealand,New Zealand,0,Harare Sports Club
+9,P Utseya,12.0,11,1,0,109.09090909090908,Imran Khan (1),['Mohammad Rizwan'],run out,E Chigumbura,2015-09-27,Pakistan,Pakistan,0,Harare Sports Club
+0,PJ Moor,2.0,3,0,0,66.66666666666666,Dawlat Zadran,['Najibullah Zadran'],caught,PJ Moor,2016-01-08,Zimbabwe,Afghanistan,0,Sharjah Cricket Stadium
+6,PJ Moor,35.0,32,2,2,109.375,Dawlat Zadran,['Usman Ghani'],caught,PJ Moor,2016-01-10,Zimbabwe,Afghanistan,0,Sharjah Cricket Stadium
+8,PJ Moor,7.0,2,0,1,350.0,notOut,notOut,notOut,notOut,2016-01-15,Zimbabwe,Bangladesh,0,Sheikh Abu Naser Stadium
+5,PJ Moor,9.0,14,0,0,64.28571428571429,Mustafizur Rahman,0,bowled,PJ Moor,2016-01-17,Zimbabwe,Bangladesh,0,Sheikh Abu Naser Stadium
+6,PJ Moor,10.0,4,0,1,250.0,notOut,notOut,notOut,notOut,2016-01-20,Zimbabwe,Zimbabwe,0,Sheikh Abu Naser Stadium
+2,PJ Moor,31.0,32,2,1,96.875,JJ Bumrah,['AR Patel'],caught,PJ Moor,2016-06-20,India,India,0,Harare Sports Club
+3,PJ Moor,26.0,21,0,3,123.80952380952381,YS Chahal,['Mandeep Singh'],caught,PJ Moor,2016-06-22,India,India,0,Harare Sports Club
+6,R Mutumbami,4.0,7,0,0,57.14285714285714,notOut,notOut,notOut,notOut,2015-05-22,Zimbabwe,Pakistan,0,Gaddafi Stadium
+6,R Mutumbami,9.0,10,1,0,90.0,Wahab Riaz,['Imad Wasim'],run out,R Mutumbami,2015-09-27,Pakistan,Pakistan,0,Harare Sports Club
+3,R Mutumbami,3.0,10,0,0,30.0,Imad Wasim,"['Sohaib Maqsood', 'Imad Wasim']",run out,CR Ervine,2015-09-29,Pakistan,Pakistan,0,Harare Sports Club
+4,R Mutumbami,3.0,10,0,0,30.0,Imad Wasim,0,bowled,R Mutumbami,2015-09-29,Pakistan,Pakistan,0,Harare Sports Club
+6,R Mutumbami,6.0,4,0,1,150.0,notOut,notOut,notOut,notOut,2015-10-26,Afghanistan,Afghanistan,0,Queens Sports Club
+3,R Mutumbami,43.0,34,1,2,126.47058823529412,Amir Hamza,0,lbw,R Mutumbami,2015-10-28,Afghanistan,Afghanistan,0,Queens Sports Club
+3,R Mutumbami,19.0,18,1,2,105.55555555555556,Gulbadin Naib,['Mohammad Nabi'],caught,R Mutumbami,2016-01-08,Zimbabwe,Afghanistan,0,Sharjah Cricket Stadium
+2,R Mutumbami,1.0,3,0,0,33.33333333333333,Amir Hamza,['Mohammad Shahzad'],stumped,R Mutumbami,2016-01-10,Zimbabwe,Afghanistan,0,Sharjah Cricket Stadium
+2,R Mutumbami,7.0,11,0,0,63.63636363636363,Sabbir Rahman,['Soumya Sarkar'],caught,R Mutumbami,2016-01-17,Zimbabwe,Bangladesh,0,Sheikh Abu Naser Stadium
+2,R Mutumbami,20.0,14,1,2,142.85714285714286,Shakib Al Hasan,['Sabbir Rahman'],caught,R Mutumbami,2016-01-20,Zimbabwe,Zimbabwe,0,Sheikh Abu Naser Stadium
+1,R Mutumbami,32.0,26,3,1,123.07692307692308,Abu Hider,0,bowled,R Mutumbami,2016-01-22,Zimbabwe,Zimbabwe,0,Sheikh Abu Naser Stadium
+3,R Mutumbami,0.0,3,0,0,0.0,Tanwir Afzal,['Nadeem Ahmed'],caught,R Mutumbami,2016-03-08,Zimbabwe,Zimbabwe,0,"Vidarbha Cricket Association Stadium, Jamtha"
+3,R Mutumbami,19.0,17,2,1,111.76470588235294,MRJ Watt,['MA Leask'],caught,R Mutumbami,2016-03-10,Zimbabwe,Zimbabwe,0,"Vidarbha Cricket Association Stadium, Jamtha"
+2,R Mutumbami,10.0,13,2,0,76.92307692307693,Mohammad Nabi,['Najibullah Zadran'],caught,R Mutumbami,2016-03-12,Zimbabwe,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+2,R Mutumbami,0.0,4,0,0,0.0,JD Unadkat,0,retired hurt,R Mutumbami,2016-06-18,India,Zimbabwe,0,Harare Sports Club
+7,RW Chakabva,0.0,3,0,0,0.0,JDP Oram,['BB McCullum'],caught,RW Chakabva,2011-10-15,New Zealand,New Zealand,0,Harare Sports Club
+6,RW Chakabva,13.0,19,1,0,68.42105263157895,AF Milne,['L Ronchi'],caught,RW Chakabva,2015-08-09,New Zealand,New Zealand,0,Harare Sports Club
+2,RW Chakabva,0.0,3,0,0,0.0,Al-Amin Hossain,['Mushfiqur Rahim'],caught,RW Chakabva,2015-11-13,Zimbabwe,Bangladesh,0,Shere Bangla National Stadium
+1,RW Chakabva,4.0,11,0,0,36.36363636363637,Mustafizur Rahman,['Sabbir Rahman'],caught,RW Chakabva,2015-11-15,Zimbabwe,Zimbabwe,0,Shere Bangla National Stadium
+10,RW Price,2.0,4,0,0,50.0,DL Vettori,0,bowled,RW Price,2010-05-04,Zimbabwe,New Zealand,0,Providence Stadium
+8,RW Price,2.0,3,0,0,66.66666666666666,AB Dinda,0,bowled,RW Price,2010-06-12,India,India,0,Harare Sports Club
+8,RW Price,3.0,11,0,0,27.27272727272727,Aizaz Cheema,['Mohammad Hafeez'],run out,T Taibu,2011-09-16,Pakistan,Pakistan,0,Harare Sports Club
+9,RW Price,3.0,11,0,0,27.27272727272727,Mohammad Hafeez,0,bowled,RW Price,2011-09-16,Pakistan,Pakistan,0,Harare Sports Club
+8,RW Price,0.0,1,0,0,0.0,DAJ Bracewell,"['BB McCullum', 'JDP Oram']",run out,RW Price,2011-10-17,New Zealand,New Zealand,0,Harare Sports Club
+8,RW Price,7.0,6,1,0,116.66666666666667,notOut,notOut,notOut,notOut,2012-09-20,Zimbabwe,South Africa,0,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa"
+4,S Matsikenyeri,3.0,8,0,0,37.5,SR Clark,['AC Gilchrist'],caught,S Matsikenyeri,2007-09-12,Zimbabwe,Zimbabwe,0,Newlands
+4,S Matsikenyeri,2.0,6,0,0,33.33333333333333,CP Schofield,['A Flintoff'],caught,S Matsikenyeri,2007-09-13,Zimbabwe,England,0,Newlands
+3,S Matsikenyeri,0.0,2,0,0,0.0,SJ Benn,['D Ramdin'],caught,S Matsikenyeri,2010-02-28,Zimbabwe,Zimbabwe,0,"Queen's Park Oval, Port of Spain"
+1,S Matsikenyeri,32.0,20,2,3,160.0,RM Hira,['TG Southee'],caught,S Matsikenyeri,2012-02-14,Zimbabwe,New Zealand,0,Seddon Park
+4,S Matsikenyeri,11.0,18,0,0,61.111111111111114,JH Kallis,['RJ Peterson'],caught,S Matsikenyeri,2012-09-20,Zimbabwe,South Africa,0,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa"
+3,SC Williams,6.0,8,0,0,75.0,Mahmudullah,['Mushfiqur Rahim'],stumped,SC Williams,2013-05-11,Bangladesh,Zimbabwe,0,Queens Sports Club
+3,SC Williams,16.0,19,2,0,84.21052631578947,notOut,notOut,notOut,notOut,2013-05-12,Bangladesh,Bangladesh,0,Queens Sports Club
+3,SC Williams,9.0,7,1,0,128.57142857142858,Mohammad Hafeez,0,lbw,SC Williams,2013-08-23,Pakistan,Pakistan,0,Harare Sports Club
+3,SC Williams,25.0,16,2,1,156.25,Zulfiqar Babar,['Sarfraz Ahmed'],stumped,SC Williams,2013-08-24,Pakistan,Pakistan,0,Harare Sports Club
+3,SC Williams,16.0,9,1,1,177.77777777777777,AR McBrine,['GC Wilson'],stumped,SC Williams,2014-03-17,Zimbabwe,Ireland,0,Sylhet Stadium
+4,SC Williams,26.0,19,2,0,136.8421052631579,Ahsan Malik,['Ahsan Malik'],run out,SC Williams,2014-03-19,Zimbabwe,Zimbabwe,0,Sylhet Stadium
+3,SC Williams,0.0,3,0,0,0.0,AM Guruge,0,caught and bowled,SC Williams,2014-03-21,Zimbabwe,Zimbabwe,0,Sylhet Stadium
+4,SC Williams,16.0,16,1,0,100.0,Shoaib Malik,['Wahab Riaz'],caught,SC Williams,2015-05-22,Zimbabwe,Pakistan,0,Gaddafi Stadium
+2,SC Williams,58.0,32,7,1,181.25,notOut,notOut,notOut,notOut,2015-05-24,Zimbabwe,Pakistan,0,Gaddafi Stadium
+3,SC Williams,17.0,18,1,0,94.44444444444444,AR Patel,0,caught and bowled,SC Williams,2015-07-19,India,Zimbabwe,0,Harare Sports Club
+5,SC Williams,16.0,15,1,0,106.66666666666667,IS Sodhi,0,caught and bowled,SC Williams,2015-08-09,New Zealand,New Zealand,0,Harare Sports Club
+4,SC Williams,14.0,11,2,0,127.27272727272727,Imad Wasim,0,lbw,SC Williams,2015-09-27,Pakistan,Pakistan,0,Harare Sports Club
+5,SC Williams,40.0,36,4,0,111.11111111111111,notOut,notOut,notOut,notOut,2015-09-29,Pakistan,Pakistan,0,Harare Sports Club
+2,SC Williams,16.0,18,1,0,88.88888888888889,Dawlat Zadran,0,bowled,SC Williams,2015-10-26,Afghanistan,Afghanistan,0,Queens Sports Club
+1,SC Williams,54.0,26,8,2,207.6923076923077,Rashid Khan,['Shafiqullah'],caught,SC Williams,2015-10-28,Afghanistan,Afghanistan,0,Queens Sports Club
+1,SC Williams,15.0,21,1,0,71.42857142857143,Nasir Hossain,0,bowled,SC Williams,2015-11-13,Zimbabwe,Bangladesh,0,Shere Bangla National Stadium
+2,SC Williams,0.0,1,0,0,0.0,Al-Amin Hossain,0,bowled,SC Williams,2015-11-15,Zimbabwe,Zimbabwe,0,Shere Bangla National Stadium
+7,SC Williams,2.0,6,0,0,33.33333333333333,Al-Amin Hossain,0,bowled,SC Williams,2016-01-15,Zimbabwe,Bangladesh,0,Sheikh Abu Naser Stadium
+3,SC Williams,7.0,6,1,0,116.66666666666667,Shuvagata Hom,0,lbw,SC Williams,2016-01-17,Zimbabwe,Bangladesh,0,Sheikh Abu Naser Stadium
+3,SC Williams,32.0,26,2,1,123.07692307692308,Abu Hider,0,lbw,SC Williams,2016-01-20,Zimbabwe,Zimbabwe,0,Sheikh Abu Naser Stadium
+4,SC Williams,12.0,6,2,0,200.0,Tanwir Afzal,0,bowled,SC Williams,2016-03-08,Zimbabwe,Zimbabwe,0,"Vidarbha Cricket Association Stadium, Jamtha"
+4,SC Williams,53.0,39,6,0,135.8974358974359,SM Sharif,['AC Evans'],caught,SC Williams,2016-03-10,Zimbabwe,Zimbabwe,0,"Vidarbha Cricket Association Stadium, Jamtha"
+3,SC Williams,13.0,16,1,0,81.25,Rashid Khan,['Mohammad Shahzad'],stumped,SC Williams,2016-03-12,Zimbabwe,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+8,SW Masakadza,0.0,2,0,0,0.0,DJG Sammy,['KA Pollard'],caught,SW Masakadza,2010-02-28,Zimbabwe,Zimbabwe,0,"Queen's Park Oval, Port of Spain"
+7,SW Masakadza,1.0,2,0,0,50.0,J Theron,0,bowled,SW Masakadza,2010-10-10,Zimbabwe,South Africa,0,De Beers Diamond Oval
+6,SW Masakadza,8.0,7,1,0,114.28571428571428,RM Hira,0,bowled,SW Masakadza,2012-02-11,Zimbabwe,New Zealand,0,Eden Park
+7,SW Masakadza,9.0,12,0,0,75.0,Shakib Al Hasan,['Nasir Hossain'],caught,SW Masakadza,2013-05-12,Bangladesh,Bangladesh,0,Queens Sports Club
+7,SW Masakadza,0.0,1,0,0,0.0,notOut,notOut,notOut,notOut,2013-08-24,Pakistan,Pakistan,0,Harare Sports Club
+4,Sikandar Raza,14.0,14,1,0,100.0,Shafiul Islam,['Shakib Al Hasan'],caught,Sikandar Raza,2013-05-11,Bangladesh,Zimbabwe,0,Queens Sports Club
+4,Sikandar Raza,31.0,33,0,2,93.93939393939394,Shafiul Islam,['Robiul Islam'],run out,SC Williams,2013-05-12,Bangladesh,Bangladesh,0,Queens Sports Club
+5,Sikandar Raza,31.0,33,0,2,93.93939393939394,Shakib Al Hasan,0,bowled,Sikandar Raza,2013-05-12,Bangladesh,Bangladesh,0,Queens Sports Club
+1,Sikandar Raza,10.0,8,2,0,125.0,AR Cusack,['MC Sorensen'],caught,Sikandar Raza,2014-03-17,Zimbabwe,Ireland,0,Sylhet Stadium
+1,Sikandar Raza,13.0,12,2,0,108.33333333333333,Ahsan Malik,['PM Seelaar'],caught,Sikandar Raza,2014-03-19,Zimbabwe,Zimbabwe,0,Sylhet Stadium
+1,Sikandar Raza,9.0,14,1,0,64.28571428571429,Ahmed Raza,['Kamran Shazad'],caught,Sikandar Raza,2014-03-21,Zimbabwe,Zimbabwe,0,Sylhet Stadium
+5,Sikandar Raza,17.0,14,1,1,121.42857142857142,Mohammad Sami,['Ahmed Shehzad'],caught,Sikandar Raza,2015-05-22,Zimbabwe,Pakistan,0,Gaddafi Stadium
+4,Sikandar Raza,10.0,18,0,0,55.55555555555556,STR Binny,['MM Sharma'],run out,CR Ervine,2015-07-17,India,India,0,Harare Sports Club
+5,Sikandar Raza,10.0,18,0,0,55.55555555555556,AR Patel,0,bowled,Sikandar Raza,2015-07-17,India,India,0,Harare Sports Club
+2,Sikandar Raza,8.0,7,1,0,114.28571428571428,MM Sharma,['SV Samson'],caught,Sikandar Raza,2015-07-19,India,Zimbabwe,0,Harare Sports Club
+3,Sikandar Raza,8.0,11,2,0,72.72727272727273,MJ McClenaghan,['L Ronchi'],caught,Sikandar Raza,2015-08-09,New Zealand,New Zealand,0,Harare Sports Club
+3,Sikandar Raza,13.0,10,2,0,130.0,Imad Wasim,0,lbw,Sikandar Raza,2015-09-27,Pakistan,Pakistan,0,Harare Sports Club
+6,Sikandar Raza,36.0,36,1,0,100.0,Imran Khan (1),0,bowled,Sikandar Raza,2015-09-29,Pakistan,Pakistan,0,Harare Sports Club
+0,Sikandar Raza,59.0,41,5,1,143.90243902439025,Rashid Khan,0,caught and bowled,Sikandar Raza,2015-10-26,Afghanistan,Afghanistan,0,Queens Sports Club
+2,Sikandar Raza,21.0,13,3,1,161.53846153846155,Gulbadin Naib,0,caught and bowled,Sikandar Raza,2015-10-28,Afghanistan,Afghanistan,0,Queens Sports Club
+0,Sikandar Raza,4.0,5,1,0,80.0,Mashrafe Mortaza,['Liton Das'],caught,Sikandar Raza,2015-11-13,Zimbabwe,Bangladesh,0,Shere Bangla National Stadium
+0,Sikandar Raza,5.0,6,1,0,83.33333333333334,Al-Amin Hossain,['Mushfiqur Rahim'],caught,Sikandar Raza,2015-11-15,Zimbabwe,Zimbabwe,0,Shere Bangla National Stadium
+5,Sikandar Raza,19.0,20,1,1,95.0,Amir Hamza,['Mohammad Shahzad'],stumped,Sikandar Raza,2016-01-08,Zimbabwe,Afghanistan,0,Sharjah Cricket Stadium
+4,Sikandar Raza,1.0,5,0,0,20.0,Mohammad Nabi,['Mohammad Shahzad'],stumped,Sikandar Raza,2016-01-10,Zimbabwe,Afghanistan,0,Sharjah Cricket Stadium
+3,Sikandar Raza,6.0,8,0,0,75.0,Al-Amin Hossain,['Nurul Hasan'],run out,H Masakadza,2016-01-15,Zimbabwe,Bangladesh,0,Sheikh Abu Naser Stadium
+4,Sikandar Raza,6.0,8,0,0,75.0,Al-Amin Hossain,['Mahmudullah'],caught,Sikandar Raza,2016-01-15,Zimbabwe,Bangladesh,0,Sheikh Abu Naser Stadium
+5,Sikandar Raza,7.0,6,1,0,116.66666666666667,Abu Hider,['Sabbir Rahman'],caught,Sikandar Raza,2016-01-20,Zimbabwe,Zimbabwe,0,Sheikh Abu Naser Stadium
+4,Sikandar Raza,2.0,6,0,0,33.33333333333333,Shakib Al Hasan,['Nurul Hasan'],stumped,Sikandar Raza,2016-01-22,Zimbabwe,Zimbabwe,0,Sheikh Abu Naser Stadium
+5,Sikandar Raza,3.0,4,0,0,75.0,notOut,notOut,notOut,notOut,2016-03-08,Zimbabwe,Zimbabwe,0,"Vidarbha Cricket Association Stadium, Jamtha"
+5,Sikandar Raza,9.0,9,1,0,100.0,AC Evans,0,bowled,Sikandar Raza,2016-03-10,Zimbabwe,Zimbabwe,0,"Vidarbha Cricket Association Stadium, Jamtha"
+5,Sikandar Raza,15.0,17,0,0,88.23529411764706,Hamid Hassan,0,bowled,Sikandar Raza,2016-03-12,Zimbabwe,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+3,Sikandar Raza,20.0,18,2,0,111.11111111111111,notOut,notOut,notOut,notOut,2016-06-18,India,Zimbabwe,0,Harare Sports Club
+3,Sikandar Raza,1.0,2,0,0,50.0,BB Sran,['KL Rahul'],caught,Sikandar Raza,2016-06-20,India,India,0,Harare Sports Club
+7,T Maruma,4.0,11,0,0,36.36363636363637,SB Styris,['MJ Guptill'],caught,T Maruma,2010-05-04,Zimbabwe,New Zealand,0,Providence Stadium
+4,T Maruma,10.0,14,1,0,71.42857142857143,Shahid Afridi,['Sarfraz Ahmed'],stumped,T Maruma,2013-08-23,Pakistan,Pakistan,0,Harare Sports Club
+5,T Maruma,0.0,2,0,0,0.0,Zulfiqar Babar,['Mohammad Hafeez'],caught,T Maruma,2013-08-24,Pakistan,Pakistan,0,Harare Sports Club
+6,T Maruma,13.0,9,0,1,144.44444444444443,notOut,notOut,notOut,notOut,2014-03-17,Zimbabwe,Ireland,0,Sylhet Stadium
+6,T Maruma,22.0,14,3,0,157.14285714285714,notOut,notOut,notOut,notOut,2014-03-21,Zimbabwe,Zimbabwe,0,Sylhet Stadium
+6,T Maruma,23.0,14,1,2,164.28571428571428,notOut,notOut,notOut,notOut,2016-06-22,India,India,0,Harare Sports Club
+10,T Muzarabani,0.0,2,0,0,0.0,notOut,notOut,notOut,notOut,2016-06-20,India,India,0,Harare Sports Club
+10,T Panyangara,1.0,3,0,0,33.33333333333333,notOut,notOut,notOut,notOut,2013-05-12,Bangladesh,Bangladesh,0,Queens Sports Club
+10,T Panyangara,1.0,3,0,0,33.33333333333333,notOut,notOut,notOut,notOut,2015-09-27,Pakistan,Pakistan,0,Harare Sports Club
+10,T Panyangara,4.0,3,1,0,133.33333333333331,Mustafizur Rahman,0,lbw,T Panyangara,2015-11-13,Zimbabwe,Bangladesh,0,Shere Bangla National Stadium
+10,T Panyangara,0.0,2,0,0,0.0,notOut,notOut,notOut,notOut,2016-03-08,Zimbabwe,Zimbabwe,0,"Vidarbha Cricket Association Stadium, Jamtha"
+9,T Panyangara,17.0,7,0,2,242.85714285714283,notOut,notOut,notOut,notOut,2016-03-12,Zimbabwe,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+3,T Taibu,0.0,7,0,0,0.0,MG Johnson,['AC Gilchrist'],caught,T Taibu,2007-09-12,Zimbabwe,Zimbabwe,0,Newlands
+2,T Taibu,2.0,4,0,0,50.0,AD Mascarenhas,0,bowled,T Taibu,2007-09-13,Zimbabwe,England,0,Newlands
+1,T Taibu,0.0,7,0,0,0.0,SJ Benn,0,lbw,T Taibu,2010-02-28,Zimbabwe,Zimbabwe,0,"Queen's Park Oval, Port of Spain"
+1,T Taibu,12.0,14,0,0,85.71428571428571,SL Malinga,"['DPMD Jayawardene', 'KC Sangakkara', 'SL Malinga']",run out,H Masakadza,2010-05-03,Zimbabwe,Sri Lanka,0,Providence Stadium
+0,T Taibu,21.0,15,3,0,140.0,TG Southee,['JDP Oram'],caught,T Taibu,2010-05-04,Zimbabwe,New Zealand,0,Providence Stadium
+3,T Taibu,4.0,6,0,0,66.66666666666666,R Ashwin,['RG Sharma'],caught,T Taibu,2010-06-12,India,India,0,Harare Sports Club
+3,T Taibu,45.0,41,2,0,109.75609756097562,notOut,notOut,notOut,notOut,2010-06-13,India,India,0,Harare Sports Club
+6,T Taibu,11.0,6,0,1,183.33333333333331,notOut,notOut,notOut,notOut,2010-10-10,Zimbabwe,South Africa,0,De Beers Diamond Oval
+7,T Taibu,6.0,7,0,0,85.71428571428571,notOut,notOut,notOut,notOut,2011-09-16,Pakistan,Pakistan,0,Harare Sports Club
+5,T Taibu,37.0,28,3,1,132.14285714285714,notOut,notOut,notOut,notOut,2011-09-18,Pakistan,Pakistan,0,Harare Sports Club
+3,T Taibu,27.0,24,3,0,112.5,NL McCullum,['DAJ Bracewell'],caught,T Taibu,2012-02-11,Zimbabwe,New Zealand,0,Eden Park
+10,TL Chatara,8.0,7,1,0,114.28571428571428,Asghar Stanikzai,['Shafiqullah'],caught,TL Chatara,2016-03-12,Zimbabwe,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+8,TS Chisoro,7.0,10,0,0,70.0,notOut,notOut,notOut,notOut,2015-11-13,Zimbabwe,Bangladesh,0,Shere Bangla National Stadium
+9,TS Chisoro,10.0,8,1,0,125.0,notOut,notOut,notOut,notOut,2016-01-10,Zimbabwe,Afghanistan,0,Sharjah Cricket Stadium
+0,V Sibanda,23.0,17,5,0,135.29411764705884,NW Bracken,['AC Gilchrist'],caught,V Sibanda,2007-09-12,Zimbabwe,Zimbabwe,0,Newlands
+0,V Sibanda,29.0,25,5,0,115.99999999999999,AD Mascarenhas,['DL Maddy'],caught,V Sibanda,2007-09-13,Zimbabwe,England,0,Newlands
+0,V Sibanda,0.0,1,0,0,0.0,SJ Benn,0,bowled,V Sibanda,2010-02-28,Zimbabwe,Zimbabwe,0,"Queen's Park Oval, Port of Spain"
+0,V Sibanda,7.0,7,1,0,100.0,Sohail Khan,['Misbah-ul-Haq'],caught,V Sibanda,2011-09-16,Pakistan,Pakistan,0,Harare Sports Club
+0,V Sibanda,15.0,25,1,1,60.0,Junaid Khan,['Mohammad Hafeez'],caught,V Sibanda,2011-09-18,Pakistan,Pakistan,0,Harare Sports Club
+1,V Sibanda,11.0,17,1,0,64.70588235294117,BAW Mendis,0,bowled,V Sibanda,2012-09-18,Zimbabwe,Sri Lanka,0,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa"
+1,V Sibanda,0.0,3,0,0,0.0,M Morkel,0,bowled,V Sibanda,2012-09-20,Zimbabwe,South Africa,0,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa"
+0,V Sibanda,13.0,12,3,0,108.33333333333333,TL Best,['LMP Simmons'],caught,V Sibanda,2013-03-02,Zimbabwe,West Indies,0,"Sir Vivian Richards Stadium, North Sound"
+1,V Sibanda,5.0,9,0,0,55.55555555555556,S Badree,['DJ Bravo'],caught,V Sibanda,2013-03-03,Zimbabwe,West Indies,0,"Sir Vivian Richards Stadium, North Sound"
+1,V Sibanda,0.0,2,0,0,0.0,Sohag Gazi,['Sajedul Islam'],caught,V Sibanda,2013-05-11,Bangladesh,Zimbabwe,0,Queens Sports Club
+1,V Sibanda,32.0,20,3,1,160.0,Shafiul Islam,['Mahmudullah'],caught,V Sibanda,2013-05-12,Bangladesh,Bangladesh,0,Queens Sports Club
+1,V Sibanda,31.0,45,3,0,68.88888888888889,Shahid Afridi,0,bowled,V Sibanda,2013-08-23,Pakistan,Pakistan,0,Harare Sports Club
+0,V Sibanda,23.0,35,3,0,65.71428571428571,Mohammad Hafeez,['Sohail Tanvir'],caught,V Sibanda,2013-08-24,Pakistan,Pakistan,0,Harare Sports Club
+4,V Sibanda,16.0,18,1,0,88.88888888888889,GH Dockrell,['MC Sorensen'],caught,V Sibanda,2014-03-17,Zimbabwe,Ireland,0,Sylhet Stadium
+5,V Sibanda,9.0,3,0,1,300.0,notOut,notOut,notOut,notOut,2014-03-19,Zimbabwe,Zimbabwe,0,Sylhet Stadium
+4,V Sibanda,16.0,19,0,1,84.21052631578947,Khurram Khan,0,caught and bowled,V Sibanda,2014-03-21,Zimbabwe,Zimbabwe,0,Sylhet Stadium
+1,V Sibanda,13.0,15,1,0,86.66666666666667,Mohammad Sami,['Sarfraz Ahmed'],caught,V Sibanda,2015-05-22,Zimbabwe,Pakistan,0,Gaddafi Stadium
+0,V Sibanda,49.0,47,2,1,104.25531914893618,Shahid Afridi,['Anwar Ali'],caught,V Sibanda,2015-05-24,Zimbabwe,Pakistan,0,Gaddafi Stadium
+0,V Sibanda,46.0,40,4,2,114.99999999999999,Shakib Al Hasan,['Tamim Iqbal'],caught,V Sibanda,2016-01-15,Zimbabwe,Bangladesh,0,Sheikh Abu Naser Stadium
+0,V Sibanda,21.0,17,2,1,123.52941176470588,Mashrafe Mortaza,0,bowled,V Sibanda,2016-01-17,Zimbabwe,Bangladesh,0,Sheikh Abu Naser Stadium
+1,V Sibanda,44.0,33,6,1,133.33333333333331,Shakib Al Hasan,['Sabbir Rahman'],caught,V Sibanda,2016-01-20,Zimbabwe,Zimbabwe,0,Sheikh Abu Naser Stadium
+0,V Sibanda,4.0,5,1,0,80.0,Mashrafe Mortaza,['Shakib Al Hasan'],caught,V Sibanda,2016-01-22,Zimbabwe,Zimbabwe,0,Sheikh Abu Naser Stadium
+1,V Sibanda,59.0,47,5,2,125.53191489361701,RJ Campbell,"['Babar Hayat', 'RJ Campbell']",run out,Sikandar Raza,2016-03-08,Zimbabwe,Zimbabwe,0,"Vidarbha Cricket Association Stadium, Jamtha"
+2,V Sibanda,59.0,47,5,2,125.53191489361701,Aizaz Khan,['MS Chapman'],caught,V Sibanda,2016-03-08,Zimbabwe,Zimbabwe,0,"Vidarbha Cricket Association Stadium, Jamtha"
+0,V Sibanda,4.0,12,0,0,33.33333333333333,MRJ Watt,"['KJ Coetzer', 'MH Cross']",run out,H Masakadza,2016-03-10,Zimbabwe,Zimbabwe,0,"Vidarbha Cricket Association Stadium, Jamtha"
+1,V Sibanda,4.0,12,0,0,33.33333333333333,AC Evans,['MW Machan'],caught,V Sibanda,2016-03-10,Zimbabwe,Zimbabwe,0,"Vidarbha Cricket Association Stadium, Jamtha"
+0,V Sibanda,13.0,21,0,0,61.904761904761905,Rashid Khan,['Hamid Hassan'],caught,V Sibanda,2016-03-12,Zimbabwe,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"
+2,V Sibanda,28.0,24,5,0,116.66666666666667,DS Kulkarni,0,lbw,V Sibanda,2016-06-22,India,India,0,Harare Sports Club
+8,WP Masakadza,4.0,1,1,0,400.0,notOut,notOut,notOut,notOut,2015-10-28,Afghanistan,Afghanistan,0,Queens Sports Club
+8,WP Masakadza,6.0,8,0,0,75.0,notOut,notOut,notOut,notOut,2016-01-17,Zimbabwe,Bangladesh,0,Sheikh Abu Naser Stadium
+9,WP Masakadza,2.0,5,0,0,40.0,notOut,notOut,notOut,notOut,2016-03-08,Zimbabwe,Zimbabwe,0,"Vidarbha Cricket Association Stadium, Jamtha"
+8,WP Masakadza,4.0,7,0,0,57.14285714285714,notOut,notOut,notOut,notOut,2016-03-10,Zimbabwe,Zimbabwe,0,"Vidarbha Cricket Association Stadium, Jamtha"
+7,WP Masakadza,6.0,7,1,0,85.71428571428571,Dawlat Zadran,0,bowled,WP Masakadza,2016-03-12,Zimbabwe,Afghanistan,0,"Vidarbha Cricket Association Stadium, Jamtha"

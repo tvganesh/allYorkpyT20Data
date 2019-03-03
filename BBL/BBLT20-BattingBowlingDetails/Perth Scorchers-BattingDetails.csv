@@ -1,0 +1,382 @@
+,batsman,runs,balls,4s,6s,SR,bowler,fielders,kind,player_out,date,team2,winner,result,venue
+5,AC Agar,2.0,5,0,0,40.0,BCJ Cutting,['JA Burns'],caught,AC Agar,2013-12-22,Perth Scorchers,Brisbane Heat,0,"Brisbane Cricket Ground, Woolloongabba"
+5,AC Agar,12.0,7,0,1,171.42857142857142,notOut,notOut,notOut,notOut,2014-12-22,Adelaide Strikers,Adelaide Strikers,0,Western Australia Cricket Association Ground
+3,AC Agar,6.0,4,1,0,150.0,AL Fekete,['DJ Bravo'],caught,AC Agar,2014-12-26,Melbourne Renegades,Perth Scorchers,0,Western Australia Cricket Association Ground
+7,AC Agar,0.0,2,0,0,0.0,MA Starc,0,bowled,AC Agar,2014-12-29,Perth Scorchers,Perth Scorchers,0,Sydney Cricket Ground
+6,AC Agar,31.0,28,1,1,110.71428571428572,notOut,notOut,notOut,notOut,2015-01-01,Sydney Thunder,Sydney Thunder,0,Western Australia Cricket Association Ground
+4,AC Agar,0.0,5,0,0,0.0,SW Tait,0,bowled,AC Agar,2015-01-06,Perth Scorchers,Perth Scorchers,0,Adelaide Oval
+6,AC Agar,7.0,6,1,0,116.66666666666667,TT Bresnan,0,bowled,AC Agar,2015-01-11,Perth Scorchers,Perth Scorchers,0,Bellerive Oval
+2,AC Agar,24.0,27,3,0,88.88888888888889,notOut,notOut,notOut,notOut,2015-12-26,Brisbane Heat,Perth Scorchers,0,Western Australia Cricket Association Ground
+4,AC Agar,18.0,20,1,1,90.0,AU Rashid,0,bowled,AC Agar,2016-01-05,Perth Scorchers,Adelaide Strikers,0,Adelaide Oval
+4,AC Agar,68.0,36,5,4,188.88888888888889,notOut,notOut,notOut,notOut,2016-01-07,Perth Scorchers,Perth Scorchers,0,Sydney Showground Stadium
+6,AC Agar,8.0,7,1,0,114.28571428571428,SW Tait,['MW Hill'],caught,AC Agar,2016-01-10,Perth Scorchers,Perth Scorchers,0,Bellerive Oval
+5,AC Agar,6.0,7,0,0,85.71428571428571,BW Hilfenhaus,0,bowled,AC Agar,2016-01-22,Perth Scorchers,Melbourne Stars,0,Melbourne Cricket Ground
+7,AC Agar,16.0,10,2,0,160.0,MG Neser,['BJ Hodge'],caught,AC Agar,2016-12-23,Adelaide Strikers,Perth Scorchers,0,Western Australia Cricket Association Ground
+8,AC Agar,6.0,6,1,0,100.0,J Botha,['BJ Dwarshuis'],caught,AC Agar,2016-12-27,Perth Scorchers,Sydney Sixers,0,Sydney Cricket Ground
+7,AC Agar,10.0,3,0,1,333.33333333333337,notOut,notOut,notOut,notOut,2016-12-29,Perth Scorchers,Perth Scorchers,0,Docklands Stadium
+6,AC Agar,13.0,7,0,1,185.71428571428572,notOut,notOut,notOut,notOut,2017-01-05,Brisbane Heat,Brisbane Heat,0,Western Australia Cricket Association Ground
+6,AC Agar,5.0,4,0,0,125.0,notOut,notOut,notOut,notOut,2017-01-11,Perth Scorchers,Perth Scorchers,0,"Brisbane Cricket Ground, Woolloongabba"
+7,AC Agar,29.0,20,3,1,145.0,notOut,notOut,notOut,notOut,2017-01-14,Melbourne Stars,Melbourne Stars,0,Western Australia Cricket Association Ground
+7,AC Thomas,2.0,5,0,0,40.0,BCJ Cutting,['CD Hartley'],caught,AC Thomas,2013-01-19,Brisbane Heat,Brisbane Heat,0,Western Australia Cricket Association Ground
+8,AC Thomas,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2013-12-22,Perth Scorchers,Brisbane Heat,0,"Brisbane Cricket Ground, Woolloongabba"
+10,AC Thomas,3.0,3,0,0,100.0,notOut,notOut,notOut,notOut,2014-01-27,Perth Scorchers,Melbourne Stars,0,Melbourne Cricket Ground
+3,AC Voges,58.0,41,6,0,141.46341463414635,Saeed Ajmal,"['GD Putland', 'TP Ludeman']",run out,AC Voges,2012-12-09,Adelaide Strikers,Adelaide Strikers,0,Western Australia Cricket Association Ground
+3,AC Voges,14.0,17,2,0,82.35294117647058,SK Warne,0,lbw,AC Voges,2012-12-12,Melbourne Stars,Melbourne Stars,0,Western Australia Cricket Association Ground
+2,AC Voges,40.0,27,4,0,148.14814814814815,notOut,notOut,notOut,notOut,2012-12-29,Melbourne Renegades,Perth Scorchers,0,Western Australia Cricket Association Ground
+2,AC Voges,36.0,20,4,1,180.0,SW Tait,['TP Ludeman'],caught,AC Voges,2013-01-10,Perth Scorchers,Perth Scorchers,0,Adelaide Oval
+3,AC Voges,49.0,33,4,0,148.4848484848485,KAJ Roach,['CJM Sabburg'],caught,AC Voges,2013-01-19,Brisbane Heat,Brisbane Heat,0,Western Australia Cricket Association Ground
+3,AC Voges,36.0,21,1,3,171.42857142857142,notOut,notOut,notOut,notOut,2013-02-05,Melbourne Stars,Perth Scorchers,0,Western Australia Cricket Association Ground
+3,AC Voges,19.0,18,0,0,105.55555555555556,DL Vettori,['C Kieswetter'],stumped,AC Voges,2013-12-22,Perth Scorchers,Brisbane Heat,0,"Brisbane Cricket Ground, Woolloongabba"
+3,AC Voges,8.0,13,0,0,61.53846153846154,LW Feldman,['EJG Morgan'],caught,AC Voges,2014-01-03,Sydney Thunder,Perth Scorchers,0,Western Australia Cricket Association Ground
+3,AC Voges,2.0,2,0,0,100.0,notOut,notOut,notOut,notOut,2014-01-07,Hobart Hurricanes,Perth Scorchers,0,Western Australia Cricket Association Ground
+4,AC Voges,19.0,9,1,1,211.11111111111111,notOut,notOut,notOut,notOut,2014-01-10,Perth Scorchers,0,tie,Sydney Cricket Ground
+3,AC Voges,10.0,13,0,0,76.92307692307693,TM Head,['MG Neser'],run out,MR Marsh,2014-01-16,Adelaide Strikers,Perth Scorchers,0,Western Australia Cricket Association Ground
+4,AC Voges,10.0,13,0,0,76.92307692307693,SW Tait,['TP Ludeman'],caught,AC Voges,2014-01-16,Adelaide Strikers,Perth Scorchers,0,Western Australia Cricket Association Ground
+3,AC Voges,29.0,30,3,0,96.66666666666667,JW Hastings,['LJ Wright'],run out,SM Whiteman,2014-01-27,Perth Scorchers,Melbourne Stars,0,Melbourne Cricket Ground
+4,AC Voges,29.0,30,3,0,96.66666666666667,JW Hastings,['DJ Worrall'],caught,AC Voges,2014-01-27,Perth Scorchers,Melbourne Stars,0,Melbourne Cricket Ground
+3,AC Voges,31.0,25,3,0,124.0,MA Starc,0,bowled,AC Voges,2014-02-05,Perth Scorchers,Perth Scorchers,0,Sydney Cricket Ground
+3,AC Voges,27.0,17,2,1,158.8235294117647,BW Hilfenhaus,['AD Mascarenhas'],caught,AC Voges,2014-02-07,Hobart Hurricanes,Perth Scorchers,0,Western Australia Cricket Association Ground
+3,AC Voges,2.0,5,0,0,40.0,A Zampa,['AI Ross'],caught,AC Voges,2014-12-22,Adelaide Strikers,Adelaide Strikers,0,Western Australia Cricket Association Ground
+2,AC Voges,19.0,17,2,0,111.76470588235294,notOut,notOut,notOut,notOut,2014-12-29,Perth Scorchers,Perth Scorchers,0,Sydney Cricket Ground
+2,AC Voges,8.0,11,1,0,72.72727272727273,JH Kallis,['JK Lalor'],caught,AC Voges,2015-01-01,Sydney Thunder,Sydney Thunder,0,Western Australia Cricket Association Ground
+3,AC Voges,54.0,38,6,0,142.10526315789474,notOut,notOut,notOut,notOut,2015-01-06,Perth Scorchers,Perth Scorchers,0,Adelaide Oval
+2,AC Voges,35.0,39,2,0,89.74358974358975,notOut,notOut,notOut,notOut,2015-01-08,Brisbane Heat,Perth Scorchers,0,Western Australia Cricket Association Ground
+2,AC Voges,26.0,20,3,0,130.0,XJ Doherty,['JK Reed'],caught,AC Voges,2015-01-11,Perth Scorchers,Perth Scorchers,0,Bellerive Oval
+2,AC Voges,27.0,21,2,0,128.57142857142858,notOut,notOut,notOut,notOut,2015-01-21,Perth Scorchers,Melbourne Stars,0,Melbourne Cricket Ground
+2,AC Voges,3.0,6,0,0,50.0,JW Hastings,['CL White'],caught,AC Voges,2015-01-25,Melbourne Stars,Perth Scorchers,0,Western Australia Cricket Association Ground
+2,AC Voges,20.0,13,1,0,153.84615384615387,DE Bollinger,['RGL Carters'],caught,AC Voges,2015-01-28,Sydney Sixers,Perth Scorchers,0,Manuka Oval
+2,AC Voges,45.0,32,4,1,140.625,notOut,notOut,notOut,notOut,2015-12-21,Adelaide Strikers,Adelaide Strikers,0,Western Australia Cricket Association Ground
+4,AC Voges,2.0,3,0,0,66.66666666666666,CJ Boyce,['SL Rainbird'],caught,AC Voges,2016-01-10,Perth Scorchers,Perth Scorchers,0,Bellerive Oval
+3,AC Voges,52.0,40,6,0,130.0,MA Beer,['BW Hilfenhaus'],caught,AC Voges,2016-01-22,Perth Scorchers,Melbourne Stars,0,Melbourne Cricket Ground
+6,AC Voges,2.0,4,0,0,50.0,KA Pollard,['BR Dunk'],caught,AC Voges,2016-12-23,Adelaide Strikers,Perth Scorchers,0,Western Australia Cricket Association Ground
+6,AC Voges,1.0,3,0,0,33.33333333333333,SNJ O'Keefe,['J Botha'],caught,AC Voges,2016-12-27,Perth Scorchers,Sydney Sixers,0,Sydney Cricket Ground
+6,AC Voges,1.0,2,0,0,50.0,AJ Finch,['AJ Finch'],run out,AC Voges,2016-12-29,Perth Scorchers,Perth Scorchers,0,Docklands Stadium
+4,AC Voges,3.0,4,0,0,75.0,notOut,notOut,notOut,notOut,2017-01-01,Sydney Thunder,Perth Scorchers,0,Western Australia Cricket Association Ground
+3,AC Voges,20.0,8,1,2,250.0,notOut,notOut,notOut,notOut,2017-01-21,Perth Scorchers,Perth Scorchers,0,Bellerive Oval
+3,AC Voges,13.0,11,1,1,118.18181818181819,EP Gulbis,['MP Stoinis'],caught,AC Voges,2017-01-24,Melbourne Stars,Perth Scorchers,0,Western Australia Cricket Association Ground
+4,AJ Turner,14.0,16,1,0,87.5,NJ Rimmington,['JC Buttler'],caught,AJ Turner,2013-12-26,Melbourne Renegades,Perth Scorchers,0,Western Australia Cricket Association Ground
+5,AJ Turner,3.0,4,0,0,75.0,notOut,notOut,notOut,notOut,2014-01-03,Sydney Thunder,Perth Scorchers,0,Western Australia Cricket Association Ground
+7,AJ Turner,32.0,17,2,1,188.23529411764704,notOut,notOut,notOut,notOut,2014-01-07,Hobart Hurricanes,Perth Scorchers,0,Western Australia Cricket Association Ground
+5,AJ Turner,0.0,2,0,0,0.0,B Lee,['SPD Smith'],caught,AJ Turner,2014-01-10,Perth Scorchers,0,tie,Sydney Cricket Ground
+6,AJ Turner,27.0,14,2,1,192.85714285714286,notOut,notOut,notOut,notOut,2014-01-16,Adelaide Strikers,Perth Scorchers,0,Western Australia Cricket Association Ground
+6,AJ Turner,1.0,3,0,0,33.33333333333333,JW Hastings,0,bowled,AJ Turner,2014-01-27,Perth Scorchers,Melbourne Stars,0,Melbourne Cricket Ground
+4,AJ Turner,12.0,9,0,1,133.33333333333331,KW Richardson,['AI Ross'],caught,AJ Turner,2014-12-22,Adelaide Strikers,Adelaide Strikers,0,Western Australia Cricket Association Ground
+4,AJ Turner,3.0,2,0,0,150.0,notOut,notOut,notOut,notOut,2014-12-26,Melbourne Renegades,Perth Scorchers,0,Western Australia Cricket Association Ground
+6,AJ Turner,17.0,9,0,2,188.88888888888889,LA Doran,['RGL Carters'],caught,AJ Turner,2014-12-29,Perth Scorchers,Perth Scorchers,0,Sydney Cricket Ground
+4,AJ Turner,0.0,4,0,0,0.0,JH Kallis,['MEK Hussey'],caught,AJ Turner,2015-01-01,Sydney Thunder,Sydney Thunder,0,Western Australia Cricket Association Ground
+6,AJ Turner,11.0,12,0,0,91.66666666666666,SW Tait,['TP Ludeman'],caught,AJ Turner,2015-01-06,Perth Scorchers,Perth Scorchers,0,Adelaide Oval
+5,AJ Turner,37.0,26,1,2,142.30769230769232,TT Bresnan,0,bowled,AJ Turner,2015-01-11,Perth Scorchers,Perth Scorchers,0,Bellerive Oval
+4,AJ Turner,1.0,3,0,0,33.33333333333333,SM Boland,['TIF Triffitt'],caught,AJ Turner,2015-01-25,Melbourne Stars,Perth Scorchers,0,Western Australia Cricket Association Ground
+4,AJ Turner,0.0,1,0,0,0.0,NM Lyon,['SA Abbott'],caught,AJ Turner,2015-01-28,Sydney Sixers,Perth Scorchers,0,Manuka Oval
+5,AJ Turner,19.0,13,1,1,146.15384615384613,TM Head,['AI Ross'],caught,AJ Turner,2016-01-05,Perth Scorchers,Adelaide Strikers,0,Adelaide Oval
+6,AJ Turner,1.0,2,0,0,50.0,notOut,notOut,notOut,notOut,2016-01-07,Perth Scorchers,Perth Scorchers,0,Sydney Showground Stadium
+5,AJ Turner,44.0,23,2,4,191.30434782608697,KW Richardson,['J Weatherald'],run out,IR Bell,2016-12-23,Adelaide Strikers,Perth Scorchers,0,Western Australia Cricket Association Ground
+7,AJ Turner,6.0,6,0,0,100.0,BJ Dwarshuis,['SA Abbott'],caught,AJ Turner,2016-12-27,Perth Scorchers,Sydney Sixers,0,Sydney Cricket Ground
+5,AJ Turner,1.0,5,0,0,20.0,NJ Rimmington,['CAH Stevenson (sub)'],caught,AJ Turner,2016-12-29,Perth Scorchers,Perth Scorchers,0,Docklands Stadium
+5,AJ Turner,20.0,11,1,2,181.8181818181818,PJ Cummins,['EJG Morgan'],caught,AJ Turner,2017-01-01,Sydney Thunder,Perth Scorchers,0,Western Australia Cricket Association Ground
+4,AJ Turner,11.0,8,0,1,137.5,ND Buchanan,['BCJ Cutting'],caught,AJ Turner,2017-01-05,Brisbane Heat,Brisbane Heat,0,Western Australia Cricket Association Ground
+4,AJ Turner,10.0,11,0,0,90.9090909090909,MJ Swepson,['JD Wildermuth'],caught,AJ Turner,2017-01-11,Perth Scorchers,Perth Scorchers,0,"Brisbane Cricket Ground, Woolloongabba"
+6,AJ Turner,15.0,18,1,0,83.33333333333334,SM Boland,['EP Gulbis'],caught,AJ Turner,2017-01-14,Melbourne Stars,Melbourne Stars,0,Western Australia Cricket Association Ground
+4,AJ Turner,16.0,8,2,1,200.0,notOut,notOut,notOut,notOut,2017-01-21,Perth Scorchers,Perth Scorchers,0,Bellerive Oval
+7,AJ Tye,5.0,4,1,0,125.0,B Laughlin,"['TP Ludeman', 'B Laughlin']",run out,AJ Tye,2014-12-22,Adelaide Strikers,Adelaide Strikers,0,Western Australia Cricket Association Ground
+8,AJ Tye,16.0,20,2,0,80.0,notOut,notOut,notOut,notOut,2014-12-29,Perth Scorchers,Perth Scorchers,0,Sydney Cricket Ground
+7,AJ Tye,1.0,2,0,0,50.0,TT Bresnan,['TT Bresnan'],run out,Yasir Arafat,2015-01-11,Perth Scorchers,Perth Scorchers,0,Bellerive Oval
+8,AJ Tye,2.0,8,0,0,25.0,notOut,notOut,notOut,notOut,2015-01-25,Melbourne Stars,Perth Scorchers,0,Western Australia Cricket Association Ground
+8,AJ Tye,0.0,3,0,0,0.0,AU Rashid,['JS Lehmann'],caught,AJ Tye,2016-01-05,Perth Scorchers,Adelaide Strikers,0,Adelaide Oval
+7,AJ Tye,0.0,3,0,0,0.0,DJ Worrall,0,bowled,AJ Tye,2016-01-22,Perth Scorchers,Melbourne Stars,0,Melbourne Cricket Ground
+5,AJ Tye,42.0,35,4,1,120.0,BW Hilfenhaus,['DJ Hussey'],caught,AJ Tye,2017-01-14,Melbourne Stars,Melbourne Stars,0,Western Australia Cricket Association Ground
+10,BM Edmondson,0.0,1,0,0,0.0,JP Faulkner,"['MS Wade', 'DJ Hussey']",run out,BM Edmondson,2012-01-04,Perth Scorchers,Perth Scorchers,0,Melbourne Cricket Ground
+0,CJ Simmons,9.0,15,1,0,60.0,DP Nannes,['CP Tremain'],caught,CJ Simmons,2014-01-03,Sydney Thunder,Perth Scorchers,0,Western Australia Cricket Association Ground
+4,CJ Simmons,8.0,10,1,0,80.0,DE Bollinger,['AC Blizzard'],run out,AC Voges,2014-01-07,Hobart Hurricanes,Perth Scorchers,0,Western Australia Cricket Association Ground
+0,CJ Simmons,0.0,2,0,0,0.0,B Lee,0,bowled,CJ Simmons,2014-01-10,Perth Scorchers,0,tie,Sydney Cricket Ground
+0,CJ Simmons,102.0,44,8,8,231.81818181818184,JM Holland,['AD Hales'],caught,CJ Simmons,2014-01-16,Adelaide Strikers,Perth Scorchers,0,Western Australia Cricket Association Ground
+0,CJ Simmons,2.0,6,0,0,33.33333333333333,DJ Worrall,['CA Rose'],caught,CJ Simmons,2014-01-27,Perth Scorchers,Melbourne Stars,0,Melbourne Cricket Ground
+0,CJ Simmons,112.0,62,4,11,180.64516129032256,B Lee,"['SA Abbott', 'DLR Smith']",run out,CJ Simmons,2014-02-05,Perth Scorchers,Perth Scorchers,0,Sydney Cricket Ground
+0,CJ Simmons,45.0,38,5,2,118.42105263157893,EP Gulbis,['AD Mascarenhas'],caught,CJ Simmons,2014-02-07,Hobart Hurricanes,Perth Scorchers,0,Western Australia Cricket Association Ground
+6,CT Bancroft,8.0,8,0,0,100.0,B Laughlin,0,bowled,CT Bancroft,2015-12-21,Adelaide Strikers,Adelaide Strikers,0,Western Australia Cricket Association Ground
+3,CT Bancroft,17.0,12,2,0,141.66666666666669,KW Richardson,['AU Rashid'],caught,CT Bancroft,2016-01-05,Perth Scorchers,Adelaide Strikers,0,Adelaide Oval
+3,CT Bancroft,72.0,54,3,3,133.33333333333331,AD Russell,0,lbw,CT Bancroft,2016-01-07,Perth Scorchers,Perth Scorchers,0,Sydney Showground Stadium
+5,CT Bancroft,26.0,22,2,0,118.18181818181819,notOut,notOut,notOut,notOut,2016-01-10,Perth Scorchers,Perth Scorchers,0,Bellerive Oval
+6,CT Bancroft,13.0,8,0,1,162.5,notOut,notOut,notOut,notOut,2016-01-22,Perth Scorchers,Melbourne Stars,0,Melbourne Cricket Ground
+3,CT Bancroft,0.0,3,0,0,0.0,MA Beer,0,lbw,CT Bancroft,2017-01-14,Melbourne Stars,Melbourne Stars,0,Western Australia Cricket Association Ground
+5,DJ Willey,2.0,6,0,0,33.33333333333333,B Laughlin,['TM Head'],caught,DJ Willey,2015-12-21,Adelaide Strikers,Adelaide Strikers,0,Western Australia Cricket Association Ground
+6,DJ Willey,31.0,17,1,3,182.35294117647058,AU Rashid,['AI Ross'],caught,DJ Willey,2016-01-05,Perth Scorchers,Adelaide Strikers,0,Adelaide Oval
+5,DJ Willey,2.0,2,0,0,100.0,CJ McKay,['CD Hartley'],run out,AC Agar,2016-01-07,Perth Scorchers,Perth Scorchers,0,Sydney Showground Stadium
+7,DJ Willey,25.0,9,2,1,277.77777777777777,notOut,notOut,notOut,notOut,2016-01-10,Perth Scorchers,Perth Scorchers,0,Bellerive Oval
+4,DJ Willey,0.0,1,0,0,0.0,MP Stoinis,['DJ Hussey'],caught,DJ Willey,2016-01-22,Perth Scorchers,Melbourne Stars,0,Melbourne Cricket Ground
+4,DJ Willey,2.0,5,0,0,40.0,CJ Jordan,['J Weatherald'],caught,DJ Willey,2016-12-23,Adelaide Strikers,Perth Scorchers,0,Western Australia Cricket Association Ground
+4,DJ Willey,4.0,8,0,0,50.0,SA Abbott,['MC Henriques'],caught,DJ Willey,2016-12-27,Perth Scorchers,Sydney Sixers,0,Sydney Cricket Ground
+7,DJ Willey,5.0,5,0,0,100.0,notOut,notOut,notOut,notOut,2017-01-05,Brisbane Heat,Brisbane Heat,0,Western Australia Cricket Association Ground
+7,GB Hogg,1.0,1,0,0,100.0,Naved-ul-Hasan,"['BW Hilfenhaus', 'TIF Triffitt']",run out,GB Hogg,2011-12-18,Hobart Hurricanes,Hobart Hurricanes,0,Western Australia Cricket Association Ground
+8,GB Hogg,2.0,2,0,0,100.0,notOut,notOut,notOut,notOut,2011-12-29,Brisbane Heat,Perth Scorchers,0,Western Australia Cricket Association Ground
+8,GB Hogg,0.0,1,0,0,0.0,JP Faulkner,['MS Wade'],run out,GB Hogg,2012-01-04,Perth Scorchers,Perth Scorchers,0,Melbourne Cricket Ground
+9,GB Hogg,4.0,9,0,0,44.44444444444444,notOut,notOut,notOut,notOut,2012-12-12,Melbourne Stars,Melbourne Stars,0,Western Australia Cricket Association Ground
+8,GB Hogg,1.0,3,0,0,33.33333333333333,AC McDermott,['DT Christian'],caught,GB Hogg,2013-01-19,Brisbane Heat,Brisbane Heat,0,Western Australia Cricket Association Ground
+11,GB Hogg,8.0,4,0,1,200.0,notOut,notOut,notOut,notOut,2014-01-27,Perth Scorchers,Melbourne Stars,0,Melbourne Cricket Ground
+10,GB Hogg,3.0,5,0,0,60.0,KW Richardson,0,bowled,GB Hogg,2016-01-05,Perth Scorchers,Adelaide Strikers,0,Adelaide Oval
+0,HH Gibbs,2.0,5,0,0,40.0,BW Hilfenhaus,['TIF Triffitt'],caught,HH Gibbs,2011-12-18,Hobart Hurricanes,Hobart Hurricanes,0,Western Australia Cricket Association Ground
+0,HH Gibbs,57.0,37,8,2,154.05405405405406,AB McDonald,['WD Sheridan'],caught,HH Gibbs,2011-12-22,Perth Scorchers,Perth Scorchers,0,Docklands Stadium
+0,HH Gibbs,38.0,22,4,2,172.72727272727272,DT Christian,0,bowled,HH Gibbs,2011-12-29,Brisbane Heat,Perth Scorchers,0,Western Australia Cricket Association Ground
+0,HH Gibbs,69.0,48,8,0,143.75,SK Warne,['RJ Quiney'],caught,HH Gibbs,2012-01-04,Perth Scorchers,Perth Scorchers,0,Melbourne Cricket Ground
+0,HH Gibbs,65.0,41,10,2,158.53658536585365,JM Muirhead,['CJ Borgas'],caught,HH Gibbs,2012-01-08,Adelaide Strikers,Perth Scorchers,0,Western Australia Cricket Association Ground
+0,HH Gibbs,71.0,46,11,0,154.34782608695653,LJ Wright,0,caught and bowled,HH Gibbs,2012-01-21,Melbourne Stars,Perth Scorchers,0,Western Australia Cricket Association Ground
+0,HH Gibbs,0.0,1,0,0,0.0,B Lee,['DJ Thornely'],caught,HH Gibbs,2012-01-28,Sydney Sixers,Sydney Sixers,0,Western Australia Cricket Association Ground
+1,HH Gibbs,14.0,12,1,1,116.66666666666667,NM Lyon,['KW Richardson'],caught,HH Gibbs,2012-12-09,Adelaide Strikers,Adelaide Strikers,0,Western Australia Cricket Association Ground
+0,HH Gibbs,0.0,6,0,0,0.0,JP Faulkner,0,caught and bowled,HH Gibbs,2012-12-12,Melbourne Stars,Melbourne Stars,0,Western Australia Cricket Association Ground
+1,HH Gibbs,40.0,42,5,0,95.23809523809523,LW Feldman,0,bowled,HH Gibbs,2012-12-16,Perth Scorchers,Perth Scorchers,0,Sydney Cricket Ground
+1,HH Gibbs,9.0,9,2,0,100.0,JR Hopes,['PJ Forrest'],caught,HH Gibbs,2012-12-18,Perth Scorchers,Perth Scorchers,0,"Brisbane Cricket Ground, Woolloongabba"
+1,HH Gibbs,56.0,41,4,4,136.58536585365854,AJ Finch,"[""AW O'Brien""]",caught,HH Gibbs,2012-12-29,Melbourne Renegades,Perth Scorchers,0,Western Australia Cricket Association Ground
+1,HH Gibbs,6.0,7,0,1,85.71428571428571,GS Sandhu,['SJC Keen'],caught,HH Gibbs,2013-01-04,Sydney Thunder,Perth Scorchers,0,Western Australia Cricket Association Ground
+1,HH Gibbs,54.0,34,5,2,158.8235294117647,BE Young,0,bowled,HH Gibbs,2013-01-10,Perth Scorchers,Perth Scorchers,0,Adelaide Oval
+1,HH Gibbs,7.0,5,1,0,140.0,JW Hastings,0,retired hurt,HH Gibbs,2013-02-05,Melbourne Stars,Perth Scorchers,0,Western Australia Cricket Association Ground
+5,HWR Cartwright,17.0,18,2,0,94.44444444444444,SL Malinga,['DJ Hussey'],caught,HWR Cartwright,2012-12-12,Melbourne Stars,Melbourne Stars,0,Western Australia Cricket Association Ground
+3,HWR Cartwright,5.0,6,0,0,83.33333333333334,notOut,notOut,notOut,notOut,2012-12-16,Perth Scorchers,Perth Scorchers,0,Sydney Cricket Ground
+6,HWR Cartwright,0.0,1,0,0,0.0,notOut,notOut,notOut,notOut,2014-01-10,Perth Scorchers,0,tie,Sydney Cricket Ground
+7,HWR Cartwright,1.0,2,0,0,50.0,SW Tait,['MG Neser'],caught,HWR Cartwright,2014-01-16,Adelaide Strikers,Perth Scorchers,0,Western Australia Cricket Association Ground
+5,HWR Cartwright,13.0,19,1,0,68.42105263157895,notOut,notOut,notOut,notOut,2017-01-11,Perth Scorchers,Perth Scorchers,0,"Brisbane Cricket Ground, Woolloongabba"
+4,HWR Cartwright,7.0,12,1,0,58.333333333333336,MP Stoinis,['PSP Handscomb'],caught,HWR Cartwright,2017-01-14,Melbourne Stars,Melbourne Stars,0,Western Australia Cricket Association Ground
+2,IR Bell,61.0,46,6,2,132.6086956521739,notOut,notOut,notOut,notOut,2016-12-23,Adelaide Strikers,Perth Scorchers,0,Western Australia Cricket Association Ground
+2,IR Bell,21.0,18,2,0,116.66666666666667,WER Somerville,"[""SNJ O'Keefe""]",caught,IR Bell,2016-12-27,Perth Scorchers,Sydney Sixers,0,Sydney Cricket Ground
+3,IR Bell,22.0,19,2,0,115.78947368421053,notOut,notOut,notOut,notOut,2016-12-29,Perth Scorchers,Perth Scorchers,0,Docklands Stadium
+1,IR Bell,45.0,39,2,2,115.38461538461537,CJ Green,['JS Lenton'],stumped,IR Bell,2017-01-01,Sydney Thunder,Perth Scorchers,0,Western Australia Cricket Association Ground
+2,IR Bell,11.0,9,2,0,122.22222222222223,MJ Swepson,['JJ Peirson'],caught,IR Bell,2017-01-05,Brisbane Heat,Brisbane Heat,0,Western Australia Cricket Association Ground
+3,IR Bell,14.0,16,1,0,87.5,MJ Swepson,['MT Steketee'],caught,IR Bell,2017-01-11,Perth Scorchers,Perth Scorchers,0,"Brisbane Cricket Ground, Woolloongabba"
+2,IR Bell,0.0,1,0,0,0.0,MA Beer,0,lbw,IR Bell,2017-01-14,Melbourne Stars,Melbourne Stars,0,Western Australia Cricket Association Ground
+4,IR Bell,26.0,16,2,1,162.5,notOut,notOut,notOut,notOut,2017-01-24,Melbourne Stars,Perth Scorchers,0,Western Australia Cricket Association Ground
+2,IR Bell,31.0,25,2,1,124.0,notOut,notOut,notOut,notOut,2017-01-28,Sydney Sixers,Perth Scorchers,0,Western Australia Cricket Association Ground
+9,JA Richardson,6.0,8,1,0,75.0,notOut,notOut,notOut,notOut,2016-12-27,Perth Scorchers,Sydney Sixers,0,Sydney Cricket Ground
+8,JM Mennie,2.0,7,0,0,28.57142857142857,SL Malinga,0,bowled,JM Mennie,2012-12-12,Melbourne Stars,Melbourne Stars,0,Western Australia Cricket Association Ground
+9,JP Behrendorff,2.0,4,0,0,50.0,notOut,notOut,notOut,notOut,2013-01-19,Brisbane Heat,Brisbane Heat,0,Western Australia Cricket Association Ground
+7,JP Behrendorff,8.0,12,1,0,66.66666666666666,AC McDermott,['CJ Gannon'],caught,JP Behrendorff,2013-12-22,Perth Scorchers,Brisbane Heat,0,"Brisbane Cricket Ground, Woolloongabba"
+7,JP Behrendorff,3.0,3,0,0,100.0,notOut,notOut,notOut,notOut,2013-12-26,Melbourne Renegades,Perth Scorchers,0,Western Australia Cricket Association Ground
+9,JP Behrendorff,15.0,9,2,0,166.66666666666669,notOut,notOut,notOut,notOut,2014-01-16,Adelaide Strikers,Perth Scorchers,0,Western Australia Cricket Association Ground
+8,JP Behrendorff,26.0,17,2,1,152.94117647058823,JW Hastings,"['CA Rose', 'PSP Handscomb', 'JW Hastings']",run out,AC Thomas,2014-01-27,Perth Scorchers,Melbourne Stars,0,Melbourne Cricket Ground
+9,JP Behrendorff,26.0,17,2,1,152.94117647058823,SM Boland,['CA Rose'],caught,JP Behrendorff,2014-01-27,Perth Scorchers,Melbourne Stars,0,Melbourne Cricket Ground
+9,JP Behrendorff,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2016-01-05,Perth Scorchers,Adelaide Strikers,0,Adelaide Oval
+7,JS Paris,13.0,15,1,0,86.66666666666667,B Laughlin,0,bowled,JS Paris,2016-01-05,Perth Scorchers,Adelaide Strikers,0,Adelaide Oval
+8,JS Paris,1.0,2,0,0,50.0,notOut,notOut,notOut,notOut,2016-01-22,Perth Scorchers,Melbourne Stars,0,Melbourne Cricket Ground
+6,L Ronchi,13.0,16,1,0,81.25,Naved-ul-Hasan,0,bowled,L Ronchi,2011-12-18,Hobart Hurricanes,Hobart Hurricanes,0,Western Australia Cricket Association Ground
+3,L Ronchi,8.0,10,0,0,80.0,notOut,notOut,notOut,notOut,2011-12-22,Perth Scorchers,Perth Scorchers,0,Docklands Stadium
+4,L Ronchi,2.0,3,0,0,66.66666666666666,MG Neser,['CD Hartley'],caught,L Ronchi,2011-12-29,Brisbane Heat,Perth Scorchers,0,Western Australia Cricket Association Ground
+4,L Ronchi,1.0,4,0,0,25.0,JP Faulkner,['CJ McKay'],caught,L Ronchi,2012-01-04,Perth Scorchers,Perth Scorchers,0,Melbourne Cricket Ground
+5,L Ronchi,0.0,1,0,0,0.0,AC Thomas,['CJ Ferguson'],caught,L Ronchi,2012-01-08,Adelaide Strikers,Perth Scorchers,0,Western Australia Cricket Association Ground
+5,L Ronchi,34.0,13,4,2,261.53846153846155,MC Henriques,"[""SNJ O'Keefe""]",caught,L Ronchi,2012-01-18,Perth Scorchers,Sydney Sixers,0,Sydney Cricket Ground
+4,L Ronchi,5.0,7,0,0,71.42857142857143,notOut,notOut,notOut,notOut,2012-01-21,Melbourne Stars,Perth Scorchers,0,Western Australia Cricket Association Ground
+1,L Ronchi,2.0,4,0,0,50.0,B Lee,['PM Nevill'],caught,L Ronchi,2012-01-28,Sydney Sixers,Sydney Sixers,0,Western Australia Cricket Association Ground
+2,M Klinger,49.0,33,7,0,148.4848484848485,KW Richardson,['TL Lawford'],caught,M Klinger,2014-12-22,Adelaide Strikers,Adelaide Strikers,0,Western Australia Cricket Association Ground
+1,M Klinger,105.0,61,7,4,172.1311475409836,notOut,notOut,notOut,notOut,2014-12-26,Melbourne Renegades,Perth Scorchers,0,Western Australia Cricket Association Ground
+1,M Klinger,16.0,15,3,0,106.66666666666667,SA Abbott,['MA Starc'],caught,M Klinger,2014-12-29,Perth Scorchers,Perth Scorchers,0,Sydney Cricket Ground
+1,M Klinger,10.0,6,2,0,166.66666666666669,NM Hauritz,0,bowled,M Klinger,2015-01-01,Sydney Thunder,Sydney Thunder,0,Western Australia Cricket Association Ground
+1,M Klinger,21.0,23,2,0,91.30434782608695,A Zampa,['J Botha'],caught,M Klinger,2015-01-06,Perth Scorchers,Perth Scorchers,0,Adelaide Oval
+1,M Klinger,10.0,12,2,0,83.33333333333334,RM Duffield,['A Flintoff'],caught,M Klinger,2015-01-08,Brisbane Heat,Perth Scorchers,0,Western Australia Cricket Association Ground
+1,M Klinger,6.0,13,0,0,46.15384615384615,TT Bresnan,['BR Dunk'],caught,M Klinger,2015-01-11,Perth Scorchers,Perth Scorchers,0,Bellerive Oval
+1,M Klinger,71.0,49,5,2,144.89795918367346,SM Boland,"['JM Bird', 'TIF Triffitt']",run out,M Klinger,2015-01-21,Perth Scorchers,Melbourne Stars,0,Melbourne Cricket Ground
+1,M Klinger,5.0,7,1,0,71.42857142857143,JW Hastings,['CJ McKay'],caught,M Klinger,2015-01-25,Melbourne Stars,Perth Scorchers,0,Western Australia Cricket Association Ground
+1,M Klinger,33.0,37,4,0,89.1891891891892,B Lee,['SA Abbott'],caught,M Klinger,2015-01-28,Sydney Sixers,Perth Scorchers,0,Manuka Oval
+0,M Klinger,19.0,18,3,0,105.55555555555556,TM Head,['MG Neser'],caught,M Klinger,2015-12-21,Adelaide Strikers,Adelaide Strikers,0,Western Australia Cricket Association Ground
+1,M Klinger,53.0,42,4,1,126.19047619047619,notOut,notOut,notOut,notOut,2015-12-26,Brisbane Heat,Perth Scorchers,0,Western Australia Cricket Association Ground
+0,M Klinger,28.0,23,3,1,121.73913043478262,SA Abbott,['WER Somerville'],caught,M Klinger,2016-01-02,Sydney Sixers,Perth Scorchers,0,Western Australia Cricket Association Ground
+2,M Klinger,15.0,12,2,0,125.0,JM Holland,0,bowled,M Klinger,2016-01-05,Perth Scorchers,Adelaide Strikers,0,Adelaide Oval
+0,M Klinger,0.0,3,0,0,0.0,AD Russell,0,lbw,M Klinger,2016-01-07,Perth Scorchers,Perth Scorchers,0,Sydney Showground Stadium
+1,M Klinger,36.0,29,5,0,124.13793103448276,notOut,notOut,notOut,notOut,2016-01-10,Perth Scorchers,Perth Scorchers,0,Bellerive Oval
+1,M Klinger,44.0,47,2,1,93.61702127659575,A Zampa,['MP Stoinis'],caught,M Klinger,2016-01-22,Perth Scorchers,Melbourne Stars,0,Melbourne Cricket Ground
+0,M Klinger,1.0,6,0,0,16.666666666666664,MG Neser,"[""LN O'Connor""]",caught,M Klinger,2016-12-23,Adelaide Strikers,Perth Scorchers,0,Western Australia Cricket Association Ground
+0,M Klinger,18.0,15,3,0,120.0,WER Somerville,['DE Bollinger'],caught,M Klinger,2016-12-27,Perth Scorchers,Sydney Sixers,0,Sydney Cricket Ground
+0,M Klinger,72.0,56,6,2,128.57142857142858,GB Hogg,['SP Narine'],run out,IR Bell,2016-12-29,Perth Scorchers,Perth Scorchers,0,Docklands Stadium
+1,M Klinger,72.0,56,6,2,128.57142857142858,SP Narine,0,caught and bowled,M Klinger,2016-12-29,Perth Scorchers,Perth Scorchers,0,Docklands Stadium
+2,M Klinger,38.0,33,5,0,115.15151515151516,SR Watson,['PJ Cummins'],caught,M Klinger,2017-01-01,Sydney Thunder,Perth Scorchers,0,Western Australia Cricket Association Ground
+0,M Klinger,14.0,12,1,1,116.66666666666667,JD Wildermuth,['MT Steketee'],caught,M Klinger,2017-01-05,Brisbane Heat,Brisbane Heat,0,Western Australia Cricket Association Ground
+1,M Klinger,81.0,57,6,2,142.10526315789474,MT Steketee,['NJ Reardon'],caught,M Klinger,2017-01-11,Perth Scorchers,Perth Scorchers,0,"Brisbane Cricket Ground, Woolloongabba"
+1,M Klinger,3.0,7,0,0,42.857142857142854,BW Hilfenhaus,0,bowled,M Klinger,2017-01-14,Melbourne Stars,Melbourne Stars,0,Western Australia Cricket Association Ground
+1,M Klinger,29.0,29,3,0,100.0,CJ Boyce,['JK Reed'],caught,M Klinger,2017-01-21,Perth Scorchers,Perth Scorchers,0,Bellerive Oval
+1,M Klinger,7.0,5,0,1,140.0,DJ Worrall,['DJ Hussey'],caught,M Klinger,2017-01-24,Melbourne Stars,Perth Scorchers,0,Western Australia Cricket Association Ground
+1,M Klinger,71.0,49,5,5,144.89795918367346,notOut,notOut,notOut,notOut,2017-01-28,Sydney Sixers,Perth Scorchers,0,Western Australia Cricket Association Ground
+9,MA Beer,1.0,3,0,0,33.33333333333333,Naved-ul-Hasan,['Naved-ul-Hasan'],run out,MA Beer,2011-12-18,Hobart Hurricanes,Hobart Hurricanes,0,Western Australia Cricket Association Ground
+9,MA Beer,2.0,2,0,0,100.0,notOut,notOut,notOut,notOut,2011-12-29,Brisbane Heat,Perth Scorchers,0,Western Australia Cricket Association Ground
+9,MA Beer,0.0,1,0,0,0.0,JP Faulkner,0,bowled,MA Beer,2012-01-04,Perth Scorchers,Perth Scorchers,0,Melbourne Cricket Ground
+10,MA Beer,7.0,14,0,0,50.0,LJ Wright,['GJ Maxwell'],caught,MA Beer,2012-12-12,Melbourne Stars,Melbourne Stars,0,Western Australia Cricket Association Ground
+10,MA Beer,2.0,2,0,0,100.0,notOut,notOut,notOut,notOut,2013-01-19,Brisbane Heat,Brisbane Heat,0,Western Australia Cricket Association Ground
+0,MA Carberry,27.0,36,2,0,75.0,B Laughlin,['TP Ludeman'],caught,MA Carberry,2014-12-22,Adelaide Strikers,Adelaide Strikers,0,Western Australia Cricket Association Ground
+2,MA Carberry,17.0,15,1,1,113.33333333333333,DJ Bravo,['AJ Finch'],caught,MA Carberry,2014-12-26,Melbourne Renegades,Perth Scorchers,0,Western Australia Cricket Association Ground
+3,MA Carberry,5.0,5,1,0,100.0,MC Henriques,['MC Henriques'],run out,MA Carberry,2014-12-29,Perth Scorchers,Perth Scorchers,0,Sydney Cricket Ground
+3,MA Carberry,69.0,52,8,1,132.69230769230768,notOut,notOut,notOut,notOut,2015-01-01,Sydney Thunder,Sydney Thunder,0,Western Australia Cricket Association Ground
+2,MA Carberry,11.0,17,1,0,64.70588235294117,A Zampa,['TP Ludeman'],caught,MA Carberry,2015-01-06,Perth Scorchers,Perth Scorchers,0,Adelaide Oval
+3,MA Carberry,77.0,38,6,6,202.6315789473684,notOut,notOut,notOut,notOut,2015-01-08,Brisbane Heat,Perth Scorchers,0,Western Australia Cricket Association Ground
+3,MA Carberry,1.0,9,0,0,11.11111111111111,CJ Boyce,['BW Hilfenhaus'],caught,MA Carberry,2015-01-11,Perth Scorchers,Perth Scorchers,0,Bellerive Oval
+3,MA Carberry,50.0,37,6,1,135.13513513513513,MA Beer,['JW Hastings'],caught,MA Carberry,2015-01-25,Melbourne Stars,Perth Scorchers,0,Western Australia Cricket Association Ground
+3,MA Carberry,9.0,7,1,0,128.57142857142858,notOut,notOut,notOut,notOut,2015-01-28,Sydney Sixers,Perth Scorchers,0,Manuka Oval
+3,MA Carberry,5.0,12,0,0,41.66666666666667,AU Rashid,0,bowled,MA Carberry,2015-12-21,Adelaide Strikers,Adelaide Strikers,0,Western Australia Cricket Association Ground
+2,MA Carberry,62.0,35,9,1,177.14285714285714,DJG Sammy,"['SL Rainbird', 'DJG Sammy']",run out,M Klinger,2016-01-10,Perth Scorchers,Perth Scorchers,0,Bellerive Oval
+3,MA Carberry,62.0,35,9,1,177.14285714285714,SW Tait,['TD Paine'],caught,MA Carberry,2016-01-10,Perth Scorchers,Perth Scorchers,0,Bellerive Oval
+2,MA Carberry,13.0,12,2,0,108.33333333333333,DJ Worrall,['PSP Handscomb'],caught,MA Carberry,2016-01-22,Perth Scorchers,Melbourne Stars,0,Melbourne Cricket Ground
+3,MEK Hussey,0.0,6,0,0,0.0,RJG Lockyear,['B Laughlin'],caught,MEK Hussey,2011-12-18,Hobart Hurricanes,Hobart Hurricanes,0,Western Australia Cricket Association Ground
+2,MEK Hussey,4.0,9,0,0,44.44444444444444,GD Putland,['KW Richardson'],caught,MEK Hussey,2012-12-09,Adelaide Strikers,Adelaide Strikers,0,Western Australia Cricket Association Ground
+5,MEK Hussey,10.0,9,1,0,111.11111111111111,AC McDermott,['DT Christian'],caught,MEK Hussey,2013-01-19,Brisbane Heat,Brisbane Heat,0,Western Australia Cricket Association Ground
+4,MEK Hussey,21.0,12,1,1,175.0,notOut,notOut,notOut,notOut,2013-02-05,Melbourne Stars,Perth Scorchers,0,Western Australia Cricket Association Ground
+1,MJ North,16.0,18,1,0,88.88888888888889,JJ Krejza,['RJG Lockyear'],caught,MJ North,2011-12-18,Hobart Hurricanes,Hobart Hurricanes,0,Western Australia Cricket Association Ground
+1,MJ North,40.0,30,4,2,133.33333333333331,RE van der Merwe,0,bowled,MJ North,2011-12-29,Brisbane Heat,Perth Scorchers,0,Western Australia Cricket Association Ground
+1,MJ North,5.0,7,0,0,71.42857142857143,JM Bird,0,bowled,MJ North,2012-01-04,Perth Scorchers,Perth Scorchers,0,Melbourne Cricket Ground
+1,MJ North,70.0,53,6,2,132.0754716981132,AC Thomas,"['BG Drew', 'AJ Crosthwaite']",run out,MJ North,2012-01-08,Adelaide Strikers,Perth Scorchers,0,Western Australia Cricket Association Ground
+1,MJ North,59.0,54,7,0,109.25925925925925,SNJ O'Keefe,['MC Henriques'],run out,SM Katich,2012-01-18,Perth Scorchers,Sydney Sixers,0,Sydney Cricket Ground
+1,MJ North,23.0,20,1,1,114.99999999999999,JM Bird,['DJ Hussey'],caught,MJ North,2012-01-21,Melbourne Stars,Perth Scorchers,0,Western Australia Cricket Association Ground
+3,MJ North,22.0,24,3,0,91.66666666666666,SCG MacGill,"[""SNJ O'Keefe""]",caught,MJ North,2012-01-28,Sydney Sixers,Sydney Sixers,0,Western Australia Cricket Association Ground
+2,MJ North,1.0,5,0,0,20.0,SL Malinga,0,bowled,MJ North,2012-12-12,Melbourne Stars,Melbourne Stars,0,Western Australia Cricket Association Ground
+2,MJ North,23.0,35,3,0,65.71428571428571,SNJ O'Keefe,['BJ Haddin'],caught,MJ North,2012-12-16,Perth Scorchers,Perth Scorchers,0,Sydney Cricket Ground
+2,MJ North,39.0,32,3,0,121.875,notOut,notOut,notOut,notOut,2013-01-04,Sydney Thunder,Perth Scorchers,0,Western Australia Cricket Association Ground
+5,MJ North,7.0,3,0,1,233.33333333333334,notOut,notOut,notOut,notOut,2013-01-10,Perth Scorchers,Perth Scorchers,0,Adelaide Oval
+2,MJ North,24.0,24,1,1,100.0,DT Christian,['PJ Forrest'],caught,MJ North,2013-01-19,Brisbane Heat,Brisbane Heat,0,Western Australia Cricket Association Ground
+4,MP Stoinis,9.0,8,1,0,112.5,SL Malinga,['RJ Quiney'],caught,MP Stoinis,2012-12-12,Melbourne Stars,Melbourne Stars,0,Western Australia Cricket Association Ground
+0,MP Stoinis,1.0,4,0,0,25.0,KAJ Roach,['NM Hauritz'],caught,MP Stoinis,2013-01-19,Brisbane Heat,Brisbane Heat,0,Western Australia Cricket Association Ground
+5,MR Marsh,35.0,38,2,1,92.10526315789474,Naved-ul-Hasan,['B Laughlin'],caught,MR Marsh,2011-12-18,Hobart Hurricanes,Hobart Hurricanes,0,Western Australia Cricket Association Ground
+2,MR Marsh,18.0,19,0,1,94.73684210526315,SM Harwood,0,bowled,MR Marsh,2011-12-22,Perth Scorchers,Perth Scorchers,0,Docklands Stadium
+2,MR Marsh,33.0,22,2,2,150.0,MG Neser,['ML Hayden'],caught,MR Marsh,2011-12-29,Brisbane Heat,Perth Scorchers,0,Western Australia Cricket Association Ground
+3,MR Marsh,31.0,28,0,2,110.71428571428572,SK Warne,['CL White'],caught,MR Marsh,2012-01-04,Perth Scorchers,Perth Scorchers,0,Melbourne Cricket Ground
+2,MR Marsh,10.0,13,1,0,76.92307692307693,BG Drew,['AJ Crosthwaite'],caught,MR Marsh,2012-01-08,Adelaide Strikers,Perth Scorchers,0,Western Australia Cricket Association Ground
+2,MR Marsh,0.0,1,0,0,0.0,MA Starc,0,bowled,MR Marsh,2012-01-18,Perth Scorchers,Sydney Sixers,0,Sydney Cricket Ground
+3,MR Marsh,41.0,22,1,4,186.36363636363635,notOut,notOut,notOut,notOut,2012-01-21,Melbourne Stars,Perth Scorchers,0,Western Australia Cricket Association Ground
+2,MR Marsh,77.0,60,5,4,128.33333333333334,notOut,notOut,notOut,notOut,2012-01-28,Sydney Sixers,Sydney Sixers,0,Western Australia Cricket Association Ground
+4,MR Marsh,57.0,36,5,1,158.33333333333331,notOut,notOut,notOut,notOut,2013-12-22,Perth Scorchers,Brisbane Heat,0,"Brisbane Cricket Ground, Woolloongabba"
+2,MR Marsh,16.0,29,0,0,55.172413793103445,NJ Rimmington,0,bowled,MR Marsh,2013-12-26,Melbourne Renegades,Perth Scorchers,0,Western Australia Cricket Association Ground
+4,MR Marsh,34.0,29,2,1,117.24137931034481,notOut,notOut,notOut,notOut,2014-01-03,Sydney Thunder,Perth Scorchers,0,Western Australia Cricket Association Ground
+5,MR Marsh,33.0,32,2,1,103.125,B Laughlin,"['AC Blizzard', 'B Laughlin']",run out,CJ Simmons,2014-01-07,Hobart Hurricanes,Perth Scorchers,0,Western Australia Cricket Association Ground
+6,MR Marsh,33.0,32,2,1,103.125,B Laughlin,['BR Dunk'],caught,MR Marsh,2014-01-07,Hobart Hurricanes,Perth Scorchers,0,Western Australia Cricket Association Ground
+1,MR Marsh,0.0,2,0,0,0.0,B Lee,['DLR Smith'],caught,MR Marsh,2014-01-10,Perth Scorchers,0,tie,Sydney Cricket Ground
+5,MR Marsh,7.0,8,0,0,87.5,notOut,notOut,notOut,notOut,2014-01-16,Adelaide Strikers,Perth Scorchers,0,Western Australia Cricket Association Ground
+2,MR Marsh,15.0,14,3,0,107.14285714285714,JW Hastings,['LJ Wright'],caught,MR Marsh,2014-01-27,Perth Scorchers,Melbourne Stars,0,Melbourne Cricket Ground
+4,MR Marsh,3.0,4,0,0,75.0,MA Starc,['DLR Smith'],caught,MR Marsh,2014-02-05,Perth Scorchers,Perth Scorchers,0,Sydney Cricket Ground
+4,MR Marsh,37.0,13,2,4,284.61538461538464,XJ Doherty,0,bowled,MR Marsh,2014-02-07,Hobart Hurricanes,Perth Scorchers,0,Western Australia Cricket Association Ground
+4,MR Marsh,1.0,2,0,0,50.0,AU Rashid,0,bowled,MR Marsh,2015-12-21,Adelaide Strikers,Adelaide Strikers,0,Western Australia Cricket Association Ground
+3,MR Marsh,31.0,19,2,2,163.1578947368421,CJ Jordan,0,caught and bowled,MR Marsh,2016-12-23,Adelaide Strikers,Perth Scorchers,0,Western Australia Cricket Association Ground
+5,MR Marsh,31.0,30,2,0,103.33333333333334,notOut,notOut,notOut,notOut,2016-12-27,Perth Scorchers,Sydney Sixers,0,Sydney Cricket Ground
+4,MR Marsh,34.0,23,4,0,147.82608695652172,AJ Finch,['TLW Cooper'],caught,MR Marsh,2016-12-29,Perth Scorchers,Perth Scorchers,0,Docklands Stadium
+3,MR Marsh,44.0,29,0,3,151.72413793103448,CJ Green,0,retired hurt,AC Voges,2017-01-01,Sydney Thunder,Perth Scorchers,0,Western Australia Cricket Association Ground
+3,MR Marsh,70.0,42,5,3,166.66666666666669,MT Steketee,0,caught and bowled,MR Marsh,2017-01-05,Brisbane Heat,Brisbane Heat,0,Western Australia Cricket Association Ground
+1,MS Harris,26.0,19,3,1,136.8421052631579,J Botha,['AI Ross'],caught,MS Harris,2014-12-22,Adelaide Strikers,Adelaide Strikers,0,Western Australia Cricket Association Ground
+0,MS Harris,53.0,41,5,1,129.26829268292684,MW Short,['AJ Finch'],caught,MS Harris,2014-12-26,Melbourne Renegades,Perth Scorchers,0,Western Australia Cricket Association Ground
+0,MS Harris,36.0,26,4,1,138.46153846153845,LA Doran,['DE Bollinger'],caught,MS Harris,2014-12-29,Perth Scorchers,Perth Scorchers,0,Sydney Cricket Ground
+0,MS Harris,14.0,13,3,0,107.6923076923077,JK Lalor,0,bowled,MS Harris,2015-01-01,Sydney Thunder,Sydney Thunder,0,Western Australia Cricket Association Ground
+0,MS Harris,9.0,14,1,0,64.28571428571429,B Laughlin,['A Zampa'],caught,MS Harris,2015-01-06,Perth Scorchers,Perth Scorchers,0,Adelaide Oval
+0,MS Harris,6.0,11,1,0,54.54545454545454,BCJ Cutting,['RM Duffield'],caught,MS Harris,2015-01-08,Brisbane Heat,Perth Scorchers,0,Western Australia Cricket Association Ground
+0,MS Harris,20.0,12,3,0,166.66666666666669,JK Reed,['MW Hill'],caught,MS Harris,2015-01-11,Perth Scorchers,Perth Scorchers,0,Bellerive Oval
+0,MS Harris,36.0,23,4,2,156.52173913043478,AL Fekete,['CA Lynn'],caught,MS Harris,2015-12-26,Brisbane Heat,Perth Scorchers,0,Western Australia Cricket Association Ground
+2,MS Harris,15.0,11,2,0,136.36363636363635,notOut,notOut,notOut,notOut,2016-01-02,Sydney Sixers,Perth Scorchers,0,Western Australia Cricket Association Ground
+1,MS Harris,4.0,4,1,0,100.0,B Stanlake,['KW Richardson'],caught,MS Harris,2016-01-05,Perth Scorchers,Adelaide Strikers,0,Adelaide Oval
+1,MS Harris,1.0,4,0,0,25.0,CJ McKay,0,caught and bowled,MS Harris,2016-01-07,Perth Scorchers,Perth Scorchers,0,Sydney Showground Stadium
+0,MS Harris,12.0,15,2,0,80.0,CA Rose,['TD Paine'],stumped,MS Harris,2016-01-10,Perth Scorchers,Perth Scorchers,0,Bellerive Oval
+0,MS Harris,1.0,4,0,0,25.0,DJ Worrall,['RJ Quiney'],caught,MS Harris,2016-01-22,Perth Scorchers,Melbourne Stars,0,Melbourne Cricket Ground
+8,NJ Rimmington,22.0,14,0,2,157.14285714285714,XJ Doherty,['TR Birt'],caught,NJ Rimmington,2011-12-18,Hobart Hurricanes,Hobart Hurricanes,0,Western Australia Cricket Association Ground
+5,NJ Rimmington,7.0,10,0,0,70.0,RJ Harris,0,bowled,NJ Rimmington,2011-12-29,Brisbane Heat,Perth Scorchers,0,Western Australia Cricket Association Ground
+7,NJ Rimmington,0.0,1,0,0,0.0,JP Faulkner,['MS Wade'],run out,NM Coulter-Nile,2012-01-04,Perth Scorchers,Perth Scorchers,0,Melbourne Cricket Ground
+6,NJ Rimmington,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2012-01-08,Adelaide Strikers,Perth Scorchers,0,Western Australia Cricket Association Ground
+6,NJ Rimmington,4.0,2,1,0,200.0,notOut,notOut,notOut,notOut,2012-01-28,Sydney Sixers,Sydney Sixers,0,Western Australia Cricket Association Ground
+7,NM Coulter-Nile,7.0,8,1,0,87.5,AC McDermott,['CD Hartley'],run out,GB Hogg,2011-12-29,Brisbane Heat,Perth Scorchers,0,Western Australia Cricket Association Ground
+6,NM Coulter-Nile,5.0,13,0,0,38.46153846153847,notOut,notOut,notOut,notOut,2012-01-04,Perth Scorchers,Perth Scorchers,0,Melbourne Cricket Ground
+6,NM Coulter-Nile,11.0,14,1,0,78.57142857142857,B Lee,"['SPD Smith', 'B Lee']",run out,MJ North,2012-01-18,Perth Scorchers,Sydney Sixers,0,Sydney Cricket Ground
+4,NM Coulter-Nile,14.0,5,1,1,280.0,GD Putland,['PJ Hughes'],caught,NM Coulter-Nile,2012-12-09,Adelaide Strikers,Adelaide Strikers,0,Western Australia Cricket Association Ground
+7,NM Coulter-Nile,0.0,2,0,0,0.0,SL Malinga,0,lbw,NM Coulter-Nile,2012-12-12,Melbourne Stars,Melbourne Stars,0,Western Australia Cricket Association Ground
+2,NM Coulter-Nile,23.0,6,2,2,383.33333333333337,notOut,notOut,notOut,notOut,2012-12-18,Perth Scorchers,Perth Scorchers,0,"Brisbane Cricket Ground, Woolloongabba"
+3,NM Coulter-Nile,0.0,1,0,0,0.0,WD Sheridan,['PM Nevill'],run out,AC Voges,2012-12-29,Melbourne Renegades,Perth Scorchers,0,Western Australia Cricket Association Ground
+3,NM Coulter-Nile,3.0,5,0,0,60.0,notOut,notOut,notOut,notOut,2013-01-10,Perth Scorchers,Perth Scorchers,0,Adelaide Oval
+4,NM Coulter-Nile,16.0,14,0,1,114.28571428571428,CA Lynn,['NM Hauritz'],caught,NM Coulter-Nile,2013-01-19,Brisbane Heat,Brisbane Heat,0,Western Australia Cricket Association Ground
+2,NM Coulter-Nile,0.0,1,0,0,0.0,JW Hastings,['BJ Hodge'],caught,NM Coulter-Nile,2013-02-05,Melbourne Stars,Perth Scorchers,0,Western Australia Cricket Association Ground
+6,NM Coulter-Nile,4.0,4,1,0,100.0,BCJ Cutting,['AC McDermott'],caught,NM Coulter-Nile,2013-12-22,Perth Scorchers,Brisbane Heat,0,"Brisbane Cricket Ground, Woolloongabba"
+8,NM Coulter-Nile,2.0,6,0,0,33.33333333333333,DE Bollinger,['B Laughlin'],caught,NM Coulter-Nile,2014-01-07,Hobart Hurricanes,Perth Scorchers,0,Western Australia Cricket Association Ground
+5,NM Coulter-Nile,0.0,2,0,0,0.0,notOut,notOut,notOut,notOut,2014-02-05,Perth Scorchers,Perth Scorchers,0,Sydney Cricket Ground
+5,NM Coulter-Nile,4.0,3,0,0,133.33333333333331,notOut,notOut,notOut,notOut,2014-02-07,Hobart Hurricanes,Perth Scorchers,0,Western Australia Cricket Association Ground
+6,NM Coulter-Nile,22.0,10,2,2,220.00000000000003,JW Hastings,['TIF Triffitt'],caught,NM Coulter-Nile,2015-01-25,Melbourne Stars,Perth Scorchers,0,Western Australia Cricket Association Ground
+5,NM Coulter-Nile,7.0,3,0,1,233.33333333333334,B Lee,0,bowled,NM Coulter-Nile,2015-01-28,Sydney Sixers,Perth Scorchers,0,Manuka Oval
+7,NM Coulter-Nile,18.0,8,0,2,225.0,notOut,notOut,notOut,notOut,2015-12-21,Adelaide Strikers,Adelaide Strikers,0,Western Australia Cricket Association Ground
+4,PD Collingwood,4.0,14,0,0,28.57142857142857,B Laughlin,0,lbw,PD Collingwood,2011-12-18,Hobart Hurricanes,Hobart Hurricanes,0,Western Australia Cricket Association Ground
+6,PD Collingwood,14.0,10,2,0,140.0,DT Christian,0,lbw,PD Collingwood,2011-12-29,Brisbane Heat,Perth Scorchers,0,Western Australia Cricket Association Ground
+5,PD Collingwood,12.0,9,0,0,133.33333333333331,JP Faulkner,['RJ Quiney'],caught,PD Collingwood,2012-01-04,Perth Scorchers,Perth Scorchers,0,Melbourne Cricket Ground
+3,PD Collingwood,18.0,7,1,2,257.14285714285717,JM Muirhead,['TLW Cooper'],caught,PD Collingwood,2012-01-08,Adelaide Strikers,Perth Scorchers,0,Western Australia Cricket Association Ground
+3,PD Collingwood,2.0,3,0,0,66.66666666666666,MA Starc,0,lbw,PD Collingwood,2012-01-18,Perth Scorchers,Sydney Sixers,0,Sydney Cricket Ground
+2,PD Collingwood,31.0,26,3,0,119.23076923076923,CJ McKay,['GJ Bailey'],caught,PD Collingwood,2012-01-21,Melbourne Stars,Perth Scorchers,0,Western Australia Cricket Association Ground
+4,PD Collingwood,32.0,25,4,0,128.0,MA Starc,['SPD Smith'],caught,PD Collingwood,2012-01-28,Sydney Sixers,Sydney Sixers,0,Western Australia Cricket Association Ground
+8,PJ Cummins,3.0,6,0,0,50.0,SW Tait,['J Botha'],caught,PJ Cummins,2014-01-16,Adelaide Strikers,Perth Scorchers,0,Western Australia Cricket Association Ground
+7,PJ Cummins,7.0,4,1,0,175.0,DJ Worrall,['LJ Wright'],caught,PJ Cummins,2014-01-27,Perth Scorchers,Melbourne Stars,0,Melbourne Cricket Ground
+1,SE Marsh,99.0,54,9,5,183.33333333333331,notOut,notOut,notOut,notOut,2011-12-22,Perth Scorchers,Perth Scorchers,0,Docklands Stadium
+0,SE Marsh,18.0,20,3,0,90.0,MA Starc,0,bowled,SE Marsh,2012-01-18,Perth Scorchers,Sydney Sixers,0,Sydney Cricket Ground
+0,SE Marsh,57.0,47,3,3,121.27659574468086,J Botha,['M Klinger'],caught,SE Marsh,2012-12-09,Adelaide Strikers,Adelaide Strikers,0,Western Australia Cricket Association Ground
+0,SE Marsh,26.0,35,3,0,74.28571428571429,BMAJ Mendis,['DLR Smith'],caught,SE Marsh,2012-12-16,Perth Scorchers,Perth Scorchers,0,Sydney Cricket Ground
+0,SE Marsh,19.0,11,1,1,172.72727272727272,notOut,notOut,notOut,notOut,2012-12-18,Perth Scorchers,Perth Scorchers,0,"Brisbane Cricket Ground, Woolloongabba"
+0,SE Marsh,85.0,53,3,5,160.37735849056605,WD Sheridan,['MN Samuels'],caught,SE Marsh,2012-12-29,Melbourne Renegades,Perth Scorchers,0,Western Australia Cricket Association Ground
+0,SE Marsh,56.0,49,6,2,114.28571428571428,notOut,notOut,notOut,notOut,2013-01-04,Sydney Thunder,Perth Scorchers,0,Western Australia Cricket Association Ground
+0,SE Marsh,79.0,62,8,2,127.41935483870968,KW Richardson,['NM Lyon'],caught,SE Marsh,2013-01-10,Perth Scorchers,Perth Scorchers,0,Adelaide Oval
+1,SE Marsh,16.0,25,2,0,64.0,BCJ Cutting,['NM Hauritz'],caught,SE Marsh,2013-01-19,Brisbane Heat,Brisbane Heat,0,Western Australia Cricket Association Ground
+0,SE Marsh,68.0,41,8,3,165.85365853658536,JP Faulkner,['BJ Hodge'],caught,SE Marsh,2013-02-05,Melbourne Stars,Perth Scorchers,0,Western Australia Cricket Association Ground
+0,SE Marsh,37.0,30,3,0,123.33333333333334,BCJ Cutting,['DT Christian'],caught,SE Marsh,2013-12-22,Perth Scorchers,Brisbane Heat,0,"Brisbane Cricket Ground, Woolloongabba"
+0,SE Marsh,31.0,34,2,0,91.17647058823529,WD Sheridan,['AJ Doolan'],caught,SE Marsh,2013-12-26,Melbourne Renegades,Perth Scorchers,0,Western Australia Cricket Association Ground
+1,SE Marsh,20.0,15,3,0,133.33333333333331,CP Tremain,['TM Dilshan'],caught,SE Marsh,2014-01-03,Sydney Thunder,Perth Scorchers,0,Western Australia Cricket Association Ground
+0,SE Marsh,40.0,33,4,1,121.21212121212122,XJ Doherty,"['DE Bollinger', 'XJ Doherty']",run out,SM Katich,2014-01-07,Hobart Hurricanes,Perth Scorchers,0,Western Australia Cricket Association Ground
+1,SE Marsh,40.0,33,4,1,121.21212121212122,BW Hilfenhaus,['TD Paine'],caught,SE Marsh,2014-01-07,Hobart Hurricanes,Perth Scorchers,0,Western Australia Cricket Association Ground
+2,SE Marsh,63.0,46,2,3,136.95652173913044,notOut,notOut,notOut,notOut,2014-02-07,Hobart Hurricanes,Perth Scorchers,0,Western Australia Cricket Association Ground
+0,SE Marsh,79.0,51,8,3,154.90196078431373,MA Beer,['CL White'],caught,SE Marsh,2015-01-21,Perth Scorchers,Melbourne Stars,0,Melbourne Cricket Ground
+0,SE Marsh,35.0,34,2,0,102.94117647058823,MA Beer,['JM Bird'],caught,SE Marsh,2015-01-25,Melbourne Stars,Perth Scorchers,0,Western Australia Cricket Association Ground
+0,SE Marsh,73.0,60,3,3,121.66666666666666,NM Lyon,['SA Abbott'],caught,SE Marsh,2015-01-28,Sydney Sixers,Perth Scorchers,0,Manuka Oval
+1,SE Marsh,47.0,36,4,2,130.55555555555557,MG Neser,['JM Holland'],caught,SE Marsh,2015-12-21,Adelaide Strikers,Adelaide Strikers,0,Western Australia Cricket Association Ground
+1,SE Marsh,63.0,55,8,3,114.54545454545455,notOut,notOut,notOut,notOut,2016-01-02,Sydney Sixers,Perth Scorchers,0,Western Australia Cricket Association Ground
+0,SE Marsh,4.0,5,1,0,80.0,B Stanlake,['TP Ludeman'],caught,SE Marsh,2016-01-05,Perth Scorchers,Adelaide Strikers,0,Adelaide Oval
+2,SE Marsh,28.0,22,2,2,127.27272727272727,AB McDonald,['JH Kallis'],caught,SE Marsh,2016-01-07,Perth Scorchers,Perth Scorchers,0,Sydney Showground Stadium
+1,SE Marsh,8.0,11,1,0,72.72727272727273,DE Bollinger,['SA Abbott'],caught,SE Marsh,2016-12-27,Perth Scorchers,Sydney Sixers,0,Sydney Cricket Ground
+2,SE Marsh,7.0,15,1,0,46.666666666666664,SP Narine,['CP Tremain'],caught,SE Marsh,2016-12-29,Perth Scorchers,Perth Scorchers,0,Docklands Stadium
+0,SE Marsh,4.0,5,1,0,80.0,CJ McKay,['BJ Rohrer'],caught,SE Marsh,2017-01-01,Sydney Thunder,Perth Scorchers,0,Western Australia Cricket Association Ground
+1,SE Marsh,32.0,33,4,0,96.96969696969697,MJ Swepson,['ND Buchanan'],caught,SE Marsh,2017-01-05,Brisbane Heat,Brisbane Heat,0,Western Australia Cricket Association Ground
+0,SE Marsh,8.0,6,1,0,133.33333333333331,MT Steketee,['JD Wildermuth'],caught,SE Marsh,2017-01-11,Perth Scorchers,Perth Scorchers,0,"Brisbane Cricket Ground, Woolloongabba"
+0,SE Marsh,8.0,12,1,0,66.66666666666666,SM Boland,['MA Beer'],caught,SE Marsh,2017-01-14,Melbourne Stars,Melbourne Stars,0,Western Australia Cricket Association Ground
+2,SE Marsh,57.0,34,7,2,167.64705882352942,SCJ Broad,['TD Paine'],caught,SE Marsh,2017-01-21,Perth Scorchers,Perth Scorchers,0,Bellerive Oval
+2,SE Marsh,56.0,45,8,0,124.44444444444444,notOut,notOut,notOut,notOut,2017-01-24,Melbourne Stars,Perth Scorchers,0,Western Australia Cricket Association Ground
+2,SM Katich,8.0,9,1,0,88.88888888888889,BW Hilfenhaus,['TIF Triffitt'],caught,SM Katich,2011-12-18,Hobart Hurricanes,Hobart Hurricanes,0,Western Australia Cricket Association Ground
+3,SM Katich,9.0,13,0,0,69.23076923076923,NM Hauritz,0,bowled,SM Katich,2011-12-29,Brisbane Heat,Perth Scorchers,0,Western Australia Cricket Association Ground
+2,SM Katich,10.0,8,1,0,125.0,DJ Hussey,['CL White'],caught,SM Katich,2012-01-04,Perth Scorchers,Perth Scorchers,0,Melbourne Cricket Ground
+4,SM Katich,15.0,7,2,0,214.28571428571428,notOut,notOut,notOut,notOut,2012-01-08,Adelaide Strikers,Perth Scorchers,0,Western Australia Cricket Association Ground
+4,SM Katich,31.0,25,3,1,124.0,notOut,notOut,notOut,notOut,2012-01-18,Perth Scorchers,Sydney Sixers,0,Sydney Cricket Ground
+5,SM Katich,12.0,7,2,0,171.42857142857142,MA Starc,['NJ Maddinson'],caught,SM Katich,2012-01-28,Sydney Sixers,Sydney Sixers,0,Western Australia Cricket Association Ground
+5,SM Katich,8.0,10,0,0,80.0,notOut,notOut,notOut,notOut,2012-12-09,Adelaide Strikers,Adelaide Strikers,0,Western Australia Cricket Association Ground
+1,SM Katich,0.0,4,0,0,0.0,JP Faulkner,['DJ Hussey'],caught,SM Katich,2012-12-12,Melbourne Stars,Melbourne Stars,0,Western Australia Cricket Association Ground
+4,SM Katich,8.0,4,0,1,200.0,notOut,notOut,notOut,notOut,2012-12-16,Perth Scorchers,Perth Scorchers,0,Sydney Cricket Ground
+6,SM Katich,0.0,2,0,0,0.0,KAJ Roach,['CJM Sabburg'],caught,SM Katich,2013-01-19,Brisbane Heat,Brisbane Heat,0,Western Australia Cricket Association Ground
+1,SM Katich,10.0,12,1,0,83.33333333333334,AC McDermott,['DL Vettori'],caught,SM Katich,2013-12-22,Perth Scorchers,Brisbane Heat,0,"Brisbane Cricket Ground, Woolloongabba"
+1,SM Katich,29.0,20,5,0,145.0,TLW Cooper,['PM Nevill'],caught,SM Katich,2013-12-26,Melbourne Renegades,Perth Scorchers,0,Western Australia Cricket Association Ground
+2,SM Katich,75.0,44,7,2,170.45454545454547,GS Sandhu,['CP Tremain'],caught,SM Katich,2014-01-03,Sydney Thunder,Perth Scorchers,0,Western Australia Cricket Association Ground
+2,SM Katich,22.0,20,1,1,110.00000000000001,notOut,notOut,notOut,notOut,2014-01-07,Hobart Hurricanes,Perth Scorchers,0,Western Australia Cricket Association Ground
+3,SM Katich,71.0,56,7,0,126.78571428571428,JR Hazlewood,['DLR Smith'],caught,SM Katich,2014-01-10,Perth Scorchers,0,tie,Sydney Cricket Ground
+1,SM Katich,9.0,8,2,0,112.5,KW Richardson,0,bowled,SM Katich,2014-01-16,Adelaide Strikers,Perth Scorchers,0,Western Australia Cricket Association Ground
+5,SM Katich,30.0,23,3,0,130.43478260869566,CA Rose,['Mohammad Hafeez'],caught,SM Katich,2014-01-27,Perth Scorchers,Melbourne Stars,0,Melbourne Cricket Ground
+1,SM Katich,26.0,22,4,1,118.18181818181819,JR Hazlewood,['B Lee'],caught,SM Katich,2014-02-05,Perth Scorchers,Perth Scorchers,0,Sydney Cricket Ground
+1,SM Katich,6.0,9,0,0,66.66666666666666,AD Mascarenhas,['BR Dunk'],caught,SM Katich,2014-02-07,Hobart Hurricanes,Perth Scorchers,0,Western Australia Cricket Association Ground
+2,SM Whiteman,6.0,7,1,0,85.71428571428571,AC McDermott,0,bowled,SM Whiteman,2013-12-22,Perth Scorchers,Brisbane Heat,0,"Brisbane Cricket Ground, Woolloongabba"
+3,SM Whiteman,4.0,4,0,0,100.0,M Muralitharan,['BJ Rohrer'],caught,SM Whiteman,2013-12-26,Melbourne Renegades,Perth Scorchers,0,Western Australia Cricket Association Ground
+9,SM Whiteman,9.0,4,1,0,225.0,DE Bollinger,"['JW Wells', 'TD Paine']",run out,SM Whiteman,2014-01-07,Hobart Hurricanes,Perth Scorchers,0,Western Australia Cricket Association Ground
+2,SM Whiteman,53.0,51,3,1,103.921568627451,B Lee,0,bowled,SM Whiteman,2014-01-10,Perth Scorchers,0,tie,Sydney Cricket Ground
+2,SM Whiteman,20.0,23,2,0,86.95652173913044,JM Holland,['PJ Hughes'],caught,SM Whiteman,2014-01-16,Adelaide Strikers,Perth Scorchers,0,Western Australia Cricket Association Ground
+1,SM Whiteman,17.0,18,2,0,94.44444444444444,notOut,notOut,notOut,notOut,2014-01-27,Perth Scorchers,Melbourne Stars,0,Melbourne Cricket Ground
+2,SM Whiteman,9.0,11,0,0,81.81818181818183,B Lee,['SA Abbott'],caught,SM Whiteman,2014-02-05,Perth Scorchers,Perth Scorchers,0,Sydney Cricket Ground
+6,SM Whiteman,10.0,8,1,0,125.0,KW Richardson,0,bowled,SM Whiteman,2014-12-22,Adelaide Strikers,Adelaide Strikers,0,Western Australia Cricket Association Ground
+4,SM Whiteman,14.0,20,0,0,70.0,MC Henriques,['SA Abbott'],run out,AC Voges,2014-12-29,Perth Scorchers,Perth Scorchers,0,Sydney Cricket Ground
+5,SM Whiteman,14.0,20,0,0,70.0,MA Starc,0,bowled,SM Whiteman,2014-12-29,Perth Scorchers,Perth Scorchers,0,Sydney Cricket Ground
+5,SM Whiteman,16.0,15,0,1,106.66666666666667,NM Hauritz,['CD Hartley'],stumped,SM Whiteman,2015-01-01,Sydney Thunder,Sydney Thunder,0,Western Australia Cricket Association Ground
+5,SM Whiteman,2.0,3,0,0,66.66666666666666,B Laughlin,0,bowled,SM Whiteman,2015-01-06,Perth Scorchers,Perth Scorchers,0,Adelaide Oval
+4,SM Whiteman,36.0,32,2,1,112.5,JK Reed,['TD Paine'],caught,SM Whiteman,2015-01-11,Perth Scorchers,Perth Scorchers,0,Bellerive Oval
+5,SM Whiteman,18.0,13,1,1,138.46153846153845,CJ McKay,['PSP Handscomb'],caught,SM Whiteman,2015-01-25,Melbourne Stars,Perth Scorchers,0,Western Australia Cricket Association Ground
+6,SM Whiteman,0.0,1,0,0,0.0,B Lee,0,bowled,SM Whiteman,2015-01-28,Sydney Sixers,Perth Scorchers,0,Manuka Oval
+1,SM Whiteman,22.0,17,4,0,129.41176470588235,KW Richardson,"[""LN O'Connor""]",caught,SM Whiteman,2016-12-23,Adelaide Strikers,Perth Scorchers,0,Western Australia Cricket Association Ground
+3,SM Whiteman,28.0,16,3,1,175.0,SA Abbott,['J Botha'],caught,SM Whiteman,2016-12-27,Perth Scorchers,Sydney Sixers,0,Sydney Cricket Ground
+6,SM Whiteman,6.0,4,1,0,150.0,notOut,notOut,notOut,notOut,2017-01-01,Sydney Thunder,Perth Scorchers,0,Western Australia Cricket Association Ground
+5,SM Whiteman,5.0,9,0,0,55.55555555555556,ND Buchanan,0,caught and bowled,SM Whiteman,2017-01-05,Brisbane Heat,Brisbane Heat,0,Western Australia Cricket Association Ground
+2,SM Whiteman,12.0,15,0,0,80.0,JD Wildermuth,['SD Heazlett'],caught,SM Whiteman,2017-01-11,Perth Scorchers,Perth Scorchers,0,"Brisbane Cricket Ground, Woolloongabba"
+0,SM Whiteman,9.0,7,2,0,128.57142857142858,CA Rose,0,caught and bowled,SM Whiteman,2017-01-21,Perth Scorchers,Perth Scorchers,0,Bellerive Oval
+0,SM Whiteman,31.0,26,2,1,119.23076923076923,MP Stoinis,['EP Gulbis'],caught,SM Whiteman,2017-01-24,Melbourne Stars,Perth Scorchers,0,Western Australia Cricket Association Ground
+0,SM Whiteman,41.0,21,5,3,195.23809523809524,NM Lyon,['BJ Haddin'],stumped,SM Whiteman,2017-01-28,Sydney Sixers,Perth Scorchers,0,Western Australia Cricket Association Ground
+6,TIF Triffitt,0.0,1,0,0,0.0,Saeed Ajmal,['TP Doropoulos'],caught,TIF Triffitt,2012-12-09,Adelaide Strikers,Adelaide Strikers,0,Western Australia Cricket Association Ground
+6,TIF Triffitt,4.0,10,0,0,40.0,SL Malinga,0,lbw,TIF Triffitt,2012-12-12,Melbourne Stars,Melbourne Stars,0,Western Australia Cricket Association Ground
+4,TIF Triffitt,2.0,1,0,0,200.0,notOut,notOut,notOut,notOut,2012-12-29,Melbourne Renegades,Perth Scorchers,0,Western Australia Cricket Association Ground
+4,TIF Triffitt,0.0,1,0,0,0.0,KW Richardson,0,bowled,TIF Triffitt,2013-01-10,Perth Scorchers,Perth Scorchers,0,Adelaide Oval
+5,TJ Armstrong,11.0,15,1,0,73.33333333333333,AL Fekete,0,lbw,TJ Armstrong,2013-12-26,Melbourne Renegades,Perth Scorchers,0,Western Australia Cricket Association Ground
+8,TT Bresnan,20.0,16,1,1,125.0,notOut,notOut,notOut,notOut,2017-01-14,Melbourne Stars,Melbourne Stars,0,Western Australia Cricket Association Ground
+6,Yasir Arafat,2.0,2,0,0,100.0,AL Fekete,['NJ Rimmington'],caught,Yasir Arafat,2013-12-26,Melbourne Renegades,Perth Scorchers,0,Western Australia Cricket Association Ground
+9,Yasir Arafat,10.0,7,1,0,142.85714285714286,notOut,notOut,notOut,notOut,2014-12-29,Perth Scorchers,Perth Scorchers,0,Sydney Cricket Ground
+7,Yasir Arafat,18.0,12,3,0,150.0,notOut,notOut,notOut,notOut,2015-01-06,Perth Scorchers,Perth Scorchers,0,Adelaide Oval
+8,Yasir Arafat,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2015-01-11,Perth Scorchers,Perth Scorchers,0,Bellerive Oval
+7,Yasir Arafat,3.0,4,0,0,75.0,notOut,notOut,notOut,notOut,2015-01-25,Melbourne Stars,Perth Scorchers,0,Western Australia Cricket Association Ground
+7,Yasir Arafat,1.0,1,0,0,100.0,notOut,notOut,notOut,notOut,2015-01-28,Sydney Sixers,Perth Scorchers,0,Manuka Oval

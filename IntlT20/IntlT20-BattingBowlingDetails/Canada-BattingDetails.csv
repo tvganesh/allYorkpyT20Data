@@ -1,0 +1,98 @@
+,batsman,runs,balls,4s,6s,SR,bowler,fielders,kind,player_out,date,team2,winner,result,venue
+4,A Bagai,14,18,0,0,77.77777777777779,PM Seelaar,0,bowled,A Bagai,2010-02-09,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+4,A Bagai,36,36,2,0,100.0,LN Onyango,['MA Ouma'],caught,A Bagai,2010-02-10,Kenya,Kenya,0,Dubai International Cricket Stadium
+2,A Bagai,67,56,7,0,119.64285714285714,notOut,notOut,notOut,notOut,2013-11-16,Ireland,Ireland,0,Sheikh Zayed Stadium
+3,A Bagai,48,47,5,0,102.12765957446808,CO Obuya,['CO Obuya'],run out,AS Dean,2013-11-26,Kenya,Kenya,0,Sharjah Cricket Stadium
+4,A Bagai,48,47,5,0,102.12765957446808,DI Allan,['DM Gondaria'],run out,A Bagai,2013-11-26,Kenya,Kenya,0,Sharjah Cricket Stadium
+10,AS Dean,1,1,0,0,100.0,notOut,notOut,notOut,notOut,2013-11-26,Kenya,Kenya,0,Sharjah Cricket Stadium
+5,AS Hansra,30,32,1,2,93.75,Ahsan Malik,['PW Borren'],caught,AS Hansra,2012-03-13,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+4,AS Hansra,6,12,0,0,50.0,Samiullah Shenwari,0,lbw,AS Hansra,2012-03-18,Canada,Afghanistan,0,ICC Global Cricket Academy
+3,AS Hansra,1,4,0,0,25.0,GH Dockrell,0,bowled,AS Hansra,2012-03-22,Ireland,Ireland,0,Dubai International Cricket Stadium
+5,AS Hansra,8,9,1,0,88.88888888888889,MM Iqbal,0,bowled,AS Hansra,2012-03-23,Scotland,Scotland,0,Dubai International Cricket Stadium
+5,AS Hansra,12,11,2,0,109.09090909090908,notOut,notOut,notOut,notOut,2013-03-15,Kenya,Canada,0,ICC Global Cricket Academy
+6,AS Hansra,1,2,0,0,50.0,CO Obuya,0,lbw,AS Hansra,2013-03-16,Kenya,Kenya,0,ICC Global Cricket Academy
+4,AS Hansra,22,12,0,1,183.33333333333331,notOut,notOut,notOut,notOut,2013-11-16,Ireland,Ireland,0,Sheikh Zayed Stadium
+5,AS Hansra,2,4,0,0,50.0,SO Tikolo,['CO Obuya'],caught,AS Hansra,2013-11-26,Kenya,Kenya,0,Sharjah Cricket Stadium
+3,GEF Barnett,36,20,6,0,180.0,PM Seelaar,['TN de Grooth'],caught,GEF Barnett,2010-02-09,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+3,GEF Barnett,30,29,3,0,103.44827586206897,SO Tikolo,['NN Odhiambo'],caught,GEF Barnett,2010-02-10,Kenya,Kenya,0,Dubai International Cricket Stadium
+9,H Osinde,2,5,0,0,40.0,Ahsan Malik,['TLW Cooper'],caught,H Osinde,2012-03-13,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+9,H Osinde,17,12,0,2,141.66666666666669,Izatullah Dawlatzai,0,bowled,H Osinde,2012-03-18,Canada,Afghanistan,0,ICC Global Cricket Academy
+9,H Osinde,5,4,1,0,125.0,notOut,notOut,notOut,notOut,2012-03-22,Ireland,Ireland,0,Dubai International Cricket Stadium
+9,H Osinde,4,6,0,0,66.66666666666666,E Otieno,['RG Aga'],caught,H Osinde,2013-03-16,Kenya,Kenya,0,ICC Global Cricket Academy
+2,H Patel,25,25,1,0,100.0,DLS van Bunge,0,caught and bowled,H Patel,2010-02-09,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+2,H Patel,4,13,0,0,30.76923076923077,JK Kamande,['SO Tikolo'],caught,H Patel,2010-02-10,Kenya,Kenya,0,Dubai International Cricket Stadium
+0,H Patel,11,17,0,0,64.70588235294117,PW Borren,0,bowled,H Patel,2012-03-13,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+0,H Patel,1,8,0,0,12.5,Karim Sadiq,0,bowled,H Patel,2012-03-18,Canada,Afghanistan,0,ICC Global Cricket Academy
+1,H Patel,0,3,0,0,0.0,DT Johnston,['PR Stirling'],caught,H Patel,2012-03-22,Ireland,Ireland,0,Dubai International Cricket Stadium
+2,H Patel,16,19,0,0,84.21052631578947,RD Berrington,['DF Watts'],caught,H Patel,2012-03-23,Scotland,Scotland,0,Dubai International Cricket Stadium
+0,H Patel,40,45,5,0,88.88888888888889,RG Aga,0,bowled,H Patel,2013-03-15,Kenya,Canada,0,ICC Global Cricket Academy
+1,H Patel,24,24,2,0,100.0,CO Obuya,['IA Karim'],caught,H Patel,2013-03-16,Kenya,Kenya,0,ICC Global Cricket Academy
+0,H Patel,0,1,0,0,0.0,MC Sorensen,0,lbw,H Patel,2013-11-16,Ireland,Ireland,0,Sheikh Zayed Stadium
+9,HS Baidwan,4,2,0,0,200.0,notOut,notOut,notOut,notOut,2010-02-09,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+6,HS Baidwan,21,14,2,0,150.0,PM Seelaar,0,bowled,HS Baidwan,2012-03-13,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+7,HS Baidwan,0,1,0,0,0.0,Samiullah Shenwari,['Izatullah Dawlatzai'],caught,HS Baidwan,2012-03-18,Canada,Afghanistan,0,ICC Global Cricket Academy
+6,HS Baidwan,6,9,0,0,66.66666666666666,MC Sorensen,0,bowled,HS Baidwan,2012-03-22,Ireland,Ireland,0,Dubai International Cricket Stadium
+6,HS Baidwan,21,16,2,1,131.25,RM Haq,['MM Iqbal'],caught,HS Baidwan,2012-03-23,Scotland,Scotland,0,Dubai International Cricket Stadium
+9,HS Baidwan,0,2,0,0,0.0,SO Tikolo,['CO Obuya'],caught,HS Baidwan,2013-11-26,Kenya,Kenya,0,Sharjah Cricket Stadium
+8,Hamza Tariq,4,7,0,0,57.14285714285714,HA Varaiya,0,bowled,Hamza Tariq,2013-03-16,Kenya,Kenya,0,ICC Global Cricket Academy
+7,Hamza Tariq,22,16,0,2,137.5,DI Allan,['RR Patel'],caught,Hamza Tariq,2013-11-26,Kenya,Kenya,0,Sharjah Cricket Stadium
+5,IS Billcliff,37,30,3,1,123.33333333333334,RN ten Doeschate,0,bowled,IS Billcliff,2010-02-09,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+5,IS Billcliff,14,9,0,1,155.55555555555557,notOut,notOut,notOut,notOut,2010-02-10,Kenya,Kenya,0,Dubai International Cricket Stadium
+1,JM Davison,0,3,0,0,0.0,E Schiferli,['TN de Grooth'],caught,JM Davison,2010-02-09,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+1,JM Davison,0,1,0,0,0.0,HA Varaiya,0,bowled,JM Davison,2010-02-10,Kenya,Kenya,0,Dubai International Cricket Stadium
+11,JOA Gordon,2,4,0,0,50.0,notOut,notOut,notOut,notOut,2013-11-26,Kenya,Kenya,0,Sharjah Cricket Stadium
+8,Junaid Siddiqui,1,3,0,0,33.33333333333333,PM Seelaar,0,lbw,Junaid Siddiqui,2012-03-13,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+2,Junaid Siddiqui,21,13,2,1,161.53846153846155,Samiullah Shenwari,0,bowled,Junaid Siddiqui,2012-03-18,Canada,Afghanistan,0,ICC Global Cricket Academy
+8,Junaid Siddiqui,7,8,0,0,87.5,notOut,notOut,notOut,notOut,2012-03-22,Ireland,Ireland,0,Dubai International Cricket Stadium
+7,Junaid Siddiqui,13,9,0,1,144.44444444444443,notOut,notOut,notOut,notOut,2012-03-23,Scotland,Scotland,0,Dubai International Cricket Stadium
+8,Junaid Siddiqui,5,8,0,0,62.5,SO Tikolo,['SO Ngoche'],caught,Junaid Siddiqui,2013-11-26,Kenya,Kenya,0,Sharjah Cricket Stadium
+8,Khurram Chohan,7,7,1,0,100.0,Mudassar Bukhari,['AF Buurman'],run out,U Bhatti,2010-02-09,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+9,Khurram Chohan,3,3,0,0,100.0,NN Odhiambo,['RR Patel'],caught,Khurram Chohan,2010-02-10,Kenya,Kenya,0,Dubai International Cricket Stadium
+10,MS Aulakh,0,2,0,0,0.0,E Otieno,0,bowled,MS Aulakh,2013-03-16,Kenya,Kenya,0,ICC Global Cricket Academy
+4,NR Kumar,1,4,0,0,25.0,PW Borren,['SJ Myburgh'],run out,NR Kumar,2012-03-13,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+3,NR Kumar,38,38,3,0,100.0,Dawlat Zadran,['Karim Sadiq'],caught,NR Kumar,2012-03-18,Canada,Afghanistan,0,ICC Global Cricket Academy
+2,NR Kumar,17,15,3,0,113.33333333333333,DT Johnston,['GC Wilson'],caught,NR Kumar,2012-03-22,Ireland,Ireland,0,Dubai International Cricket Stadium
+3,NR Kumar,17,22,1,1,77.27272727272727,JH Stander,0,lbw,NR Kumar,2012-03-23,Scotland,Scotland,0,Dubai International Cricket Stadium
+3,NR Kumar,19,12,3,0,158.33333333333331,SO Ngoche,0,bowled,NR Kumar,2013-03-15,Kenya,Canada,0,ICC Global Cricket Academy
+4,NR Kumar,5,10,0,0,50.0,E Otieno,['HA Varaiya'],caught,NR Kumar,2013-03-16,Kenya,Kenya,0,ICC Global Cricket Academy
+9,PA Desai,4,7,0,0,57.14285714285714,notOut,notOut,notOut,notOut,2012-03-23,Scotland,Scotland,0,Dubai International Cricket Stadium
+1,R Gunasekera,9,13,1,0,69.23076923076923,T van der Gugten,0,bowled,R Gunasekera,2012-03-13,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+1,R Gunasekera,11,7,1,1,157.14285714285714,Dawlat Zadran,['Mohammad Nabi'],caught,R Gunasekera,2012-03-18,Canada,Afghanistan,0,ICC Global Cricket Academy
+0,R Gunasekera,26,34,2,0,76.47058823529412,GH Dockrell,['PR Stirling'],caught,R Gunasekera,2012-03-22,Ireland,Ireland,0,Dubai International Cricket Stadium
+0,R Gunasekera,20,28,2,1,71.42857142857143,JH Stander,['RM Haq'],caught,R Gunasekera,2012-03-23,Scotland,Scotland,0,Dubai International Cricket Stadium
+2,R Gunasekera,18,17,3,0,105.88235294117648,HA Varaiya,0,caught and bowled,R Gunasekera,2013-03-15,Kenya,Canada,0,ICC Global Cricket Academy
+2,R Gunasekera,38,37,5,0,102.7027027027027,HA Varaiya,['HA Varaiya'],run out,Raza-ur-Rehman,2013-03-16,Kenya,Kenya,0,ICC Global Cricket Academy
+3,R Gunasekera,38,37,5,0,102.7027027027027,CO Obuya,0,bowled,R Gunasekera,2013-03-16,Kenya,Kenya,0,ICC Global Cricket Academy
+3,R Gunasekera,65,53,7,1,122.64150943396226,AR Cusack,"[""NJ O'Brien""]",caught,R Gunasekera,2013-11-16,Ireland,Ireland,0,Sheikh Zayed Stadium
+0,R Gunasekera,15,7,2,1,214.28571428571428,RG Aga,['SO Ngoche'],caught,R Gunasekera,2013-11-26,Kenya,Kenya,0,Sharjah Cricket Stadium
+7,RA Bhatti,6,7,0,0,85.71428571428571,PM Seelaar,0,caught and bowled,RA Bhatti,2012-03-13,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+8,RA Bhatti,11,25,0,0,44.0,notOut,notOut,notOut,notOut,2012-03-18,Canada,Afghanistan,0,ICC Global Cricket Academy
+7,RA Bhatti,8,7,1,0,114.28571428571428,MC Sorensen,['GC Wilson'],caught,RA Bhatti,2012-03-22,Ireland,Ireland,0,Dubai International Cricket Stadium
+8,RA Bhatti,0,1,0,0,0.0,RM Haq,0,lbw,RA Bhatti,2012-03-23,Scotland,Scotland,0,Dubai International Cricket Stadium
+2,Raza-ur-Rehman,1,4,0,0,25.0,Mudassar Bukhari,0,bowled,Raza-ur-Rehman,2012-03-13,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+4,Raza-ur-Rehman,9,13,1,0,69.23076923076923,HA Varaiya,['MA Ouma'],caught,Raza-ur-Rehman,2013-03-15,Kenya,Canada,0,ICC Global Cricket Academy
+5,Raza-ur-Rehman,5,6,0,0,83.33333333333334,notOut,notOut,notOut,notOut,2013-03-16,Kenya,Kenya,0,ICC Global Cricket Academy
+6,Raza-ur-Rehman,10,6,2,0,166.66666666666669,CO Obuya,['IA Karim'],caught,Raza-ur-Rehman,2013-11-26,Kenya,Kenya,0,Sharjah Cricket Stadium
+0,Rizwan Cheema,3,4,0,0,75.0,Mudassar Bukhari,0,retired hurt,Rizwan Cheema,2010-02-09,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+0,Rizwan Cheema,32,22,2,3,145.45454545454547,JK Kamande,['MA Ouma'],caught,Rizwan Cheema,2010-02-10,Kenya,Kenya,0,Dubai International Cricket Stadium
+3,Rizwan Cheema,0,2,0,0,0.0,Mudassar Bukhari,0,lbw,Rizwan Cheema,2012-03-13,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+5,Rizwan Cheema,1,4,0,0,25.0,Zamir Khan,['Mohammad Nabi'],caught,Rizwan Cheema,2012-03-18,Canada,Afghanistan,0,ICC Global Cricket Academy
+4,Rizwan Cheema,5,12,0,0,41.66666666666667,MC Sorensen,['GH Dockrell'],caught,Rizwan Cheema,2012-03-22,Ireland,Ireland,0,Dubai International Cricket Stadium
+1,Rizwan Cheema,8,9,0,1,88.88888888888889,RD Berrington,['PL Mommsen'],caught,Rizwan Cheema,2012-03-23,Scotland,Scotland,0,Dubai International Cricket Stadium
+1,Rizwan Cheema,5,8,1,0,62.5,SO Ngoche,0,bowled,Rizwan Cheema,2013-03-15,Kenya,Canada,0,ICC Global Cricket Academy
+0,Rizwan Cheema,9,8,2,0,112.5,SO Ngoche,['CO Obuya'],caught,Rizwan Cheema,2013-03-16,Kenya,Kenya,0,ICC Global Cricket Academy
+1,Rizwan Cheema,0,1,0,0,0.0,MC Sorensen,['GC Wilson'],caught,Rizwan Cheema,2013-11-16,Ireland,Ireland,0,Sheikh Zayed Stadium
+1,Rizwan Cheema,0,3,0,0,0.0,RG Aga,0,bowled,Rizwan Cheema,2013-11-26,Kenya,Kenya,0,Sharjah Cricket Stadium
+6,S Dhaniram,4,6,0,0,66.66666666666666,Mudassar Bukhari,['ES Szwarczynski'],caught,S Dhaniram,2010-02-09,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+8,S Dhaniram,1,2,0,0,50.0,NN Odhiambo,['RR Patel'],caught,S Dhaniram,2010-02-10,Kenya,Kenya,0,Dubai International Cricket Stadium
+6,TG Gordon,4,3,0,0,133.33333333333331,Samiullah Shenwari,0,lbw,TG Gordon,2012-03-18,Canada,Afghanistan,0,ICC Global Cricket Academy
+5,TG Gordon,23,26,3,0,88.46153846153845,GH Dockrell,"[""KJ O'Brien""]",caught,TG Gordon,2012-03-22,Ireland,Ireland,0,Dubai International Cricket Stadium
+4,TG Gordon,5,8,0,0,62.5,MM Iqbal,['KJ Coetzer'],caught,TG Gordon,2012-03-23,Scotland,Scotland,0,Dubai International Cricket Stadium
+7,U Bhatti,7,7,0,0,100.0,notOut,notOut,notOut,notOut,2010-02-09,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+6,U Bhatti,12,7,1,0,171.42857142857142,AO Suji,"['AA Obanda', 'AO Suji']",run out,IS Billcliff,2010-02-10,Kenya,Kenya,0,Dubai International Cricket Stadium
+7,U Bhatti,12,7,1,0,171.42857142857142,NN Odhiambo,0,bowled,U Bhatti,2010-02-10,Kenya,Kenya,0,Dubai International Cricket Stadium
+6,Usman Limbada,16,10,2,0,160.0,notOut,notOut,notOut,notOut,2013-03-15,Kenya,Canada,0,ICC Global Cricket Academy
+7,Usman Limbada,21,12,3,0,175.0,NN Odhiambo,['T Mishra'],run out,Junaid Siddiqui,2013-03-16,Kenya,Kenya,0,ICC Global Cricket Academy
+2,Usman Limbada,16,21,1,0,76.19047619047619,SO Ngoche,['SO Ngoche'],run out,Usman Limbada,2013-11-26,Kenya,Kenya,0,Sharjah Cricket Stadium
+10,Zahid Hussain,1,1,0,0,100.0,notOut,notOut,notOut,notOut,2012-03-13,Netherlands,Netherlands,0,Dubai International Cricket Stadium
+10,Zahid Hussain,2,7,0,0,28.57142857142857,notOut,notOut,notOut,notOut,2012-03-18,Canada,Afghanistan,0,ICC Global Cricket Academy
